@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  green_sunfish:
+    enabled: true
+    display_name: display-name-green_sunfish
+    permission: iasurvival.fishes.green_sunfish
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/fishes/green_sunfish
+    events:
+      eat:
+        feed:
+          amount: 2
+          saturation: 0.2

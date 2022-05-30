@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    ruby_pickaxe:
+      permission: iasurvival.ruby_pickaxe
+      enabled: true
+      pattern:
+        - RRR
+        - XSX
+        - XSX
+      ingredients:
+        R: iasurvival:ruby
+        S: STICK
+      result:
+        item: iasurvival:ruby_pickaxe
+        amount: 1

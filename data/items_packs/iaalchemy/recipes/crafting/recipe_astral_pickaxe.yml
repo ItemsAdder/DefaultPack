@@ -1,0 +1,18 @@
+info:
+  namespace: iaalchemy
+recipes:
+  crafting_table:
+    astral_pickaxe:
+      permission: iaalchemy.astral_pickaxe
+      enabled: true
+      pattern:
+        - cec
+        - XrX
+        - XrX
+      ingredients:
+        c: iasurvival:ruby
+        e: EMERALD
+        r: BLAZE_ROD
+      result:
+        item: iaalchemy:astral_pickaxe
+        amount: 1

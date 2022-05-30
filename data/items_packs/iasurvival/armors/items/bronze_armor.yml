@@ -1,0 +1,79 @@
+info:
+  namespace: iasurvival
+items:
+  bronze_helmet:
+    enabled: true
+    display_name: display-name-bronze_helmet
+    permission: iasurvival.items.bronze_armor.bronze_helmet
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 185
+    specific_properties:
+      armor:
+        slot: head
+        color: d36823
+    attribute_modifiers:
+      head:
+        armor: 2
+        armorToughness: 1
+        movementSpeed:
+          value: -0.03
+          operation: multiply_base
+  bronze_chestplate:
+    enabled: true
+    display_name: display-name-bronze_chestplate
+    permission: iasurvival.items.bronze_armor.bronze_chestplate
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 255
+    specific_properties:
+      armor:
+        slot: chest
+        color: d36823
+    attribute_modifiers:
+      chest:
+        armor: 6
+        armorToughness: 1
+        movementSpeed:
+          value: -0.03
+          operation: multiply_base
+  bronze_leggings:
+    enabled: true
+    display_name: display-name-bronze_leggings
+    permission: iasurvival.items.bronze_armor.bronze_leggings
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 235
+    specific_properties:
+      armor:
+        slot: legs
+        color: d36823
+    attribute_modifiers:
+      legs:
+        armor: 5
+        armorToughness: 1
+        movementSpeed:
+          value: -0.03
+          operation: multiply_base
+  bronze_boots:
+    enabled: true
+    display_name: display-name-bronze_boots
+    permission: iasurvival.items.bronze_armor.bronze_boots
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 215
+    specific_properties:
+      armor:
+        slot: FEET
+        color: d36823
+    attribute_modifiers:
+      feet:
+        armor: 2
+        armorToughness: 1
+        movementSpeed:
+          value: -0.03
+          operation: multiply_base

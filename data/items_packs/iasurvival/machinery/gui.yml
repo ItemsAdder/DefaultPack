@@ -1,0 +1,13 @@
+info:
+  namespace: iasurvival
+font_images:
+  customization_table_left:
+    suggest_in_command: false
+    show_in_gui: false
+    path: gui/customization_table_left
+    y_position: 12
+  customization_table_right:
+    suggest_in_command: false
+    show_in_gui: false
+    path: gui/customization_table_right
+    y_position: 12

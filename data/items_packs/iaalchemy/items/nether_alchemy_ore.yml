@@ -1,0 +1,27 @@
+info:
+  namespace: iaalchemy
+items:
+  nether_alchemy_ore:
+    enabled: true
+    display_name: display-name-nether_alchemy_ore
+    permission: iaalchemy.items.nether_alchemy_ore
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - block/nether_alchemy_ore
+    specific_properties:
+      block:
+        hardness: 6
+        placed_model:
+          type: REAL_NOTE
+          break_particles_material: NETHERRACK
+        cancel_drop: true
+        break_tools_blacklist:
+          - HAND
+          - WOODEN_PICKAXE
+          - STONE_PICKAXE
+          - IRON_PICKAXE
+        break_tools_whitelist:
+          - PICKAXE
+          - pickaxe

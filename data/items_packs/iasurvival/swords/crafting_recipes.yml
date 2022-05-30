@@ -1,0 +1,108 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    emerald_sword:
+      permission: iasurvival.swords.crafting_recipes.emerald_sword
+      enabled: true
+      pattern:
+        - XeX
+        - XeX
+        - XsX
+      ingredients:
+        e: EMERALD_BLOCK
+        s: STICK
+      result:
+        item: iasurvival:emerald_sword
+        amount: 1
+    firesword_sword:
+      permission: iasurvival.swords.crafting_recipes.firesword_sword
+      enabled: true
+      pattern:
+        - XdX
+        - XdX
+        - XbX
+      ingredients:
+        d: BLAZE_POWDER
+        b: BLAZE_ROD
+      result:
+        item: iasurvival:firesword_sword
+        amount: 1
+    ruby_sword:
+      permission: iasurvival.swords.crafting_recipes.ruby_sword
+      enabled: true
+      pattern:
+        - XRX
+        - XRX
+        - XSX
+      ingredients:
+        R: iasurvival:ruby
+        S: STICK
+      result:
+        item: iasurvival:ruby_sword
+        amount: 1
+    dark_amethyst_sword:
+      permission: iasurvival.swords.crafting_recipes.dark_amethyst_sword
+      enabled: true
+      pattern:
+        - XRX
+        - XRX
+        - XSX
+      ingredients:
+        R: iasurvival:dark_amethyst
+        S: STICK
+      result:
+        item: iasurvival:dark_amethyst_sword
+        amount: 1
+    ruby_dagger:
+      permission: iasurvival.swords.crafting_recipes.ruby_dagger
+      enabled: true
+      pattern:
+        - XXX
+        - XRX
+        - XSX
+      ingredients:
+        R: iasurvival:ruby
+        S: STICK
+      result:
+        item: iasurvival:ruby_dagger
+        amount: 1
+    sweets_sword:
+      permission: iasurvival.swords.crafting_recipes.sweets_sword
+      enabled: true
+      pattern:
+        - XDX
+        - XDX
+        - XSX
+      ingredients:
+        D: iasurvival:sweet
+        S: iasurvival:sweet_stick
+      result:
+        item: iasurvival:sweets_sword
+        amount: 1
+    end_sword:
+      permission: iasurvival.swords.crafting_recipes.end_sword
+      enabled: true
+      pattern:
+        - XEX
+        - XEX
+        - XSX
+      ingredients:
+        E: iasurvival:end_ingot
+        S: END_ROD
+      result:
+        item: iasurvival:end_sword
+        amount: 1
+    bronze_sword:
+      permission: iasurvival.swords.crafting_recipes.bronze_sword
+      enabled: true
+      pattern:
+        - XeX
+        - XeX
+        - XsX
+      ingredients:
+        e: iasurvival:bronze_ingot
+        s: STICK
+      result:
+        item: iasurvival:bronze_sword
+        amount: 1

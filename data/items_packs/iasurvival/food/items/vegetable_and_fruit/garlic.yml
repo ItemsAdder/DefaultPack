@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  garlic:
+    enabled: true
+    display_name: display-name-garlic
+    permission: iasurvival.vegetable_and_fruit.garlic
+    resource:
+      material: APPLE
+      generate: true
+      textures:
+        - item/food/vegetable_and_fruit/garlic
+    events:
+      eat:
+        feed:
+          amount: 2
+          saturation: 2.4

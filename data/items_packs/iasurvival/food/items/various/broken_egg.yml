@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  broken_egg:
+    enabled: true
+    display_name: display-name-broken_egg
+    permission: iasurvival.various.broken_egg
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/various/broken_egg
+    events:
+      eat:
+        feed:
+          amount: 1
+          saturation: 0.5

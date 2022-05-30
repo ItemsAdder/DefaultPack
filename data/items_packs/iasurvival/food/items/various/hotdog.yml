@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  hotdog:
+    enabled: true
+    display_name: display-name-hotdog
+    permission: iasurvival.various.hotdog
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/various/hotdog
+    events:
+      eat:
+        feed:
+          amount: 12
+          saturation: 5

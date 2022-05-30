@@ -1,0 +1,105 @@
+info:
+  namespace: iaalchemy
+items:
+  energy_extractor:
+    enabled: true
+    display_name: display-name-energy_extractor
+    permission: iaalchemy.machinery.energy_extractor
+    lore:
+      - lore-1-energy_extractor
+      - lore-2-energy_extractor
+    resource:
+      material: PAPER
+      generate: false
+      model_path: item/energy_extractor
+    behaviours:
+      furniture:
+        small: true
+        light_level: 7
+        solid: true
+      furniture_trade_machine:
+        title: Energy Extractor
+        gui_texture:
+          left: energy_extractor_left
+          right: energy_extractor_right
+        trades_list:
+          cobblestone:
+            ingredients:
+              slot1:
+                item: COBBLESTONE
+                amount: 64
+            result:
+              item: energy_orb
+              amount: 1
+          dirt:
+            ingredients:
+              slot1:
+                item: DIRT
+                amount: 64
+            result:
+              item: energy_orb
+              amount: 1
+          coal:
+            ingredients:
+              slot1:
+                item: COAL
+                amount: 32
+            result:
+              item: energy_orb
+              amount: 6
+          oak_planks:
+            ingredients:
+              slot1:
+                item: OAK_PLANKS
+                amount: 64
+            result:
+              item: energy_orb
+              amount: 2
+          OAK_PLANKS:
+            ingredients:
+              slot1:
+                item: OAK_PLANKS
+                amount: 64
+            result:
+              item: energy_orb
+              amount: 2
+          birch_planks:
+            ingredients:
+              slot1:
+                item: BIRCH_PLANKS
+                amount: 64
+            result:
+              item: energy_orb
+              amount: 2
+          redstone:
+            ingredients:
+              slot1:
+                item: REDSTONE
+                amount: 64
+            result:
+              item: energy_orb
+              amount: 1
+          iron_ingot:
+            ingredients:
+              slot1:
+                item: IRON_INGOT
+                amount: 2
+            result:
+              item: energy_orb
+              amount: 4
+          diamond:
+            ingredients:
+              slot1:
+                item: DIAMOND
+                amount: 1
+            result:
+              item: energy_capsule
+              amount: 3
+          bronze_ingot:
+            ingredients:
+              slot1:
+                item: bronze_ingot
+                amount: 16
+            result:
+              item: energy_capsule
+              amount: 1

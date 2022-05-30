@@ -1,0 +1,13 @@
+info:
+  namespace: iafestivities
+items:
+  spider_backpack:
+    enabled: true
+    display_name: display-name-spider_backpack
+    permission: iafestivities.halloween.spider_backpack
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: halloween/spider_backpack
+    behaviours:
+      hat: true

@@ -1,0 +1,28 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    end_crystals:
+      permission: iasurvival.end_crystals
+      enabled: true
+      pattern:
+        - XXX
+        - XXX
+        - EEE
+      ingredients:
+        E: iasurvival:end_shard
+      result:
+        item: iasurvival:end_crystals
+        amount: 1
+    coal_nugget:
+      enabled: true
+      permission: iasurvival.end_crystals.coal_nugget
+      pattern:
+        - EEE
+        - EEE
+        - EEE
+      ingredients:
+        E: iasurvival:coal_nugget
+      result:
+        item: COAL
+        amount: 1

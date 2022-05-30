@@ -1,0 +1,69 @@
+info:
+  namespace: iasurvival
+items:
+  jar:
+    enabled: true
+    display_name: display-name-jar
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/food/various/jar
+    permission: iasurvival.various.jam_jars.jar
+  sweet_berries_jam_jar:
+    enabled: true
+    display_name: display-name-sweet_berries_jam_jar
+    permission: iasurvival.various.jam_jars.sweet_berries_jam_jar
+    resource:
+      material: IRON_SWORD
+      generate: true
+      textures:
+        - item/food/various/sweet_berries_jam_jar
+    durability:
+      max_custom_durability: 8
+      custom_durability: 8
+      disappear_when_broken: false
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 0.1
+        attackSpeed: 2
+    item_flags:
+      - HIDE_ATTRIBUTES
+  pear_jam_jar:
+    enabled: true
+    display_name: display-name-pear_jam_jar
+    permission: iasurvival.various.jam_jars.pear_jam_jar
+    resource:
+      material: IRON_SWORD
+      generate: true
+      textures:
+        - item/food/various/pear_jam_jar
+    durability:
+      max_custom_durability: 8
+      custom_durability: 8
+      disappear_when_broken: false
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 0.1
+        attackSpeed: 2
+    item_flags:
+      - HIDE_ATTRIBUTES
+  apple_jam_jar:
+    enabled: true
+    display_name: display-name-apple_jam_jar
+    permission: iasurvival.various.jam_jars.apple_jam_jar
+    resource:
+      material: IRON_SWORD
+      generate: true
+      textures:
+        - item/food/various/apple_jam_jar
+    durability:
+      max_custom_durability: 8
+      custom_durability: 8
+      disappear_when_broken: false
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 0.1
+        attackSpeed: 2
+    item_flags:
+      - HIDE_ATTRIBUTES

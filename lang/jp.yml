@@ -1,0 +1,105 @@
+attribute-armor: '&9+{value} 防具'
+attribute-toughness: '&9+{value} 防具強度'
+attribute-attack-damage: '&2{value} 攻撃力'
+attribute-attack-speed: '&2{value} 攻撃速度'
+attribute-when-on-body: '&7頭に装備したとき:'
+attribute-when-on-feet: '&7胴体に装備したとき:'
+attribute-when-on-head: '&7脚に装備したとき:'
+attribute-when-on-legs: '&7足に装備したとき:'
+cannot-break-with-this-tool: '&cこのツールで壊すことはできません'
+cannot-repair: '&cこのアイテムは修理できません'
+repaired-successfully: '&aアイテムが正常に修復されました！'
+cannot-set-durability: '&c耐久度を設定できません！'
+set-durability-successfully: '&a耐久度が正常に設定されました！'
+crafting-no-recipe: '&eこのアイテムを作成できるレシピはありません'
+given-item: '&aアイテム &e{item}&a を &e{player} &aに渡しました'
+item-not-found: '&cアイテム &3{item} &cは存在しません'
+items-count: '&bアイテム数: &a{count}'
+lore-usages: '&7用途: {value}'
+lore-durability: '&7耐久度: {value} / {max}'
+model-id: '&bモデル ID: {value}'
+name-config: '&b構成の名前: '
+no-craft-permission: '&eこのアイテムを作成する権限がありません！'
+no-permission: '&cこのコマンドを使用する権限がありません！'
+no-permission-detail: '&c権限がありません &e{permission}'
+no-permission-short: '&c権限がありません！'
+now-playing: '&f再生中: {value}'
+obtained-item: '&a入手アイテム &e{item}'
+dropped-item-coords: "&aDropped &e{item} &aat coords {coords}"
+dropped-item-player: "&aDropped &e{item} &aat player {player}"
+player-full-inventory: '&cプレイヤーのインベントリがいっぱいです！'
+player-offline: '&eこのプレーヤーはオフラインです'
+prefix: '[ItemsAdder] '
+resourcepack-error: '&4リソースパックを有効にするときにエラーが発生しました。
+  管理者に連絡するか、リソースパックを無効にしてください。'
+resourcepack-kick-declined: '&4リソースパックを受け入れる必要があります！
+  また、サーバーのプロパティでそれらを ''毎回確認'' または ''有効'' に設定してください。'
+resourcepack-popup-message: "&6Welcome &b{player}, &6please accept the resourcepack to enjoy all the amazing features of our server.\n
+&aYou need to download it only once."
+wrong-command-usage: '&cコマンドの使い方が間違っています'
+emoji-gui-title: '&3&l絵文字リスト'
+map-death-location: '死亡した場所を記した地図'
+fuel-indicator: '&b&l燃料: {value}/{max}'
+get-from-trade-machine: '&f貿易機械から入手しました'
+ore-info: '&f鉱石の生成情報'
+worlds: '&bワールド名:'
+info: '&b情報:'
+chance: '&f   確率: &7{value}%'
+amount: '&f   量: &7{value}'
+min-height: '&f   最小の高さ: &7{value}'
+max-height: '&f   最高の高さ: &7{value}'
+biome: "&f   バイオーム:"
+drops-itself: '&e   Drops Itself'
+fuel-item: '    &b{type} &7+{amount}'
+iarecipe-wrong-usage: '&cコマンドの使い方が間違っています。
+  正しい使い方: &e/iarecipe <アイテム名>&c、&aまたはアイテムを手に持って使用してください。'
+iarecipe-no-custom-item: '&cこれはカスタムアイテムではありません！
+  カスタムアイテムを手に持つか、&a次のコマンドを使用してください: &e/iarecipe <アイテム名>'
+anvil-repair-info: '&f金床での修理素材'
+ia-title-menu-categories: '&3&lカテゴリー'
+ia-title-recipe-view: '&3&lクラフティングレビュー'
+ia-button-search: '&f探す...'
+ia-button-back: '&f戻る'
+ia-button-next-page: '&f次のページ->'
+ia-button-previous-page: '&f<-前のページ'
+ia-button-next-recipe: '&f次のレシピ'
+ia-button-previous-recipe: '&f前のレシピ'
+ia-search-results: '検索結果'
+ia-smeling: '&f製錬'
+ia-smelting: '&fアイテムを編集'
+ia-button-get-item: '&fアイテムを入手する'
+ia-vanilla-type: '&fバニラタイプ'
+ia-model-id: '&fモデル ID'
+ia-title-crafting-view: '&fメインメニュー'
+player-stat-value-read: '&e値: &b{value}'
+player-stat-value-write: '&e値が変更されました！'
+ia-button-loot-blocks: '&fブロックからのドロップ'
+ia-button-loot-mobs: '&fモブからのドロップ'
+ia-button-loot-fishing: '&f釣りからのドロップ'
+ia-button-vehicle-fuel-items: '&e燃料アイテム'
+nbt-rule: '&f   {rule}: &7{value}'
+resourcepack-not-ready: '&6リソースパックの準備ができていません。数秒で自動的に適用されます...'
+attribute-when-in-main-hand: '&7利き手に持った時:'
+attribute-when-in-off-hand: "&7When in Off Hand:"
+ia-button-worlds-populators: '&f鉱石の生成情報'
+ia-button-seed-result: '&f種から'
+tripwires-disabled: "&cTripwires are disabled on this server."
+font-image-chat-hover: "&fEmoji: {font_image}
+\nUsage: &7{placeholder}
+\n\n&eHINT:
+\n&7You can use the &e/e &7command to send public
+\nmessages/commands with emojis easier.
+\nWrite the emoji name and press &eTAB.
+\n
+\nExamples:
+\n&e/e Hello smile
+\n&7prints &fHello :smile:
+\n
+\n&e/e /tell Notch Hello smile
+\n&7sends the command &f/tell Notch Hello :smile:"
+ia-button-surface-decorators: "&fSpawn info"
+ia-button-trees-populators: "&fSpawn info"
+please-wait-command-cooldown: '&cPlease wait &6{interval} &cto use this command.'
+renamed-successfully: '&aItem renamed successfully!'
+cannot-rename: '&cThis item cannot be renamed'
+entity-not-found: '&cCan''t find custom entity &6{entity}'

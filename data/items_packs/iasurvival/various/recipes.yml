@@ -1,0 +1,82 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    letter:
+      permission: iasurvival.various.letter
+      enabled: true
+      pattern:
+        - XXX
+        - XRP
+        - XPP
+      ingredients:
+        P: PAPER
+        R: RED_DYE
+      result:
+        item: iasurvival:letter
+        amount: 1
+    EGGS:
+      permission: iasurvival.various.EGGS
+      enabled: true
+      pattern:
+        - XXX
+        - XNX
+        - XXX
+      ingredients:
+        'N': iasurvival:eggs_nest
+      result:
+        item: EGG
+        amount: 3
+      return_items:
+        replace:
+          eggs_nest: nest
+    eggs_nest:
+      permission: iasurvival.various.eggs_nest
+      enabled: true
+      pattern:
+        - XXX
+        - EEE
+        - XNX
+      ingredients:
+        'N': iasurvival:nest
+        E: EGG
+      result:
+        item: iasurvival:eggs_nest
+        amount: 1
+    iron_plate:
+      permission: iasurvival.various.iron_plate
+      enabled: true
+      pattern:
+        - XXX
+        - XIX
+        - XIX
+      ingredients:
+        I: IRON_INGOT
+      result:
+        item: iasurvival:iron_plate
+        amount: 1
+    plastic_plate:
+      permission: iasurvival.various.plastic_plate
+      enabled: true
+      pattern:
+        - XXX
+        - XXX
+        - PPP
+      ingredients:
+        P: iasurvival:plastic
+      result:
+        item: iasurvival:plastic_plate
+        amount: 1
+  cooking:
+    plastic:
+      permission: iasurvival.various.plastic
+      ingredient:
+        item: iasurvival:fossil
+      machines:
+        - FURNACE
+        - BLAST_FURNACE
+      exp: 1
+      cook_time: 1200
+      result:
+        item: iasurvival:plastic
+        amount: 2

@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  dough:
+    enabled: true
+    display_name: display-name-dough
+    permission: iasurvival.various.dough
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/food/various/dough

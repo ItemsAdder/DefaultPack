@@ -1,0 +1,13 @@
+info:
+  namespace: iafestivities
+items:
+  bones_backpack:
+    enabled: true
+    display_name: display-name-bones_backpack
+    permission: iafestivities.halloween.bones_backpack
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: halloween/bones_backpack
+    behaviours:
+      hat: true

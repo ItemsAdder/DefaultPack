@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  chips:
+    enabled: true
+    display_name: display-name-chips
+    permission: iasurvival.various.chips
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/various/chips
+    events:
+      eat:
+        feed:
+          amount: 6
+          saturation: 6

@@ -1,0 +1,67 @@
+info:
+  namespace: iasurvival
+items:
+  dark_amethyst_helmet:
+    enabled: true
+    display_name: display-name-dark_amethyst_helmet
+    permission: iasurvival.items.dark_amethyst_armor.dark_amethyst_helmet
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 475
+    specific_properties:
+      armor:
+        slot: head
+        color: '530766'
+    attribute_modifiers:
+      head:
+        armor: 4
+        armorToughness: 1
+  dark_amethyst_chestplate:
+    enabled: true
+    display_name: display-name-dark_amethyst_chestplate
+    permission: iasurvival.items.dark_amethyst_armor.dark_amethyst_chestplate
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 675
+    specific_properties:
+      armor:
+        slot: chest
+        color: '530766'
+    attribute_modifiers:
+      chest:
+        armor: 9
+        armorToughness: 1
+  dark_amethyst_leggings:
+    enabled: true
+    display_name: display-name-dark_amethyst_leggings
+    permission: iasurvival.items.dark_amethyst_armor.dark_amethyst_leggings
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 575
+    specific_properties:
+      armor:
+        slot: legs
+        color: '530766'
+    attribute_modifiers:
+      legs:
+        armor: 5
+        armorToughness: 1
+  dark_amethyst_boots:
+    enabled: true
+    display_name: display-name-dark_amethyst_boots
+    permission: iasurvival.items.dark_amethyst_armor.dark_amethyst_boots
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 529
+    specific_properties:
+      armor:
+        slot: FEET
+        color: '530766'
+    attribute_modifiers:
+      feet:
+        armor: 2
+        armorToughness: 1

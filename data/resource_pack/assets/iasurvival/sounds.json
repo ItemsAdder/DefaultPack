@@ -1,0 +1,10 @@
+{
+	"item.knife.use":{
+		"sounds":[
+			"iasurvival:item/knife/use1",
+			"iasurvival:item/knife/use2",
+			"iasurvival:item/knife/use3",
+			"iasurvival:item/knife/use4"
+		]
+	}
+}

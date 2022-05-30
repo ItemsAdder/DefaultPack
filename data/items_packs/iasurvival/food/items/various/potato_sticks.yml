@@ -1,0 +1,16 @@
+info:
+  namespace: iasurvival
+items:
+  potato_sticks:
+    enabled: true
+    display_name: display-name-potato_sticks
+    permission: iasurvival.various.potato_sticks
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/various/potato_sticks
+    events:
+      eat:
+        feed:
+          amount: 1

@@ -1,0 +1,23 @@
+info:
+  namespace: iasurvival
+items:
+  ruby_hoe:
+    enabled: true
+    display_name: display-name-ruby_hoe
+    permission: iasurvival.items.ruby_hoe
+    resource:
+      material: DIAMOND_HOE
+      generate: true
+      textures:
+        - item/tools/ruby_hoe
+    durability:
+      max_custom_durability: 180
+    lore:
+      - lore-blocked-enchants
+      - lore-enchantment-mending
+    blocked_enchants:
+      - MENDING
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 1
+        attackSpeed: 3.3

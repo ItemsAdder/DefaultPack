@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  cooked_goldfish:
+    enabled: true
+    display_name: display-name-cooked_goldfish
+    permission: iasurvival.fishes.cooked_goldfish
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/fishes/cooked_goldfish
+    events:
+      eat:
+        feed:
+          amount: 6
+          saturation: 3

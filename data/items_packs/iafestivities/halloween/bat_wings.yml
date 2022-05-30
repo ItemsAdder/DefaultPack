@@ -1,0 +1,13 @@
+info:
+  namespace: iafestivities
+items:
+  bat_wings:
+    enabled: true
+    display_name: display-name-bat_wings
+    permission: iafestivities.halloween.bat_wings
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: halloween/bat_wings
+    behaviours:
+      hat: true

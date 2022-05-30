@@ -1,0 +1,46 @@
+info:
+  namespace: iasurvival
+items:
+  boiled_water_bucket:
+    enabled: true
+    display_name: display-name-boiled_water_bucket
+    permission: iasurvival.thirst.boiled_water_bucket
+    resource:
+      material: WATER_BUCKET
+      generate: true
+      parent: item/water_bucket
+      textures:
+        - item/thirst/boiled_water_bucket
+  waterskin:
+    enabled: true
+    display_name: display-name-waterskin
+    permission: iasurvival.thirst.waterskin
+    resource:
+      material: WOODEN_SWORD
+      generate: true
+      parent: item/water_bucket
+      textures:
+        - item/thirst/waterskin
+    durability:
+      max_custom_durability: 30
+      custom_durability: 30
+      disappear_when_broken: true
+    lore:
+      - lore-blocked-enchants
+      - lore-enchantment-all
+    blocked_enchants:
+      - ALL
+    item_flags:
+      - HIDE_ATTRIBUTES
+    events:
+      interact:
+        right:
+          increment_player_stat:
+            name: thirst
+            amount: 0.5
+          decrement_durability:
+            amount: 1
+          play_sound:
+            name: minecraft:entity.generic.drink
+            volume: 1
+            pitch: 1

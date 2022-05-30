@@ -1,0 +1,139 @@
+info:
+  namespace: iasurvival
+recipes:
+  cooking:
+    boiled_water_bucket:
+      permission: iasurvival.thirst.boiled_water_bucket
+      ingredient:
+        item: WATER_BUCKET
+      machines:
+        - FURNACE
+        - BLAST_FURNACE
+      exp: 1
+      cook_time: 200
+      result:
+        item: iasurvival:boiled_water_bucket
+        amount: 1
+    cup_of_hot_water:
+      permission: iasurvival.thirst.cup_of_hot_water
+      ingredient:
+        item: iasurvival:cup_of_water
+      machines:
+        - FURNACE
+        - BLAST_FURNACE
+      exp: 1
+      cook_time: 200
+      result:
+        item: iasurvival:cup_of_hot_water
+        amount: 1
+  crafting_table:
+    waterskin:
+      permission: iasurvival.thirst.waterskin
+      enabled: true
+      pattern:
+        - LXL
+        - LWL
+        - LLL
+      ingredients:
+        L: LEATHER
+        W: iasurvival:boiled_water_bucket
+      result:
+        item: iasurvival:waterskin
+        amount: 1
+    cola:
+      permission: iasurvival.thirst.cola
+      enabled: true
+      pattern:
+        - XSX
+        - XPX
+        - XXX
+      ingredients:
+        S: SOUL_SAND
+        P: iasurvival:drink_glass
+      result:
+        item: iasurvival:cola
+        amount: 1
+    hot_chocolate:
+      permission: iasurvival.thirst.hot_chocolate
+      enabled: true
+      pattern:
+        - XXX
+        - XsX
+        - XbX
+      ingredients:
+        s: SOUL_SAND
+        b: LAVA_BUCKET
+      result:
+        item: iasurvival:hot_chocolate
+        amount: 1
+      return_items:
+        replace:
+          LAVA_BUCKET: BUCKET
+    coffee:
+      permission: iasurvival.thirst.coffee
+      enabled: true
+      pattern:
+        - XXX
+        - XOX
+        - XCX
+      ingredients:
+        C: iasurvival:cup_of_hot_water
+        O: COCOA_BEANS
+      result:
+        item: iasurvival:coffee
+        amount: 1
+    bloody_mary:
+      permission: iasurvival.thirst.bloody_mary
+      enabled: true
+      pattern:
+        - XCL
+        - TGT
+        - XXX
+      ingredients:
+        C: iasurvival:chili_powder
+        L: iasurvival:lettuce
+        T: iasurvival:tomato
+        G: iasurvival:drink_glass
+      result:
+        item: iasurvival:bloody_mary
+        amount: 1
+    empty_cup:
+      permission: iasurvival.thirst.empty_cup
+      enabled: true
+      pattern:
+        - XXX
+        - CXC
+        - CCC
+      ingredients:
+        C: CLAY
+      result:
+        item: iasurvival:empty_cup
+        amount: 1
+    cup_of_water:
+      permission: iasurvival.thirst.cup_of_water
+      enabled: true
+      pattern:
+        - XXX
+        - XWX
+        - XCX
+      ingredients:
+        C: iasurvival:empty_cup
+        W: WATER_BUCKET
+      result:
+        item: iasurvival:cup_of_water
+        amount: 1
+      return_items:
+        replace:
+          WATER_BUCKET: BUCKET
+    drink_glass:
+      permission: iasurvival.thirst.drink_glass
+      enabled: true
+      pattern:
+        - XXX
+        - XGX
+        - XXX
+      ingredients:
+        G: GLASS
+      result:
+        item: iasurvival:drink_glass
+        amount: 4

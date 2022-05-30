@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    dark_amethyst_hoe:
+      permission: iasurvival.dark_amethyst_hoe
+      enabled: true
+      pattern:
+        - RRX
+        - XSX
+        - XSX
+      ingredients:
+        R: iasurvival:dark_amethyst
+        S: STICK
+      result:
+        item: iasurvival:dark_amethyst_hoe
+        amount: 1

@@ -1,0 +1,14 @@
+info:
+  namespace: iaspecial_swords
+  dictionary-lang: tr
+dictionary:
+  display-name-baseball_bat: Beysbol sopası
+  display-name-elucidator_sword: Aydınlatıcı
+  display-name-floating_sword: '&9&lYüzen Kılıç'
+  display-name-gandalf_stick: Gandalf Çubuğu
+  display-name-guitar_sword: Gitar Kılıcı
+  display-name-green_lightsaber: '&2&LYeşil Işık Kılıcı'
+  display-name-red_lightsaber: '&4&lKırmızı Işık Kılıcı'
+  display-name-blue_lightsaber: '&3&lMavi Işık Kılıcı'
+  display-name-masters_sword: '&6&lUstanın Kılıcı'
+  display-name-repulser_sword: Repulser

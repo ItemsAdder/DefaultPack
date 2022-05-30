@@ -1,0 +1,20 @@
+info:
+  namespace: iasurvival
+items:
+  modern_sandstone:
+    enabled: true
+    display_name: display-name-modern_sandstone
+    permission: iasurvival.decorative.modern_sandstone
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - block/decorative/modern_sandstone
+    specific_properties:
+      block:
+        placed_model:
+          type: REAL_NOTE
+          break_particles_material: SANDSTONE
+        break_tools_whitelist:
+          - PICKAXE
+          - pickaxe

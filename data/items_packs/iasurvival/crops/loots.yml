@@ -1,0 +1,46 @@
+info:
+  namespace: iasurvival
+loots:
+  blocks:
+    grass:
+      type: GRASS
+      items:
+        tomato_seeds:
+          item: iasurvival:tomato_seeds
+          min_amount: 1
+          max_amount: 2
+          chance: 5
+        garlic_seeds:
+          item: iasurvival:garlic_seeds
+          min_amount: 1
+          max_amount: 2
+          chance: 5
+        rice_seeds:
+          item: iasurvival:rice_seeds
+          min_amount: 1
+          max_amount: 2
+          chance: 10
+    fern:
+      type: FERN
+      items:
+        lettuce_seeds:
+          item: iasurvival:lettuce_seeds
+          min_amount: 1
+          max_amount: 2
+          chance: 10
+    tall_grass:
+      type: TALL_GRASS
+      items:
+        chili_pepper_seeds:
+          item: iasurvival:chili_pepper_seeds
+          min_amount: 1
+          max_amount: 2
+          chance: 5
+    dead_bush:
+      type: DEAD_BUSH
+      items:
+        tobacco_seeds:
+          item: iasurvival:tobacco_seeds
+          min_amount: 1
+          max_amount: 2
+          chance: 10

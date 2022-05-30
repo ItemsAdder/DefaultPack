@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    dark_amethyst_axe:
+      permission: iasurvival.dark_amethyst_axe
+      enabled: true
+      pattern:
+        - MMX
+        - MSX
+        - XSX
+      ingredients:
+        M: iasurvival:dark_amethyst
+        S: STICK
+      result:
+        item: iasurvival:dark_amethyst_axe
+        amount: 1

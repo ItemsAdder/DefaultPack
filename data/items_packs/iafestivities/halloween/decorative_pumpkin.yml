@@ -1,0 +1,18 @@
+info:
+  namespace: iafestivities
+items:
+  decorative_pumpkin:
+    enabled: true
+    display_name: display-name-decorative_pumpkin
+    permission: iafestivities.halloween.decorative_pumpkin
+    resource:
+      material: PAPER
+      generate: false
+      model_path: halloween/decorative_pumpkin
+    behaviours:
+      furniture:
+        gravity: false
+        fixed_rotation: false
+        small: true
+        light_level: 15
+        solid: true

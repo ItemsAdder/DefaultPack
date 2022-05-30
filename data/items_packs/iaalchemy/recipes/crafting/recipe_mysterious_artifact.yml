@@ -1,0 +1,27 @@
+info:
+  namespace: iaalchemy
+recipes:
+  crafting_table:
+    mysterious_artifact:
+      permission: iaalchemy.mysterious_artifact
+      enabled: true
+      pattern:
+        - XXL
+        - XCM
+        - XXL
+      ingredients:
+        C: iasurvival:chisel
+        M: iaalchemy:mysterious_material
+        L: LAPIS_LAZULI
+      result:
+        item: iaalchemy:mysterious_artifact
+        amount: 1
+      return_items:
+        decrement_durability:
+          chisel:
+            item: iasurvival:chisel
+            amount: 3
+        play_sound:
+          name: iaalchemy:ambient.angelic
+          volume: 1
+          pitch: 1

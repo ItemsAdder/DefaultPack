@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  sliced_raw_beef:
+    enabled: true
+    display_name: display-name-sliced_raw_beef
+    permission: iasurvival.various.sliced_raw_beef
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/various/sliced_raw_beef
+    events:
+      eat:
+        feed:
+          amount: 1
+          saturation: 0.4

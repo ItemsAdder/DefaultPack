@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  ruby:
+    enabled: true
+    display_name: display-name-ruby
+    permission: iasurvival.items.ruby
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+        - item/ores/ruby

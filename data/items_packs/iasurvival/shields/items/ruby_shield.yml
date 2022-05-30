@@ -1,0 +1,13 @@
+info:
+  namespace: iasurvival
+items:
+  ruby_shield:
+    enabled: true
+    display_name: display-name-ruby_shield
+    permission: iasurvival.items.ruby_shield
+    resource:
+      material: SHIELD
+      generate: false
+      model_path: item/shields/ruby_shield
+    durability:
+      max_custom_durability: 336

@@ -1,0 +1,18 @@
+info:
+  namespace: iasurvival
+items:
+  chisel:
+    enabled: true
+    display_name: display-name-chisel
+    permission: iasurvival.items.chisel
+    resource:
+      material: WOODEN_SWORD
+      generate: true
+      textures:
+        - item/tools/chisel
+    durability:
+      max_custom_durability: 32
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 1
+        attackSpeed: 5

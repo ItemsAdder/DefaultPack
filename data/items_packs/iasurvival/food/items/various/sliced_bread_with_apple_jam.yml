@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  sliced_bread_with_apple_jam:
+    enabled: true
+    display_name: display-name-sliced_bread_with_apple_jam
+    permission: iasurvival.various.sliced_bread_with_apple_jam
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/various/sliced_bread_with_apple_jam
+    events:
+      eat:
+        feed:
+          amount: 5
+          saturation: 1

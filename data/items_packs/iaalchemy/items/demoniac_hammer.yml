@@ -1,0 +1,36 @@
+info:
+  namespace: iaalchemy
+items:
+  demoniac_hammer:
+    enabled: true
+    display_name: display-name-demoniac_hammer
+    permission: iaalchemy.items.demoniac_hammer
+    lore:
+      - lore-1-demoniac_hammer
+      - lore-2-demoniac_hammer
+      - lore-3-demoniac_hammer
+      - lore-4-demoniac_hammer
+      - lore-blocked-enchants
+      - lore-enchantment-mending
+      - lore-enchantment-efficiency
+    resource:
+      material: DIAMOND_PICKAXE
+      generate: true
+      textures:
+        - item/demoniac_hammer
+    blocked_enchants:
+      - MENDING
+      - EFFICIENCY
+    events:
+      block_break:
+        multiple_break:
+          keep_ores: true
+          drop_all_blocks:
+            enabled: true
+            need_silk_touch: true
+          size: 3
+          depth: 3
+        drop_exp:
+          chance: 50
+          min_amount: 1
+          max_amount: 5

@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  dark_amethyst_pickaxe:
+    enabled: true
+    display_name: display-name-dark_amethyst_pickaxe
+    permission: iasurvival.items.dark_amethyst_pickaxe
+    resource:
+      material: DIAMOND_PICKAXE
+      generate: true
+      textures:
+        - item/tools/dark_amethyst_pickaxe

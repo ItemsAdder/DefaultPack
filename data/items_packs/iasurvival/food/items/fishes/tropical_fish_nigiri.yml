@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  tropical_fish_nigiri:
+    enabled: true
+    display_name: display-name-tropical_fish_nigiri
+    permission: iasurvival.fishes.tropical_fish_nigiri
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/fishes/tropical_fish_nigiri
+    events:
+      eat:
+        feed:
+          amount: 1
+          saturation: 1

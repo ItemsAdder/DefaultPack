@@ -1,0 +1,342 @@
+info:
+  namespace: iageneric
+recipes:
+  crafting_table:
+    carton_box:
+      permission: iageneric.items.carton_box
+      enabled: true
+      pattern:
+        - OOO
+        - PPP
+        - PPP
+      ingredients:
+        P: PAPER
+        O: iasurvival:plastic_plate
+      result:
+        item: iageneric:carton_box
+        amount: 1
+items:
+  bug_medal:
+    enabled: true
+    display_name: display-name-bug_medal
+    permission: iageneric.bug_medal
+    lore:
+      - lore-1-bug_medal
+      - lore-2-bug_medal
+      - lore-3-bug_medal
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/bug_medal
+  cute_medal:
+    enabled: true
+    display_name: display-name-cute_medal
+    permission: iageneric.cute_medal
+    lore:
+      - lore-1-cute_medal
+      - lore-2-cute_medal
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/cute_medal
+  donator_medal:
+    enabled: true
+    display_name: display-name-donator_medal
+    permission: iageneric.donator_medal
+    lore:
+      - lore-1-donator_medal
+      - lore-2-donator_medal
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/donator_medal
+  coin:
+    enabled: true
+    display_name: display-name-coin
+    permission: iageneric.coin
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/coin
+  banknote:
+    enabled: true
+    display_name: display-name-banknote
+    permission: iageneric.banknote
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/banknote
+  sack_of_money:
+    enabled: true
+    display_name: display-name-sack_of_money
+    permission: iageneric.sack_of_money
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/sack_of_money
+  plastic_bag:
+    enabled: true
+    display_name: display-name-plastic_bag
+    permission: iageneric.plastic_bag
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/plastic_bag
+  light_blue_coupon:
+    enabled: true
+    display_name: display-name-light_blue_coupon
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/light_blue_coupon
+    permission: iageneric.light_blue_coupon
+  turquoise_coupon:
+    enabled: true
+    display_name: display-name-turquoise_coupon
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/turquoise_coupon
+    permission: iageneric.turquoise_coupon
+  purple_coupon:
+    enabled: true
+    display_name: display-name-purple_coupon
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/purple_coupon
+    permission: iageneric.purple_coupon
+  green_coupon:
+    enabled: true
+    display_name: display-name-green_coupon
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/green_coupon
+    permission: iageneric.green_coupon
+  red_coupon:
+    enabled: true
+    display_name: display-name-red_coupon
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/red_coupon
+    permission: iageneric.red_coupon
+  black_coupon:
+    enabled: true
+    display_name: display-name-black_coupon
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/black_coupon
+    permission: iageneric.black_coupon
+  white_coupon:
+    enabled: true
+    display_name: display-name-white_coupon
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/white_coupon
+    permission: iageneric.white_coupon
+  golden_coupon:
+    enabled: true
+    display_name: display-name-golden_coupon
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/golden_coupon
+    permission: iageneric.golden_coupon
+  blue_ring:
+    enabled: true
+    display_name: display-name-blue_ring
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/blue_ring
+    permission: iageneric.blue_ring
+  light_blue_ring:
+    enabled: true
+    display_name: display-name-light_blue_ring
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/light_blue_ring
+    permission: iageneric.light_blue_ring
+  turquoise_ring:
+    enabled: true
+    display_name: display-name-turquoise_ring
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/turquoise_ring
+    permission: iageneric.turquoise_ring
+  purple_ring:
+    enabled: true
+    display_name: display-name-purple_ring
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/purple_ring
+    permission: iageneric.purple_ring
+  green_ring:
+    enabled: true
+    display_name: display-name-green_ring
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/green_ring
+    permission: iageneric.green_ring
+  red_ring:
+    enabled: true
+    display_name: display-name-red_ring
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/red_ring
+    permission: iageneric.red_ring
+  black_ring:
+    enabled: true
+    display_name: display-name-black_ring
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/black_ring
+    permission: iageneric.black_ring
+  white_ring:
+    enabled: true
+    display_name: display-name-white_ring
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/white_ring
+    permission: iageneric.white_ring
+  golden_ring:
+    enabled: true
+    display_name: display-name-golden_ring
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/golden_ring
+    permission: iageneric.golden_ring
+  marriage_ring:
+    enabled: true
+    display_name: display-name-marriage_ring
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/marriage_ring
+    permission: iageneric.marriage_ring
+  blue_key:
+    enabled: true
+    display_name: display-name-blue_key
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/blue_key
+    permission: iageneric.blue_key
+  light_blue_key:
+    enabled: true
+    display_name: display-name-light_blue_key
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/light_blue_key
+    permission: iageneric.light_blue_key
+  turquoise_key:
+    enabled: true
+    display_name: display-name-turquoise_key
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/turquoise_key
+    permission: iageneric.turquoise_key
+  purple_key:
+    enabled: true
+    display_name: display-name-purple_key
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/purple_key
+    permission: iageneric.purple_key
+  green_key:
+    enabled: true
+    display_name: display-name-green_key
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/green_key
+    permission: iageneric.green_key
+  red_key:
+    enabled: true
+    display_name: display-name-red_key
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/red_key
+    permission: iageneric.red_key
+  black_key:
+    enabled: true
+    display_name: display-name-black_key
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/black_key
+    permission: iageneric.black_key
+  white_key:
+    enabled: true
+    display_name: display-name-white_key
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/white_key
+    permission: iageneric.white_key
+  golden_key:
+    enabled: true
+    display_name: display-name-golden_key
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/golden_key
+    permission: iageneric.golden_key
+  carton_box:
+    enabled: true
+    display_name: display-name-carton_box
+    permission: iageneric.carton_box
+    resource:
+      material: STICK
+      generate: false
+      model_path: item/carton_box

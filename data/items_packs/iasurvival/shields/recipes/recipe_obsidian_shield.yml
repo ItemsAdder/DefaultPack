@@ -1,0 +1,16 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    obsidian_shield:
+      permission: iasurvival.obsidian_shield
+      enabled: true
+      pattern:
+        - TTT
+        - TTT
+        - XTX
+      ingredients:
+        T: OBSIDIAN
+      result:
+        item: iasurvival:obsidian_shield
+        amount: 1

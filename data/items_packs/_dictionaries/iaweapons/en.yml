@@ -1,0 +1,25 @@
+info:
+  namespace: iaweapons
+  dictionary-lang: en
+dictionary:
+  display-name-ak47: Ak-47
+  display-name-clip: Clip
+  lore-1-clip: '&7Hold it in the left'
+  lore-2-clip: '&7hand while shooting'
+  lore-3-clip: '&7with an ak-47'
+  display-name-firework_launcher: Firework Launcher
+  lore-1-firework_launcher: '&7Hold Firework Rocket in left hand'
+  lore-2-firework_launcher: '&7and hold down right click to charge'
+  lore-3-firework_launcher: '&7the Firework Launcher'
+  display-name-grenade: Grenade
+  display-name-hand_gun: Handgun
+  display-name-projectile: Projectile
+  lore-1-projectile: '&7Hold it in the left'
+  lore-2-projectile: '&7hand while shooting'
+  lore-3-projectile: '&7with a gun'
+  display-name-revolver: Revolver
+  display-name-shotgun: Shotgun
+  display-name-shotgun_cartridge: Shotgun Cartridge
+  lore-1-shotgun_cartridge: '&7Hold it in the left'
+  lore-2-shotgun_cartridge: '&7hand while shooting'
+  lore-3-shotgun_cartridge: '&7with a Shotgun'

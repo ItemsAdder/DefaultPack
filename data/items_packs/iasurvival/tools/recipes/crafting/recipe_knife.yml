@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    knife:
+      permission: iasurvival.knife
+      enabled: true
+      pattern:
+        - XXX
+        - XDX
+        - XSX
+      ingredients:
+        D: IRON_NUGGET
+        S: STICK
+      result:
+        item: iasurvival:knife
+        amount: 1

@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  salmon_nigiri:
+    enabled: true
+    display_name: display-name-salmon_nigiri
+    permission: iasurvival.fishes.salmon_nigiri
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/fishes/salmon_nigiri
+    events:
+      eat:
+        feed:
+          amount: 4
+          saturation: 2.5

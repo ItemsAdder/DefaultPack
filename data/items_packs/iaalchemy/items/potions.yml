@@ -1,0 +1,100 @@
+info:
+  namespace: iaalchemy
+items:
+  diamonds_finder_potion:
+    enabled: true
+    display_name: display-name-diamonds_finder_potion
+    permission: iaalchemy.items.potions.diamonds_finder_potion
+    lore:
+      - lore-1-diamonds_finder_potion
+    resource:
+      material: POTION
+      generate: true
+      textures:
+        - item/diamonds_finder_potion
+    specific_properties:
+      potion:
+        type: WATER
+        color: WHITE
+    item_flags:
+      - HIDE_POTION_EFFECTS
+    events:
+      drink:
+        glow_near_blocks:
+          decrement_durability:
+            amount: 1
+          radius:
+            x: 50
+            'y': 50
+            z: 50
+          material: DIAMOND_ORE
+  emeralds_finder_potion:
+    enabled: true
+    display_name: display-name-emeralds_finder_potion
+    permission: iaalchemy.items.potions.emeralds_finder_potion
+    lore:
+      - lore-1-emeralds_finder_potion
+    resource:
+      material: POTION
+      generate: true
+      textures:
+        - item/emeralds_finder_potion
+    specific_properties:
+      potion:
+        type: WATER
+        color: WHITE
+    item_flags:
+      - HIDE_POTION_EFFECTS
+    events:
+      drink:
+        glow_near_blocks:
+          decrement_durability:
+            amount: 1
+          radius:
+            x: 50
+            'y': 50
+            z: 50
+          material: EMERALD_ORE
+  strange_potion:
+    enabled: true
+    display_name: display-name-strange_potion
+    permission: iaalchemy.items.potions.strange_potion
+    lore:
+      - lore-1-strange_potion
+    resource:
+      material: POTION
+      generate: true
+      textures:
+        - item/strange_potion
+    specific_properties:
+      potion:
+        type: WATER
+        color: WHITE
+    item_flags:
+      - HIDE_POTION_EFFECTS
+    events:
+      drink:
+        potion_effect:
+          type: GLOWING
+          duration: 6000
+  antidote:
+    enabled: true
+    display_name: display-name-antidote
+    permission: iaalchemy.items.potions.antidote
+    lore:
+      - lore-1-antidote
+    resource:
+      material: POTION
+      generate: true
+      textures:
+        - item/antidote
+    specific_properties:
+      potion:
+        type: WATER
+        color: WHITE
+    item_flags:
+      - HIDE_POTION_EFFECTS
+    events:
+      drink:
+        remove_potion_effect:
+          type: GLOWING

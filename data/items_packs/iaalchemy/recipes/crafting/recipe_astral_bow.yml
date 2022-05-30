@@ -1,0 +1,17 @@
+info:
+  namespace: iaalchemy
+recipes:
+  crafting_table:
+    astral_bow:
+      permission: iaalchemy.astral_bow
+      enabled: true
+      pattern:
+        - XBS
+        - BXS
+        - XBS
+      ingredients:
+        B: BLAZE_ROD
+        S: STRING
+      result:
+        item: iaalchemy:astral_bow
+        amount: 1

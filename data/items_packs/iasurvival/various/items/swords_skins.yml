@@ -1,0 +1,39 @@
+info:
+  namespace: iasurvival
+items:
+  sword_skin_rusteroth:
+    enabled: true
+    display_name: display-name-sword_skin_rusteroth
+    permission: iasurvival.items.other.sword_skin_rusteroth
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/other/sword_skin_rusteroth
+  sword_skin_bloodnite:
+    enabled: true
+    display_name: display-name-sword_skin_bloodnite
+    permission: iasurvival.items.other.sword_skin_bloodnite
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/other/sword_skin_bloodnite
+  sword_skin_vyderlight:
+    enabled: true
+    display_name: display-name-sword_skin_vyderlight
+    permission: iasurvival.items.other.sword_skin_vyderlight
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/other/sword_skin_vyderlight
+  sword_skin_aqualight:
+    enabled: true
+    display_name: display-name-sword_skin_aqualight
+    permission: iasurvival.items.other.sword_skin_aqualight
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/other/sword_skin_aqualight

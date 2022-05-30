@@ -1,0 +1,25 @@
+info:
+  namespace: iaweapons
+  dictionary-lang: it
+dictionary:
+  display-name-ak47: Ak-47
+  display-name-clip: Cartuccia
+  lore-1-clip: '&7Tienilo nella mano'
+  lore-2-clip: '&7sinistra mentre spari'
+  lore-3-clip: '&7con un Ak-47'
+  display-name-firework_launcher: Spara fuochi d'artificio
+  lore-1-firework_launcher: '&7Tieni in mano un fuoco d''artificio'
+  lore-2-firework_launcher: '&7nella mano sinistra e tieni premuto'
+  lore-3-firework_launcher: '&7tasto destro del mouse per caricare'
+  display-name-grenade: Granata
+  display-name-hand_gun: Pistola
+  display-name-projectile: Proiettile
+  lore-1-projectile: '&7Tienilo nella mano'
+  lore-2-projectile: '&7sinistra mentre spari'
+  lore-3-projectile: '&7con una pistola'
+  display-name-revolver: Revolver
+  display-name-shotgun: Fucile a pompa
+  display-name-shotgun_cartridge: Cartuccia per fucile a pompa
+  lore-1-shotgun_cartridge: '&7Tienilo nella mano'
+  lore-2-shotgun_cartridge: '&7sinistra mentre spari'
+  lore-3-shotgun_cartridge: '&7con un fucile'

@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  pink_donut:
+    enabled: true
+    display_name: display-name-pink_donut
+    permission: iasurvival.various.pink_donut
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/various/pink_donut
+    events:
+      eat:
+        feed:
+          amount: 6
+          saturation: 3

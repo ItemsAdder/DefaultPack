@@ -1,0 +1,15 @@
+info:
+  namespace: iasurvival
+items:
+  coal_nugget:
+    enabled: true
+    display_name: display-name-coal_nugget
+    permission: iasurvival.items.coal_nugget
+    resource:
+      material: COAL
+      generate: true
+      textures:
+        - item/ores/coal_nugget
+    behaviours:
+      fuel:
+        burn_ticks: 100

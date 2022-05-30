@@ -1,0 +1,57 @@
+info:
+  namespace: iasurvival
+items:
+  black_bow:
+    enabled: true
+    display_name: display-name-black_bow
+    permission: iasurvival.bows.colored_bows.black_bow
+    resource:
+      material: BOW
+      generate: true
+      textures:
+        - item/bows/black_bow
+  red_bow:
+    enabled: true
+    display_name: display-name-red_bow
+    permission: iasurvival.bows.colored_bows.red_bow
+    resource:
+      material: BOW
+      generate: true
+      textures:
+        - item/bows/red_bow
+  green_bow:
+    enabled: true
+    display_name: display-name-green_bow
+    permission: iasurvival.bows.colored_bows.green_bow
+    resource:
+      material: BOW
+      generate: true
+      textures:
+        - item/bows/green_bow
+  blue_bow:
+    enabled: true
+    display_name: display-name-blue_bow
+    permission: iasurvival.bows.colored_bows.blue_bow
+    resource:
+      material: BOW
+      generate: true
+      textures:
+        - item/bows/blue_bow
+  purple_bow:
+    enabled: true
+    display_name: display-name-purple_bow
+    permission: iasurvival.bows.colored_bows.purple_bow
+    resource:
+      material: BOW
+      generate: true
+      textures:
+        - item/bows/purple_bow
+  cyan_bow:
+    enabled: true
+    display_name: display-name-cyan_bow
+    permission: iasurvival.bows.colored_bows.cyan_bow
+    resource:
+      material: BOW
+      generate: true
+      textures:
+        - item/bows/cyan_bow

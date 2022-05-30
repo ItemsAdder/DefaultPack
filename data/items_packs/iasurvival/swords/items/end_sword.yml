@@ -1,0 +1,33 @@
+info:
+  namespace: iasurvival
+items:
+  end_sword:
+    enabled: true
+    display_name: display-name-end_sword
+    permission: iasurvival.items.end_sword
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+        - item/swords/end_sword
+    durability:
+      max_custom_durability: 300
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 6
+        attackSpeed: 1.1
+    lore:
+      - lore-1-end_sword
+      - lore-2-end_sword
+    events:
+      attack:
+        play_particle:
+          name: DRAGON_BREATH
+        damage_near_entities:
+          damage: 3
+          radius: 4
+          entity_groups: HOSTILE
+      interact:
+        left:
+          play_particle:
+            name: DRAGON_BREATH

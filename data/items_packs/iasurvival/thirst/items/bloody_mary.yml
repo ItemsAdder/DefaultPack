@@ -1,0 +1,26 @@
+info:
+  namespace: iasurvival
+items:
+  bloody_mary:
+    enabled: true
+    display_name: display-name-bloody_mary
+    permission: iasurvival.items.bloody_mary
+    resource:
+      material: POTION
+      generate: true
+      textures:
+        - item/thirst/bloody_mary
+    specific_properties:
+      potion:
+        type: WATER
+        color: WHITE
+    item_flags:
+      - HIDE_POTION_EFFECTS
+    events:
+      drink:
+        potion_effect:
+          type: CONFUSION
+          duration: 200
+        increment_player_stat:
+          name: thirst
+          amount: 6

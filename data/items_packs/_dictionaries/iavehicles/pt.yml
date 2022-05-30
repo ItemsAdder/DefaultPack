@@ -1,0 +1,31 @@
+info:
+  namespace: iavehicles
+  dictionary-lang: pt
+dictionary:
+  display-name-broomstick: Vassoura
+  display-name-ufo: OVNI
+  display-name-oak_wood_plane: Avião de Carvalho
+  display-name-spruce_wood_plane: Avião de Abeto
+  display-name-birch_wood_plane: Avião de Bétula
+  display-name-jungle_wood_plane: Avião de Madeira da Floresta
+  display-name-acacia_wood_plane: Acacia Wood Plane
+  display-name-dark_oak_wood_plane: Avião de Caralho Escuro
+  display-name-white_go_cart: Go-cart Branco
+  display-name-orange_go_cart: Go-cart Laranja
+  display-name-magenta_go_cart: Go-cart Magenta
+  display-name-light_blue_go_cart: Go-cart Azul Claro
+  display-name-yellow_go_cart: Go-cart Amarelo
+  display-name-lime_go_cart: Go-cart Verde Lima
+  display-name-pink_go_cart: Go-cart Cor-de-Rosa
+  display-name-gray_go_cart: Go-cart Cinzento
+  display-name-light_gray_go_cart: Go-cart Cinza Claro
+  display-name-cyan_go_cart: Go-cart Azul Ciano
+  display-name-purple_go_cart: Go-cart Roxo
+  display-name-blue_go_cart: Go-cart Azul
+  display-name-brown_go_cart: Go-cart Castanho
+  display-name-green_go_cart: Go-cart Verde
+  display-name-red_go_cart: Go-cart Vermelho
+  display-name-black_go_cart: Go-cart Preto
+  display-name-shopping_cart: Carrinho de Compras
+  display-name-ufo_toy: Brinquedo OVNI
+  lore-1-ufo_toy: '&7Lado Direito do Rato para o fazer voar'

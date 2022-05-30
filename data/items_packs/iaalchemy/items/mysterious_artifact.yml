@@ -1,0 +1,11 @@
+info:
+  namespace: iaalchemy
+items:
+  mysterious_artifact:
+    enabled: true
+    display_name: display-name-mysterious_artifact
+    permission: iaalchemy.items.mysterious_artifact
+    resource:
+      material: STICK
+      generate: false
+      model_path: item/mysterious_artifact

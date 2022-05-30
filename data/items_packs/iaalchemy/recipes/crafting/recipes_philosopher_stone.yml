@@ -1,0 +1,72 @@
+info:
+  namespace: iaalchemy
+recipes:
+  crafting_table:
+    philosopher_stone:
+      permission: iaalchemy.philosopher_stone
+      enabled: true
+      pattern:
+        - GRG
+        - RDR
+        - GRG
+      ingredients:
+        D: DIAMOND_BLOCK
+        R: REDSTONE
+        G: GLOWSTONE_DUST
+      result:
+        item: iaalchemy:philosopher_stone
+        amount: 1
+    philosopher_stone_1:
+      enabled: true
+      permission: iaalchemy.philosopher_stone.philosopher_stone_1
+      pattern:
+        - XXX
+        - XPE
+        - XXX
+      ingredients:
+        P: iaalchemy:philosopher_stone
+        E: iaalchemy:energy_orb
+      result:
+        item: DIRT
+        amount: 1
+      return_items:
+        increment_durability:
+          philosopher_stone:
+            item: philosopher_stone
+            amount: 1
+    philosopher_stone_2:
+      enabled: true
+      permission: iaalchemy.philosopher_stone.philosopher_stone_2
+      pattern:
+        - XXX
+        - XPE
+        - XXX
+      ingredients:
+        P: iaalchemy:philosopher_stone
+        E: iaalchemy:small_energy_capsule
+      result:
+        item: DIRT
+        amount: 1
+      return_items:
+        increment_durability:
+          philosopher_stone:
+            item: philosopher_stone
+            amount: 8
+    philosopher_stone_3:
+      enabled: true
+      permission: iaalchemy.philosopher_stone.philosopher_stone_3
+      pattern:
+        - XXX
+        - XPE
+        - XXX
+      ingredients:
+        P: iaalchemy:philosopher_stone
+        E: iaalchemy:energy_capsule
+      result:
+        item: DIRT
+        amount: 1
+      return_items:
+        increment_durability:
+          philosopher_stone:
+            item: philosopher_stone
+            amount: 64

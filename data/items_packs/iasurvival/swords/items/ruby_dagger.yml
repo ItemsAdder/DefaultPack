@@ -1,0 +1,23 @@
+info:
+  namespace: iasurvival
+items:
+  ruby_dagger:
+    enabled: true
+    display_name: display-name-ruby_dagger
+    permission: iasurvival.items.ruby_dagger
+    resource:
+      material: GOLDEN_SWORD
+      generate: true
+      textures:
+        - item/swords/ruby_dagger
+    durability:
+      max_custom_durability: 15
+    lore:
+      - lore-blocked-enchants
+      - lore-enchantment-mending
+    blocked_enchants:
+      - MENDING
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 4
+        attackSpeed: 4.2

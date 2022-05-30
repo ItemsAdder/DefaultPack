@@ -1,0 +1,357 @@
+info:
+  namespace: iasurvival
+categories:
+  armors:
+    enabled: true
+    skip_if_already: false
+    icon: iasurvival:ruby_helmet
+    name: display-category-armors
+    permission: ia.menu.seecategory.armors
+    items:
+      - iasurvival:ruby_helmet
+      - iasurvival:ruby_chestplate
+      - iasurvival:ruby_leggings
+      - iasurvival:ruby_boots
+      - iasurvival:dark_amethyst_helmet
+      - iasurvival:dark_amethyst_chestplate
+      - iasurvival:dark_amethyst_leggings
+      - iasurvival:dark_amethyst_boots
+      - iasurvival:emerald_helmet
+      - iasurvival:emerald_chestplate
+      - iasurvival:emerald_leggings
+      - iasurvival:emerald_boots
+      - iasurvival:obsidian_helmet
+      - iasurvival:obsidian_chestplate
+      - iasurvival:obsidian_leggings
+      - iasurvival:obsidian_boots
+      - iasurvival:bronze_helmet
+      - iasurvival:bronze_chestplate
+      - iasurvival:bronze_leggings
+      - iasurvival:bronze_boots
+  swords:
+    enabled: true
+    skip_if_already: false
+    icon: iasurvival:ruby_sword
+    name: display-category-swords
+    permission: ia.menu.seecategory.swords
+    items:
+      - iasurvival:ruby_sword
+      - iasurvival:ruby_dagger
+      - iasurvival:emerald_sword
+      - iasurvival:dark_amethyst_sword
+      - iasurvival:bronze_sword
+      - iasurvival:firesword_sword
+      - iasurvival:aqualight_sword
+      - iasurvival:rusteroth_sword
+      - iasurvival:bloodnite_sword
+      - iasurvival:vyderlight_sword
+      - iasurvival:sweets_sword
+      - iasurvival:knife
+      - iasurvival:chisel
+      - iasurvival:end_sword
+  pickaxes:
+    enabled: true
+    skip_if_already: false
+    icon: iasurvival:ruby_pickaxe
+    name: display-category-pickaxes
+    permission: ia.menu.seecategory.pickaxes
+    items:
+      - iasurvival:astral_pickaxe
+      - iasurvival:diamond_hammer
+      - iasurvival:demoniac_hammer
+      - iasurvival:demoniac_pickaxe
+      - iasurvival:ruby_pickaxe
+      - iasurvival:dark_amethyst_pickaxe
+      - iasurvival:bronze_pickaxe
+  axes:
+    enabled: true
+    skip_if_already: false
+    icon: iasurvival:ruby_axe
+    name: display-category-axes
+    permission: ia.menu.seecategory.axes
+    items:
+      - iasurvival:ruby_axe
+      - iasurvival:dark_amethyst_axe
+      - iasurvival:bronze_axe
+  hoes:
+    enabled: true
+    skip_if_already: false
+    icon: iasurvival:ruby_hoe
+    name: display-category-hoes
+    permission: ia.menu.seecategory.hoes
+    items:
+      - iasurvival:ruby_hoe
+      - iasurvival:dark_amethyst_hoe
+      - iasurvival:bronze_hoe
+  shovels:
+    enabled: true
+    skip_if_already: false
+    icon: iasurvival:ruby_shovel
+    name: display-category-shovels
+    permission: ia.menu.seecategory.shovels
+    items:
+      - iasurvival:ruby_shovel
+      - iasurvival:dark_amethyst_shovel
+      - iasurvival:bronze_shovel
+  fishing_rods:
+    enabled: true
+    skip_if_already: false
+    icon: iasurvival:red_fishing_rod
+    name: display-category-fishing_rods
+    permission: ia.menu.seecategory.fishing_rods
+    items:
+      - iasurvival:black_fishing_rod
+      - iasurvival:red_fishing_rod
+      - iasurvival:green_fishing_rod
+      - iasurvival:blue_fishing_rod
+      - iasurvival:purple_fishing_rod
+      - iasurvival:cyan_fishing_rod
+  shears:
+    enabled: true
+    skip_if_already: false
+    icon: iasurvival:red_shears
+    name: display-category-shears
+    permission: ia.menu.seecategory.shears
+    items:
+      - iasurvival:black_shears
+      - iasurvival:red_shears
+      - iasurvival:green_shears
+      - iasurvival:blue_shears
+      - iasurvival:purple_shears
+      - iasurvival:cyan_shears
+  shields:
+    enabled: true
+    skip_if_already: false
+    icon: iasurvival:ruby_shield
+    name: display-category-shields
+    permission: ia.menu.seecategory.shields
+    items:
+      - iasurvival:ender_shield
+      - iasurvival:obsidian_shield
+      - iasurvival:bronze_shield
+      - iasurvival:ruby_shield
+      - iasurvival:dark_amethyst_shield
+  bows:
+    enabled: true
+    skip_if_already: false
+    icon: iasurvival:red_bow
+    name: display-category-bows
+    permission: ia.menu.seecategory.bows
+    items:
+      - iasurvival:astral_bow
+      - iasurvival:black_bow
+      - iasurvival:red_bow
+      - iasurvival:green_bow
+      - iasurvival:blue_bow
+      - iasurvival:purple_bow
+      - iasurvival:cyan_bow
+  eatables:
+    enabled: true
+    skip_if_already: false
+    icon: iasurvival:pizza
+    name: display-category-eatables
+    permission: ia.menu.seecategory.eatables
+    items:
+      - iasurvival:pizza
+      - iasurvival:taco
+      - iasurvival:hamburger
+      - iasurvival:chips
+      - iasurvival:hotdog
+      - iasurvival:tropical_fish_nigiri
+      - iasurvival:cod_nigiri
+      - iasurvival:salmon_nigiri
+      - iasurvival:pufferfish_nigiri
+      - iasurvival:sausage
+      - iasurvival:cooked_sausage
+      - iasurvival:baguette
+      - iasurvival:broken_egg
+      - iasurvival:fried_egg
+      - iasurvival:peeled_potato
+      - iasurvival:potato_sticks
+      - iasurvival:fried_potato_sticks
+      - iasurvival:french_fries
+      - iasurvival:donut_base
+      - iasurvival:cooked_donut_base
+      - iasurvival:sweet
+      - iasurvival:sweet_stick
+      - iasurvival:pink_donut
+      - iasurvival:nether_donut
+      - iasurvival:cheese
+      - iasurvival:sliced_bread
+      - iasurvival:sliced_baguette
+      - iasurvival:sliced_cheese
+      - iasurvival:blue_parrotfish
+      - iasurvival:cooked_blue_parrotfish
+      - iasurvival:green_sunfish
+      - iasurvival:cooked_green_sunfish
+      - iasurvival:goldfish
+      - iasurvival:cooked_goldfish
+      - iasurvival:black_moor_goldfish
+      - iasurvival:cooked_black_moor_goldfish
+      - iasurvival:tuna
+      - iasurvival:cooked_tuna
+      - iasurvival:sliced_raw_beef
+      - iasurvival:sliced_roast_beef
+      - iasurvival:jar
+      - iasurvival:sweet_berries_jam_jar
+      - iasurvival:pear_jam_jar
+      - iasurvival:apple_jam_jar
+      - iasurvival:sliced_bread_with_sweet_berries_jam
+      - iasurvival:sliced_bread_with_pear_jam
+      - iasurvival:sliced_bread_with_apple_jam
+      - iasurvival:flour
+      - iasurvival:dough
+      - iasurvival:ketchup_bottle
+      - iasurvival:ketchup
+      - iasurvival:chili_powder
+  thirst:
+    enabled: true
+    skip_if_already: false
+    icon: iasurvival:cola
+    name: display-category-thirst
+    permission: ia.menu.seecategory.thirst
+    items:
+      - iasurvival:cola
+      - iasurvival:hot_chocolate
+      - iasurvival:coffee
+      - iasurvival:bloody_mary
+      - iasurvival:waterskin
+      - iasurvival:boiled_water_bucket
+      - iasurvival:empty_cup
+      - iasurvival:cup_of_water
+      - iasurvival:cup_of_hot_water
+      - iasurvival:drink_glass
+  vegetables:
+    enabled: true
+    skip_if_already: false
+    icon: iasurvival:tomato
+    name: display-category-vegetables
+    permission: ia.menu.seecategory.vegetables
+    items:
+      - iasurvival:tomato
+      - iasurvival:banana
+      - iasurvival:garlic
+      - iasurvival:lettuce
+      - iasurvival:chili_pepper
+      - iasurvival:pear
+      - iasurvival:rice
+  seeds:
+    enabled: true
+    skip_if_already: false
+    icon: iasurvival:tomato_seeds
+    name: display-category-seeds
+    permission: ia.menu.seecategory.seeds
+    items:
+      - iasurvival:tomato_seeds
+      - iasurvival:garlic_seeds
+      - iasurvival:lettuce_seeds
+      - iasurvival:chili_pepper_seeds
+      - iasurvival:rice_seeds
+      - iasurvival:tobacco_seeds
+  fishes:
+    enabled: true
+    skip_if_already: false
+    icon: iasurvival:blue_parrotfish
+    name: display-category-fishes
+    permission: ia.menu.seecategory.fishes
+    items:
+      - iasurvival:blue_parrotfish
+      - iasurvival:green_sunfish
+      - iasurvival:goldfish
+      - iasurvival:black_moor_goldfish
+      - iasurvival:tuna
+  blocks:
+    enabled: true
+    skip_if_already: false
+    icon: iasurvival:ruby_block
+    name: display-category-blocks
+    permission: ia.menu.seecategory.blocks
+    items:
+      - iasurvival:ruby_block
+      - iasurvival:crystal_block
+      - iasurvival:spinel_block
+      - iasurvival:turquoise_block
+      - iasurvival:aqua_aura_block
+      - iasurvival:dark_amethyst_block
+      - iasurvival:dark_amethyst_prism_block
+      - iasurvival:cassiterite_block
+      - iasurvival:restoration_table
+      - iasurvival:customization_table
+      - iasurvival:forgotten_crying_obsidian
+      - iasurvival:nice_stone
+      - iasurvival:nice_wood
+      - iasurvival:modern_stone
+      - iasurvival:modern_sandstone
+      - iasurvival:modern_quartz
+  ores:
+    enabled: true
+    skip_if_already: false
+    icon: iasurvival:ruby_ore
+    name: display-category-ores
+    permission: ia.menu.seecategory.ores
+    items:
+      - iasurvival:ruby_ore
+      - iasurvival:spinel_ore
+      - iasurvival:turquoise_ore
+      - iasurvival:aqua_aura_ore
+      - iasurvival:dark_amethyst_ore
+      - iasurvival:cassiterite_ore
+      - iasurvival:end_ore
+      - iasurvival:iron_dirt_ore
+      - iasurvival:gold_dirt_ore
+      - iasurvival:coal_dirt_ore
+      - iasurvival:blaze_powder_ore
+  minerals:
+    enabled: true
+    skip_if_already: false
+    icon: iasurvival:ruby
+    name: display-category-minerals
+    permission: ia.menu.seecategory.minerals
+    items:
+      - iasurvival:ruby
+      - iasurvival:crystal
+      - iasurvival:spinel
+      - iasurvival:turquoise
+      - iasurvival:aqua_aura
+      - iasurvival:dark_amethyst
+      - iasurvival:dark_amethyst_prism
+      - iasurvival:fossil
+      - iasurvival:cassiterite
+      - iasurvival:cassiterite_fragment
+      - iasurvival:raw_tin
+      - iasurvival:bronze_ingot
+      - iasurvival:philosopher_stone
+      - iasurvival:end_shard
+      - iasurvival:end_crystals
+      - iasurvival:end_ingot
+      - iasurvival:coal_nugget
+  various:
+    enabled: true
+    skip_if_already: false
+    icon: iasurvival:plastic
+    name: display-category-various
+    permission: ia.menu.seecategory.various
+    items:
+      - iasurvival:plastic
+      - iasurvival:plastic_plate
+      - iasurvival:iron_plate
+      - iasurvival:tobacco
+      - iasurvival:nest
+      - iasurvival:eggs_nest
+      - iasurvival:knife
+      - iasurvival:chisel
+      - iasurvival:cut_spruce_log
+      - iasurvival:letter
+      - iasurvival:sword_skin_rusteroth
+      - iasurvival:sword_skin_bloodnite
+      - iasurvival:sword_skin_vyderlight
+      - iasurvival:sword_skin_aqualight
+  machines:
+    enabled: true
+    skip_if_already: false
+    icon: iasurvival:coffee_machine
+    name: display-category-machines
+    permission: ia.menu.seecategory.machines
+    items:
+      - iasurvival:restoration_table
+      - iasurvival:customization_table

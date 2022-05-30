@@ -1,0 +1,44 @@
+info:
+  namespace: iasurvival
+recipes:
+  anvil_repair:
+    emerald_sword:
+      enabled: true
+      permission: iasurvival.swords.emerald_sword
+      ingredient: EMERALD_BLOCK
+      item: iasurvival:emerald_sword
+    firesword_sword:
+      enabled: true
+      permission: iasurvival.swords.firesword_sword
+      ingredient: BLAZE_POWDER
+      item: iasurvival:firesword_sword
+    ruby_sword:
+      enabled: true
+      permission: iasurvival.swords.ruby_sword
+      ingredient: iasurvival:ruby
+      item: iasurvival:ruby_sword
+    dark_amethyst_sword:
+      enabled: true
+      permission: iasurvival.swords.dark_amethyst_sword
+      ingredient: iasurvival:dark_amethyst
+      item: iasurvival:dark_amethyst_sword
+    ruby_dagger:
+      enabled: true
+      permission: iasurvival.swords.ruby_dagger
+      ingredient: iasurvival:ruby
+      item: iasurvival:ruby_dagger
+    sweets_sword:
+      enabled: true
+      permission: iasurvival.swords.sweets_sword
+      ingredient: iasurvival:sweet
+      item: iasurvival:sweets_sword
+    end_sword:
+      enabled: true
+      permission: iasurvival.swords.end_sword
+      ingredient: iasurvival:end_ingot
+      item: iasurvival:end_sword
+    bronze_sword:
+      enabled: true
+      permission: iasurvival.swords.bronze_sword
+      ingredient: iasurvival:bronze_ingot
+      item: iasurvival:bronze_sword

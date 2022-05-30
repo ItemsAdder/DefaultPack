@@ -1,0 +1,25 @@
+info:
+  namespace: iaweapons
+  dictionary-lang: tr
+dictionary:
+  display-name-ak47: Ak-47
+  display-name-clip: Klips
+  lore-1-clip: '&7Solda tut'
+  lore-2-clip: '&7çekim yaparken el'
+  lore-3-clip: '&7bir ak-47 ile'
+  display-name-firework_launcher: Havai Fişek Fırlatıcı
+  lore-1-firework_launcher: '&7Havai Fişek Roketini sol elinde tutun'
+  lore-2-firework_launcher: '&7ve şarj etmek için sağ tıklamayı basılı tutun'
+  lore-3-firework_launcher: '&7Havai Fişek Başlatıcı'
+  display-name-grenade: El bombası
+  display-name-hand_gun: Tabanca
+  display-name-projectile: Mermi
+  lore-1-projectile: '&7Solda tut'
+  lore-2-projectile: '&7çekim yaparken el'
+  lore-3-projectile: '&7silahla'
+  display-name-revolver: Revolver
+  display-name-shotgun: Pompalı tüfek
+  display-name-shotgun_cartridge: Av Tüfeği Kartuşu
+  lore-1-shotgun_cartridge: '&7Solda tut'
+  lore-2-shotgun_cartridge: '&7çekim yaparken el'
+  lore-3-shotgun_cartridge: '&7Pompalı'

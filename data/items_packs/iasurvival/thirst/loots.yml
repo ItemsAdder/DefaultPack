@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+loots:
+  mobs:
+    witch:
+      type: WITCH
+      items:
+        item_1:
+          item: iasurvival:bloody_mary
+          min_amount: 1
+          max_amount: 1
+          chance: 10

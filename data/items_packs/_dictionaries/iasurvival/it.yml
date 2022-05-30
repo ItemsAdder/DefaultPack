@@ -1,0 +1,215 @@
+info:
+  namespace: iasurvival
+  dictionary-lang: it
+dictionary:
+  display-name-dark_amethyst_helmet: Elmo di ametista
+  display-name-dark_amethyst_chestplate: Corazza di ametista
+  display-name-dark_amethyst_leggings: Gambiere di ametista
+  display-name-dark_amethyst_boots: Stivali di ametista
+  display-name-bronze_helmet: Elmo di bronzo
+  display-name-bronze_chestplate: Corazza id bronzo
+  display-name-bronze_leggings: Gambiere di bronzo
+  display-name-bronze_boots: Stivali di bronzo
+  display-name-emerald_helmet: Elmo di smeraldo
+  display-name-emerald_chestplate: Corazza di smeraldo
+  display-name-emerald_leggings: Gambiere di smeraldo
+  display-name-emerald_boots: Stivali di smeraldo
+  display-name-obsidian_helmet: Elmo di ossidiana
+  display-name-obsidian_chestplate: Corazza di ossidiana
+  display-name-obsidian_leggings: Gambiere di ossidiana
+  display-name-obsidian_boots: Stivali di ossidiana
+  display-name-ruby_helmet: Elmo di rubino
+  display-name-ruby_chestplate: Corazza di rubino
+  display-name-ruby_leggings: Gambiere rubino
+  display-name-ruby_boots: Stivali di rubino
+  display-name-modern_quartz: Quarzo moderno
+  display-name-modern_sandstone: Arenaria moderna
+  display-name-modern_stone: Pietra moderna
+  display-name-nice_stone: Pietra lavorata
+  display-name-nice_wood: Legno lavorato
+  display-name-dark_amethyst_block: Blocco di ametista oscura
+  display-name-dark_amethyst_prism_block: Blocco di prisma di ametista
+  display-name-aqua_aura_block: Blocco di aqua aura
+  display-name-crystal_block: Blocco di cristallo
+  display-name-ruby_block: Blocco di rubino
+  display-name-spinel_block: Blocco di spinel
+  display-name-turquoise_block: Blocco di turchese
+  display-name-black_bow: Arco tinto di nero
+  display-name-red_bow: Arco tinto di rosso
+  display-name-green_bow: Arco tinto di verde
+  display-name-blue_bow: Arco tinto di blu
+  display-name-purple_bow: Arco tinto di viola
+  display-name-cyan_bow: Arco tinto di ciano
+  display-name-tomato_seeds: Semi di pomodoro
+  display-name-garlic_seeds: Semi di aglio
+  display-name-lettuce_seeds: Semi di lattuga
+  display-name-chili_pepper_seeds: Semi di peperoncino
+  display-name-rice_seeds: Riso piantabile
+  display-name-tobacco_seeds: Semi di tabacco
+  display-name-black_moor_goldfish: Pesce rosso brughiera nero
+  display-name-blue_parrotfish: Pesce pappagallo blu
+  display-name-cod_nigiri: Nigiri di merluzzo
+  display-name-cooked_black_moor_goldfish: Pesce rosso brughiera nero cotto
+  display-name-cooked_blue_parrotfish: Pesce pappagallo blu cotto
+  display-name-cooked_goldfish: Pesce rosso cotto
+  display-name-cooked_green_sunfish: Pesce luna verde cotto
+  display-name-cooked_tuna: Tonno cotto
+  display-name-goldfish: Pesce rosso
+  display-name-green_sunfish: Pesce luna verde
+  display-name-pufferfish_nigiri: Nigiri di pesce palla
+  display-name-salmon_nigiri: Nigiri di salmone
+  display-name-tropical_fish_nigiri: Nigiri di pesce tropicale
+  display-name-tuna: Tonno
+  display-name-baguette: Baguette
+  display-name-broken_egg: Uovo rotto
+  display-name-cheese: Formaggio
+  display-name-chili_powder: Polvere di peperoncino
+  lore-1-chili_powder: '&7Ottenuto da'
+  lore-2-chili_powder: '&fPeperoncino'
+  display-name-chips: Patatine fritte confezionate
+  display-name-cooked_donut_base: Base per ciambella cotta
+  display-name-cooked_sausage: Salsiccia cotta
+  display-name-donut_base: Base per ciambella
+  display-name-dough: Impasto
+  display-name-flour: Farina
+  display-name-french_fries: Patatine fritte
+  display-name-fried_egg: Uovo fritto
+  display-name-fried_potato_sticks: Stick di patata fritti
+  display-name-hamburger: Hamburger
+  display-name-hotdog: Hotdog
+  display-name-jar: Barattolo
+  display-name-sweet_berries_jam_jar: Barattolo di marmellata di frutti di bosco
+  display-name-pear_jam_jar: Barattolo di marmellata di pere
+  display-name-apple_jam_jar: Barattolo di marmellata di mele
+  display-name-ketchup: Ketchup
+  lore-1-ketchup: '&7Ottenuto da una'
+  lore-2-ketchup: '&fBottiglia di ketchup'
+  display-name-ketchup_bottle: Bottiglia di ketchup
+  lore-1-ketchup_bottle: '&7Mettilo al centro del'
+  lore-2-ketchup_bottle: '&fbanco da lavoro &7per'
+  lore-3-ketchup_bottle: '&7ottenere del &fKetchup'
+  display-name-nether_donut: Ciambella del nether
+  display-name-peeled_potato: Patata sbucciata
+  display-name-pink_donut: Ciambella rosa
+  display-name-pizza: Pizza
+  display-name-potato_sticks: Stick di patata
+  display-name-sausage: Salsiccia
+  display-name-sliced_baguette: Fetta di baguette
+  display-name-sliced_bread: Fetta di pane
+  display-name-sliced_bread_with_apple_jam: Fetta di pane con marmellata di mele
+  display-name-sliced_bread_with_pear_jam: Fetta di pane con marmellata di pere
+  display-name-sliced_bread_with_sweet_berries_jam: Fetta di pane con marmellata di frutti di bosco
+  display-name-sliced_cheese: Fetta di formaggio
+  display-name-sliced_raw_beef: Fetta di carne cruda
+  display-name-sliced_roast_beef: Fetta di carne cotta
+  display-name-sweet: Caramella
+  display-name-sweet_stick: Stick di caramella
+  display-name-taco: Taco
+  display-name-banana: Banana
+  display-name-chili_pepper: Peperoncino
+  display-name-garlic: Aglio
+  display-name-lettuce: Lattuga
+  display-name-pear: Pera
+  display-name-rice: Riso
+  display-name-tomato: Pomodoro
+  display-name-customization_table: Banco da personalizzazione
+  display-name-restoration_table: Banco da restauro
+  display-name-dark_amethyst: Ametista
+  display-name-dark_amethyst_ore: Ametista grezzo
+  display-name-dark_amethyst_prism: Prisma di ametista
+  display-name-blaze_powder_ore: Minerale con polvere di blaze grezza
+  display-name-bronze_ingot: Lingotto di bronzo
+  display-name-raw_tin: Raw Tin
+  display-name-raw_tin_and_copper_ingot_dust: Raw Tin and Copper Ingot Dust
+  display-name-cassiterite: Cassiterite
+  display-name-cassiterite_block: Block of Cassiterite
+  display-name-cassiterite_fragment: Cassiterite Fragment
+  display-name-cassiterite_ore: Cassiterite Ore
+  display-name-coal_dirt_ore: Terra con carbone grezzo
+  display-name-coal_nugget: Pepita di carbone
+  display-name-crystal: Cristallo
+  display-name-end_crystals: Cristalli di minerale dell'end
+  display-name-end_ingot: Lingotti di minerale dell'end
+  display-name-end_ore: Minerale dell'End
+  display-name-end_shard: Scaglia di minerale dell'end
+  display-name-forgotten_crying_obsidian: '&9Forgotten Crying Obsidian'
+  display-name-fossil: Fossile
+  display-name-gold_dirt_ore: Terra con oro grezzo
+  display-name-iron_dirt_ore: Terra con ferro grezzo
+  display-name-knowledge_fragment: Frammento di conoscenza
+  display-name-ruby: Rubino
+  display-name-ruby_ore: Rubino grezzo
+  display-name-spinel: Spinel
+  display-name-spinel_ore: Spinel grezzo
+  display-name-turquoise: Turchese
+  display-name-turquoise_ore: Turchese grezzo
+  display-name-dark_amethyst_shield: Scudo di ametista
+  display-name-bronze_shield: Scudo di bronzo
+  display-name-ender_shield: Scudo dell'end
+  display-name-obsidian_shield: Scudo di ossidiana
+  display-name-ruby_shield: Scudo di rubino
+  display-name-dark_amethyst_sword: Spada di ametista
+  display-name-aqua_sword: Spada di aqua aura
+  display-name-bronze_sword: Spada di bronzo
+  display-name-crystal_sword: Spada di cristallo
+  display-name-end_sword: Spada dell'end
+  display-name-knife: Coltello
+  display-name-ruby_dagger: Pugnale di rubino
+  display-name-ruby_sword: Spada di rubino
+  display-name-aqualight_sword: Aqualight
+  display-name-bloodnite_sword: Bloodnite
+  display-name-emerald_sword: Spada di smeraldo
+  display-name-firesword_sword: Spada di fuoco
+  display-name-rusteroth_sword: Rusteroth
+  display-name-vyderlight_sword: Vyderlight
+  display-name-sweets_sword: Spada di caramelle
+  display-name-turquoise_sword: Spada di turchese
+  display-name-bloody_mary: Bloody Mary
+  display-name-coffee: Caffè
+  display-name-cola: Cola
+  display-name-cup_of_hot_water: Tazza con acqua calda
+  display-name-cup_of_water: Tazza con acqua
+  display-name-drink_glass: Bicchiere
+  display-name-empty_cup: Tazza vuota
+  display-name-hot_chocolate: Cioccolata calda
+  display-name-boiled_water_bucket: Secchio d'acqua bollita
+  display-name-waterskin: Otre
+  display-name-dark_amethyst_axe: Ascia di ametista
+  display-name-dark_amethyst_hoe: Zappa di ametista
+  display-name-dark_amethyst_pickaxe: Piccone di ametista
+  display-name-dark_amethyst_shovel: Pala di ametista
+  display-name-bronze_axe: Ascia di bronzo
+  display-name-bronze_hoe: Zappa di bronzo
+  display-name-bronze_pickaxe: Piccone di bronzo
+  display-name-bronze_shovel: Pala di bronzo
+  display-name-chisel: Scalpello
+  display-name-black_shears: Cesoie tinte di nero
+  display-name-red_shears: Cesoie tinte di rosso
+  display-name-green_shears: Cesoie tinte di verde
+  display-name-blue_shears: Cesoie tinte di blu
+  display-name-purple_shears: Cesoie tinte di viola
+  display-name-cyan_shears: Cesoie tinte di ciano
+  display-name-diamond_hammer: '&3&lMartello di diamante'
+  display-name-black_fishing_rod: Canna da pesca tinta di nero
+  display-name-red_fishing_rod: Canna da pesca tinta di rosso
+  display-name-green_fishing_rod: Canna da pesca tinta di verde
+  display-name-blue_fishing_rod: Canna da pesca tinta di blu
+  display-name-purple_fishing_rod: Canna da pesca tinta di viola
+  display-name-cyan_fishing_rod: Canna da pesca tinta di ciano
+  display-name-ruby_axe: Ascia di rubino
+  display-name-ruby_hoe: Zappa di rubino
+  display-name-ruby_pickaxe: Piccone di rubino
+  display-name-ruby_shovel: Pala di rubino
+  display-name-letter: Lettera
+  display-name-nest: Nido
+  display-name-eggs_nest: Nido con uova
+  display-name-plastic: Plastica
+  display-name-plastic_plate: Lastra di plastica
+  display-name-iron_plate: Lastra di ferro
+  display-name-tobacco: Tabacco
+  lore-1-end_sword: '&6[ &eSpecial effects &6]'
+  lore-2-end_sword: '&7Damage near hostile mobs'
+  display-name-sword_skin_rusteroth: "Sword Skin Rusteroth"
+  display-name-sword_skin_bloodnite: "Sword Skin Bloodnite"
+  display-name-sword_skin_vyderlight: "Sword Skin Vyderlight"
+  display-name-sword_skin_aqualight: "Sword Skin Aqualight"

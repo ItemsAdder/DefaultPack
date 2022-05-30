@@ -1,0 +1,23 @@
+info:
+  namespace: iasurvival
+items:
+  ruby_pickaxe:
+    enabled: true
+    display_name: display-name-ruby_pickaxe
+    permission: iasurvival.items.ruby_pickaxe
+    resource:
+      material: IRON_PICKAXE
+      generate: true
+      textures:
+        - item/tools/ruby_pickaxe
+    durability:
+      max_custom_durability: 180
+    lore:
+      - lore-blocked-enchants
+      - lore-enchantment-mending
+    blocked_enchants:
+      - MENDING
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 4
+        attackSpeed: 1.2

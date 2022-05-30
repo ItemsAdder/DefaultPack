@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  fried_egg:
+    enabled: true
+    display_name: display-name-fried_egg
+    permission: iasurvival.various.fried_egg
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/various/fried_egg
+    events:
+      eat:
+        feed:
+          amount: 5
+          saturation: 1.5

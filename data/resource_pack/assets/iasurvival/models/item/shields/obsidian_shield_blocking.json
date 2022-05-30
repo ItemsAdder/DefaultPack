@@ -1,0 +1,35 @@
+{
+    "parent": "iasurvival:item/shields/obsidian_shield",
+    "display": {
+    "thirdperson_righthand": {
+        "rotation": [ 32, 32, 6 ],
+        "translation": [ 6.8, 1.32, -3.4 ],
+        "scale": [ 1, 1, 1 ]
+    },
+    "thirdperson_lefthand": {
+        "rotation": [ 32, -148, -6 ],
+        "translation": [ 6.8, 1.32, -2.4 ],
+        "scale": [ 1, 1, 1 ]
+    },
+    "ground": {
+        "rotation": [ 1, -62, 78 ],
+        "translation": [ 7.56, 0, 0 ],
+        "scale": [ 0.7, 0.7, 0.7 ]
+    },
+    "firstperson_righthand": {
+        "rotation": [ 0, 90, 0 ],
+        "translation": [ -6, -1.51, -1 ],
+        "scale": [ 1, 1, 1 ]
+    },
+    "firstperson_lefthand": {
+        "rotation": [ 0, 90, 0 ],
+        "translation": [ -6, -1.51, 10 ],
+        "scale": [ 1, 1, 1 ]
+    },
+    "gui": {
+        "rotation": [ 0, -90, 0 ],
+        "translation": [ 0, 0, 0 ],
+        "scale": [ 1, 1, 1 ]
+        }
+    }
+}

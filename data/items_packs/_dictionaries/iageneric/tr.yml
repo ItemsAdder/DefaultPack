@@ -1,0 +1,46 @@
+info:
+  namespace: iageneric
+  dictionary-lang: tr
+dictionary:
+  display-name-bug_medal: '&6BugFinder madalyası'
+  lore-1-bug_medal: '&7Madalyayı kazanan'
+  lore-2-bug_medal: '&7çok iyi bir'
+  lore-3-bug_medal: '&7hata bulucu.'
+  display-name-cute_medal: '&6Zekâ madalyası'
+  lore-1-cute_medal: '&7Madalyayı kazanan'
+  lore-2-cute_medal: '&7en sevimli kişi.'
+  display-name-donator_medal: '&6Bağışçı madalyası'
+  lore-1-donator_medal: '&7Madalyayı kazanan'
+  lore-2-donator_medal: '&7en cömert.'
+  display-name-coin: Madeni para
+  display-name-banknote: Banknot
+  display-name-sack_of_money: Para Çuvalı
+  display-name-plastic_bag: Naylon poşet
+  display-name-light_blue_coupon: Genel Kupon
+  display-name-turquoise_coupon: Genel Kupon
+  display-name-purple_coupon: Genel Kupon
+  display-name-green_coupon: Genel Kupon
+  display-name-red_coupon: Genel Kupon
+  display-name-black_coupon: Genel Kupon
+  display-name-white_coupon: Genel Kupon
+  display-name-golden_coupon: Genel Kupon
+  display-name-blue_ring: Genel Yüzük
+  display-name-light_blue_ring: Genel Yüzük
+  display-name-turquoise_ring: Genel Yüzük
+  display-name-purple_ring: Genel Yüzük
+  display-name-green_ring: Genel Yüzük
+  display-name-red_ring: Genel Yüzük
+  display-name-black_ring: Genel Yüzük
+  display-name-white_ring: Genel Yüzük
+  display-name-golden_ring: Genel Yüzük
+  display-name-marriage_ring: Genel Yüzük
+  display-name-blue_key: Genel Anahtar
+  display-name-light_blue_key: Genel Anahtar
+  display-name-turquoise_key: Genel Anahtar
+  display-name-purple_key: Genel Anahtar
+  display-name-green_key: Genel Anahtar
+  display-name-red_key: Genel Anahtar
+  display-name-black_key: Genel Anahtar
+  display-name-white_key: Genel Anahtar
+  display-name-golden_key: Genel Anahtar
+  display-name-carton_box: Karton kutu

@@ -1,0 +1,31 @@
+info:
+  namespace: iavehicles
+  dictionary-lang: tr
+dictionary:
+  display-name-broomstick: Süpürge sopası
+  display-name-ufo: Ufo
+  display-name-oak_wood_plane: Meşe Ahşap Düzlem
+  display-name-spruce_wood_plane: Ladin Ahşap Düzlem
+  display-name-birch_wood_plane: Huş Ağacı Uçak
+  display-name-jungle_wood_plane: Orman Ahşap Düzlem
+  display-name-acacia_wood_plane: Akasya Ahşap Uçak
+  display-name-dark_oak_wood_plane: Koyu Meşe Ahşap Düzlem
+  display-name-white_go_cart: Beyaz Go-cart
+  display-name-orange_go_cart: Turuncu Go-cart
+  display-name-magenta_go_cart: Eflatun Go-cart
+  display-name-light_blue_go_cart: Açık Mavi Go-cart
+  display-name-yellow_go_cart: Sarı Go-cart
+  display-name-lime_go_cart: Lime Go-cart
+  display-name-pink_go_cart: Pembe Go-cart
+  display-name-gray_go_cart: Gri Go-cart
+  display-name-light_gray_go_cart: Açık Gri Go-cart
+  display-name-cyan_go_cart: Cyan Go-cart
+  display-name-purple_go_cart: Mor Go-cart
+  display-name-blue_go_cart: Mavi Go-cart
+  display-name-brown_go_cart: Kahverengi Go-cart
+  display-name-green_go_cart: Yeşil Go-cart
+  display-name-red_go_cart: Kırmızı Go-cart
+  display-name-black_go_cart: Siyah Go-cart
+  display-name-shopping_cart: Alışveriş kartı
+  display-name-ufo_toy: Ufo Oyuncak
+  lore-1-ufo_toy: '&7Uçmasını sağlamak için sağ tıklayın'

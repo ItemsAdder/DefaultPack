@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  bronze_ingot:
+    enabled: true
+    display_name: display-name-bronze_ingot
+    permission: iasurvival.items.bronze_ingot
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+        - item/ores/bronze_ingot

@@ -1,0 +1,14 @@
+info:
+  namespace: iaspecial_swords
+  dictionary-lang: zh_cn
+dictionary:
+  display-name-baseball_bat: 棒球棍
+  display-name-elucidator_sword: 阐释者
+  display-name-floating_sword: '&9&l浮动剑'
+  display-name-gandalf_stick: 甘道夫之杖
+  display-name-guitar_sword: 吉他剑
+  display-name-green_lightsaber: '&2&l光剑绿'
+  display-name-red_lightsaber: '&4&l光剑红'
+  display-name-blue_lightsaber: '&3&l光剑蓝'
+  display-name-masters_sword: '&6&l大师之剑'
+  display-name-repulser_sword: 逐暗者

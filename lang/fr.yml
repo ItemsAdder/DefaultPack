@@ -1,0 +1,136 @@
+attribute-armor: '&9+{value} points d''armure'
+attribute-toughness: '&9+{value} de robustesse'
+attribute-attack-damage: ' &2{value} points d''attaque'
+attribute-attack-speed: ' &2{value} de vitesse d''attaque'
+attribute-when-in-main-hand: '&7Dans la main principale :'
+attribute-when-in-off-hand: "&7When in Off Hand:"
+attribute-when-on-body: '&7Sur le corps :'
+attribute-when-on-feet: '&7Aux pieds :'
+attribute-when-on-head: '&7Sur la tête :'
+attribute-when-on-legs: '&7Aux jambes :'
+cannot-break-with-this-tool: '&cVous ne pouvez pas le casser avec cet outil'
+cannot-repair: '&cCet item ne peut pas être réparé'
+repaired-successfully: '&aL''item a été réparé avec succès !'
+cannot-set-durability: '&cImpossible de définir la durabilité !'
+set-durability-successfully: '&aLa durabilité a été définie !'
+crafting-no-recipe: '&eIl n''y a pas de recette valide pour cet item !'
+given-item: '&e{player} &aa reçu &e{item}'
+removed-item: '&aSuppression de &e{item} &ade &e{player}'
+lost-item: '&aVous avez perdu l''item &e{item}'
+item-not-found: '&cL''item &3{item} &cn''existe pas'
+items-count: '&bNombre d''items : &a{count}'
+lore-durability: '&7Durabilité : {value} / {max}'
+lore-usages: '&7Utilisation : {value}'
+model-id: '&bID du modèle : {value}'
+name-config: '&bNom dans la config : '
+no-craft-permission: '&eVous n''avez pas la permission de fabriquer cet item !'
+no-permission: '&cVous n''avez pas la permission d''utiliser cette commande !'
+no-permission-detail: '&cVous n''avez pas la permission &e{permission}'
+no-permission-short: '&cPas la permission'
+now-playing: '&fLecture en cours : {value}'
+obtained-item: '&aVous avez obtenu &e{item}'
+dropped-item-coords: '&aItem &e{item} &ajeté aux coordonnées {coords}'
+dropped-item-player: '&aItem &e{item} &adonné au joueur {player}'
+player-full-inventory: '&cL''inventaire de ce joueur est plein !'
+player-offline: '&eCe joueur est hors-ligne'
+prefix: '[ItemsAdder] '
+resourcepack-error: '&4Une erreur s''est produite avec le texture pack. Veuillez contacter
+  un administrateur !'
+resourcepack-kick-declined: '&4Vous devez accepter le texture pack ! Aussi assurez-vous
+  d''activer l''option ''Demander'' ou ''Activé'' dans les options du serveur'
+resourcepack-popup-message: "&6Welcome &b{player}, &6please accept the resourcepack to enjoy all the amazing features of our server.\n
+&aYou need to download it only once."
+wrong-command-usage: '&cMauvaise utilisation de la commande'
+emoji-gui-title: '&3&lListe des emojis'
+map-death-location: Lieu de mort
+fuel-indicator: '&b&lCarburant : {value}/{max}'
+drop-from-block: '&fDrop provenant d''un bloc'
+drop-from-mob: '&fDrop provenant d''un mob'
+drop-from-fishing: '&fDrop provenant de la pêche'
+get-from-trade-machine: '&fObtenu avec un distributeur'
+ia-button-worlds-populators: '&fInfo d''apparition du minerai'
+worlds: '&bMondes :'
+info: '&bInfo :'
+chance: '&f   Chance : &7{value}%'
+amount: '&f   Nombre : &7{value}'
+min-height: '&f   Hauteur min : &7{value}'
+max-height: '&f   Hauteur max : &7{value}'
+biome: '&f   Biome :'
+drops-itself: '&e   Drop tout seul'
+vehicle-fuel-items: '&eItems servant de carburants'
+fuel-item: '    &b{type} &7+{amount}'
+iarecipe-wrong-usage: '&cMauvais usage de la commande. Usage correct : &e/iarecipe
+  <nom item>&c, &aou tenez un item dans votre main'
+iarecipe-no-custom-item: '&cCe n''est pas un item personnalisé ! S''il vous plait
+  tenez un item personnalisé dans votre main &aou utilisez cette commande : &e/iarecipe
+  <nom item>'
+anvil-repair-info: '&fMatériel de réparation pour l''enclume'
+ia-title-menu-categories: '&3&lCatégories'
+ia-title-recipe-view: '&3&lAffichage du craft'
+ia-button-search: '&fRecherche...'
+ia-button-back: '&fRetour'
+ia-button-next-page: '&fPage suivante ->'
+ia-button-previous-page: '&f<- Page précédente'
+ia-button-next-recipe: '&fRecette suivante'
+ia-button-previous-recipe: '&fRecette précédente'
+ia-search-results: 'Résultat de la recherche'
+ia-smeling: '&fFusion'
+ia-smelting: '&fÉditer un item'
+ia-button-get-item: '&fRécupérer un item'
+ia-vanilla-type: '&fType vanilla'
+ia-model-id: '&fID du model'
+ia-title-crafting-view: '&fMenu principal'
+player-stat-value-read: '&eValeur : &b{value}'
+player-stat-value-write: '&eValeur changée !'
+ia-button-loot-blocks: '&fDrop provenant d''un bloc'
+ia-button-loot-mobs: '&fDrop provenant d''un mob'
+ia-button-loot-fishing: '&fDrop provenant de la pêche'
+ia-button-vehicle-fuel-items: '&eItems servant de carburant'
+nbt-rule: '&f   {rule} : &7{value}'
+resourcepack-not-ready: '&6Le texture pack n''est pas prêt. Il va être appliqué automatiquement
+  dans quelques secondes...'
+mob-summon: '&aMonstre apparu &6{mob} &aaux coordonnées &7{coords}'
+mob-kill: '&7{amount} &6{mob} &aont été tués dans les chunks chargés'
+mob-kill-all: 7{amount} &amonstres personnalisés ont été tués dans les chunks chargés
+mob-not-found: '&cImpossible de trouver le monstre &6{mob}'
+entity-not-found: "&cCan't find custom entity &6{entity}"
+liquid-analyzer-low-level: '&eCe niveau de liquide est trop bas. Veuillez vérifier
+  le bloc source principal'
+liquid-analyzer-no-liquid: '&cCe n''est pas un liquide'
+liquid-bucket-place-near-error: '&cIl y a un liquide personnalisé trop près de celui-ci,
+  veuillez éviter de les placer trop près'
+command-ingame-only: '&cVous ne pouvez pas exécuter cela depuis la console! Utilisez
+  cette commande dans le jeu'
+rightclick-a-block: '&6Maintenant, cliquez avec le bouton droit de la souris sur la
+  surface sur laquelle vous souhaitez faire apparaitre l''arbre'
+spawned-tree: '&aL''arbre est apparu avec succès !'
+spawned-tree-error: '&cImpossible de faire apparaître l''arbre ici !'
+tree-not-found: '&cL''arbre &3{item} &cn''existe pas'
+played-totem-animation: '&aAnimation du totem &e{totem} &aau joueur &e{player}'
+played-sound: '&aSon &e{sound} &7 joué (si existant) &aau joueur &e{player}'
+please-wait-events-cooldown: '&cVeuillez attendre &6{interval} &cavant d''utiliser
+  cet item'
+resourcepack-apply-title: '&a&lApplying resourcepack...'
+resourcepack-apply-subtitle: '&6Please be patient, it will take only some seconds!'
+ia-button-seed-result: '&fFrom seeds'
+player-stat-value-insufficient: '&cInsufficient {stat}! &7You need {rule}'
+tripwires-disabled: "&cTripwires are disabled on this server."
+font-image-chat-hover: "&fEmoji: {font_image}
+\nUsage: &7{placeholder}
+\n\n&eHINT:
+\n&7You can use the &e/e &7command to send public
+\nmessages/commands with emojis easier.
+\nWrite the emoji name and press &eTAB.
+\n
+\nExamples:
+\n&e/e Hello smile
+\n&7prints &fHello :smile:
+\n
+\n&e/e /tell Notch Hello smile
+\n&7sends the command &f/tell Notch Hello :smile:"
+ia-button-surface-decorators: "&fSpawn info"
+ia-button-trees-populators: "&fSpawn info"
+please-wait-command-cooldown: '&cPlease wait &6{interval} &cto use this command.'
+renamed-successfully: '&aItem renamed successfully!'
+cannot-rename: '&cThis item cannot be renamed'
+entity-not-found: '&cCan''t find custom entity &6{entity}'

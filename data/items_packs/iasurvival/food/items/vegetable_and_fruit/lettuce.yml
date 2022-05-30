@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  lettuce:
+    enabled: true
+    display_name: display-name-lettuce
+    permission: iasurvival.vegetable_and_fruit.lettuce
+    resource:
+      material: APPLE
+      generate: true
+      textures:
+        - item/food/vegetable_and_fruit/lettuce
+    events:
+      eat:
+        feed:
+          amount: 2
+          saturation: 2.4

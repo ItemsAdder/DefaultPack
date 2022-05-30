@@ -1,0 +1,35 @@
+info:
+  namespace: iaalchemy
+  enabled: true
+worlds_populators:
+  mysterious_ore:
+    block: iaalchemy:mysterious_ore
+    worlds:
+      - world
+    replaceable_blocks:
+      - STONE
+      - DIRT
+      - ANDESITE
+      - GRANITE
+      - COBBLESTONE
+      - GRAVEL
+      - DEEPSLATE
+      - COBBLED_DEEPSLATE
+      - CALCITE
+      - TUFF
+    chunk_chance: 30
+    max_height: -30
+    min_height: -40
+    vein_blocks: 1
+    chunk_veins: 1
+  nether_alchemy_ore:
+    block: iaalchemy:nether_alchemy_ore
+    worlds:
+      - world_nether
+    replaceable_blocks:
+      - NETHERRACK
+    chunk_chance: 8
+    max_height: 255
+    min_height: 0
+    vein_blocks: 4
+    chunk_veins: 1

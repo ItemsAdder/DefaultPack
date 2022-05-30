@@ -1,0 +1,217 @@
+info:
+  namespace: iasurvival
+  dictionary-lang: en
+dictionary:
+  display-name-dark_amethyst_helmet: Dark Amethyst Helmet
+  display-name-dark_amethyst_chestplate: Dark Amethyst Chestplate
+  display-name-dark_amethyst_leggings: Dark Amethyst Leggings
+  display-name-dark_amethyst_boots: Dark Amethyst Boots
+  display-name-bronze_helmet: Bronze Helmet
+  display-name-bronze_chestplate: Bronze Chestplate
+  display-name-bronze_leggings: Bronze Leggings
+  display-name-bronze_boots: Bronze Boots
+  display-name-emerald_helmet: Emerald Helmet
+  display-name-emerald_chestplate: Emerald Chestplate
+  display-name-emerald_leggings: Emerald Leggings
+  display-name-emerald_boots: Emerald Boots
+  display-name-obsidian_helmet: Obsidian Helmet
+  display-name-obsidian_chestplate: Obsidian Chestplate
+  display-name-obsidian_leggings: Obsidian Leggings
+  display-name-obsidian_boots: Obsidian Boots
+  display-name-ruby_helmet: Ruby Helmet
+  display-name-ruby_chestplate: Ruby Chestplate
+  display-name-ruby_leggings: Ruby Leggings
+  display-name-ruby_boots: Ruby Boots
+  display-name-modern_quartz: Modern Quartz
+  display-name-modern_sandstone: Modern Sandstone
+  display-name-modern_stone: Modern Stone
+  display-name-nice_stone: Nice Stone
+  display-name-nice_wood: Nice Wood
+  display-name-dark_amethyst_block: Block of Dark Amethyst
+  display-name-dark_amethyst_prism_block: Block of Dark Amethyst Prism
+  display-name-aqua_aura_block: Block of Aqua Aura
+  display-name-crystal_block: Block of Crystal
+  display-name-ruby_block: Block of Ruby
+  display-name-spinel_block: Block of Spinel
+  display-name-turquoise_block: Block of Turquoise
+  display-name-black_bow: Black Dyed Bow
+  display-name-red_bow: Red Dyed Bow
+  display-name-green_bow: Green Dyed Bow
+  display-name-blue_bow: Blue Dyed Bow
+  display-name-purple_bow: Purple Dyed Bow
+  display-name-cyan_bow: Cyan Dyed Bow
+  display-name-tomato_seeds: Tomato Seeds
+  display-name-garlic_seeds: Garlic Seeds
+  display-name-lettuce_seeds: Lettuce Seeds
+  display-name-chili_pepper_seeds: Chili Pepper Seeds
+  display-name-rice_seeds: Rice Seeds
+  display-name-tobacco_seeds: Tobacco Seeds
+  display-name-black_moor_goldfish: Black Moor Goldfish
+  display-name-blue_parrotfish: Blue Parrotfish
+  display-name-cod_nigiri: Cod Nigiri
+  display-name-cooked_black_moor_goldfish: Cooked Black Moor Goldfish
+  display-name-cooked_blue_parrotfish: Cooked Blue Parrotfish
+  display-name-cooked_goldfish: Cooked Goldfish
+  display-name-cooked_green_sunfish: Cooked Green Sunfish
+  display-name-cooked_tuna: Cooked Tuna
+  display-name-goldfish: Goldfish
+  display-name-green_sunfish: Green Sunfish
+  display-name-pufferfish_nigiri: Pufferfish Nigiri
+  display-name-salmon_nigiri: Salmon Nigiri
+  display-name-tropical_fish_nigiri: Tropical Fish Nigiri
+  display-name-tuna: Tuna
+  display-name-baguette: Baguette
+  display-name-broken_egg: Broken egg
+  display-name-cheese: Cheese
+  display-name-chili_powder: Chili Powder
+  lore-1-chili_powder: '&7Obtained from'
+  lore-2-chili_powder: '&7chili pepper'
+  display-name-chips: Chips
+  display-name-cooked_donut_base: Cooked Donut base
+  display-name-cooked_sausage: Cooked Sausage
+  display-name-donut_base: Donut base
+  display-name-dough: Dough
+  display-name-flour: Flour
+  display-name-french_fries: French Fries
+  display-name-fried_egg: Fried egg
+  display-name-fried_potato_sticks: Fried Potato Sticks
+  display-name-hamburger: Hamburger
+  display-name-hotdog: Hotdog
+  display-name-jar: Jar
+  display-name-sweet_berries_jam_jar: Sweet Berries Jam Jar
+  display-name-pear_jam_jar: Pear Jam Jar
+  display-name-apple_jam_jar: Apple Jam Jar
+  display-name-ketchup: Ketchup
+  lore-1-ketchup: '&7Obtained from'
+  lore-2-ketchup: '&7ketchup bottle'
+  display-name-ketchup_bottle: Ketchup Bottle
+  lore-1-ketchup_bottle: '&7Put in the crafting table'
+  lore-2-ketchup_bottle: '&7middle slot to get'
+  lore-3-ketchup_bottle: '&7some Ketchup'
+  display-name-nether_donut: Nether Donut
+  display-name-peeled_potato: Peeled Potato
+  display-name-pink_donut: Pink Donut
+  display-name-pizza: Pizza
+  display-name-potato_sticks: Potato Sticks
+  display-name-sausage: Sausage
+  display-name-sliced_baguette: Sliced Baguette
+  display-name-sliced_bread: Sliced Bread
+  display-name-sliced_bread_with_apple_jam: Sliced Bread With Apple Jam
+  display-name-sliced_bread_with_pear_jam: Sliced Bread With Pear Jam
+  display-name-sliced_bread_with_sweet_berries_jam: Sliced Bread With Sweet Barries Jam
+  display-name-sliced_cheese: Sliced Cheese
+  display-name-sliced_raw_beef: Sliced Raw Beef
+  display-name-sliced_roast_beef: Sliced Roast Beef
+  display-name-sweet: Sweet
+  display-name-sweet_stick: Sweet stick
+  display-name-taco: Taco
+  display-name-banana: Banana
+  display-name-chili_pepper: Chili pepper
+  display-name-garlic: Garlic
+  display-name-lettuce: Lettuce
+  display-name-pear: Pear
+  display-name-rice: Rice
+  display-name-tomato: Tomato
+  display-name-customization_table: Customization Table
+  display-name-restoration_table: Restoration Table
+  display-name-dark_amethyst: Dark Amethyst
+  display-name-dark_amethyst_ore: Dark Amethyst Ore
+  display-name-dark_amethyst_prism: Dark Amethyst prism
+  display-name-aqua_aura: Aqua Aura
+  display-name-aqua_aura_ore: Aqua Aura Ore
+  display-name-blaze_powder_ore: Blaze Powder Ore
+  display-name-bronze_ingot: Bronze Ingot
+  display-name-raw_tin: Raw Tin
+  display-name-raw_tin_and_copper_ingot_dust: Raw Tin and Copper Ingot Dust
+  display-name-cassiterite: Cassiterite
+  display-name-cassiterite_block: Block of Cassiterite
+  display-name-cassiterite_fragment: Cassiterite Fragment
+  display-name-cassiterite_ore: Cassiterite Ore
+  display-name-coal_dirt_ore: Coal Dirt Ore
+  display-name-coal_nugget: Coal Nugget
+  display-name-crystal: Crystal
+  display-name-end_crystals: End Crystals
+  display-name-end_ingot: End Ingot
+  display-name-end_ore: End Ore
+  display-name-end_shard: End Shard
+  display-name-forgotten_crying_obsidian: '&9Forgotten Crying Obsidian'
+  display-name-fossil: Fossil
+  display-name-gold_dirt_ore: Gold Dirt Ore
+  display-name-iron_dirt_ore: Iron Dirt Ore
+  display-name-knowledge_fragment: Knowledge Fragment
+  display-name-ruby: Ruby
+  display-name-ruby_ore: Ruby Ore
+  display-name-spinel: Spinel
+  display-name-spinel_ore: Spinel Ore
+  display-name-turquoise: Turquoise
+  display-name-turquoise_ore: Turquoise Ore
+  display-name-dark_amethyst_shield: Dark Amethyst Shield
+  display-name-bronze_shield: Bronze Shield
+  display-name-ender_shield: Ender Shield
+  display-name-obsidian_shield: Obsidian Shield
+  display-name-ruby_shield: Ruby Shield
+  display-name-dark_amethyst_sword: Dark Amethyst Sword
+  display-name-aqua_sword: Aqua Aura Sword
+  display-name-bronze_sword: Bronze Sword
+  display-name-crystal_sword: Crystal Sword
+  display-name-end_sword: End Sword
+  display-name-knife: Knife
+  display-name-ruby_dagger: Ruby dagger
+  display-name-ruby_sword: Ruby Sword
+  display-name-aqualight_sword: Aqualight
+  display-name-bloodnite_sword: Bloodnite
+  display-name-emerald_sword: Emerald Sword
+  display-name-firesword_sword: Fire Sword
+  display-name-rusteroth_sword: Rusteroth
+  display-name-vyderlight_sword: Vyderlight
+  display-name-sweets_sword: Sweets Sword
+  display-name-turquoise_sword: Turquoise Sword
+  display-name-bloody_mary: Bloody Mary
+  display-name-coffee: Coffee
+  display-name-cola: Cola
+  display-name-cup_of_hot_water: Cup of hot water
+  display-name-cup_of_water: Cup of water
+  display-name-drink_glass: Drink Glass
+  display-name-empty_cup: Empty cup
+  display-name-hot_chocolate: Hot chocolate
+  display-name-boiled_water_bucket: Boiled Water Bucket
+  display-name-waterskin: Waterskin
+  display-name-dark_amethyst_axe: Dark Amethyst Axe
+  display-name-dark_amethyst_hoe: Dark Amethyst hoe
+  display-name-dark_amethyst_pickaxe: Dark Amethyst Pickaxe
+  display-name-dark_amethyst_shovel: Dark Amethyst Shovel
+  display-name-bronze_axe: Bronze Axe
+  display-name-bronze_hoe: Bronze hoe
+  display-name-bronze_pickaxe: Bronze Pickaxe
+  display-name-bronze_shovel: Bronze Shovel
+  display-name-chisel: Chisel
+  display-name-black_shears: Black Dyed Shears
+  display-name-red_shears: Red Dyed Shears
+  display-name-green_shears: Green Dyed Shears
+  display-name-blue_shears: Blue Dyed Shears
+  display-name-purple_shears: Purple Dyed Shears
+  display-name-cyan_shears: Cyan Dyed Shears
+  display-name-diamond_hammer: '&3&lDiamond hammer'
+  display-name-black_fishing_rod: Black Dyed Fishing Rod
+  display-name-red_fishing_rod: Red Dyed Fishing Rod
+  display-name-green_fishing_rod: Green Dyed Fishing Rod
+  display-name-blue_fishing_rod: Blue Dyed Fishing Rod
+  display-name-purple_fishing_rod: Purple Dyed Fishing Rod
+  display-name-cyan_fishing_rod: Cyan Dyed Fishing Rod
+  display-name-ruby_axe: Ruby Axe
+  display-name-ruby_hoe: Ruby hoe
+  display-name-ruby_pickaxe: Ruby Pickaxe
+  display-name-ruby_shovel: Ruby Shovel
+  display-name-letter: Letter
+  display-name-nest: Nest
+  display-name-eggs_nest: Eggs Nest
+  display-name-plastic: Plastic
+  display-name-plastic_plate: Plastic plate
+  display-name-iron_plate: Iron Plate
+  display-name-tobacco: Tobacco
+  lore-1-end_sword: '&6[ &eSpecial effects &6]'
+  lore-2-end_sword: '&7Damage near hostile mobs'
+  display-name-sword_skin_rusteroth: "Sword Skin Rusteroth"
+  display-name-sword_skin_bloodnite: "Sword Skin Bloodnite"
+  display-name-sword_skin_vyderlight: "Sword Skin Vyderlight"
+  display-name-sword_skin_aqualight: "Sword Skin Aqualight"

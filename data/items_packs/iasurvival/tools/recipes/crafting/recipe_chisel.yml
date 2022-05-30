@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    chisel:
+      permission: iasurvival.chisel
+      enabled: true
+      pattern:
+        - XXX
+        - XXI
+        - XSX
+      ingredients:
+        I: IRON_INGOT
+        S: STICK
+      result:
+        item: iasurvival:chisel
+        amount: 1

@@ -1,0 +1,25 @@
+info:
+  namespace: iaweapons
+  dictionary-lang: fr
+dictionary:
+  display-name-ak47: Ak-47
+  display-name-clip: Attache
+  lore-1-clip: '&7Tenez-le dans votre main'
+  lore-2-clip: '&7gauche pour tirer'
+  lore-3-clip: '&7avec l''ak-47'
+  display-name-firework_launcher: Lance Roquette
+  lore-1-firework_launcher: '&7Tenir la fusée d''artifice dans la main gauche'
+  lore-2-firework_launcher: '&7et maintenez le clic droit pour recharger'
+  lore-3-firework_launcher: '&7le lanceur de feux d''artifice'
+  display-name-grenade: Grenade
+  display-name-hand_gun: Pistolet
+  display-name-projectile: Projectile
+  lore-1-projectile: '&7Tenez-le dans votre main'
+  lore-2-projectile: '&7gauche pour tirer'
+  lore-3-projectile: '&7avec le pistolet'
+  display-name-revolver: Revolver
+  display-name-shotgun: Fusil à pompe
+  display-name-shotgun_cartridge: Cartouche de fusil de chasse
+  lore-1-shotgun_cartridge: '&7Tenez-le dans votre main'
+  lore-2-shotgun_cartridge: '&7gauche pour tirer'
+  lore-3-shotgun_cartridge: '&7avec le fusil de chasse'

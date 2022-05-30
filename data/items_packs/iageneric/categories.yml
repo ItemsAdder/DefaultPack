@@ -1,0 +1,47 @@
+info:
+  namespace: iageneric
+categories:
+  generic_items:
+    enabled: true
+    skip_if_already: false
+    icon: iageneric:light_blue_coupon
+    name: display-category-generic_items
+    permission: ia.menu.seecategory.generic_items
+    items:
+      - iageneric:light_blue_coupon
+      - iageneric:turquoise_coupon
+      - iageneric:purple_coupon
+      - iageneric:green_coupon
+      - iageneric:green_coupon
+      - iageneric:red_coupon
+      - iageneric:black_coupon
+      - iageneric:white_coupon
+      - iageneric:golden_coupon
+      - iageneric:blue_ring
+      - iageneric:light_blue_ring
+      - iageneric:turquoise_ring
+      - iageneric:purple_ring
+      - iageneric:green_ring
+      - iageneric:red_ring
+      - iageneric:black_ring
+      - iageneric:white_ring
+      - iageneric:golden_ring
+      - iageneric:marriage_ring
+      - iageneric:blue_key
+      - iageneric:light_blue_key
+      - iageneric:turquoise_key
+      - iageneric:purple_key
+      - iageneric:green_key
+      - iageneric:red_key
+      - iageneric:black_key
+      - iageneric:white_key
+      - iageneric:golden_key
+      - iageneric:sack_of_money
+      - iageneric:coin
+      - iageneric:carton_box
+      - iageneric:plastic_bag
+      - iageneric:bug_medal
+      - iageneric:cute_medal
+      - iageneric:donator_medal
+      - iageneric:banknote
+      - iageneric:coin

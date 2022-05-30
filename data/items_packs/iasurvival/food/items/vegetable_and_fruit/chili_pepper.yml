@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  chili_pepper:
+    enabled: true
+    display_name: display-name-chili_pepper
+    permission: iasurvival.vegetable_and_fruit.chili_pepper
+    resource:
+      material: APPLE
+      generate: true
+      textures:
+        - item/food/vegetable_and_fruit/chili_pepper
+    events:
+      eat:
+        feed:
+          amount: 1
+          saturation: 0.5

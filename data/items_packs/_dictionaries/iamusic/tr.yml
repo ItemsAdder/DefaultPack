@@ -1,0 +1,10 @@
+info:
+  namespace: iamusic
+  dictionary-lang: tr
+dictionary:
+  display-name-blank_disc: Boş Disk
+  lore-1-blank_disc: '&7Craft yapmak için kullanılabilir'
+  lore-2-blank_disc: '&7müzik diskleri'
+  display-name-music_disc_electric_keys: '&bMüzik Diski'
+  display-name-music_disc_cdk_sunday: '&bMüzik Diski'
+  display-name-music_disc_vidian_aether_theories: '&bMüzik Diski'

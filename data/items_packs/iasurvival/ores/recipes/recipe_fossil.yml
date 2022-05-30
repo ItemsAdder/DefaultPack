@@ -1,0 +1,16 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    fossil:
+      enabled: true
+      permission: iasurvival.fossil
+      pattern:
+        - FFF
+        - FFF
+        - FFF
+      ingredients:
+        F: iasurvival:fossil
+      result:
+        item: BONE_BLOCK
+        amount: 1

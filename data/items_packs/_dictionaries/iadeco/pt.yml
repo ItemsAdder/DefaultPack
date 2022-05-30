@@ -1,0 +1,73 @@
+info:
+  namespace: iadeco
+  dictionary-lang: pt
+dictionary:
+  display-name-white_bar_chair: Cadeira de Bar Branca
+  display-name-orange_bar_chair: Cadeira de Bar Laranja
+  display-name-magenta_bar_chair: Cadeira de Bar Magenta
+  display-name-light_blue_bar_chair: Cadeira de Bar Azul Claro
+  display-name-yellow_bar_chair: Cadeira de Bar Amarela
+  display-name-lime_bar_chair: Cadeira de Bar Verde Lima
+  display-name-pink_bar_chair: Cadeira de Bar Cor-de-Rosa
+  display-name-gray_bar_chair: Cadeira de Bar Cinzenta
+  display-name-light_gray_bar_chair: Cadeira de Bar Cinza Claro
+  display-name-cyan_bar_chair: Cadeira de Bar Azul Ciano
+  display-name-purple_bar_chair: Cadeira de Bar Roxa
+  display-name-blue_bar_chair: Cadeira de Bar Azul
+  display-name-brown_bar_chair: Cadeira de Bar Castanho
+  display-name-green_bar_chair: Cadeira de Bar Verde
+  display-name-red_bar_chair: Cadeira de Bar Vermelha
+  display-name-black_bar_chair: Cadeira de Bar Preta
+  display-name-computer_chair: Mesa de Computador
+  lore-chair: '&7Lado Direito do Rato para te sentares'
+  display-name-school_chair: Cadeira de Escola
+  display-name-school_chair_lazy: Cadeira de Escola p/ Preguiçosos
+  display-name-simple_chair: Cadeira Simples
+  display-name-white_chair: Cadeira Branca
+  display-name-white_wood_chair: Cadeira de Madeira Branca
+  display-name-orange_wood_chair: Cadeira de Madeira Laranja
+  display-name-magenta_wood_chair: Cadeira de Madeira Magenta
+  display-name-light_blue_wood_chair: Cadeira de Madeira Azul Claro
+  display-name-yellow_wood_chair: Cadeira de Madeira Amarela
+  display-name-lime_wood_chair: Cadeira de Madeira Verde Lima
+  display-name-pink_wood_chair: Cadeira de Madeira Cor-de-Rosa
+  display-name-gray_wood_chair: Cadeira de Madeira Cinzenta
+  display-name-light_gray_wood_chair: Cadeira de Madeira Cinza Clao
+  display-name-cyan_wood_chair: Cadeira de Madeira Azul Ciano
+  display-name-purple_wood_chair: Cadeira de Madeira Roxa
+  display-name-blue_wood_chair: Cadeira de Madeira Azul
+  display-name-brown_wood_chair: Cadeira de Madeira Castanha
+  display-name-green_wood_chair: Cadeira de Madeira Verde
+  display-name-red_wood_chair: Cadeira de Madeira Vermelha
+  display-name-black_wood_chair: Cadeira de Madeira Preta
+  display-name-white_chandeliers: Candelabro Branco
+  display-name-black_chandeliers: Candelabro Preto
+  display-name-black_and_red_chandeliers: Candelabro Preto e Vermelho
+  display-name-coffee_machine: Maquina de Café
+  lore-1-coffee_machine: '&7Faz café muito bom!'
+  display-name-computer_desk: Secretária com Computador
+  lore-decorative-item: '&7Artigo Decorativo'
+  display-name-dark_throne: Trono Preto
+  display-name-glass_table: Mesa de Vidro
+  display-name-lamp: Candeeiro
+  display-name-lava_lamp: Candeeiro de Lava
+  display-name-lit_campfire: Fogueira Acesa
+  display-name-mini_fridge: Mini frigorifico
+  display-name-monitor: Monitor
+  display-name-old_clock: Relógio Antigo
+  display-name-opened_chest: Báu Aberto
+  display-name-painting_burst: Quadro
+  display-name-painting_courbet: Quadro
+  display-name-painting_graham: Quadro
+  display-name-painting_match: Quadro
+  display-name-painting_pool: Quadro
+  display-name-painting_skull_and_roses: Quadro
+  display-name-painting_stage: Quadro
+  display-name-painting_void: Quadro
+  display-name-painting_wanderer: Quadro
+  display-name-small_fountain: Fonte Pequena
+  display-name-table: Mesa
+  display-name-tv: TV
+  display-name-vending_machine: Maquina de Venda Automatica
+  lore-1-vending_machine: '&7Usa para comprar artigos'
+  display-name-cut_spruce_log: Tronco de Abeto Cortado

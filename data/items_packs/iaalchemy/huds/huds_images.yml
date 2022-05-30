@@ -1,0 +1,39 @@
+info:
+  namespace: iaalchemy
+font_images:
+  mana_bar_0:
+    suggest_in_command: false
+    show_in_gui: false
+    path: hud/mana_bar/0
+    y_position: -15
+    scale_ratio: 50
+  mana_bar_1:
+    suggest_in_command: false
+    show_in_gui: false
+    path: hud/mana_bar/1
+    y_position: -15
+    scale_ratio: 50
+  mana_bar_2:
+    suggest_in_command: false
+    show_in_gui: false
+    path: hud/mana_bar/2
+    y_position: -15
+    scale_ratio: 50
+  mana_bar_3:
+    suggest_in_command: false
+    show_in_gui: false
+    path: hud/mana_bar/3
+    y_position: -15
+    scale_ratio: 50
+  mana_bar_4:
+    suggest_in_command: false
+    show_in_gui: false
+    path: hud/mana_bar/4
+    y_position: -15
+    scale_ratio: 50
+  mana_bar_5:
+    suggest_in_command: false
+    show_in_gui: false
+    path: hud/mana_bar/5
+    y_position: -15
+    scale_ratio: 50

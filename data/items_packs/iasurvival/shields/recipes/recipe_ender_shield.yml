@@ -1,0 +1,18 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    ender_shield:
+      permission: iasurvival.ender_shield
+      enabled: true
+      pattern:
+        - TET
+        - TOT
+        - XTX
+      ingredients:
+        E: ENDER_PEARL
+        T: iasurvival:end_ingot
+        O: OBSIDIAN
+      result:
+        item: iasurvival:ender_shield
+        amount: 1

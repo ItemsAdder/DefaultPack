@@ -1,0 +1,31 @@
+info:
+  namespace: iawearables
+  dictionary-lang: es
+dictionary:
+  display-name-deadmau5_hat: '&9Gorro_de_Deadmau5'
+  display-name-top_hat: Galera
+  display-name-welding_mask: Mascara de Soldar
+  display-name-mining_helmet: Casco de Minero
+  display-name-dog_mask: Mascara de Perro
+  display-name-ruby_pickaxe_hat: Gorro de Pico de Rubí
+  display-name-straw_hat: Sombrero de Paja
+  display-name-cool_sunglasses: Gafas Cool
+  display-name-cigar: Cigarro
+  display-name-glasses: Gafas
+  display-name-biker_helmet: Casco de Ciclista
+  display-name-cat_ears: Orejas de Gato
+  display-name-demoniac_red_wings: Alas Demoniacas Rojas
+  display-name-demoniac_turquoise_wings: Alas Demoniacas Turquesa
+  display-name-demoniac_purple_wings: Alas Demoniacas Púrpura
+  display-name-demoniac_blue_wings: Alas Demoniacas Azules
+  display-name-demoniac_black_wings: Alas Demoniacas Negras
+  display-name-all_black_cat_tail: Cola de Gato Negro Total
+  display-name-black_cat_tail: Cola de Gato Negra
+  display-name-white_cat_tail: Cola de Gato Blanca
+  display-name-ender_dragon_wings: Alas de la Dragona del End
+  display-name-red_backpack: Mochila Roja
+  display-name-turquoise_backpack: Mochila Turquesa
+  display-name-purple_backpack: Mochila Púrpura
+  display-name-blue_backpack: Mochila Azul
+  display-name-black_backpack: Mochila Negra
+  display-name-brown_backpack: Mochila Marrón

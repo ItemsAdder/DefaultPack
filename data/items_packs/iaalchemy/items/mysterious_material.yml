@@ -1,0 +1,12 @@
+info:
+  namespace: iaalchemy
+items:
+  mysterious_material:
+    enabled: true
+    display_name: display-name-mysterious_material
+    permission: iaalchemy.items.mysterious_material
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+        - item/mysterious_material

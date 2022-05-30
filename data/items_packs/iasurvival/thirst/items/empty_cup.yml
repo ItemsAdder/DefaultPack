@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  empty_cup:
+    enabled: true
+    display_name: display-name-empty_cup
+    permission: iasurvival.items.empty_cup
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/thirst/empty_cup

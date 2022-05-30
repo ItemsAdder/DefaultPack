@@ -1,0 +1,18 @@
+info:
+  namespace: iafestivities
+  dictionary-lang: zh_cn
+dictionary:
+  display-name-christmas_candle: 圣诞蜡烛
+  display-name-christmas_tree: 圣诞树
+  display-name-christmas_wreath: 圣诞花环
+  display-name-decorative_candy_cane: 装饰糖果棍
+  display-name-santa_hat: '&c圣诞老人帽'
+  display-name-axe_hat: 斧子帽
+  display-name-bat_wings: 蝙蝠翅膀
+  display-name-bones_backpack: 骷髅&f背包
+  display-name-cave_spider_backpack: 洞穴蜘蛛&f背包
+  display-name-dark_jack_o_lantern_backpack: '&4黑色南瓜杰克的双肩包'
+  display-name-decorative_pumpkin: 装饰南瓜
+  display-name-jack_o_lantern_backpack: '&6南瓜杰克的双肩包'
+  display-name-spider_backpack: 蜘蛛&f背包
+  display-name-witch_hat: 女巫帽

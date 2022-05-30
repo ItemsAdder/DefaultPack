@@ -1,0 +1,83 @@
+info:
+  namespace: iasurvival
+items:
+  ruby_helmet:
+    enabled: true
+    display_name: display-name-ruby_helmet
+    permission: iasurvival.items.ruby_armor.ruby_helmet
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 95
+    lore:
+      - lore-blocked-enchants
+      - lore-enchantment-mending
+    blocked_enchants:
+      - MENDING
+    specific_properties:
+      armor:
+        slot: head
+        color: ff0000
+    attribute_modifiers:
+      head:
+        armor: 2.5
+  ruby_chestplate:
+    enabled: true
+    display_name: display-name-ruby_chestplate
+    permission: iasurvival.items.ruby_armor.ruby_chestplate
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 125
+    lore:
+      - lore-blocked-enchants
+      - lore-enchantment-mending
+    blocked_enchants:
+      - MENDING
+    specific_properties:
+      armor:
+        slot: chest
+        color: ff0000
+    attribute_modifiers:
+      chest:
+        armor: 5
+  ruby_leggings:
+    enabled: true
+    display_name: display-name-ruby_leggings
+    permission: iasurvival.items.ruby_armor.ruby_leggings
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 100
+    lore:
+      - lore-blocked-enchants
+      - lore-enchantment-mending
+    blocked_enchants:
+      - MENDING
+    specific_properties:
+      armor:
+        slot: legs
+        color: ff0000
+    attribute_modifiers:
+      legs:
+        armor: 4.5
+  ruby_boots:
+    enabled: true
+    display_name: display-name-ruby_boots
+    permission: iasurvival.items.ruby_armor.ruby_boots
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 80
+    lore:
+      - lore-blocked-enchants
+      - lore-enchantment-mending
+    blocked_enchants:
+      - MENDING
+    specific_properties:
+      armor:
+        slot: FEET
+        color: ff0000
+    attribute_modifiers:
+      feet:
+        armor: 2

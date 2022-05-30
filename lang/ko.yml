@@ -1,0 +1,102 @@
+attribute-armor: "&9+{value} 방어"
+attribute-toughness: "&9+{value} 방어 강도"
+attribute-attack-damage: " &2{value} 공격 피해"
+attribute-attack-speed: " &2{value} 공격 속도"
+attribute-when-in-main-hand: "&7주로 사용하는 손에 있을 때:"
+attribute-when-in-off-hand: "&7When in Off Hand:"
+attribute-when-on-body: "&7몸에 있을 때:"
+attribute-when-on-feet: "&7발에 있을 때:"
+attribute-when-on-head: "&7머리에 있을 때:"
+attribute-when-on-legs: "&7다리에 있을 때:"
+cannot-break-with-this-tool: "&c이 도구로는 부술 수 없습니다."
+cannot-repair: "&c이 아이템은 수리할 수 없습니다."
+repaired-successfully: "&a아이템이 수리되었습니다!"
+cannot-set-durability: "&c내구도를 설정할 수 없습니다."
+set-durability-successfully: "&a내구도가 설정되었습니다."
+crafting-no-recipe: "&e이 아이템은 제작법이 없습니다."
+given-item: "&e{player}&a에게 &e{item}&a(을)를 주었습니다."
+removed-item: "&aRemoved item &e{item} &afrom &e{player}"
+lost-item: "&aYou lost item &e{item}"
+item-not-found: "&3{item}&c은(는) 존재하지 않습니다."
+items-count: "&b아이템 갯수: &a{count}"
+lore-usages: "&7사용법: {value}"
+lore-durability: "&f내구도: {value} / {max}"
+model-id: "&b모델 번호: {value}"
+name-config: "&bconfig 상의 이름: "
+no-craft-permission: "&e이 아이템을 제작할 권한이 없습니다."
+no-permission: "&c이 명령어를 사용할 권한이 없습니다."
+no-permission-detail: "&e{permission} &c권한이 없습니다."
+no-permission-short: "&c권한 없음"
+now-playing: "{value} 재생 중"
+obtained-item: "&e{item} &a획득"
+dropped-item-coords: "&aDropped &e{item} &aat coords {coords}"
+dropped-item-player: "&aDropped &e{item} &aat player {player}"
+player-full-inventory: "&c플레이어의 인벤토리가 가득찼습니다."
+player-offline: "&e해당 플레이어는 오프라인입니다."
+prefix: "[ItemsAdder] "
+resourcepack-error: "&4리소스팩을 적용하는 데 문제가 생겼습니다. 관리자에게 문의 또는 리소스팩 사용을 중단해주세요."
+resourcepack-kick-declined: "&4서버 목록에서 서버 리소스팩 사용을 '사용' 또는 '물어보기'로 설정해주세요."
+resourcepack-popup-message: "&6Welcome &b{player}, &6please accept the resourcepack to enjoy all the amazing features of our server.\n
+&aYou need to download it only once."
+wrong-command-usage: "&c잘못된 명령어 사용 방법"
+emoji-gui-title: "&3&l이모지 리스트"
+map-death-location: "죽은 장소"
+fuel-indicator: "&b&l연료: {value}/{max}"
+get-from-trade-machine: "&f자판기에서 획득"
+ia-button-worlds-populators: "&f광물 생성 정보"
+worlds: "&b세계:"
+info: "&b정보:"
+chance: "&f   확률: &7{value}%"
+amount: "&f   수량: &7{value}"
+min-height: "&f   최소 높이: &7{value}"
+max-height: "&f   최대 높이: &7{value}"
+biome: "&f   생물 군계:"
+drops-itself: "&e   파괴시 획득 가능"
+fuel-item: "    &b{type} &7+{amount}"
+iarecipe-wrong-usage: "&c옳바른 명령어 사용 방법이 아닙니다. &f손에 아이템을 들고 &e/iarecipe <item name> &f명령어를 사용해주세요."
+iarecipe-no-custom-item: "&c이 아이템은 커스텀 아이템이 아닙니다! &f커스텀 아이템을 손에 들고 &e/iarecipe <item name> &f명령어를 사용해주세요."
+anvil-repair-info: "&f수리 재료"
+ia-title-menu-categories: '&3&l카테고리'
+ia-title-recipe-view: '&3&l제작법'
+ia-button-search: "&f검색..."
+ia-button-back: '&f&l⟲ &f돌아가기'
+ia-button-next-page: '&f다음 페이지 &l⤑'
+ia-button-previous-page: '&f&l⬸ &f이전 페이지'
+ia-button-next-recipe: '&f다음 제작법'
+ia-button-previous-recipe: '&f이전 제작법'
+ia-search-results: "검색 결과"
+ia-smeling: '&f제련'
+ia-smelting: '&f아이템 수정'
+ia-button-get-item: '&f아이템 획득'
+ia-vanilla-type: '&f바닐라 타입'
+ia-model-id: '&f모델 번호'
+ia-title-crafting-view: "&f주 메뉴"
+player-stat-value-read: "&e값: &b{value}"
+player-stat-value-write: "&e값이 변경되었습니다."
+ia-button-loot-blocks: "&f블럭으로부터 획득"
+ia-button-loot-mobs: "&f몹으로부터 획득"
+ia-button-loot-fishing: "&f낚시로 획득"
+ia-button-vehicle-fuel-items: "&e연료 아이템"
+ia-button-seed-result: "&f씨앗으로부터 획득"
+nbt-rule: "&f   {rule}: &7{value}"
+resourcepack-not-ready: "&6리소스팩이 준비되지 않았습니다. 몇 초 안에 자동으로 적용될 것 입니다."
+tripwires-disabled: "&cTripwires are disabled on this server."
+font-image-chat-hover: "&fEmoji: {font_image}
+\nUsage: &7{placeholder}
+\n\n&eHINT:
+\n&7You can use the &e/e &7command to send public
+\nmessages/commands with emojis easier.
+\nWrite the emoji name and press &eTAB.
+\n
+\nExamples:
+\n&e/e Hello smile
+\n&7prints &fHello :smile:
+\n
+\n&e/e /tell Notch Hello smile
+\n&7sends the command &f/tell Notch Hello :smile:"
+ia-button-surface-decorators: "&fSpawn info"
+ia-button-trees-populators: "&fSpawn info"
+please-wait-command-cooldown: '&cPlease wait &6{interval} &cto use this command.'
+renamed-successfully: '&aItem renamed successfully!'
+cannot-rename: '&cThis item cannot be renamed'
+entity-not-found: '&cCan''t find custom entity &6{entity}'

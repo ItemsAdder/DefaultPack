@@ -1,0 +1,101 @@
+attribute-armor: "&9+{value} Harnas"
+attribute-toughness: "&9+{value} Harnas Taaiheid"
+attribute-attack-damage: " &2{value} Aanval Beschadiging"
+attribute-attack-speed: " &2{value} Aanval Snelheid"
+attribute-when-in-main-hand: "&7Wanneer in hoofdhand:"
+attribute-when-in-off-hand: "&7When in Off Hand:"
+attribute-when-on-body: "&7Wanneer op het lichaam:"
+attribute-when-on-feet: "&7Wanneer op de voeten:"
+attribute-when-on-head: "&7Wanneer op het hoofd:"
+attribute-when-on-legs: "&7Wanneer op de benen:"
+cannot-break-with-this-tool: "&cJe kan dit niet breken met dit gereedschap"
+cannot-repair: "&cDit item kan niet worden gerepareerd"
+repaired-successfully: "&aItem is succesvol gerepareerd!"
+cannot-set-durability: "&cKan levensduur niet zetten!"
+set-durability-successfully: "&aLevensduur succesvol gezet!"
+crafting-no-recipe: "&eEr is geen recept voor dit item beschikbaar"
+given-item: "&aHet item &e{item} &ais gegeven aan &e{player}"
+removed-item: "&aRemoved item &e{item} &afrom &e{player}"
+lost-item: "&aYou lost item &e{item}"
+item-not-found: "&cItem &3{item} &cbestaat niet"
+items-count: "&bItems hoeveelheid: &a{count}"
+lore-usages: "&7Gebruiken: {value}"
+lore-durability: "&7Levensduur: {value} / {max}"
+model-id: "&bModel ID: {value}"
+name-config: "&bNaam in configuratie: "
+no-craft-permission: "&eJe hebt geen permissie om dit item te maken!"
+no-permission: "&cJe hebt geen permissie om deze commando te gebruiken!"
+no-permission-detail: "&cJe hebt de permissie &e{permission} &cniet"
+no-permission-short: "&cGeen permissie"
+now-playing: "&fWordt nu gespeeld: {value}"
+obtained-item: "&aVerkregen item &e{item}"
+dropped-item-coords: "&aDropped &e{item} &aat coords {coords}"
+dropped-item-player: "&aDropped &e{item} &aat player {player}"
+player-full-inventory: "&cDe inventory van deze speler is vol!"
+player-offline: "&eDeze speler is offline"
+prefix: "[ItemsAdder] "
+resourcepack-error: "&4Er is een error opgedoken tijdens het het aanzetten van de resourcepack. Contact administrators of zet de resourcepack uit alsjeblieft."
+resourcepack-kick-declined: "&4Je moet de resourcepack accepteren! Zorg er ook voor dat je de resourcepack optie naar ‘Prompt’ of ‘Enabled’ zet in de server.properties file."
+resourcepack-popup-message: "&6Welcome &b{player}, &6please accept the resourcepack to enjoy all the amazing features of our server.\n
+&aYou need to download it only once."
+wrong-command-usage: "&cFout command gebruik"
+emoji-gui-title: "&3&lEmoji Lijst"
+map-death-location: "Dood locatie"
+fuel-indicator: "&b&lBrandstof: {value}/{max}"
+get-from-trade-machine: "&fKrijg van ruil machines"
+ia-button-worlds-populators: "&fErts info"
+worlds: "&bWerelden:"
+info: "&bInfo:"
+chance: "&f   Kans: &7{value}%"
+amount: "&f   Aantal: &7{value}"
+min-height: "&f   Min Hoogte: &7{value}"
+max-height: "&f   Max Hoogte: &7{value}"
+biome: "&f   Biome:"
+drops-itself: "&e   Laat zich zelf vallen"
+fuel-item: "    &b{type} &7+{amount}"
+iarecipe-wrong-usage: "&cVerkeerd command gebruik. Gebruik: &e/iarecipe <item naam>&c, &aof houdt een item in je hand"
+iarecipe-no-custom-item: "&cDit is geen zelfgemaakt item! Houdt alsjeblieft een zelfgemaakt item in je hand &aof gebruik deze command: &e/iarecipe <item naam>"
+anvil-repair-info: "&fAambeeld Reparatie Materiaal"
+ia-title-menu-categories: '&3&lCategorieën'
+ia-title-recipe-view: '&3&lCrafing weergave'
+ia-button-search: "&fZoeken..."
+ia-button-back: '&fTerug'
+ia-button-next-page: '&fVolgende pagina->'
+ia-button-previous-page: '&f<-Vorige pagina'
+ia-button-next-recipe: '&fVolgend recept'
+ia-button-previous-recipe: '&fVorig recept'
+ia-search-results: "Zoek resultaten"
+ia-smeling: '&fSmelten'
+ia-smelting: '&fWijzig item'
+ia-button-get-item: '&fKrijg item'
+ia-vanilla-type: '&fVanilla type'
+ia-model-id: '&fModel ID'
+ia-title-crafting-view: "&fHoofd menu"
+player-stat-value-read: "&eAantal: &b{value}"
+player-stat-value-write: "&eAantal veranderd!"
+ia-button-loot-blocks: "&fLaat vallen van blok"
+ia-button-loot-mobs: "&fLaat vallen van mob"
+ia-button-loot-fishing: "&fLaat vallen van vissen"
+ia-button-vehicle-fuel-items: "&eBrandstof items"
+nbt-rule: "&f   {rule}: &7{value}"
+resourcepack-not-ready: "&6Resourcepack is niet klaar. Het wordt automatisch toegepast in een paar seconden..."
+tripwires-disabled: "&cTripwires are disabled on this server."
+font-image-chat-hover: "&fEmoji: {font_image}
+\nUsage: &7{placeholder}
+\n\n&eHINT:
+\n&7You can use the &e/e &7command to send public
+\nmessages/commands with emojis easier.
+\nWrite the emoji name and press &eTAB.
+\n
+\nExamples:
+\n&e/e Hello smile
+\n&7prints &fHello :smile:
+\n
+\n&e/e /tell Notch Hello smile
+\n&7sends the command &f/tell Notch Hello :smile:"
+ia-button-surface-decorators: "&fSpawn info"
+ia-button-trees-populators: "&fSpawn info"
+please-wait-command-cooldown: '&cPlease wait &6{interval} &cto use this command.'
+renamed-successfully: '&aItem renamed successfully!'
+cannot-rename: '&cThis item cannot be renamed'
+entity-not-found: '&cCan''t find custom entity &6{entity}'

@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  french_fries:
+    enabled: true
+    display_name: display-name-french_fries
+    permission: iasurvival.various.french_fries
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/various/french_fries
+    events:
+      eat:
+        feed:
+          amount: 8
+          saturation: 2

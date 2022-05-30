@@ -1,0 +1,10 @@
+info:
+  namespace: iamusic
+  dictionary-lang: zh_cn
+dictionary:
+  display-name-blank_disc: 空白的唱片
+  lore-1-blank_disc: '&7用以合成'
+  lore-2-blank_disc: '&7唱片'
+  display-name-music_disc_electric_keys: '&b唱片'
+  display-name-music_disc_cdk_sunday: '&b唱片'
+  display-name-music_disc_vidian_aether_theories: '&b唱片'

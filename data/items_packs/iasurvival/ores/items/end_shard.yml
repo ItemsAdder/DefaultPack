@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  end_shard:
+    enabled: true
+    display_name: display-name-end_shard
+    permission: iasurvival.items.end_shard
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+        - item/ores/end_shard

@@ -1,0 +1,73 @@
+info:
+  namespace: iadeco
+  dictionary-lang: it
+dictionary:
+  display-name-white_bar_chair: Sedia da bar bianca
+  display-name-orange_bar_chair: Sedia da bar arancione
+  display-name-magenta_bar_chair: Sedia da bar magenta
+  display-name-light_blue_bar_chair: Sedia da bar azzurra
+  display-name-yellow_bar_chair: Sedia da bar gialla
+  display-name-lime_bar_chair: Sedia da bar lime
+  display-name-pink_bar_chair: Sedia da bar rosa
+  display-name-gray_bar_chair: Sedia da bar grigia
+  display-name-light_gray_bar_chair: Sedia da bar grigio chiaro
+  display-name-cyan_bar_chair: Sedia da bar ciano
+  display-name-purple_bar_chair: Sedia da bar viola
+  display-name-blue_bar_chair: Sedia da bar blu
+  display-name-brown_bar_chair: Sedia da bar marrone
+  display-name-green_bar_chair: Sedia da bar verde
+  display-name-red_bar_chair: Sedia da bar rossa
+  display-name-black_bar_chair: Sedia da bar nera
+  display-name-computer_chair: Sedia per PC
+  lore-chair: '&7Tasto destro del mouse per sederti'
+  display-name-school_chair: Sedia da scuola
+  display-name-school_chair_lazy: Sedia da scuola del pigrone
+  display-name-simple_chair: Sedia semplice
+  display-name-white_chair: Sedia bianca
+  display-name-white_wood_chair: Sedia di legno bianca
+  display-name-orange_wood_chair: Sedia di legno arancione
+  display-name-magenta_wood_chair: Sedia di legno magenta
+  display-name-light_blue_wood_chair: Sedia di legno azzurra
+  display-name-yellow_wood_chair: Sedia di legno gialla
+  display-name-lime_wood_chair: Sedia di legno lime
+  display-name-pink_wood_chair: Sedia di legno rosa
+  display-name-gray_wood_chair: Sedia di legno grigio
+  display-name-light_gray_wood_chair: Sedia di legno grigio chiaro
+  display-name-cyan_wood_chair: Sedia di legno ciano
+  display-name-purple_wood_chair: Sedia di legno viola
+  display-name-blue_wood_chair: Sedia di legno blu
+  display-name-brown_wood_chair: Sedia di legno marrone
+  display-name-green_wood_chair: Sedia di legno verde
+  display-name-red_wood_chair: Sedia di legno rossa
+  display-name-black_wood_chair: Sedia di legno nera
+  display-name-white_chandeliers: Lampadario bianco
+  display-name-black_chandeliers: Lampadario nero
+  display-name-black_and_red_chandeliers: Lampadario nero e rosso
+  display-name-coffee_machine: Macchina per il caffè
+  lore-1-coffee_machine: '&7Fa davvero un buon caffè'
+  display-name-computer_desk: Scrivania con computer
+  lore-decorative-item: '&7Oggetto decorativo'
+  display-name-dark_throne: Trono oscuro
+  display-name-glass_table: Tavolo di vetro
+  display-name-lamp: Lampada
+  display-name-lava_lamp: Lava lamp
+  display-name-lit_campfire: Fuoco da campo acceso
+  display-name-mini_fridge: Frigo piccolo
+  display-name-monitor: Monitor
+  display-name-old_clock: Vecchio orologio
+  display-name-opened_chest: Baule aperto
+  display-name-painting_burst: Quadro
+  display-name-painting_courbet: Quadro
+  display-name-painting_graham: Quadro
+  display-name-painting_match: Quadro
+  display-name-painting_pool: Quadro
+  display-name-painting_skull_and_roses: Quadro
+  display-name-painting_stage: Quadro
+  display-name-painting_void: Quadro
+  display-name-painting_wanderer: Quadro
+  display-name-small_fountain: Fontana piccola
+  display-name-table: Tavolo
+  display-name-tv: TV
+  display-name-vending_machine: Distributore automatico
+  lore-1-vending_machine: '&7Usalo per ottenere alcuni oggetti'
+  display-name-cut_spruce_log: Pezzo di tronco di abete

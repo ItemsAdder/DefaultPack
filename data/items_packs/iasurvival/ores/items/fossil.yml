@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  fossil:
+    enabled: true
+    display_name: display-name-fossil
+    permission: iasurvival.items.fossil
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+        - item/ores/fossil

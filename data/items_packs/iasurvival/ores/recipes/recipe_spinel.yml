@@ -1,0 +1,16 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    spinel:
+      permission: iasurvival.spinel
+      enabled: true
+      pattern:
+        - XXX
+        - XBX
+        - XXX
+      ingredients:
+        B: iasurvival:spinel_block
+      result:
+        item: iasurvival:spinel
+        amount: 9

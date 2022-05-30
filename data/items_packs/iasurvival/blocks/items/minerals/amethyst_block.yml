@@ -1,0 +1,20 @@
+info:
+  namespace: iasurvival
+items:
+  dark_amethyst_block:
+    enabled: true
+    display_name: display-name-dark_amethyst_block
+    permission: iasurvival.minerals.dark_amethyst_block
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - block/minerals/dark_amethyst_block
+    specific_properties:
+      block:
+        placed_model:
+          type: REAL_NOTE
+          break_particles_material: PURPLE_CONCRETE
+        break_tools_whitelist:
+          - PICKAXE
+          - pickaxe

@@ -1,0 +1,123 @@
+attribute-armor: '&9+{value} Zırh'
+attribute-toughness: '&9+{value} Zırh Dayanıklılığı'
+attribute-attack-damage: ' &2{value} Saldırı Hasarı'
+attribute-attack-speed: ' &2{value} Saldırı Hızı'
+attribute-when-in-main-hand: '&7Ana eldeyken:'
+attribute-when-in-off-hand: "&7When in Off Hand:"
+attribute-when-on-body: '&7Vücut üzerindeyken:'
+attribute-when-on-feet: '&7Ayaktayken:'
+attribute-when-on-head: '&7Kafadayken:'
+attribute-when-on-legs: '&7Bacakdayken:'
+cannot-break-with-this-tool: '&cBu araçla kıramazsın.'
+cannot-repair: '&cBu ürün tamir edilemez.'
+repaired-successfully: '&aÖğe başarıyla onarıldı.'
+cannot-set-durability: '&cDayanıklılık ayarlanamaz.'
+set-durability-successfully: '&aDayanıklılık başarıyla ayarlandı.'
+crafting-no-recipe: '&cBu ürün için tarif yok.'
+given-item: '&a{item} &eadlı eşyan &a{player} verildi.'
+removed-item: '&a{item} &eadlı eşya &a{player} &eüzerinden silindi.'
+lost-item: '&eEşyayı kaybettin. &a{item}'
+item-not-found: '&cItem &3{item} &cdoesn''t exists'
+items-count: '&eÖğeler sayılır: &a{count}'
+lore-usages: '&7Kullanımlar: {value}'
+lore-durability: '&7Dayanıklılık: {value} / {max}'
+model-id: '&bModel kimliği: {value}'
+name-config: '&bYapılandırmadaki isim: '
+no-craft-permission: '&cBu eşyayı yapmak için izniniz yok &o!'
+no-permission: '&cBu komutu kullanma izniniz yok &o!'
+no-permission-detail: '&cİzniniz yok&o ! &a{permission}'
+no-permission-short: '&cİzin yok &o!'
+now-playing: '&fŞimdi oynuyor: {value}'
+obtained-item: '&eElde edilen öğe &a{item}.'
+dropped-item-coords: '&eDüşen &a{item} &ekoordinatlarda {coords}'
+dropped-item-player: '&eDüşen &a{item} &eoyuncuda {player}'
+player-full-inventory: '&cOyuncunun envanteri dolu &o!'
+player-offline: '&cBu oyuncu çevrimdışı.'
+prefix: '[ItemsAdder] '
+resourcepack-error: '&4Kaynak paketi etkinleştirilirken bir hata oluştu. Lütfen iletişime geçin
+  yöneticileri veya kaynak paketlerini devre dışı bırakın.'
+resourcepack-kick-declined: '&4Kaynak paketini kabul etmelisiniz! Ayrıca emin olun
+  bunları sunucu özelliklerinde "Sor" veya "Etkin" olarak ayarlayın.'
+resourcepack-popup-message: "&6Welcome &b{player}, &6please accept the resourcepack to enjoy all the amazing features of our server.\n
+&aYou need to download it only once."
+resourcepack-apply-title: '&a&lKaynak Paketi Yükleniyor...'
+resourcepack-apply-subtitle: '&6Lütfen sabırlı olun, sadece birkaç saniye sürecektir!'
+wrong-command-usage: '&cYanlış komut kullanımı.'
+emoji-gui-title: '&3&lEmoji Listesi'
+map-death-location: Ölüm Yeri
+fuel-indicator: '&b&lYakıt: {value}/{max}'
+get-from-trade-machine: '&fTicaret makinelerinden alın'
+ia-button-worlds-populators: '&fCevher çıkma bilgisi'
+worlds: '&bDünyalar:'
+info: '&bBilgi:'
+chance: '&f   Şans: &7{value}%'
+amount: '&f   Miktar: &7{value}'
+min-height: '&f   Minimum Yükseklik: &7{value}'
+max-height: '&f   Maksimum yükseklik: &7{value}'
+biome: '&f   Biyom:'
+drops-itself: '&e   Kendini Düşürür'
+fuel-item: '    &b{type} &7+{amount}'
+iarecipe-wrong-usage: '&cYanlış komut kullanımı. Doğru kullanım: &a / iarecipe <öğe adı> &e,
+  &e veya bir eşyayı elinde tut'
+iarecipe-no-custom-item: '&cBu özel bir öğe değil! Lütfen içinde özel bir öğe tutun
+  el ve a veya şu komutu kullanın: &e / iarecipe <öğe adı>'
+anvil-repair-info: '&fÖrs Onarım Malzemesi'
+ia-title-menu-categories: '&3&lKategoriler'
+ia-title-recipe-view: '&3&lİşçiliği görünümü'
+ia-button-search: '&fArama...'
+ia-button-back: '&fGeri'
+ia-button-next-page: '&fSonraki sayfa ->'
+ia-button-previous-page: '&f<- Önceki sayfa'
+ia-button-next-recipe: '&fSonraki tarif'
+ia-button-previous-recipe: '&fÖnceki tarif'
+ia-search-results: 'Arama Sonuçları'
+ia-smeling: '&fEritme'
+ia-smelting: '&fÖgeyi düzenle'
+ia-button-get-item: '&fÜrünü al'
+ia-vanilla-type: '&fVanilya türü'
+ia-model-id: '&fModel kimliği'
+ia-title-crafting-view: '&fAna menü'
+player-stat-value-read: '&eDeğer: &b{value}'
+player-stat-value-write: '&eDeğer değişti!'
+ia-button-loot-blocks: '&fBloktan bırak'
+ia-button-loot-mobs: '&fMafya bırak'
+ia-button-loot-fishing: '&fBalık tutmadan bırak'
+ia-button-vehicle-fuel-items: '&eYakıt öğeleri'
+ia-button-seed-result: '&fTohumlardan'
+nbt-rule: '&f   {rule}: &7{value}'
+resourcepack-not-ready: '&6Kaynak paketi hazır değil. Otomatik olarak uygulanacaktır
+  birkaç saniye içinde ...'
+mob-summon: '&aSpawned mob &6{mob} &aat coords &7{coords}'
+mob-kill: '&aKilled &6{mob} &7x{amount} &ain loaded chunks'
+mob-kill-all: '&aKilled &7x{amount} &acustom mobs in loaded chunks'
+mob-not-found: '&cCan''t find mob &6{mob}'
+liquid-analyzer-low-level: '&eBu sıvı seviyesi çok düşük. Lütfen ana kontrol edin
+  kaynak bloğu'
+liquid-analyzer-no-liquid: '&cBu sıvı değil'
+liquid-bucket-place-near-error: '&cBunun çok yakınında özel bir sıvı var, lütfen
+  onları çok yakın yerleştirmekten kaçının.'
+command-ingame-only: '&cBunu konsoldan uygulayamazsınız! Bu komutu oyun içi kullanın'
+rightclick-a-block: '&6Şimdi ağacı üretmek istediğiniz yüzeye sağ tıklayın'
+spawned-tree: '&aAğaç başarıyla ortaya çıktı!'
+spawned-tree-error: '&cBurada bir ağaç doğramaz!'
+tree-not-found: '&cTree &3{item} &cdoesn''t exists'
+tripwires-disabled: "&cTripwires are disabled on this server."
+font-image-chat-hover: "&fEmoji: {font_image}
+\nUsage: &7{placeholder}
+\n\n&eHINT:
+\n&7You can use the &e/e &7command to send public
+\nmessages/commands with emojis easier.
+\nWrite the emoji name and press &eTAB.
+\n
+\nExamples:
+\n&e/e Hello smile
+\n&7prints &fHello :smile:
+\n
+\n&e/e /tell Notch Hello smile
+\n&7sends the command &f/tell Notch Hello :smile:"
+ia-button-surface-decorators: "&fSpawn info"
+ia-button-trees-populators: "&fSpawn info"
+please-wait-command-cooldown: '&cPlease wait &6{interval} &cto use this command.'
+renamed-successfully: '&aItem renamed successfully!'
+cannot-rename: '&cThis item cannot be renamed'
+entity-not-found: '&cCan''t find custom entity &6{entity}'

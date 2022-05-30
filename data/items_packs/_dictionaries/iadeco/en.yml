@@ -1,0 +1,73 @@
+info:
+  namespace: iadeco
+  dictionary-lang: en
+dictionary:
+  display-name-white_bar_chair: White Bar Chair
+  display-name-orange_bar_chair: Orange Bar Chair
+  display-name-magenta_bar_chair: Magenta Bar Chair
+  display-name-light_blue_bar_chair: Light Blue Bar Chair
+  display-name-yellow_bar_chair: Yellow Bar Chair
+  display-name-lime_bar_chair: Lime Bar Chair
+  display-name-pink_bar_chair: Pink Bar Chair
+  display-name-gray_bar_chair: Gray Bar Chair
+  display-name-light_gray_bar_chair: Light Gray Bar Chair
+  display-name-cyan_bar_chair: Cyan Bar Chair
+  display-name-purple_bar_chair: Purple Bar Chair
+  display-name-blue_bar_chair: Blue Bar Chair
+  display-name-brown_bar_chair: Brown Bar Chair
+  display-name-green_bar_chair: Green Bar Chair
+  display-name-red_bar_chair: Red Bar Chair
+  display-name-black_bar_chair: Black Bar Chair
+  display-name-computer_chair: Computer chair
+  lore-chair: '&7Rightclick to sit'
+  display-name-school_chair: School Chair
+  display-name-school_chair_lazy: School Chair Lazy
+  display-name-simple_chair: Simple Chair
+  display-name-white_chair: White chair
+  display-name-white_wood_chair: White Wood Chair
+  display-name-orange_wood_chair: Orange Wood Chair
+  display-name-magenta_wood_chair: Magenta Wood Chair
+  display-name-light_blue_wood_chair: Light Blue Wood Chair
+  display-name-yellow_wood_chair: Yellow Wood Chair
+  display-name-lime_wood_chair: Lime Wood Chair
+  display-name-pink_wood_chair: Pink Wood Chair
+  display-name-gray_wood_chair: Gray Wood Chair
+  display-name-light_gray_wood_chair: Light Gray Wood Chair
+  display-name-cyan_wood_chair: Cyan Wood Chair
+  display-name-purple_wood_chair: Purple Wood Chair
+  display-name-blue_wood_chair: Blue Wood Chair
+  display-name-brown_wood_chair: Brown Wood Chair
+  display-name-green_wood_chair: Green Wood Chair
+  display-name-red_wood_chair: Red Wood Chair
+  display-name-black_wood_chair: Black Wood Chair
+  display-name-white_chandeliers: White Chandeliers
+  display-name-black_chandeliers: Black Chandeliers
+  display-name-black_and_red_chandeliers: Black And Red Chandeliers
+  display-name-coffee_machine: Coffee Machine
+  lore-1-coffee_machine: '&7Makes a really good coffee'
+  display-name-computer_desk: Desk with computer
+  lore-decorative-item: '&7Decorative item'
+  display-name-dark_throne: Dark Throne
+  display-name-glass_table: Glass table
+  display-name-lamp: Lamp
+  display-name-lava_lamp: Lava lamp
+  display-name-lit_campfire: Lit Campfire
+  display-name-mini_fridge: Mini fridge
+  display-name-monitor: Monitor
+  display-name-old_clock: Old clock
+  display-name-opened_chest: Opened chest
+  display-name-painting_burst: Painting
+  display-name-painting_courbet: Painting
+  display-name-painting_graham: Painting
+  display-name-painting_match: Painting
+  display-name-painting_pool: Painting
+  display-name-painting_skull_and_roses: Painting
+  display-name-painting_stage: Painting
+  display-name-painting_void: Painting
+  display-name-painting_wanderer: Painting
+  display-name-small_fountain: Small Fountain
+  display-name-table: Table
+  display-name-tv: TV
+  display-name-vending_machine: Vending Machine
+  lore-1-vending_machine: '&7Use it to get cool items'
+  display-name-cut_spruce_log: Cut Spruce Log

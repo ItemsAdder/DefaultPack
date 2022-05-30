@@ -1,0 +1,10 @@
+info:
+  namespace: iamusic
+  dictionary-lang: it
+dictionary:
+  display-name-blank_disc: Disco vergine
+  lore-1-blank_disc: '&7Può essere usato per'
+  lore-2-blank_disc: '&7craftare dischi musicali'
+  display-name-music_disc_electric_keys: '&bDisco musicale'
+  display-name-music_disc_cdk_sunday: '&bDisco musicale'
+  display-name-music_disc_vidian_aether_theories: '&bDisco musicale'

@@ -1,0 +1,20 @@
+info:
+  namespace: iasurvival
+items:
+  nice_stone:
+    enabled: true
+    display_name: display-name-nice_stone
+    permission: iasurvival.decorative.nice_stone
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - block/decorative/nice_stone
+    specific_properties:
+      block:
+        placed_model:
+          type: REAL_NOTE
+          break_particles_material: STONE
+        break_tools_whitelist:
+          - AXE
+          - axe

@@ -1,0 +1,17 @@
+info:
+  namespace: iaalchemy
+recipes:
+  cooking:
+    mysterious_material:
+      enabled: true
+      permission: iaalchemy.cooking.mysterious_material
+      ingredient:
+        item: iaalchemy:mysterious_ore
+      machines:
+        - FURNACE
+        - BLAST_FURNACE
+      exp: 1
+      cook_time: 2400
+      result:
+        item: iaalchemy:mysterious_material
+        amount: 1

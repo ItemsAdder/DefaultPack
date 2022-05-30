@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  raw_tin:
+    enabled: true
+    display_name: display-name-raw_tin
+    permission: iasurvival.items.raw_tin
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+        - item/ores/raw_tin

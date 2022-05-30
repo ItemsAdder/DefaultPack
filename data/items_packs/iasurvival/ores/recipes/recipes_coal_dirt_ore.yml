@@ -1,0 +1,22 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    coal_dirt_ore:
+      enabled: true
+      permission: iasurvival.coal_dirt_ore
+      pattern:
+        - XXX
+        - XCO
+        - XXX
+      ingredients:
+        O: iasurvival:coal_dirt_ore
+        C: iasurvival:chisel
+      result:
+        item: iasurvival:coal_nugget
+        amount: 1
+      return_items:
+        decrement_durability:
+          chisel:
+            item: iasurvival:chisel
+            amount: 1

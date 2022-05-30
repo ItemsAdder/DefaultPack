@@ -1,0 +1,15 @@
+info:
+  namespace: iafestivities
+items:
+  decorative_candy_cane:
+    enabled: true
+    display_name: display-name-decorative_candy_cane
+    permission: iafestivities.christmas.decorative_candy_cane
+    resource:
+      material: PAPER
+      generate: false
+      model_path: christmas/decorative_candy_cane
+    behaviours:
+      furniture:
+        gravity: false
+        fixed_rotation: false

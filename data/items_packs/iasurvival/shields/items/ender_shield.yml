@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  ender_shield:
+    display_name: display-name-ender_shield
+    permission: iasurvival.items.ender_shield
+    resource:
+      material: SHIELD
+      generate: false
+      model_path: item/shields/ender_shield
+    durability:
+      max_custom_durability: 336

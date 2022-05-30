@@ -1,0 +1,23 @@
+info:
+  namespace: iasurvival
+items:
+  ruby_shovel:
+    enabled: true
+    display_name: display-name-ruby_shovel
+    permission: iasurvival.items.ruby_shovel
+    resource:
+      material: DIAMOND_SHOVEL
+      generate: true
+      textures:
+        - item/tools/ruby_shovel
+    durability:
+      max_custom_durability: 180
+    lore:
+      - lore-blocked-enchants
+      - lore-enchantment-mending
+    blocked_enchants:
+      - MENDING
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 4.5
+        attackSpeed: 1.3

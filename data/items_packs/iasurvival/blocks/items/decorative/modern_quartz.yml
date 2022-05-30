@@ -1,0 +1,20 @@
+info:
+  namespace: iasurvival
+items:
+  modern_quartz:
+    enabled: true
+    display_name: display-name-modern_quartz
+    permission: iasurvival.decorative.modern_quartz
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - block/decorative/modern_quartz
+    specific_properties:
+      block:
+        placed_model:
+          type: REAL_NOTE
+          break_particles_material: QUARTZ_BLOCK
+        break_tools_whitelist:
+          - PICKAXE
+          - pickaxe

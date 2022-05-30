@@ -1,0 +1,16 @@
+info:
+  namespace: iaalchemy
+items:
+  alchemy_candles:
+    enabled: true
+    display_name: display-name-alchemy_candles
+    permission: iaalchemy.items.alchemy_candles
+    resource:
+      material: PAPER
+      generate: false
+      model_path: item/alchemy_candles
+    behaviours:
+      furniture:
+        gravity: false
+        small: true
+        light_level: 8

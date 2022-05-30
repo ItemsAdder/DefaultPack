@@ -1,0 +1,18 @@
+info:
+  namespace: iafestivities
+  dictionary-lang: pt
+dictionary:
+  display-name-christmas_candle: Vela de Natal
+  display-name-christmas_tree: Árvore de Natal
+  display-name-christmas_wreath: Grinalda de Natal
+  display-name-decorative_candy_cane: Doce de Bengala Decorativo
+  display-name-santa_hat: '&cGorro de Pai-Natal'
+  display-name-axe_hat: Chapéu de Machado na Cabeça
+  display-name-bat_wings: Asas de Morcego
+  display-name-bones_backpack: Mochila de Ossos
+  display-name-cave_spider_backpack: Mochila Aranha das Cavernas
+  display-name-dark_jack_o_lantern_backpack: '&fMochila &4Escura &6Jack o''Lantern'
+  display-name-decorative_pumpkin: Abóbora Decorativa
+  display-name-jack_o_lantern_backpack: '&fMochila &6Jack o''Lantern'
+  display-name-spider_backpack: Mochila Aranha
+  display-name-witch_hat: Chapéu de Bruxa

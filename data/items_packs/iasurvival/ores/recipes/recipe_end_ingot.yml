@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+recipes:
+  cooking:
+    end_ingot:
+      enabled: true
+      permission: iasurvival.end_ingot
+      ingredient:
+        item: iasurvival:end_crystals
+      machines:
+        - FURNACE
+        - BLAST_FURNACE
+      exp: 1
+      cook_time: 1200
+      result:
+        item: iasurvival:end_ingot
+        amount: 1

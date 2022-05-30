@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  hamburger:
+    enabled: true
+    display_name: display-name-hamburger
+    permission: iasurvival.various.hamburger
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/various/hamburger
+    events:
+      eat:
+        feed:
+          amount: 6
+          saturation: 5

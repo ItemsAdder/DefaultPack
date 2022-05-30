@@ -1,0 +1,31 @@
+info:
+  namespace: iavehicles
+  dictionary-lang: fr
+dictionary:
+  display-name-broomstick: Nimbus
+  display-name-ufo: Ufo
+  display-name-oak_wood_plane: Avion en bois de chêne
+  display-name-spruce_wood_plane: Avion en bois de sapin
+  display-name-birch_wood_plane: Avion en bois de bouleau
+  display-name-jungle_wood_plane: Avion en bois d'acajou
+  display-name-acacia_wood_plane: Avion en bois d'acacia
+  display-name-dark_oak_wood_plane: Avion en bois de chêne noir
+  display-name-white_go_cart: Kart blanc
+  display-name-orange_go_cart: Kart orange
+  display-name-magenta_go_cart: Kart magenta
+  display-name-light_blue_go_cart: Kart bleu clair
+  display-name-yellow_go_cart: Kart jaune
+  display-name-lime_go_cart: Kart vert citron
+  display-name-pink_go_cart: Kart rose
+  display-name-gray_go_cart: Kart gris
+  display-name-light_gray_go_cart: Kart vert clair
+  display-name-cyan_go_cart: Kart cyan
+  display-name-purple_go_cart: Kart violet
+  display-name-blue_go_cart: Kart bleu
+  display-name-brown_go_cart: Kart marron
+  display-name-green_go_cart: Kart vert
+  display-name-red_go_cart: Kart rouge
+  display-name-black_go_cart: Kart noir
+  display-name-shopping_cart: Chariot de courses
+  display-name-ufo_toy: Jouet Alien
+  lore-1-ufo_toy: '&7Clic droit pour le faire voler'

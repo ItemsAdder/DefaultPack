@@ -1,0 +1,29 @@
+info:
+  namespace: iasurvival
+items:
+  end_ore:
+    enabled: true
+    display_name: display-name-end_ore
+    permission: iasurvival.items.end_ore
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - block/ores/end_ore
+    specific_properties:
+      block:
+        hardness: 3
+        placed_model:
+          type: REAL_NOTE
+          break_particles_material: END_STONE
+        cancel_drop: true
+        light_level: 12
+        break_tools_blacklist:
+          - WOODEN_PICKAXE
+          - STONE_PICKAXE
+          - IRON_PICKAXE
+        break_tools_whitelist:
+          - DIAMOND_PICKAXE
+          - PICKAXE
+          - pickaxe
+          - _hammer

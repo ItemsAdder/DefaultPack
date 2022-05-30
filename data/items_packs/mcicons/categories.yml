@@ -1,0 +1,40 @@
+info:
+  namespace: mcicons
+categories:
+  icons:
+    enabled: true
+    skip_if_already: false
+    icon: mcicons:icon_web
+    name: display-category-icons
+    permission: ia.menu.seecategory.icons
+    items:
+      - mcicons:icon_left_grey
+      - mcicons:icon_left_blue
+      - mcicons:icon_right_grey
+      - mcicons:icon_right_blue
+      - mcicons:icon_up_grey
+      - mcicons:icon_up_blue
+      - mcicons:icon_next_white
+      - mcicons:icon_next_orange
+      - mcicons:icon_back_white
+      - mcicons:icon_back_orange
+      - mcicons:icon_cancel
+      - mcicons:icon_confirm
+      - mcicons:icon_lock
+      - mcicons:icon_unlock
+      - mcicons:icon_web
+      - mcicons:icon_ender_chest
+      - mcicons:icon_refresh
+      - mcicons:icon_time_day
+      - mcicons:icon_time_midnight
+      - mcicons:icon_time_night
+      - mcicons:icon_time_noon
+      - mcicons:icon_time_sunrise
+      - mcicons:icon_time_sunset
+      - mcicons:icon_toggle_off
+      - mcicons:icon_toggle_on
+      - mcicons:icon_arrow_chest
+      - mcicons:icon_plus
+      - mcicons:icon_color_picker
+      - mcicons:icon_comment
+      - mcicons:icon_search

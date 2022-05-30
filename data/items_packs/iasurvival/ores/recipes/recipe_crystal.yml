@@ -1,0 +1,16 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    crystal:
+      permission: iasurvival.crystal
+      enabled: true
+      pattern:
+        - XXX
+        - XBX
+        - XXX
+      ingredients:
+        B: iasurvival:crystal_block
+      result:
+        item: iasurvival:crystal
+        amount: 9

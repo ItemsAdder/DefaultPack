@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  cooked_black_moor_goldfish:
+    enabled: true
+    display_name: display-name-cooked_black_moor_goldfish
+    permission: iasurvival.fishes.cooked_black_moor_goldfish
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/fishes/cooked_black_moor_goldfish
+    events:
+      eat:
+        feed:
+          amount: 8
+          saturation: 10

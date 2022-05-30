@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  sausage:
+    enabled: true
+    display_name: display-name-sausage
+    permission: iasurvival.various.sausage
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/various/sausage
+    events:
+      eat:
+        feed:
+          amount: 1
+          saturation: 1

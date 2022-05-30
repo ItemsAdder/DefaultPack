@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    dark_amethyst_shovel:
+      permission: iasurvival.dark_amethyst_shovel
+      enabled: true
+      pattern:
+        - XRX
+        - XSX
+        - XSX
+      ingredients:
+        R: iasurvival:dark_amethyst
+        S: STICK
+      result:
+        item: iasurvival:dark_amethyst_shovel
+        amount: 1

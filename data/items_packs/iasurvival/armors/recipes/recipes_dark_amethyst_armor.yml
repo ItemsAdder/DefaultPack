@@ -1,0 +1,52 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    dark_amethyst_helmet:
+      permission: iasurvival.dark_amethyst_armor.dark_amethyst_helmet
+      enabled: true
+      pattern:
+        - rrr
+        - rXr
+        - XXX
+      ingredients:
+        r: iasurvival:dark_amethyst
+      result:
+        item: iasurvival:dark_amethyst_helmet
+        amount: 1
+    dark_amethyst_chestplate:
+      permission: iasurvival.dark_amethyst_armor.dark_amethyst_chestplate
+      enabled: true
+      pattern:
+        - rXr
+        - rrr
+        - rrr
+      ingredients:
+        r: iasurvival:dark_amethyst
+      result:
+        item: iasurvival:dark_amethyst_chestplate
+        amount: 1
+    dark_amethyst_leggings:
+      permission: iasurvival.dark_amethyst_armor.dark_amethyst_leggings
+      enabled: true
+      pattern:
+        - rrr
+        - rXr
+        - rXr
+      ingredients:
+        r: iasurvival:dark_amethyst
+      result:
+        item: iasurvival:dark_amethyst_leggings
+        amount: 1
+    dark_amethyst_boots:
+      permission: iasurvival.dark_amethyst_armor.dark_amethyst_boots
+      enabled: true
+      pattern:
+        - XXX
+        - rXr
+        - rXr
+      ingredients:
+        r: iasurvival:dark_amethyst
+      result:
+        item: iasurvival:dark_amethyst_boots
+        amount: 1

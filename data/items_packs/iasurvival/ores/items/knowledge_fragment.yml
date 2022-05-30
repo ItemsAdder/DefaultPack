@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  knowledge_fragment:
+    enabled: true
+    display_name: display-name-knowledge_fragment
+    permission: iasurvival.items.knowledge_fragment
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+        - item/ores/knowledge_fragment

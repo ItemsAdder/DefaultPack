@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  bronze_pickaxe:
+    enabled: true
+    display_name: display-name-bronze_pickaxe
+    permission: iasurvival.items.bronze_pickaxe
+    resource:
+      material: DIAMOND_PICKAXE
+      generate: true
+      textures:
+        - item/tools/bronze_pickaxe

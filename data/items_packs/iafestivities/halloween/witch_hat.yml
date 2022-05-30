@@ -1,0 +1,13 @@
+info:
+  namespace: iafestivities
+items:
+  witch_hat:
+    enabled: true
+    display_name: display-name-witch_hat
+    permission: iafestivities.halloween.witch_hat
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: halloween/witch_hat
+    behaviours:
+      hat: true

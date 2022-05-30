@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  sliced_baguette:
+    enabled: true
+    display_name: display-name-sliced_baguette
+    permission: iasurvival.various.sliced_baguette
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/various/sliced_baguette
+    events:
+      eat:
+        feed:
+          amount: 2
+          saturation: 0.2

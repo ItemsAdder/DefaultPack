@@ -1,0 +1,13 @@
+info:
+  namespace: iafestivities
+items:
+  axe_hat:
+    enabled: true
+    display_name: display-name-axe_hat
+    permission: iafestivities.halloween.axe_hat
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: halloween/axe_hat
+    behaviours:
+      hat: true

@@ -1,0 +1,36 @@
+info:
+  namespace: iaalchemy
+items:
+  mysterious_sword:
+    enabled: true
+    display_name: display-name-mysterious_sword
+    permission: iaalchemy.items.mysterious_sword
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+        - item/swords/mysterious_sword
+    lore:
+      - lore-blocked-enchants
+      - lore-enchantment-all
+    durability:
+      max_custom_durability: 1945
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 13.5
+        attackSpeed: 1.0
+    blocked_enchants:
+      - ALL
+    nbt: "{RepairCost:8}"
+    events:
+      interact:
+        left:
+          play_sound:
+            name: iaalchemy:item.mysterious_sword.attack
+            volume: 1
+            pitch: 1
+      kill:
+        play_sound:
+          name: iaalchemy:ambient.creepy
+          volume: 1
+          pitch: 1

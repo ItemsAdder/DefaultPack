@@ -1,0 +1,160 @@
+info:
+  namespace: iawearables
+recipes:
+  crafting_table:
+    deadmau5_hat:
+      permission: iawearables.deadmau5_hat
+      enabled: true
+      pattern:
+        - BXB
+        - XBX
+        - XXX
+      ingredients:
+        B: LIGHT_BLUE_WOOL
+      result:
+        item: iawearables:deadmau5_hat
+        amount: 1
+    top_hat:
+      permission: iawearables.top_hat
+      enabled: true
+      pattern:
+        - XWX
+        - XWX
+        - WWW
+      ingredients:
+        W: BLACK_WOOL
+      result:
+        item: iawearables:top_hat
+        amount: 1
+    welding_mask:
+      permission: iawearables.welding_mask
+      enabled: true
+      pattern:
+        - GGG
+        - GTG
+        - XXX
+      ingredients:
+        G: IRON_INGOT
+        T: OBSIDIAN
+      result:
+        item: iawearables:welding_mask
+        amount: 1
+    mining_helmet:
+      permission: iawearables.mining_helmet
+      enabled: true
+      pattern:
+        - GGG
+        - GTG
+        - XXX
+      ingredients:
+        G: GOLD_INGOT
+        T: TORCH
+      result:
+        item: iawearables:mining_helmet
+        amount: 1
+    dog_mask:
+      permission: iawearables.dog_mask
+      enabled: true
+      pattern:
+        - WWW
+        - WIW
+        - WWW
+      ingredients:
+        W: YELLOW_WOOL
+        I: BONE
+      result:
+        item: iawearables:dog_mask
+        amount: 1
+    ruby_pickaxe_hat:
+      permission: iawearables.ruby_pickaxe_hat
+      enabled: true
+      pattern:
+        - RRR
+        - LSL
+        - XSX
+      ingredients:
+        R: iasurvival:ruby
+        S: STICK
+        L: LEATHER
+      result:
+        item: iawearables:ruby_pickaxe_hat
+        amount: 1
+    straw_hat:
+      permission: iawearables.straw_hat
+      enabled: true
+      pattern:
+        - XWX
+        - XSX
+        - WWW
+      ingredients:
+        W: WHEAT
+        S: STRING
+      result:
+        item: iawearables:straw_hat
+        amount: 1
+    cool_sunglasses:
+      permission: iawearables.cool_sunglasses
+      enabled: true
+      pattern:
+        - XXX
+        - GSG
+        - XXX
+      ingredients:
+        G: BLACK_STAINED_GLASS_PANE
+        S: STICK
+      result:
+        item: iawearables:cool_sunglasses
+        amount: 1
+    cigar:
+      permission: iawearables.cigar
+      enabled: true
+      pattern:
+        - XXX
+        - TTT
+        - PPP
+      ingredients:
+        P: PAPER
+        T: iasurvival:tobacco
+      result:
+        item: iawearables:cigar
+        amount: 1
+    glasses:
+      permission: iawearables.glasses
+      enabled: true
+      pattern:
+        - XXX
+        - GSG
+        - XXX
+      ingredients:
+        G: GLASS_PANE
+        S: STICK
+      result:
+        item: iawearables:glasses
+        amount: 1
+    biker_helmet:
+      permission: iawearables.biker_helmet
+      enabled: true
+      pattern:
+        - PPP
+        - BBB
+        - PPP
+      ingredients:
+        P: iasurvival:plastic_plate
+        B: BLACK_STAINED_GLASS_PANE
+      result:
+        item: iawearables:biker_helmet
+        amount: 1
+    cat_ears:
+      permission: iawearables.cat_ears
+      enabled: true
+      pattern:
+        - BWB
+        - PWP
+        - XXX
+      ingredients:
+        P: PINK_WOOL
+        B: BLACK_WOOL
+        W: WHITE_WOOL
+      result:
+        item: iawearables:cat_ears
+        amount: 1

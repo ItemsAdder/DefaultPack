@@ -1,0 +1,22 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    blaze_powder_ore:
+      enabled: true
+      permission: iasurvival.blaze_powder_ore
+      pattern:
+        - XXX
+        - XCO
+        - XXX
+      ingredients:
+        O: iasurvival:blaze_powder_ore
+        C: iasurvival:chisel
+      result:
+        item: BLAZE_POWDER
+        amount: 1
+      return_items:
+        decrement_durability:
+          chisel:
+            item: iasurvival:chisel
+            amount: 1

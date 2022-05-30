@@ -1,0 +1,14 @@
+info:
+  namespace: iaspecial_swords
+  dictionary-lang: es
+dictionary:
+  display-name-baseball_bat: Bate de Béisbol
+  display-name-elucidator_sword: Elucidator
+  display-name-floating_sword: '&9&lEspada Flotante'
+  display-name-gandalf_stick: Bastón de Gandalf
+  display-name-guitar_sword: Guitarra-Espada
+  display-name-green_lightsaber: '&2&lSable de Luz Verde'
+  display-name-red_lightsaber: '&4&lSable de Luz Rojo'
+  display-name-blue_lightsaber: '&3&lSable de Luz Azul'
+  display-name-masters_sword: '&6&lEspada Maestra'
+  display-name-repulser_sword: Repulser

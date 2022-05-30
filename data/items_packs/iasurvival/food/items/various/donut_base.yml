@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  donut_base:
+    enabled: true
+    display_name: display-name-donut_base
+    permission: iasurvival.various.donut_base
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/various/donut_base
+    events:
+      eat:
+        feed:
+          amount: 1
+          saturation: 0.5

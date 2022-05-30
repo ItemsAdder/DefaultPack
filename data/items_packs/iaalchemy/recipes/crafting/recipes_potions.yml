@@ -1,0 +1,60 @@
+info:
+  namespace: iaalchemy
+recipes:
+  crafting_table:
+    diamonds_finder_potion:
+      permission: iaalchemy.potions.diamonds_finder_potion
+      enabled: true
+      pattern:
+        - XDX
+        - XAX
+        - XBX
+      ingredients:
+        D: DIAMOND
+        A: BEETROOT
+        B: GLASS_BOTTLE
+      result:
+        item: iaalchemy:diamonds_finder_potion
+        amount: 1
+    emeralds_finder_potion:
+      permission: iaalchemy.potions.emeralds_finder_potion
+      enabled: true
+      pattern:
+        - XDX
+        - XAX
+        - XBX
+      ingredients:
+        D: EMERALD
+        A: BEETROOT
+        B: GLASS_BOTTLE
+      result:
+        item: iaalchemy:emeralds_finder_potion
+        amount: 1
+    strange_potion:
+      permission: iaalchemy.potions.strange_potion
+      enabled: true
+      pattern:
+        - XIX
+        - XBX
+        - XAX
+      ingredients:
+        I: INK_SAC
+        B: BEETROOT
+        A: POTION
+      result:
+        item: iaalchemy:strange_potion
+        amount: 1
+    antidote:
+      permission: iaalchemy.potions.antidote
+      enabled: true
+      pattern:
+        - XIX
+        - XBX
+        - XAX
+      ingredients:
+        I: SUGAR
+        B: BEETROOT
+        A: iaalchemy:strange_potion
+      result:
+        item: iaalchemy:antidote
+        amount: 1

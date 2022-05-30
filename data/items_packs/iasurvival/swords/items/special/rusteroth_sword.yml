@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  rusteroth_sword:
+    enabled: true
+    display_name: display-name-rusteroth_sword
+    permission: iasurvival.special.rusteroth_sword
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+        - item/swords/rusteroth_sword

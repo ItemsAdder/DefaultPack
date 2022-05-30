@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  turquoise:
+    enabled: true
+    display_name: display-name-turquoise
+    permission: iasurvival.items.turquoise
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+        - item/ores/turquoise

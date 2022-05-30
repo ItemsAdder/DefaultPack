@@ -1,0 +1,75 @@
+info:
+  namespace: iaalchemy
+  dictionary-lang: pt
+dictionary:
+  display-name-alchemy_candles: Velas de Alcimia
+  display-name-arcane_ring: Anel Arcano
+  lore-1-arcane_ring: '&6[ &eEfeitos Especiais &6]'
+  lore-2-arcane_ring: '&7Ressuscistar'
+  display-name-astral_bow: Arco Astral
+  display-name-astral_pickaxe: '&3Picareta Astral'
+  display-name-demoniac_hammer: '&4&lMartelo Demónico'
+  lore-1-demoniac_hammer: '&7Quando minas um bloco'
+  lore-2-demoniac_hammer: '&7deixa cair experiencia'
+  lore-3-demoniac_hammer: ''
+  lore-4-demoniac_hammer: '&bMina um área de 3x3x3'
+  display-name-demoniac_pickaxe: '&4&lPicareta Demónica'
+  lore-1-demoniac_pickaxe: '&7Quando minas um bloco'
+  lore-2-demoniac_pickaxe: '&7deixa cair experiencia'
+  lore-3-demoniac_pickaxe: '&750% das vezes.'
+  display-name-energy_orb: '&5Orbe de Energia'
+  lore-1-energy_orb: '&7Obtido do Extractor de Energia'
+  display-name-small_energy_capsule: '&dPequena Cápsula de Energia'
+  lore-1-small_energy_capsule: '&7Contem &fx8 &5Orbes de Energia'
+  display-name-energy_capsule: '&6Cápsula de Energia'
+  lore-1-energy_capsule: '&7Contem &fx8 &dPequenas Cápsulas de Energia'
+  lore-2-energy_capsule: '&7(&5Orbes de Energia &fx64&7)'
+  display-name-healing_crystals: Cristais Curandeiros
+  display-name-energy_converter: Conversor de Energia
+  lore-1-energy_converter: '&7Usa para converter energia'
+  lore-2-energy_converter: '&7em artigos'
+  display-name-energy_extractor: Extractor de Energia
+  lore-1-energy_extractor: '&7Usa para converter artigos'
+  lore-2-energy_extractor: '&7em energia'
+  display-name-mysterious_amulet: Amuleto Misterioso
+  display-name-mysterious_hood: Capuz Misterioso
+  lore-1-mysterious_hood: '&6[ &eEfeitos Especiais &6]'
+  lore-2-mysterious_hood: '&9Visão Noturna (**:**)'
+  lore-3-mysterious_hood: '&9Azar (**:**)'
+  display-name-mysterious_robe: Peitoral Misterioso
+  display-name-mysterious_leggings: Calças Misteriosas
+  display-name-mysterious_boots: Botas Misteriosas
+  lore-1-mysterious_boots: '&6[ &eEfeitos Especiais &6]'
+  lore-2-mysterious_boots: '&9Velocidade II (**:**)'
+  display-name-mysterious_artifact: Artefato Misterioso
+  display-name-mysterious_book: Livro Misterioso
+  display-name-mysterious_book_decrypted: Livro Musterioso Decifrado
+  display-name-mysterious_material: Material Misterioso
+  display-name-mysterious_ore: Mineral Misterioso
+  display-name-mysterious_stone: Pedra Misteriosa
+  display-name-mysterious_sword: Espada Misteriosa
+  display-name-nether_alchemy_ore: Mineral de Alcimia de Nether
+  display-name-philosopher_stone: Pedra Filosofal
+  lore-1-philosopher_stone: '&6[ &eEfeitos Especiais&6]'
+  lore-2-philosopher_stone: '&7Lado Direito do Rato + SHIFT: '
+  lore-3-philosopher_stone: '   - &4Lava &7para &8Obsidian'
+  lore-4-philosopher_stone: '   - &cPapoula &7para &eDente-de-Leão'
+  lore-5-philosopher_stone: ' '
+  lore-6-philosopher_stone: '&7Lado Direito do Rato: '
+  lore-7-philosopher_stone: '   - &eAreia &7para &8Pedragulhos'
+  lore-8-philosopher_stone: '   - &9Água &7para &bGelo'
+  lore-9-philosopher_stone: '   - &eDente-de-Leão &7para &cPapoula'
+  lore-10-philosopher_stone: '   - &2Melão &7para &6Abóbora'
+  lore-11-philosopher_stone: '   - &fVidro &7para &eAreia'
+  lore-12-philosopher_stone: ' '
+  lore-13-philosopher_stone: '&7Para Recarregar, põe numa &fCrafting table'
+  lore-14-philosopher_stone: '&7no slot do meio com &5Orbe de Energia'
+  lore-15-philosopher_stone: '&7(ou outros recipientes de energia) à'
+  display-name-diamonds_finder_potion: Poção de Localizador de Diamantes
+  lore-1-diamonds_finder_potion: '&7Faz os minerais de Diamante brilhar atrás da parede'
+  display-name-emeralds_finder_potion: Poção de Localizador de Esmeralda
+  lore-1-emeralds_finder_potion: '&7Faz os minerais de Esmeralda brilhar atrás da parede'
+  display-name-strange_potion: Poção Estranha
+  lore-1-strange_potion: '&7Uma poção misteriosa'
+  display-name-antidote: Antídoto
+  lore-1-antidote: '&7Remove o efeito de uma poção'

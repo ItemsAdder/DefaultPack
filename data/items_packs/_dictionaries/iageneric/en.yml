@@ -1,0 +1,46 @@
+info:
+  namespace: iageneric
+  dictionary-lang: en
+dictionary:
+  display-name-bug_medal: '&6BugFinder medal'
+  lore-1-bug_medal: '&7Medal won by'
+  lore-2-bug_medal: '&7a very good'
+  lore-3-bug_medal: '&7bug finder.'
+  display-name-cute_medal: '&6Cuteness medal'
+  lore-1-cute_medal: '&7Medal won by'
+  lore-2-cute_medal: '&7the cutest person.'
+  display-name-donator_medal: '&6Donator medal'
+  lore-1-donator_medal: '&7Medal won by'
+  lore-2-donator_medal: '&7the most generous.'
+  display-name-coin: Coin
+  display-name-banknote: Banknote
+  display-name-sack_of_money: Sack Of Money
+  display-name-plastic_bag: Plastic Bag
+  display-name-light_blue_coupon: Generic Coupon
+  display-name-turquoise_coupon: Generic Coupon
+  display-name-purple_coupon: Generic Coupon
+  display-name-green_coupon: Generic Coupon
+  display-name-red_coupon: Generic Coupon
+  display-name-black_coupon: Generic Coupon
+  display-name-white_coupon: Generic Coupon
+  display-name-golden_coupon: Generic Coupon
+  display-name-blue_ring: Generic Ring
+  display-name-light_blue_ring: Generic Ring
+  display-name-turquoise_ring: Generic Ring
+  display-name-purple_ring: Generic Ring
+  display-name-green_ring: Generic Ring
+  display-name-red_ring: Generic Ring
+  display-name-black_ring: Generic Ring
+  display-name-white_ring: Generic Ring
+  display-name-golden_ring: Generic Ring
+  display-name-marriage_ring: Marriage Ring
+  display-name-blue_key: Generic Key
+  display-name-light_blue_key: Generic Key
+  display-name-turquoise_key: Generic Key
+  display-name-purple_key: Generic Key
+  display-name-green_key: Generic Key
+  display-name-red_key: Generic Key
+  display-name-black_key: Generic Key
+  display-name-white_key: Generic Key
+  display-name-golden_key: Generic Key
+  display-name-carton_box: Carton Box

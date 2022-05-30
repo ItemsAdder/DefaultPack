@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  banana:
+    enabled: true
+    display_name: display-name-banana
+    permission: iasurvival.vegetable_and_fruit.banana
+    resource:
+      material: APPLE
+      generate: true
+      textures:
+        - item/food/vegetable_and_fruit/banana
+    events:
+      eat:
+        feed:
+          amount: 5
+          saturation: 1

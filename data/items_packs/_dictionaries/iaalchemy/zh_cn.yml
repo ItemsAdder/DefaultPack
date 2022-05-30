@@ -1,0 +1,75 @@
+info:
+  namespace: iaalchemy
+  dictionary-lang: zh_cn
+dictionary:
+  display-name-alchemy_candles: 魔力蜡烛
+  display-name-arcane_ring: 神秘指环
+  lore-1-arcane_ring: '&6[ &e特殊效果 &6]'
+  lore-2-arcane_ring: '&7复活'
+  display-name-astral_bow: 星体之弓
+  display-name-astral_pickaxe: '&3星体镐子'
+  display-name-demoniac_hammer: '&4&l恶魔之锤'
+  lore-1-demoniac_hammer: '&7当你挖方块的时候'
+  lore-2-demoniac_hammer: '&7它会掉落些许经验'
+  lore-3-demoniac_hammer: ''
+  lore-4-demoniac_hammer: '&b挖掘空间 3x3x3'
+  display-name-demoniac_pickaxe: '&4&l恶魔之镐'
+  lore-1-demoniac_pickaxe: '&7当你挖方块的时候'
+  lore-2-demoniac_pickaxe: '&7它有50%的几率'
+  lore-3-demoniac_pickaxe: '&7掉落些许经验'
+  display-name-energy_orb: '&5能量小球'
+  lore-1-energy_orb: '&7从能量提取器里获得的'
+  display-name-small_energy_capsule: '&d小型能量胶囊'
+  lore-1-small_energy_capsule: '&7内含 &5能量小球 &fx8'
+  display-name-energy_capsule: '&6能量胶囊'
+  lore-1-energy_capsule: '&7内含 &d小型能量胶囊 &fx8'
+  lore-2-energy_capsule: '&7(&5能量小球 &fx64&7)(禁止套娃)'
+  display-name-healing_crystals: 愈合结晶
+  display-name-energy_converter: 能量传递器
+  lore-1-energy_converter: '&7将能量传递给'
+  lore-2-energy_converter: '&7物品'
+  display-name-energy_extractor: 能量抽取器
+  lore-1-energy_extractor: '&7将物品转化成'
+  lore-2-energy_extractor: '&7能量'
+  display-name-mysterious_amulet: 神秘护身符
+  display-name-mysterious_hood: 神秘头巾
+  lore-1-mysterious_hood: '&6[ &e特殊效果 &6]'
+  lore-2-mysterious_hood: '&9夜视 (**:**)'
+  lore-3-mysterious_hood: '&9不幸 (**:**)'
+  display-name-mysterious_robe: 神秘护甲
+  display-name-mysterious_leggings: 神秘护腿
+  display-name-mysterious_boots: 神秘战靴
+  lore-1-mysterious_boots: '&6[ &e特殊效果 &6]'
+  lore-2-mysterious_boots: '&9Speed II (**:**)'
+  display-name-mysterious_artifact: 神秘的手工制品
+  display-name-mysterious_book: 神秘之书
+  display-name-mysterious_book_decrypted: 破译了的神秘之书
+  display-name-mysterious_material: 神秘材料
+  display-name-mysterious_ore: 神秘矿石
+  display-name-mysterious_stone: 神秘之石
+  display-name-mysterious_sword: 神秘之剑
+  display-name-nether_alchemy_ore: 地狱魔力矿石
+  display-name-philosopher_stone: 贤者之石
+  lore-1-philosopher_stone: '&6[ &e特殊效果 &6]'
+  lore-2-philosopher_stone: '&7右键 + Shift键: '
+  lore-3-philosopher_stone: '   - &4岩浆 &7转化 &8黑曜石'
+  lore-4-philosopher_stone: '   - &c虞美人 &7转化 &e蒲公英'
+  lore-5-philosopher_stone: ' '
+  lore-6-philosopher_stone: '&7右键: '
+  lore-7-philosopher_stone: '   - &e沙子 &7转化 &8圆石'
+  lore-8-philosopher_stone: '   - &9水 &7转化 &b冰'
+  lore-9-philosopher_stone: '   - &e蒲公英 &7转化 &c虞美人'
+  lore-10-philosopher_stone: '   - &2西瓜 &7转化 &6南瓜'
+  lore-11-philosopher_stone: '   - &f玻璃 &7转化 &e沙子'
+  lore-12-philosopher_stone: ' '
+  lore-13-philosopher_stone: '&7需要在 &f工作台 &7中进行充能'
+  lore-14-philosopher_stone: '&7将贤者之石置于中心 &5将能量小球'
+  lore-15-philosopher_stone: '&7(或者其他的能量载体) 放在右侧合成充能'
+  display-name-diamonds_finder_potion: 钻石探索药剂
+  lore-1-diamonds_finder_potion: '&7让附近的钻石矿石闪闪发光'
+  display-name-emeralds_finder_potion: 绿宝石探索药剂
+  lore-1-emeralds_finder_potion: '&7让附近的绿宝石矿石闪闪发光'
+  display-name-strange_potion: 奇怪药剂
+  lore-1-strange_potion: '&7一个奇怪的药剂'
+  display-name-antidote: 解毒剂
+  lore-1-antidote: '&7解除药水效果'

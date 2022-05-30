@@ -1,0 +1,113 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    forgotten_crying_obsidian:
+      permission: iasurvival.blocks.decorative_blocks.forgotten_crying_obsidian
+      enabled: true
+      pattern:
+        - LLL
+        - XCO
+        - XXX
+      ingredients:
+        O: OBSIDIAN
+        L: LAPIS_LAZULI
+        C: iasurvival:chisel
+      result:
+        item: iasurvival:forgotten_crying_obsidian
+        amount: 1
+      return_items:
+        decrement_durability:
+          chisel:
+            item: iasurvival:chisel
+            amount: 1
+    nice_stone:
+      permission: iasurvival.blocks.decorative_blocks.nice_stone
+      enabled: true
+      pattern:
+        - XXX
+        - XCO
+        - XXX
+      ingredients:
+        O: STONE
+        C: iasurvival:chisel
+      result:
+        item: iasurvival:nice_stone
+        amount: 1
+      return_items:
+        decrement_durability:
+          chisel:
+            item: iasurvival:chisel
+            amount: 1
+    nice_wood:
+      permission: iasurvival.blocks.decorative_blocks.nice_wood
+      enabled: true
+      pattern:
+        - XXX
+        - XCO
+        - XXX
+      ingredients:
+        O: OAK_PLANKS
+        C: iasurvival:chisel
+      result:
+        item: iasurvival:nice_wood
+        amount: 1
+      return_items:
+        decrement_durability:
+          chisel:
+            item: iasurvival:chisel
+            amount: 1
+    modern_stone:
+      permission: iasurvival.blocks.decorative_blocks.modern_stone
+      enabled: true
+      pattern:
+        - XXX
+        - XCO
+        - XXX
+      ingredients:
+        O: COBBLESTONE
+        C: iasurvival:chisel
+      result:
+        item: iasurvival:modern_stone
+        amount: 1
+      return_items:
+        decrement_durability:
+          chisel:
+            item: iasurvival:chisel
+            amount: 1
+    modern_sandstone:
+      permission: iasurvival.blocks.decorative_blocks.modern_sandstone
+      enabled: true
+      pattern:
+        - XXX
+        - XCO
+        - XXX
+      ingredients:
+        O: SANDSTONE
+        C: iasurvival:chisel
+      result:
+        item: iasurvival:modern_sandstone
+        amount: 1
+      return_items:
+        decrement_durability:
+          chisel:
+            item: iasurvival:chisel
+            amount: 1
+    modern_quartz:
+      permission: iasurvival.blocks.decorative_blocks.modern_quartz
+      enabled: true
+      pattern:
+        - XXX
+        - XCO
+        - XXX
+      ingredients:
+        O: QUARTZ_BLOCK
+        C: iasurvival:chisel
+      result:
+        item: iasurvival:modern_quartz
+        amount: 1
+      return_items:
+        decrement_durability:
+          chisel:
+            item: iasurvival:chisel
+            amount: 1

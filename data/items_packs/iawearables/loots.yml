@@ -1,0 +1,25 @@
+info:
+  namespace: iawearables
+loots:
+  mobs:
+    villager:
+      type: VILLAGER
+      nbt:
+        profession:
+          path: VillagerData.profession
+          value: minecraft:farmer
+          type: string
+      items:
+        item_1:
+          item: iawearables:straw_hat
+          min_amount: 1
+          max_amount: 1
+          chance: 100
+    ender_dragon:
+      type: ENDER_DRAGON
+      items:
+        item_1:
+          item: iawearables:ender_dragon_wings
+          min_amount: 1
+          max_amount: 1
+          chance: 100

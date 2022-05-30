@@ -1,0 +1,18 @@
+info:
+  namespace: iasurvival
+items:
+  knife:
+    enabled: true
+    display_name: display-name-knife
+    permission: iasurvival.items.knife
+    resource:
+      material: WOODEN_SWORD
+      generate: true
+      textures:
+        - item/tools/knife
+    durability:
+      max_custom_durability: 32
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 2
+        attackSpeed: 5

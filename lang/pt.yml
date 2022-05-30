@@ -1,0 +1,121 @@
+attribute-armor: "&9+{value} Armadura"
+attribute-toughness: "&9+{value} Resistência da Armadura"
+attribute-attack-damage: " &2{value} Dano do Ataquue"
+attribute-attack-speed: " &2{value} Velocidade do Ataque"
+attribute-when-in-main-hand: "&7Quando na mão principal:"
+attribute-when-in-off-hand: "&7When in Off Hand:"
+attribute-when-on-body: "&7Quando no corpo:"
+attribute-when-on-feet: "&7Quando nos pés:"
+attribute-when-on-head: "&7Quando na cabeça:"
+attribute-when-on-legs: "&7Quando nas pernas:"
+cannot-break-with-this-tool: "&cNão consegues quebrar com esta ferramenta"
+cannot-repair: "&cEste artigo não pode ser reparado"
+repaired-successfully: "&aArtigo reparado com sucesso!"
+cannot-set-durability: "&cNão consegues definir a durabilidade!"
+set-durability-successfully: "&aDurabilidade definida com sucesso!"
+crafting-no-recipe: "&eEste artigo não têm receita"
+given-item: "&aArtigo dado &e{item} &aa &e{player}"
+removed-item: "&aArtigo removido &e{item} &ade &e{player}"
+lost-item: "&aPerdeste o artigo &e{item}"
+item-not-found: "&c&3{item} &cnão existe"
+items-count: "&bQuantidade de Artigos: &a{count}"
+lore-usages: "&7Usos: {value}"
+lore-durability: "&7Durabilidade: {value} / {max}"
+model-id: "&bID do Modelo: {value}"
+name-config: "&bNome na config: "
+no-craft-permission: "&eNão tens permissão para construir este material!"
+no-permission: "&cNão tens permissão para usar este comando!"
+no-permission-detail: "&cFalta-te a permissão: &e{permission}"
+no-permission-short: "&cSem permissão"
+now-playing: "&fAgora a tocar: {value}"
+obtained-item: "&aObtiveste o artigo: &e{item}"
+dropped-item-coords: "&aCaiu &e{item} &anas coordenadas {coords}"
+dropped-item-player: "&aCaiu &e{item} &ajunto do jogador {player}"
+player-full-inventory: "&cInventário do jogador está cheio!"
+player-offline: "&eJogador está offline"
+prefix: "[ItemsAdder] "
+resourcepack-error: "&4Ocurreu um erro a ativar a resourcepack. Por favor, contacta um admin or desativa as resourcepacks."
+resourcepack-kick-declined: "&4Tens de aceitar a resourcepack! Verifica tambem que os definiste como 'Prompt' ou 'Enabled' nas server properties (server.properties)."
+resourcepack-apply-title: "&a&lA aplicar resourcepack..."
+resourcepack-apply-subtitle: "&6Por favor, tem paciencia demora apenas uns segundos!"
+resourcepack-popup-message: "&6Welcome &b{player}, &6please accept the resourcepack to enjoy all the amazing features of our server.\n
+&aYou need to download it only once."
+wrong-command-usage: "&cUtilização errada do comando"
+emoji-gui-title: "&3&lLista de Emojis"
+map-death-location: "Localização da tua morte"
+fuel-indicator: "&b&lCombustivel: {value}/{max}"
+get-from-trade-machine: "&fAdquire das máquinas comerciais"
+ia-button-worlds-populators: "&fInformação de geração de minérios"
+worlds: "&bMundos:"
+info: "&bInfo:"
+chance: "&f   Probabilidade: &7{value}%"
+amount: "&f   Quantidade: &7{value}"
+min-height: "&f   Altura Mínina: &7{value}"
+max-height: "&f   Altura Máxima: &7{value}"
+biome: "&f   Bioma:"
+drops-itself: "&e   Drops Itself"
+fuel-item: "    &b{type} &7+{amount}"
+iarecipe-wrong-usage: "&cUtilização errada do comando. Utilização correta: &e/iarecipe <item name>&c, &aou segura o artigo na tua mão"
+iarecipe-no-custom-item: "&cIsto não é um artigo customizado! Segura o artigo customizado na tua mão ou usa este commando: &e/iarecipe <nome do artigo>"
+anvil-repair-info: "&fMaterial de reparação na bigorna"
+ia-title-menu-categories: '&3&lCategorias'
+ia-title-recipe-view: '&3&lVisualização da Receita'
+ia-button-search: "&fProcurando..."
+ia-button-back: '&fRecuar'
+ia-button-next-page: '&fPróxima Página->'
+ia-button-previous-page: '&f<-Página Anterior'
+ia-button-next-recipe: '&fPróxima Receita'
+ia-button-previous-recipe: '&fReceita Anterior'
+ia-search-results: "Resultados da Pesquisa"
+ia-smeling: '&fFundindo'
+ia-smelting: '&fEditar Artigo'
+ia-button-get-item: '&fPegar no Artigo'
+ia-vanilla-type: '&fVanilla type'
+ia-model-id: '&fID do Modelo'
+ia-title-crafting-view: "&fMenu Principal"
+player-stat-value-read: "&eValor: &b{value}"
+player-stat-value-write: "&eValor alterado!"
+ia-button-loot-blocks: "&fResultado do bloco"
+ia-button-loot-mobs: "&fArtigo do Mob"
+ia-button-loot-fishing: "&fResultado da pesca"
+ia-button-vehicle-fuel-items: "&eArtigos de combustivel"
+ia-button-seed-result: "&fde Sementes"
+nbt-rule: "&f   {rule}: &7{value}"
+resourcepack-not-ready: "&6O resourcepack não está pronto. Será aplicado automaticamente dentro de uns segundos..."
+mob-summon: "&aGerado Mob &6{mob} &anas coordenadas &7{coords}"
+mob-kill: "&aMatou &6{mob} &7x{amount} &anos Chunks carregados"
+mob-kill-all: "&aMatou &7x{amount} &aMobs customizados nos Chunks carregados"
+mob-not-found: "&cNão consegue encontrar &6{mob}"
+entity-not-found: "&cCan't find custom entity &6{entity}"
+liquid-analyzer-low-level: "&eO nivel deste liquido é muito baixo. Verifica a fonte."
+liquid-analyzer-no-liquid: "&cIsto não é um liquido"
+liquid-bucket-place-near-error: "&cJá existe um liquido muito perto deste. Por favor não os coloques lado a lado"
+command-ingame-only: "&cEste comando não pode ser executado através da consola! Usa o mesmo comando no jogo."
+rightclick-a-block: "&6Agora, carrega com o lado direito no bloco onde queres a árvore."
+spawned-tree: "&aÁrvore gerado com sucesso!"
+spawned-tree-error: "&cÁrvore não pode ser gerada aqui!"
+tree-not-found: "&cÁrvore &3{item} &cnão existe"
+played-totem-animation: "&aReproduziu animação do totem &e{totem} &aao jogador &e{player}"
+played-sound: "&aReproduziu som &e{sound} &7(se existir) &aao jogador &e{player}"
+please-wait-events-cooldown: '&cPor favor aguarde &6{interval} &cpara usar esse item.'
+player-stat-value-insufficient: '&cInsuficiente {stat}! &7Você precisa de {rule}'
+tripwires-disabled: "&cTripwires are disabled on this server."
+font-image-chat-hover: "&fEmoji: {font_image}
+\nUsage: &7{placeholder}
+\n\n&eHINT:
+\n&7You can use the &e/e &7command to send public
+\nmessages/commands with emojis easier.
+\nWrite the emoji name and press &eTAB.
+\n
+\nExamples:
+\n&e/e Hello smile
+\n&7prints &fHello :smile:
+\n
+\n&e/e /tell Notch Hello smile
+\n&7sends the command &f/tell Notch Hello :smile:"
+ia-button-surface-decorators: "&fSpawn info"
+ia-button-trees-populators: "&fSpawn info"
+please-wait-command-cooldown: '&cPlease wait &6{interval} &cto use this command.'
+renamed-successfully: '&aItem renamed successfully!'
+cannot-rename: '&cThis item cannot be renamed'
+entity-not-found: '&cCan''t find custom entity &6{entity}'

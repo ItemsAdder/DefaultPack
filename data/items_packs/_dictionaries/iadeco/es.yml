@@ -1,0 +1,73 @@
+info:
+  namespace: iadeco
+  dictionary-lang: es
+dictionary:
+  display-name-white_bar_chair: Silla de Bar Blanca
+  display-name-orange_bar_chair: Silla de Bar Naranja
+  display-name-magenta_bar_chair: Silla de Bar Magenta
+  display-name-light_blue_bar_chair: Silla de Bar Celeste
+  display-name-yellow_bar_chair: Silla de Bar Amarilla
+  display-name-lime_bar_chair: Silla de Bar Verde Lima
+  display-name-pink_bar_chair: Silla de Bar Rosa
+  display-name-gray_bar_chair: Silla de Bar Gris
+  display-name-light_gray_bar_chair: Silla de Bar Gris Claro
+  display-name-cyan_bar_chair: Silla de Bar Cian
+  display-name-purple_bar_chair: Silla de Bar Púrpura
+  display-name-blue_bar_chair: Silla de Bar Azul
+  display-name-brown_bar_chair: Silla de Bar Marrón
+  display-name-green_bar_chair: Silla de Bar Verde
+  display-name-red_bar_chair: Silla de Bar Roja
+  display-name-black_bar_chair: Silla de Bar Negra
+  display-name-computer_chair: Silla de Computadora
+  lore-chair: '&7Click Derecho para sentarse'
+  display-name-school_chair: Silla Escolar
+  display-name-school_chair_lazy: Silla Comoda Escolar
+  display-name-simple_chair: Silla Simple
+  display-name-white_chair: Silla Blanca
+  display-name-white_wood_chair: Silla de Madera Clara
+  display-name-orange_wood_chair: Silla de Madera Anaranjada
+  display-name-magenta_wood_chair: Silla de Madera Magenta
+  display-name-light_blue_wood_chair: Silla de Madera Celeste
+  display-name-yellow_wood_chair: Silla de Madera Amarilla
+  display-name-lime_wood_chair: Silla de Madera Verde Lima
+  display-name-pink_wood_chair: Silla de Madera Rosa
+  display-name-gray_wood_chair: Silla de Madera Gris
+  display-name-light_gray_wood_chair: Silla de Madera Gris Claro
+  display-name-cyan_wood_chair: Silla de Madera Cian
+  display-name-purple_wood_chair: Silla de Madera Púrpura
+  display-name-blue_wood_chair: Silla de Madera Azul
+  display-name-brown_wood_chair: Silla de Madera Marrón
+  display-name-green_wood_chair: Silla de Madera Verde
+  display-name-red_wood_chair: Silla de Madera Roja
+  display-name-black_wood_chair: Silla de Madera Negra
+  display-name-white_chandeliers: Lámpara de araña Blanca
+  display-name-black_chandeliers: Lámpara de araña Negra
+  display-name-black_and_red_chandeliers: Lámpara de araña Roja y Negra
+  display-name-coffee_machine: Maquina de Café
+  lore-1-coffee_machine: '&7Prepara un buen Café'
+  display-name-computer_desk: Escritorio con Computadora
+  lore-decorative-item: '&7Item Decorativo'
+  display-name-dark_throne: Trono Oscuro
+  display-name-glass_table: Mesa de Vidrio
+  display-name-lamp: Lámpara
+  display-name-lava_lamp: Lámpara de Lava
+  display-name-lit_campfire: Fogata Encendida
+  display-name-mini_fridge: Mini Refrigerador
+  display-name-monitor: Monitor
+  display-name-old_clock: Reloj antiguo
+  display-name-opened_chest: Cofre Abierto
+  display-name-painting_burst: Pintura
+  display-name-painting_courbet: Pintura
+  display-name-painting_graham: Pintura
+  display-name-painting_match: Pintura
+  display-name-painting_pool: Pintura
+  display-name-painting_skull_and_roses: Pintura
+  display-name-painting_stage: Pintura
+  display-name-painting_void: Pintura
+  display-name-painting_wanderer: Pintura
+  display-name-small_fountain: Fuente Pequeña
+  display-name-table: Mesa
+  display-name-tv: TV
+  display-name-vending_machine: Maquina Expendedora
+  lore-1-vending_machine: '&7Usala para conseguir Items interesantes'
+  display-name-cut_spruce_log: Tronco de Abeto Cortado

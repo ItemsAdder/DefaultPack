@@ -1,0 +1,16 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    bronze_shield:
+      permission: iasurvival.bronze_shield
+      enabled: true
+      pattern:
+        - TTT
+        - XTX
+        - XXX
+      ingredients:
+        T: iasurvival:bronze_ingot
+      result:
+        item: iasurvival:bronze_shield
+        amount: 1

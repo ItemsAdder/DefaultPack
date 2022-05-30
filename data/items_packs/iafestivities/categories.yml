@@ -1,0 +1,32 @@
+info:
+  namespace: iafestivities
+categories:
+  halloween:
+    enabled: true
+    skip_if_already: false
+    icon: iafestivities:jack_o_lantern_backpack
+    name: display-category-halloween
+    permission: ia.menu.seecategory.halloween
+    items:
+      - iafestivities:broomstick
+      - iafestivities:jack_o_lantern_backpack
+      - iafestivities:dark_jack_o_lantern_backpack
+      - iafestivities:spider_backpack
+      - iafestivities:cave_spider_backpack
+      - iafestivities:bones_backpack
+      - iafestivities:witch_hat
+      - iafestivities:bat_wings
+      - iafestivities:axe_hat
+      - iafestivities:decorative_pumpkin
+  christmas:
+    enabled: true
+    skip_if_already: false
+    icon: iafestivities:santa_hat
+    name: display-category-christmas
+    permission: ia.menu.seecategory.christmas
+    items:
+      - iafestivities:christmas_tree
+      - iafestivities:christmas_candle
+      - iafestivities:santa_hat
+      - iafestivities:decorative_candy_cane
+      - iafestivities:christmas_wreath

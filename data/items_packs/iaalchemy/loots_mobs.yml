@@ -1,0 +1,12 @@
+info:
+  namespace: iaalchemy
+loots:
+  mobs:
+    witch:
+      type: WITCH
+      items:
+        item_1:
+          item: iaalchemy:mysterious_amulet
+          min_amount: 1
+          max_amount: 1
+          chance: 20

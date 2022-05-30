@@ -1,0 +1,46 @@
+info:
+  namespace: iageneric
+  dictionary-lang: fr
+dictionary:
+  display-name-bug_medal: '&6Médaille chercheur de bug'
+  lore-1-bug_medal: '&7Médaille donnée'
+  lore-2-bug_medal: '&7au meilleur'
+  lore-3-bug_medal: '&7Chercheur de bug.'
+  display-name-cute_medal: '&6Médaille du plus adorable'
+  lore-1-cute_medal: '&7Médaille donnée'
+  lore-2-cute_medal: '&7à la personne la plus adorable.'
+  display-name-donator_medal: '&6Médaille du plus généreux'
+  lore-1-donator_medal: '&7Médaille donnée'
+  lore-2-donator_medal: '&7à la personne la plus généreuse.'
+  display-name-coin: Pièce
+  display-name-banknote: Chêque
+  display-name-sack_of_money: Sac d'argent
+  display-name-plastic_bag: Sac en plastique
+  display-name-light_blue_coupon: Coupon générique
+  display-name-turquoise_coupon: Coupon générique
+  display-name-purple_coupon: Coupon générique
+  display-name-green_coupon: Coupon générique
+  display-name-red_coupon: Coupon générique
+  display-name-black_coupon: Coupon générique
+  display-name-white_coupon: Coupon générique
+  display-name-golden_coupon: Coupon générique
+  display-name-blue_ring: Anneau simple
+  display-name-light_blue_ring: Anneau simple
+  display-name-turquoise_ring: Anneau simple
+  display-name-purple_ring: Anneau simple
+  display-name-green_ring: Anneau simple
+  display-name-red_ring: Anneau simple
+  display-name-black_ring: Anneau simple
+  display-name-white_ring: Anneau simple
+  display-name-golden_ring: Anneau simple
+  display-name-marriage_ring: Bague de Mariage
+  display-name-blue_key: Clé simple
+  display-name-light_blue_key: Clé simple
+  display-name-turquoise_key: Clé simple
+  display-name-purple_key: Clé simple
+  display-name-green_key: Clé simple
+  display-name-red_key: Clé simple
+  display-name-black_key: Clé simple
+  display-name-white_key: Clé simple
+  display-name-golden_key: Clé simple
+  display-name-carton_box: Boite en carton

@@ -1,0 +1,116 @@
+info:
+  namespace: iaalchemy
+items:
+  philosopher_stone:
+    enabled: true
+    display_name: display-name-philosopher_stone
+    permission: iaalchemy.items.philosopher_stone
+    lore:
+      - lore-1-philosopher_stone
+      - lore-2-philosopher_stone
+      - lore-3-philosopher_stone
+      - lore-4-philosopher_stone
+      - lore-5-philosopher_stone
+      - lore-6-philosopher_stone
+      - lore-7-philosopher_stone
+      - lore-8-philosopher_stone
+      - lore-9-philosopher_stone
+      - lore-10-philosopher_stone
+      - lore-11-philosopher_stone
+      - lore-12-philosopher_stone
+      - lore-13-philosopher_stone
+      - lore-14-philosopher_stone
+      - lore-15-philosopher_stone
+      - " "
+      - lore-blocked-enchants
+      - lore-enchantment-mending
+      - " "
+    resource:
+      material: IRON_SWORD
+      generate: true
+      textures:
+        - item/philosopher_stone
+    durability:
+      max_custom_durability: 1756
+      custom_durability: 0
+      disappear_when_broken: false
+    blocked_enchants:
+      - MENDING
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 0
+        attackSpeed: 4
+    item_flags:
+      - HIDE_ATTRIBUTES
+    events:
+      interact:
+        right_shift:
+          play_sound:
+            name: iaalchemy:item.philosopher_stone.use
+            volume: 1
+            pitch: 1
+          play_particle:
+            name: CRIT_MAGIC
+          replace_near_blocks:
+            radius:
+              x: 2
+              'y': 2
+              z: 2
+            from: LAVA
+            to: OBSIDIAN
+            decrement_durability: 8
+          replace_near_blocks_1:
+            radius:
+              x: 1
+              'y': 2
+              z: 1
+            from: POPPY
+            to: DANDELION
+            decrement_durability: 1
+        right:
+          play_sound:
+            name: iaalchemy:item.philosopher_stone.use
+            volume: 1
+            pitch: 1
+          play_particle:
+            name: CRIT_MAGIC
+          replace_near_blocks:
+            radius:
+              x: 2
+              'y': 1
+              z: 2
+            from: SAND
+            to: COBBLESTONE
+            decrement_durability: 1
+          replace_near_blocks_1:
+            radius:
+              x: 3
+              'y': 2
+              z: 3
+            from: WATER
+            to: ICE
+            decrement_durability: 2
+          replace_near_blocks_2:
+            radius:
+              x: 1
+              'y': 2
+              z: 1
+            from: DANDELION
+            to: POPPY
+            decrement_durability: 1
+          replace_near_blocks_3:
+            radius:
+              x: 1
+              'y': 2
+              z: 1
+            from: MELON
+            to: PUMPKIN
+            decrement_durability: 2
+          replace_near_blocks_4:
+            radius:
+              x: 1
+              'y': 2
+              z: 1
+            from: GLASS
+            to: SAND
+            decrement_durability: 1

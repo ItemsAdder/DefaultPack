@@ -1,0 +1,69 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    cassiterite:
+      permission: iasurvival.cassiterite
+      enabled: true
+      pattern:
+        - XXX
+        - XCC
+        - XCC
+      ingredients:
+        C: iasurvival:cassiterite_fragment
+      result:
+        item: iasurvival:cassiterite
+        amount: 1
+    raw_tin_and_copper_ingot_dust:
+      permission: iasurvival.raw_tin_and_copper_ingot_dust
+      enabled: true
+      pattern:
+        - CCC
+        - CRC
+        - CCC
+      ingredients:
+        C: COPPER_INGOT
+        R: iasurvival:raw_tin
+      result:
+        item: iasurvival:raw_tin_and_copper_ingot_dust
+        amount: 1
+  cooking:
+    cassiterite:
+      enabled: true
+      permission: iasurvival.cassiterite
+      ingredient:
+        item: iasurvival:cassiterite_ore
+      machines:
+        - FURNACE
+        - BLAST_FURNACE
+      exp: 1
+      cook_time: 400
+      result:
+        item: iasurvival:cassiterite
+        amount: 1
+    raw_tin:
+      enabled: true
+      permission: iasurvival.raw_tin
+      ingredient:
+        item: iasurvival:cassiterite
+      machines:
+        - FURNACE
+        - BLAST_FURNACE
+      exp: 1
+      cook_time: 500
+      result:
+        item: iasurvival:raw_tin
+        amount: 1
+    bronze_ingot:
+      enabled: true
+      permission: iasurvival.bronze_ingot
+      ingredient:
+        item: iasurvival:raw_tin_and_copper_ingot_dust
+      machines:
+        - FURNACE
+        - BLAST_FURNACE
+      exp: 1
+      cook_time: 400
+      result:
+        item: iasurvival:bronze_ingot
+        amount: 1

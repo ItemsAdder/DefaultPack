@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  pufferfish_nigiri:
+    enabled: true
+    display_name: display-name-pufferfish_nigiri
+    permission: iasurvival.fishes.pufferfish_nigiri
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/fishes/pufferfish_nigiri
+    events:
+      eat:
+        feed:
+          amount: 1
+          saturation: 2

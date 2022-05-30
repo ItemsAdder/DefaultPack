@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  end_ingot:
+    enabled: true
+    display_name: display-name-end_ingot
+    permission: iasurvival.items.end_ingot
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+        - item/ores/end_ingot

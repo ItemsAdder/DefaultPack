@@ -1,0 +1,76 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    tomato_seeds:
+      permission: iasurvival.crops.tomato_seeds
+      enabled: true
+      pattern:
+        - XXX
+        - XOX
+        - XXX
+      ingredients:
+        O: iasurvival:tomato
+      result:
+        item: iasurvival:tomato_seeds
+        amount: 2
+    garlic_seeds:
+      permission: iasurvival.crops.garlic_seeds
+      enabled: true
+      pattern:
+        - XXX
+        - XOX
+        - XXX
+      ingredients:
+        O: iasurvival:garlic
+      result:
+        item: iasurvival:garlic_seeds
+        amount: 2
+    lettuce_seeds:
+      permission: iasurvival.crops.lettuce_seeds
+      enabled: true
+      pattern:
+        - XXX
+        - XOX
+        - XXX
+      ingredients:
+        O: iasurvival:lettuce
+      result:
+        item: iasurvival:lettuce_seeds
+        amount: 2
+    chili_pepper_seeds:
+      permission: iasurvival.crops.chili_pepper_seeds
+      enabled: true
+      pattern:
+        - XXX
+        - XOX
+        - XXX
+      ingredients:
+        O: iasurvival:chili_pepper
+      result:
+        item: iasurvival:chili_pepper_seeds
+        amount: 2
+    rice_seeds:
+      permission: iasurvival.crops.rice_seeds
+      enabled: true
+      pattern:
+        - XXX
+        - XOX
+        - XXX
+      ingredients:
+        O: iasurvival:rice
+      result:
+        item: iasurvival:rice_seeds
+        amount: 2
+    tobacco_seeds:
+      permission: iasurvival.crops.tobacco_seeds
+      enabled: true
+      pattern:
+        - XXX
+        - XOX
+        - XXX
+      ingredients:
+        O: iasurvival:tobacco
+      result:
+        item: iasurvival:tobacco_seeds
+        amount: 2

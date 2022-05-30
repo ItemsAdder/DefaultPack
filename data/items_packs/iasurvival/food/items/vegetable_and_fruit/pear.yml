@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  pear:
+    enabled: true
+    display_name: display-name-pear
+    permission: iasurvival.vegetable_and_fruit.pear
+    resource:
+      material: APPLE
+      generate: true
+      textures:
+        - item/food/vegetable_and_fruit/pear
+    events:
+      eat:
+        feed:
+          amount: 4
+          saturation: 1

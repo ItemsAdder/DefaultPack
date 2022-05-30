@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  sweet_stick:
+    enabled: true
+    display_name: display-name-sweet_stick
+    permission: iasurvival.various.sweet_stick
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/various/sweet_stick
+    events:
+      eat:
+        feed:
+          amount: 2
+          saturation: 0.2

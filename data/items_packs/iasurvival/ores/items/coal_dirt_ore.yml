@@ -1,0 +1,29 @@
+info:
+  namespace: iasurvival
+items:
+  coal_dirt_ore:
+    enabled: true
+    display_name: display-name-coal_dirt_ore
+    permission: iasurvival.items.coal_dirt_ore
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - block/ores/coal_dirt_ore
+    specific_properties:
+      block:
+        placed_model:
+          type: REAL_NOTE
+          break_particles_material: DIRT
+        cancel_drop: false
+        sound:
+          place:
+            name: block.gravel.place
+          break:
+            name: block.gravel.place
+        break_tools_whitelist:
+          - HAND
+          - PICKAXE
+          - SHOVEL
+          - pickaxe
+          - shovel

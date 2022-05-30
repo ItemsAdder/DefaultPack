@@ -1,0 +1,10 @@
+info:
+  namespace: iamusic
+  dictionary-lang: pt
+dictionary:
+  display-name-blank_disc: Disco Vazio
+  lore-1-blank_disc: '&7Pode ser usado para construir'
+  lore-2-blank_disc: '&7discos musicais'
+  display-name-music_disc_electric_keys: '&bDisco Musical'
+  display-name-music_disc_cdk_sunday: '&bDisco Musical'
+  display-name-music_disc_vidian_aether_theories: '&bDisco Musical'

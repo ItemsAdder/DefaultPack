@@ -1,0 +1,10 @@
+info:
+  namespace: iamusic
+  dictionary-lang: en
+dictionary:
+  display-name-blank_disc: Blank Disc
+  lore-1-blank_disc: '&7Can be used to craft'
+  lore-2-blank_disc: '&7music discs'
+  display-name-music_disc_electric_keys: '&bMusic Disc'
+  display-name-music_disc_cdk_sunday: '&bMusic Disc'
+  display-name-music_disc_vidian_aether_theories: '&bMusic Disc'

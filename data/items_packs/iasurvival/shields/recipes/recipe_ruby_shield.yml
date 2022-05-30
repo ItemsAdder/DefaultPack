@@ -1,0 +1,16 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    ruby_shield:
+      permission: iasurvival.ruby_shield
+      enabled: true
+      pattern:
+        - TTT
+        - XTX
+        - XXX
+      ingredients:
+        T: iasurvival:ruby
+      result:
+        item: iasurvival:ruby_shield
+        amount: 1

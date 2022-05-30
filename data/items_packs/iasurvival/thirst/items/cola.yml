@@ -1,0 +1,23 @@
+info:
+  namespace: iasurvival
+items:
+  cola:
+    enabled: true
+    display_name: display-name-cola
+    permission: iasurvival.items.cola
+    resource:
+      material: POTION
+      generate: true
+      textures:
+        - item/thirst/cola
+    specific_properties:
+      potion:
+        type: WATER
+        color: WHITE
+    item_flags:
+      - HIDE_POTION_EFFECTS
+    events:
+      drink:
+        increment_player_stat:
+          name: thirst
+          amount: 5

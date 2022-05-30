@@ -1,0 +1,18 @@
+info:
+  namespace: iafestivities
+  dictionary-lang: fr
+dictionary:
+  display-name-christmas_candle: Bougie de Noël
+  display-name-christmas_tree: Sapin de Noël
+  display-name-christmas_wreath: Guirlande de Noël
+  display-name-decorative_candy_cane: Canne à sucre décorative
+  display-name-santa_hat: '&cChapeau du père noël'
+  display-name-axe_hat: Chapeau hache
+  display-name-bat_wings: Ailes de chauve-souris
+  display-name-bones_backpack: Sac à dos en os
+  display-name-cave_spider_backpack: Sac à dos araignée venimeuse
+  display-name-dark_jack_o_lantern_backpack: Sac à dos &4Sombre &6Citrouille
+  display-name-decorative_pumpkin: Citrouille décorative
+  display-name-jack_o_lantern_backpack: '&fSac à dos &6Citrouille'
+  display-name-spider_backpack: Sac à dos araignée
+  display-name-witch_hat: Chapeau de sorcière

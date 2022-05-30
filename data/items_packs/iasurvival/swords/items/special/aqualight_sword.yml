@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  aqualight_sword:
+    enabled: true
+    display_name: display-name-aqualight_sword
+    permission: iasurvival.special.aqualight_sword
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+        - item/swords/aqualight_sword

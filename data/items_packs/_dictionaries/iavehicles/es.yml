@@ -1,0 +1,31 @@
+info:
+  namespace: iavehicles
+  dictionary-lang: es
+dictionary:
+  display-name-broomstick: Escoba
+  display-name-ufo: Ovni
+  display-name-oak_wood_plane: Avión de Madera de Roble
+  display-name-spruce_wood_plane: Avión de Madera de Abeto
+  display-name-birch_wood_plane: Avión de Madera de Abedul
+  display-name-jungle_wood_plane: Avión de Madera de Jungla
+  display-name-acacia_wood_plane: Avión de Madera de Acacia
+  display-name-dark_oak_wood_plane: Avión de Madera de Roble Oscuro
+  display-name-white_go_cart: Go-cart Blanco
+  display-name-orange_go_cart: Go-cart Naranja
+  display-name-magenta_go_cart: Go-cart Magenta
+  display-name-light_blue_go_cart: Go-cart Celeste
+  display-name-yellow_go_cart: Go-cart Amarillo
+  display-name-lime_go_cart: Go-cart Verde Lima
+  display-name-pink_go_cart: Go-cart Rosa
+  display-name-gray_go_cart: Go-cart Gris
+  display-name-light_gray_go_cart: Go-cart Gris Claro
+  display-name-cyan_go_cart: Go-cart Cian
+  display-name-purple_go_cart: Go-cart Púrpura
+  display-name-blue_go_cart: Go-cart Azul
+  display-name-brown_go_cart: Go-cart Marrón
+  display-name-green_go_cart: Go-cart Verde
+  display-name-red_go_cart: Go-cart Rojo
+  display-name-black_go_cart: Go-cart Negro
+  display-name-shopping_cart: Carrito de Compras
+  display-name-ufo_toy: Ovni de juguete
+  lore-1-ufo_toy: '&7Click derecho para hacerlo volar'

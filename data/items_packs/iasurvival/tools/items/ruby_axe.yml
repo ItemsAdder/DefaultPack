@@ -1,0 +1,23 @@
+info:
+  namespace: iasurvival
+items:
+  ruby_axe:
+    enabled: true
+    display_name: display-name-ruby_axe
+    permission: iasurvival.items.ruby_axe
+    resource:
+      material: DIAMOND_AXE
+      generate: true
+      textures:
+        - item/tools/ruby_axe
+    durability:
+      max_custom_durability: 180
+    lore:
+      - lore-blocked-enchants
+      - lore-enchantment-mending
+    blocked_enchants:
+      - MENDING
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 9
+        attackSpeed: 1.3

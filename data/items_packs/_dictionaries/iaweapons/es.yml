@@ -1,0 +1,25 @@
+info:
+  namespace: iaweapons
+  dictionary-lang: es
+dictionary:
+  display-name-ak47: Ak-47
+  display-name-clip: Clip
+  lore-1-clip: '&7Sostener con la'
+  lore-2-clip: '&7mano izquierda mientras disparas'
+  lore-3-clip: '&7con un ak-47'
+  display-name-firework_launcher: Lanzador de Fuegos Artificiales
+  lore-1-firework_launcher: '&7Sostén un Cohete en tu mano izquierda'
+  lore-2-firework_launcher: '&7y manten click derecho para cargar'
+  lore-3-firework_launcher: '&7el lanzador de Fuegos Artificiales'
+  display-name-grenade: Granada
+  display-name-hand_gun: Pistola
+  display-name-projectile: Proyectil
+  lore-1-projectile: '&7Sostener con la'
+  lore-2-projectile: '&7mano izquierda mientras disparas'
+  lore-3-projectile: '&7con un arma'
+  display-name-revolver: Revolver
+  display-name-shotgun: Escopeta
+  display-name-shotgun_cartridge: Perdigón de Escopeta
+  lore-1-shotgun_cartridge: '&7Sostener con la'
+  lore-2-shotgun_cartridge: '&7mano izquierda mientras disparas'
+  lore-3-shotgun_cartridge: '&7con una Escopeta'

@@ -1,0 +1,20 @@
+info:
+  namespace: iasurvival
+items:
+  cassiterite_block:
+    enabled: true
+    display_name: display-name-cassiterite_block
+    permission: iasurvival.minerals.cassiterite_block
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - block/minerals/cassiterite_block
+    specific_properties:
+      block:
+        placed_model:
+          type: REAL_NOTE
+          break_particles_material: COAL_BLOCK
+        break_tools_whitelist:
+          - PICKAXE
+          - pickaxe

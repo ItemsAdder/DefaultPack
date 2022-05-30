@@ -1,0 +1,146 @@
+info:
+  namespace: iaalchemy
+items:
+  mysterious_hood:
+    enabled: true
+    display_name: display-name-mysterious_hood
+    permission: iaalchemy.items.mysterious_armor.mysterious_hood
+    lore:
+      - lore-1-mysterious_hood
+      - lore-2-mysterious_hood
+      - lore-3-mysterious_hood
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: item/mysterious_hood
+    attribute_modifiers:
+      chest:
+        armor: 1
+    behaviours:
+      hat: true
+    events:
+      wear:
+        play_sound:
+          name: iaalchemy:ambient.creepy
+          volume: 1
+          pitch: 1
+        remove_potion_effect_1:
+          type: UNLUCK
+        potion_effect:
+          type: NIGHT_VISION
+          duration: 1000000
+          amplifier: 0
+        potion_effect_2:
+          type: UNLUCK
+          duration: 1000000
+          amplifier: 0
+        play_particle:
+          name: ENCHANTMENT_TABLE
+      unwear:
+        play_sound:
+          name: iaalchemy:ambient.creepy
+          volume: 1
+          pitch: 1
+        remove_potion_effect_1:
+          type: NIGHT_VISION
+        remove_potion_effect_2:
+          type: UNLUCK
+        potion_effect:
+          type: UNLUCK
+          duration: 100
+          amplifier: 0
+        decrement_durability:
+          amount: 10
+        play_particle:
+          name: ENCHANTMENT_TABLE
+  mysterious_robe:
+    enabled: true
+    display_name: display-name-mysterious_robe
+    permission: iaalchemy.items.mysterious_armor.mysterious_robe
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 100
+    specific_properties:
+      armor:
+        slot: chest
+        color: '570e11'
+    attribute_modifiers:
+      chest:
+        armor: 4
+    events:
+      wear:
+        play_sound:
+          name: iaalchemy:ambient.creepy
+          volume: 1
+          pitch: 1
+      unwear:
+        play_sound:
+          name: iaalchemy:ambient.creepy
+          volume: 1
+          pitch: 1
+  mysterious_leggings:
+    enabled: true
+    display_name: display-name-mysterious_leggings
+    permission: iaalchemy.items.mysterious_armor.mysterious_leggings
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 90
+    specific_properties:
+      armor:
+        slot: legs
+        color: '570e11'
+    attribute_modifiers:
+      legs:
+        armor: 2
+        armorToughness: 1
+    events:
+      wear:
+        play_sound:
+          name: iaalchemy:ambient.creepy
+          volume: 1
+          pitch: 1
+      unwear:
+        play_sound:
+          name: iaalchemy:ambient.creepy
+          volume: 1
+          pitch: 1
+  mysterious_boots:
+    enabled: true
+    display_name: display-name-mysterious_boots
+    permission: iaalchemy.items.mysterious_armor.mysterious_boots
+    lore:
+      - lore-1-mysterious_boots
+      - lore-2-mysterious_boots
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 80
+    specific_properties:
+      armor:
+        slot: FEET
+        color: '570e11'
+    attribute_modifiers:
+      feet:
+        armor: 1
+        movementSpeed:
+          value: 0.3
+          operation: multiply_base
+    events:
+      wear:
+        play_sound:
+          name: iaalchemy:ambient.creepy
+          volume: 1
+          pitch: 1
+        play_particle:
+          name: ENCHANTMENT_TABLE
+        decrement_durability:
+          amount: 5
+      unwear:
+        play_sound:
+          name: iaalchemy:ambient.creepy
+          volume: 1
+          pitch: 1
+        play_particle:
+          name: ENCHANTMENT_TABLE

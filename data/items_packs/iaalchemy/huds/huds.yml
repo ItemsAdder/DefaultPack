@@ -1,0 +1,23 @@
+info:
+  namespace: iaalchemy
+huds:
+  mana_bar:
+    enabled: false
+    show:
+      auto: true
+      creative: true
+    type: FRAMES
+    x_position_pixels: 100
+    value:
+      player_stat_name: mana
+      start: 0
+      min: 0
+      max: 5
+    images:
+      frames:
+        - iaalchemy:mana_bar_0
+        - iaalchemy:mana_bar_1
+        - iaalchemy:mana_bar_2
+        - iaalchemy:mana_bar_3
+        - iaalchemy:mana_bar_4
+        - iaalchemy:mana_bar_5

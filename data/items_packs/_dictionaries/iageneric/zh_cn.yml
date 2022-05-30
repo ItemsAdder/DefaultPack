@@ -1,0 +1,46 @@
+info:
+  namespace: iageneric
+  dictionary-lang: zh_cn
+dictionary:
+  display-name-bug_medal: '&6BUG发现者 奖牌'
+  lore-1-bug_medal: '&7这个奖章奖励给'
+  lore-2-bug_medal: '&7一个 非常棒的'
+  lore-3-bug_medal: '&7BUG寻找者.'
+  display-name-cute_medal: '&6超可爱 奖牌'
+  lore-1-cute_medal: '&7这个奖章奖励给'
+  lore-2-cute_medal: '&7一个最可爱的人.'
+  display-name-donator_medal: '&6贡献者 奖牌'
+  lore-1-donator_medal: '&7这个奖章奖励给'
+  lore-2-donator_medal: '&7一个最慷慨的人.'
+  display-name-coin: 硬币
+  display-name-banknote: 钞票
+  display-name-sack_of_money: 一袋金币
+  display-name-plastic_bag: 塑料袋
+  display-name-light_blue_coupon: 通用购物券(浅蓝)
+  display-name-turquoise_coupon: 通用购物券(青绿)
+  display-name-purple_coupon: 通用购物券(紫色)
+  display-name-green_coupon: 通用购物券(绿色)
+  display-name-red_coupon: 通用购物券(红色)
+  display-name-black_coupon: 通用购物券(黑色)
+  display-name-white_coupon: 通用购物券(白色)
+  display-name-golden_coupon: 通用购物券(金色)
+  display-name-blue_ring: 普通的指环(蓝色)
+  display-name-light_blue_ring: 普通的指环(浅蓝)
+  display-name-turquoise_ring: 普通的指环(青绿)
+  display-name-purple_ring: 普通的指环(紫色)
+  display-name-green_ring: 普通的指环(绿色)
+  display-name-red_ring: 普通的指环(红色)
+  display-name-black_ring: 普通的指环(黑色)
+  display-name-white_ring: 普通的指环(白色)
+  display-name-golden_ring: 普通的指环(金色)
+  display-name-marriage_ring: 结婚戒指
+  display-name-blue_key: 普通的钥匙(蓝色)
+  display-name-light_blue_key: 普通的钥匙(浅蓝)
+  display-name-turquoise_key: 普通的钥匙(青绿)
+  display-name-purple_key: 普通的钥匙(紫色)
+  display-name-green_key: 普通的钥匙(绿色)
+  display-name-red_key: 普通的钥匙(红色)
+  display-name-black_key: 普通的钥匙(黑色)
+  display-name-white_key: 普通的钥匙(白色)
+  display-name-golden_key: 普通的钥匙(金色)
+  display-name-carton_box: 卡通盒子

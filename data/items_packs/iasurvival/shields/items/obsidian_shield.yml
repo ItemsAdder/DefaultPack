@@ -1,0 +1,27 @@
+info:
+  namespace: iasurvival
+items:
+  obsidian_shield:
+    enabled: true
+    display_name: display-name-obsidian_shield
+    permission: iasurvival.items.obsidian_shield
+    resource:
+      material: SHIELD
+      generate: false
+      model_path: item/shields/obsidian_shield
+    durability:
+      max_custom_durability: 625
+    lore:
+      - lore-blocked-enchants
+      - lore-enchantment-mending
+    blocked_enchants:
+      - MENDING
+    attribute_modifiers:
+      mainhand:
+        movementSpeed:
+          value: -0.1
+          operation: multiply_base
+      offhand:
+        movementSpeed:
+          value: -0.1
+          operation: multiply_base

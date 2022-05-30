@@ -1,0 +1,13 @@
+info:
+  namespace: iafestivities
+items:
+  cave_spider_backpack:
+    enabled: true
+    display_name: display-name-cave_spider_backpack
+    permission: iafestivities.halloween.cave_spider_backpack
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: halloween/cave_spider_backpack
+    behaviours:
+      hat: true

@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  baguette:
+    enabled: true
+    display_name: display-name-baguette
+    permission: iasurvival.various.baguette
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/various/baguette
+    events:
+      eat:
+        feed:
+          amount: 8
+          saturation: 2

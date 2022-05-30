@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  sliced_bread:
+    enabled: true
+    display_name: display-name-sliced_bread
+    permission: iasurvival.various.sliced_bread
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/various/sliced_bread
+    events:
+      eat:
+        feed:
+          amount: 1
+          saturation: 0.2

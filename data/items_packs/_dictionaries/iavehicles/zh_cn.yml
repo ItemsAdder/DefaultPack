@@ -1,0 +1,29 @@
+info:
+  namespace: iavehicles
+  dictionary-lang: zh_cn
+dictionary:
+  display-name-broomstick: 扫帚
+  display-name-ufo: Ufo
+  display-name-oak_wood_plane: 橡木飞机
+  display-name-spruce_wood_plane: 云杉木飞机
+  display-name-birch_wood_plane: 桦木飞机
+  display-name-dark_oak_wood_plane: 深色橡木飞机
+  display-name-white_go_cart: 白色卡丁车
+  display-name-orange_go_cart: 橙色卡丁车
+  display-name-magenta_go_cart: 品红色卡丁车
+  display-name-light_blue_go_cart: 浅蓝色卡丁车
+  display-name-yellow_go_cart: 黄色卡丁车
+  display-name-lime_go_cart: 黄绿色卡丁车
+  display-name-pink_go_cart: 粉色卡丁车
+  display-name-gray_go_cart: 灰色卡丁车
+  display-name-light_gray_go_cart: 浅灰色卡丁车
+  display-name-cyan_go_cart: 蓝绿色卡丁车
+  display-name-purple_go_cart: 紫色卡丁车
+  display-name-blue_go_cart: 蓝色卡丁车
+  display-name-brown_go_cart: 棕色卡丁车
+  display-name-green_go_cart: 绿色卡丁车
+  display-name-red_go_cart: 红色卡丁车
+  display-name-black_go_cart: 黑色卡丁车
+  display-name-shopping_cart: 购物车
+  display-name-ufo_toy: Ufo玩具
+  lore-1-ufo_toy: '&7右键点击让它起飞'

@@ -1,0 +1,246 @@
+info:
+  namespace: iasurvival
+  enabled: true
+worlds_populators:
+  cassiterite_ore:
+    block: iasurvival:cassiterite_ore
+    worlds:
+      - world
+    replaceable_blocks:
+      - STONE
+      - DIRT
+      - ANDESITE
+      - GRANITE
+      - COBBLESTONE
+      - GRAVEL
+      - DEEPSLATE
+      - COBBLED_DEEPSLATE
+      - CALCITE
+      - TUFF
+    chunk_chance: 70
+    max_height: 80
+    min_height: 0
+    vein_blocks: 7
+    chunk_veins: 4
+  cassiterite_ore_under0:
+    block: iasurvival:cassiterite_ore
+    worlds:
+      - world
+    replaceable_blocks:
+      - STONE
+      - DIRT
+      - ANDESITE
+      - GRANITE
+      - COBBLESTONE
+      - GRAVEL
+      - DEEPSLATE
+      - COBBLED_DEEPSLATE
+      - CALCITE
+      - TUFF
+    chunk_chance: 50
+    max_height: 0
+    min_height: -65
+    vein_blocks: 5
+    chunk_veins: 2
+  ruby_ore:
+    block: iasurvival:ruby_ore
+    worlds:
+      - world
+    replaceable_blocks:
+      - STONE
+      - DIRT
+      - ANDESITE
+      - GRANITE
+      - COBBLESTONE
+      - GRAVEL
+      - DEEPSLATE
+      - COBBLED_DEEPSLATE
+      - CALCITE
+      - TUFF
+    chunk_chance: 80
+    max_height: 30
+    min_height: 0
+    vein_blocks: 7
+    chunk_veins: 4
+  ruby_ore0:
+    block: iasurvival:ruby_ore
+    worlds:
+      - world
+    replaceable_blocks:
+      - STONE
+      - DIRT
+      - ANDESITE
+      - GRANITE
+      - COBBLESTONE
+      - GRAVEL
+      - DEEPSLATE
+      - COBBLED_DEEPSLATE
+      - CALCITE
+      - TUFF
+    chunk_chance: 70
+    max_height: 0
+    min_height: -65
+    vein_blocks: 10
+    chunk_veins: 1
+  spinel_ore:
+    block: iasurvival:spinel_ore
+    worlds:
+      - world
+    replaceable_blocks:
+      - STONE
+      - DIRT
+      - ANDESITE
+      - GRANITE
+      - COBBLESTONE
+      - GRAVEL
+      - DEEPSLATE
+      - COBBLED_DEEPSLATE
+      - CALCITE
+      - TUFF
+    chunk_chance: 60
+    max_height: 8
+    min_height: -10
+    vein_blocks: 7
+    chunk_veins: 2
+  turquoise_ore:
+    block: iasurvival:turquoise_ore
+    worlds:
+      - world
+    replaceable_blocks:
+      - STONE
+      - DIRT
+      - ANDESITE
+      - GRANITE
+      - COBBLESTONE
+      - GRAVEL
+      - DEEPSLATE
+      - COBBLED_DEEPSLATE
+      - CALCITE
+      - TUFF
+    chunk_chance: 60
+    max_height: 10
+    min_height: -15
+    vein_blocks: 7
+    chunk_veins: 2
+  aqua_aura_ore:
+    block: iasurvival:aqua_aura_ore
+    worlds:
+      - world
+    replaceable_blocks:
+      - STONE
+      - DIRT
+      - ANDESITE
+      - GRANITE
+      - COBBLESTONE
+      - GRAVEL
+      - DEEPSLATE
+      - COBBLED_DEEPSLATE
+      - CALCITE
+      - TUFF
+    chunk_chance: 60
+    max_height: 5
+    min_height: -10
+    vein_blocks: 5
+    chunk_veins: 2
+  dark_amethyst_ore:
+    block: iasurvival:dark_amethyst_ore
+    worlds:
+      - world
+    replaceable_blocks:
+      - STONE
+      - DIRT
+      - ANDESITE
+      - GRANITE
+      - COBBLESTONE
+      - GRAVEL
+      - DEEPSLATE
+      - COBBLED_DEEPSLATE
+      - CALCITE
+      - TUFF
+    chunk_chance: 30
+    max_height: 0
+    min_height: -65
+    vein_blocks: 8
+    chunk_veins: 3
+  end_ore:
+    block: iasurvival:end_ore
+    worlds:
+      - world_the_end
+    replaceable_blocks:
+      - END_STONE
+    chunk_chance: 30
+    max_height: 40
+    min_height: 10
+    vein_blocks: 2
+    chunk_veins: 1
+  iron_dirt_ore:
+    block: iasurvival:iron_dirt_ore
+    worlds:
+      - world
+    replaceable_blocks:
+      - STONE
+      - DIRT
+      - ANDESITE
+      - GRANITE
+      - COBBLESTONE
+      - GRAVEL
+      - DEEPSLATE
+      - COBBLED_DEEPSLATE
+      - CALCITE
+      - TUFF
+    chunk_chance: 70
+    max_height: 150
+    min_height: 30
+    vein_blocks: 7
+    chunk_veins: 3
+  gold_dirt_ore:
+    block: iasurvival:gold_dirt_ore
+    worlds:
+      - world
+    replaceable_blocks:
+      - STONE
+      - DIRT
+      - ANDESITE
+      - GRANITE
+      - COBBLESTONE
+      - GRAVEL
+      - DEEPSLATE
+      - COBBLED_DEEPSLATE
+      - CALCITE
+      - TUFF
+    chunk_chance: 70
+    max_height: 150
+    min_height: 30
+    vein_blocks: 7
+    chunk_veins: 3
+  coal_dirt_ore:
+    block: iasurvival:coal_dirt_ore
+    worlds:
+      - world
+    replaceable_blocks:
+      - STONE
+      - DIRT
+      - ANDESITE
+      - GRANITE
+      - COBBLESTONE
+      - GRAVEL
+      - DEEPSLATE
+      - COBBLED_DEEPSLATE
+      - CALCITE
+      - TUFF
+    chunk_chance: 70
+    max_height: 150
+    min_height: 30
+    vein_blocks: 7
+    chunk_veins: 3
+  blaze_powder_ore:
+    block: iasurvival:blaze_powder_ore
+    worlds:
+      - world_nether
+    replaceable_blocks:
+      - NETHERRACK
+    chunk_chance: 7
+    max_height: 255
+    min_height: 0
+    vein_blocks: 4
+    chunk_veins: 3

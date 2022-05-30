@@ -1,0 +1,25 @@
+info:
+  namespace: iaweapons
+  dictionary-lang: zh_cn
+dictionary:
+  display-name-ak47: Ak-47
+  display-name-clip: 弹夹
+  lore-1-clip: '&7将它拿在左手'
+  lore-2-clip: '&7右手拿AK-47'
+  lore-3-clip: '&7点击左键即可开枪'
+  display-name-firework_launcher: 烟火发射器
+  lore-1-firework_launcher: '&7将烟火放在左手'
+  lore-2-firework_launcher: '&7然后长按右键装填烟花'
+  lore-3-firework_launcher: '&7再右键发射'
+  display-name-grenade: 手雷
+  display-name-hand_gun: 手枪
+  display-name-projectile: 子弹
+  lore-1-projectile: '&7将它拿在左手'
+  lore-2-projectile: '&7右手持枪'
+  lore-3-projectile: '&7点击左键即可开枪'
+  display-name-revolver: 左轮手枪
+  display-name-shotgun: 猎枪
+  display-name-shotgun_cartridge: 猎枪弹药筒
+  lore-1-shotgun_cartridge: '&7在用猎枪射击的时候'
+  lore-2-shotgun_cartridge: '&7将它拿在副手'
+  lore-3-shotgun_cartridge: '&7才能开枪'

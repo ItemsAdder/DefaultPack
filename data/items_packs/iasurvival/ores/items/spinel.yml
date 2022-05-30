@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  spinel:
+    enabled: true
+    display_name: display-name-spinel
+    permission: iasurvival.items.spinel
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+        - item/ores/spinel

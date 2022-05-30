@@ -1,0 +1,10 @@
+info:
+  namespace: iamusic
+  dictionary-lang: fr
+dictionary:
+  display-name-blank_disc: Disque vierge
+  lore-1-blank_disc: '&7Peut être utilisé pour fabriquer'
+  lore-2-blank_disc: '&7des disques de musique'
+  display-name-music_disc_electric_keys: '&bDisque Electric Keys'
+  display-name-music_disc_cdk_sunday: '&bDisque CDK Sunday'
+  display-name-music_disc_vidian_aether_theories: '&bDisque Aether Theories'

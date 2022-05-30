@@ -1,0 +1,15 @@
+info:
+  namespace: iaalchemy
+items:
+  mysterious_stone:
+    enabled: true
+    display_name: display-name-mysterious_stone
+    permission: iaalchemy.items.mysterious_stone
+    resource:
+      material: PAPER
+      generate: false
+      model_path: item/mysterious_stone
+    behaviours:
+      furniture:
+        gravity: false
+        light_level: 13

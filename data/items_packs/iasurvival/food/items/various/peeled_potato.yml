@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  peeled_potato:
+    enabled: true
+    display_name: display-name-peeled_potato
+    permission: iasurvival.various.peeled_potato
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/various/peeled_potato
+    events:
+      eat:
+        feed:
+          amount: 2
+          saturation: 0.5

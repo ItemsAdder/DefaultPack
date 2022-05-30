@@ -1,0 +1,20 @@
+info:
+  namespace: iaalchemy
+recipes:
+  crafting_table:
+    demoniac_hammer:
+      permission: iaalchemy.demoniac_hammer
+      enabled: true
+      pattern:
+        - BRD
+        - CCC
+        - CSC
+      ingredients:
+        S: BLAZE_ROD
+        C: iasurvival:cassiterite_block
+        R: iasurvival:ruby
+        B: iasurvival:ruby_block
+        D: DIAMOND_BLOCK
+      result:
+        item: iaalchemy:demoniac_hammer
+        amount: 1

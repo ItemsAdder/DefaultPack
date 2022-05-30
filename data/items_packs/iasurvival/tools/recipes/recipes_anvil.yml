@@ -1,0 +1,79 @@
+info:
+  namespace: iasurvival
+recipes:
+  anvil_repair:
+    ruby_axe:
+      enabled: true
+      permission: iasurvival.ruby_axe
+      ingredient: iasurvival:ruby
+      item: iasurvival:ruby_axe
+    dark_amethyst_axe:
+      enabled: true
+      permission: iasurvival.dark_amethyst_axe
+      ingredient: iasurvival:dark_amethyst
+      item: iasurvival:dark_amethyst_axe
+    bronze_axe:
+      enabled: true
+      permission: iasurvival.bronze_axe
+      ingredient: iasurvival:bronze_ingot
+      item: iasurvival:bronze_axe
+    diamond_hammer:
+      enabled: true
+      permission: iasurvival.diamond_hammer
+      ingredient: DIAMOND
+      item: iasurvival:diamond_hammer
+    ruby_pickaxe:
+      enabled: true
+      permission: iasurvival.ruby_pickaxe
+      ingredient: iasurvival:ruby
+      item: iasurvival:ruby_pickaxe
+    dark_amethyst_pickaxe:
+      enabled: true
+      permission: iasurvival.dark_amethyst_pickaxe
+      ingredient: iasurvival:dark_amethyst
+      item: iasurvival:dark_amethyst_pickaxe
+    bronze_pickaxe:
+      enabled: true
+      permission: iasurvival.bronze_pickaxe
+      ingredient: iasurvival:bronze_ingot
+      item: iasurvival:bronze_pickaxe
+    ruby_hoe:
+      enabled: true
+      permission: iasurvival.ruby_hoe
+      ingredient: iasurvival:ruby
+      item: iasurvival:ruby_hoe
+    dark_amethyst_hoe:
+      enabled: true
+      permission: iasurvival.dark_amethyst_hoe
+      ingredient: iasurvival:dark_amethyst
+      item: iasurvival:dark_amethyst_hoe
+    bronze_hoe:
+      enabled: true
+      permission: iasurvival.bronze_hoe
+      ingredient: iasurvival:bronze_ingot
+      item: iasurvival:bronze_hoe
+    ruby_shovel:
+      enabled: true
+      permission: iasurvival.ruby_shovel
+      ingredient: iasurvival:ruby
+      item: iasurvival:ruby_shovel
+    dark_amethyst_shovel:
+      enabled: true
+      permission: iasurvival.dark_amethyst_shovel
+      ingredient: iasurvival:dark_amethyst
+      item: iasurvival:dark_amethyst_shovel
+    bronze_shovel:
+      enabled: true
+      permission: iasurvival.bronze_shovel
+      ingredient: iasurvival:bronze_ingot
+      item: iasurvival:bronze_shovel
+    knife:
+      enabled: true
+      permission: iasurvival.knife
+      ingredient: IRON_NUGGET
+      item: iasurvival:knife
+    chisel:
+      enabled: true
+      permission: iasurvival.chisel
+      ingredient: IRON_INGOT
+      item: iasurvival:chisel

@@ -1,0 +1,16 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    dark_amethyst_shield:
+      permission: iasurvival.dark_amethyst_shield
+      enabled: true
+      pattern:
+        - TTT
+        - XTX
+        - XXX
+      ingredients:
+        T: iasurvival:dark_amethyst
+      result:
+        item: iasurvival:dark_amethyst_shield
+        amount: 1

@@ -1,0 +1,22 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    gold_dirt_ore:
+      enabled: true
+      permission: iasurvival.gold_dirt_ore
+      pattern:
+        - XXX
+        - XCO
+        - XXX
+      ingredients:
+        O: iasurvival:gold_dirt_ore
+        C: iasurvival:chisel
+      result:
+        item: GOLD_NUGGET
+        amount: 1
+      return_items:
+        decrement_durability:
+          chisel:
+            item: iasurvival:chisel
+            amount: 1

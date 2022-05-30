@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    bronze_hoe:
+      permission: iasurvival.bronze_hoe
+      enabled: true
+      pattern:
+        - RRX
+        - XSX
+        - XSX
+      ingredients:
+        R: iasurvival:bronze_ingot
+        S: STICK
+      result:
+        item: iasurvival:bronze_hoe
+        amount: 1

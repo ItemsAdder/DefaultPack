@@ -1,0 +1,75 @@
+info:
+  namespace: iaalchemy
+  dictionary-lang: en
+dictionary:
+  display-name-alchemy_candles: Alchemy Candles
+  display-name-arcane_ring: Arcane Ring
+  lore-1-arcane_ring: '&6[ &eSpecial effects &6]'
+  lore-2-arcane_ring: '&7Return to life'
+  display-name-astral_bow: Astral bow
+  display-name-astral_pickaxe: '&3Astral Pickaxe'
+  display-name-demoniac_hammer: '&4&lDemoniac Hammer'
+  lore-1-demoniac_hammer: '&7When you mine a block'
+  lore-2-demoniac_hammer: '&7it drops exp orbs'
+  lore-3-demoniac_hammer: ''
+  lore-4-demoniac_hammer: '&bMines 3x3x3'
+  display-name-demoniac_pickaxe: '&4&lDemoniac Pickaxe'
+  lore-1-demoniac_pickaxe: '&7When you mine a block'
+  lore-2-demoniac_pickaxe: '&7it drops exp orbs'
+  lore-3-demoniac_pickaxe: '&750% of times.'
+  display-name-energy_orb: '&5Energy Orb'
+  lore-1-energy_orb: '&7Obtained from Energy Extractor'
+  display-name-small_energy_capsule: '&dSmall Energy Capsule'
+  lore-1-small_energy_capsule: '&7Contains &5Energy Orbs &fx8'
+  display-name-energy_capsule: '&6Energy Capsule'
+  lore-1-energy_capsule: '&7Contains &dSmall Energy Capsule &fx8'
+  lore-2-energy_capsule: '&7(&5Energy Orbs &fx64&7)'
+  display-name-healing_crystals: Healing Crystals
+  display-name-energy_converter: Energy Converter
+  lore-1-energy_converter: '&7Use it to convert energy'
+  lore-2-energy_converter: '&7into items'
+  display-name-energy_extractor: Energy Extractor
+  lore-1-energy_extractor: '&7Use it to convert items'
+  lore-2-energy_extractor: '&7into energy'
+  display-name-mysterious_amulet: Mysterious Amulet
+  display-name-mysterious_hood: Mysterious Hood
+  lore-1-mysterious_hood: '&6[ &eSpecial effects &6]'
+  lore-2-mysterious_hood: '&9Night Vision (**:**)'
+  lore-3-mysterious_hood: '&9Unluck (**:**)'
+  display-name-mysterious_robe: Mysterious Robe
+  display-name-mysterious_leggings: Mysterious Leggings
+  display-name-mysterious_boots: Mysterious Boots
+  lore-1-mysterious_boots: '&6[ &eSpecial effects &6]'
+  lore-2-mysterious_boots: '&9Speed II (**:**)'
+  display-name-mysterious_artifact: Mysterious Artifact
+  display-name-mysterious_book: Mysterious Book
+  display-name-mysterious_book_decrypted: Decrypted Mysterious Book
+  display-name-mysterious_material: Mysterious Material
+  display-name-mysterious_ore: Mysterious Ore
+  display-name-mysterious_stone: Mysterious Stone
+  display-name-mysterious_sword: Mysterious Sword
+  display-name-nether_alchemy_ore: Nether Alchemy Ore
+  display-name-philosopher_stone: Philosopher's Stone
+  lore-1-philosopher_stone: '&6[ &eSpecial effects &6]'
+  lore-2-philosopher_stone: '&7Rightclick + SHIFT: '
+  lore-3-philosopher_stone: '   - &4Lava &7to &8Obsidian'
+  lore-4-philosopher_stone: '   - &cPoppy &7to &eDandelion'
+  lore-5-philosopher_stone: ' '
+  lore-6-philosopher_stone: '&7Rightclick: '
+  lore-7-philosopher_stone: '   - &eSand &7to &8Cobblestone'
+  lore-8-philosopher_stone: '   - &9Water &7to &bIce'
+  lore-9-philosopher_stone: '   - &eDandelion &7to &cPoppy'
+  lore-10-philosopher_stone: '   - &2Melon &7to &6Pumpkin'
+  lore-11-philosopher_stone: '   - &fGlass &7to &eSand'
+  lore-12-philosopher_stone: ' '
+  lore-13-philosopher_stone: '&7To recharge put it in &fCrafting table'
+  lore-14-philosopher_stone: '&7center slot and put an &5Energy Orb'
+  lore-15-philosopher_stone: '&7(or other energy containers) on the right'
+  display-name-diamonds_finder_potion: Diamonds finder potion
+  lore-1-diamonds_finder_potion: '&7Makes diamond ores glow behind other blocks'
+  display-name-emeralds_finder_potion: Emeralds finder potion
+  lore-1-emeralds_finder_potion: '&7Makes emerald ores glow behind other blocks'
+  display-name-strange_potion: Strange potion
+  lore-1-strange_potion: '&7A mysterious potion'
+  display-name-antidote: Antidote
+  lore-1-antidote: '&7Removes a potion effect'

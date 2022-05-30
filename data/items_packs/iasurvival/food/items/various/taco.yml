@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  taco:
+    enabled: true
+    display_name: display-name-taco
+    permission: iasurvival.various.taco
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/various/taco
+    events:
+      eat:
+        feed:
+          amount: 6
+          saturation: 5

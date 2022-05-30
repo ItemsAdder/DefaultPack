@@ -1,0 +1,100 @@
+info:
+  namespace: iaalchemy
+categories:
+  alchemy:
+    enabled: true
+    skip_if_already: false
+    icon: iaalchemy:philosopher_stone
+    name: display-category-alchemy
+    permission: ia.menu.seecategory.alchemy
+    font_image:
+      name: iaalchemy:alchemy_category
+      x_position_pixels: -16
+    title_position_pixels: 0
+    items:
+      - iaalchemy:energy_extractor
+      - iaalchemy:energy_converter
+      - iasurvival:restoration_table
+      - iaalchemy:philosopher_stone
+      - iaalchemy:arcane_ring
+      - iaalchemy:energy_extractor
+      - iaalchemy:energy_converter
+      - iaalchemy:energy_orb
+      - iaalchemy:small_energy_capsule
+      - iaalchemy:energy_capsule
+      - iaalchemy:mysterious_artifact
+      - iaalchemy:mysterious_sword
+      - iaalchemy:mysterious_amulet
+      - iaalchemy:alchemy_candles
+      - iaalchemy:knowledge_fragment
+      - iaalchemy:mysterious_book
+      - iaalchemy:decrypted_mysterious_book
+      - iaalchemy:mysterious_stone
+      - iaalchemy:mysterious_hood
+      - iaalchemy:mysterious_robe
+      - iaalchemy:mysterious_leggings
+      - iaalchemy:mysterious_boots
+      - iaalchemy:healing_crystals
+      - iaalchemy:nether_alchemy_ore
+      - iaalchemy:mysterious_ore
+      - iaalchemy:mysterious_material
+      - iaalchemy:diamonds_finder_potion
+      - iaalchemy:emeralds_finder_potion
+      - iaalchemy:strange_potion
+      - iaalchemy:antidote
+  armors:
+    enabled: true
+    skip_if_already: false
+    icon: iaalchemy:mysterious_hood
+    name: display-category-armors
+    permission: ia.menu.seecategory.armors
+    items:
+      - iaalchemy:mysterious_hood
+      - iaalchemy:mysterious_robe
+      - iaalchemy:mysterious_leggings
+      - iaalchemy:mysterious_boots
+  swords:
+    enabled: true
+    skip_if_already: false
+    name: display-category-swords
+    permission: ia.menu.seecategory.swords
+    items:
+      - iaalchemy:mysterious_sword
+  ores:
+    enabled: true
+    skip_if_already: false
+    icon: iaalchemy:mysterious_ore
+    name: display-category-ores
+    permission: ia.menu.seecategory.ores
+    items:
+      - iaalchemy:mysterious_ore
+      - iaalchemy:nether_alchemy_ore
+  minerals:
+    enabled: true
+    skip_if_already: false
+    icon: iaalchemy:mysterious_material
+    name: display-category-minerals
+    permission: ia.menu.seecategory.minerals
+    items:
+      - iaalchemy:mysterious_material
+  potions:
+    enabled: true
+    skip_if_already: false
+    icon: iaalchemy:diamonds_finder_potion
+    name: display-category-potions
+    permission: ia.menu.seecategory.potions
+    items:
+      - iaalchemy:diamonds_finder_potion
+      - iaalchemy:emeralds_finder_potion
+      - iaalchemy:strange_potion
+      - iaalchemy:antidote
+  machines:
+    enabled: true
+    skip_if_already: false
+    icon: iaalchemy:energy_extractor
+    name: display-category-machines
+    permission: ia.menu.seecategory.machines
+    items:
+      - iaalchemy:energy_extractor
+      - iaalchemy:energy_converter
+      - iasurvival:restoration_table

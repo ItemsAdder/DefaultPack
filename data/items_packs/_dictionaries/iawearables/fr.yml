@@ -1,0 +1,31 @@
+info:
+  namespace: iawearables
+  dictionary-lang: fr
+dictionary:
+  display-name-deadmau5_hat: '&9Châpeau de deadmau5'
+  display-name-top_hat: Chapeau haut
+  display-name-welding_mask: Masque de soudure
+  display-name-mining_helmet: Casque minier
+  display-name-dog_mask: Masque de chien
+  display-name-ruby_pickaxe_hat: Chapeau pioche rubis
+  display-name-straw_hat: Chapeau de paille
+  display-name-cool_sunglasses: Lunettes de soleil cool
+  display-name-cigar: Cigar
+  display-name-glasses: Lunettes
+  display-name-biker_helmet: Casque de motard
+  display-name-cat_ears: Oreilles de chat
+  display-name-demoniac_red_wings: Ailes rouges démoniaques
+  display-name-demoniac_turquoise_wings: Ailes démoniaques turquoise
+  display-name-demoniac_purple_wings: Ailes pourpres démoniaques
+  display-name-demoniac_blue_wings: Ailes bleues démoniaques
+  display-name-demoniac_black_wings: Ailes noires démoniaques
+  display-name-all_black_cat_tail: Queue de chat complètement noire
+  display-name-black_cat_tail: Queue de chat noir
+  display-name-white_cat_tail: Queue de chat blanc
+  display-name-ender_dragon_wings: Ailes d'Ender Dragon
+  display-name-red_backpack: Sac à dos rouge
+  display-name-turquoise_backpack: Sac à dos turquoise
+  display-name-purple_backpack: Sac à dos violet
+  display-name-blue_backpack: Sac à dos bleu
+  display-name-black_backpack: Sac à dos noir
+  display-name-brown_backpack: Sac à dos marron

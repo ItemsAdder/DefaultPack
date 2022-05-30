@@ -1,0 +1,14 @@
+info:
+  namespace: iaspecial_swords
+  dictionary-lang: it
+dictionary:
+  display-name-baseball_bat: Mazza da baseball
+  display-name-elucidator_sword: Elucidator
+  display-name-floating_sword: '&9&lSpada fluttuante'
+  display-name-gandalf_stick: Bastone di Gandalf
+  display-name-guitar_sword: Chitarra elettrica
+  display-name-green_lightsaber: '&2&lSpada laser verde'
+  display-name-red_lightsaber: '&4&lSpada laser rossa'
+  display-name-blue_lightsaber: '&3&lSpada laser blu'
+  display-name-masters_sword: '&6&lSpada del maestro'
+  display-name-repulser_sword: Repulser

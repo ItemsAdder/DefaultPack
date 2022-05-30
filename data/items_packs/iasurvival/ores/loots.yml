@@ -1,0 +1,133 @@
+info:
+  namespace: iasurvival
+loots:
+  blocks:
+    ruby_ore:
+      type: iasurvival:ruby_ore
+      items:
+        ruby:
+          item: iasurvival:ruby
+          min_amount: 1
+          max_amount: 2
+          chance: 100
+      exp:
+        exp_1:
+          min_amount: 0
+          max_amount: 3
+          chance: 100
+    nether_quartz_ore:
+      type: NETHER_QUARTZ_ORE
+      items:
+        crystal:
+          item: iasurvival:crystal
+          min_amount: 1
+          max_amount: 2
+          chance: 10
+    spinel_ore:
+      type: iasurvival:spinel_ore
+      items:
+        spinel:
+          item: iasurvival:spinel
+          min_amount: 1
+          max_amount: 2
+          chance: 100
+      exp:
+        exp_1:
+          min_amount: 0
+          max_amount: 3
+          chance: 100
+    turquoise_ore:
+      type: iasurvival:turquoise_ore
+      items:
+        turquoise:
+          item: iasurvival:turquoise
+          min_amount: 1
+          max_amount: 2
+          chance: 100
+      exp:
+        exp_1:
+          min_amount: 0
+          max_amount: 3
+          chance: 100
+    aqua_aura_ore:
+      type: iasurvival:aqua_aura_ore
+      items:
+        aqua_aura:
+          item: iasurvival:aqua_aura
+          min_amount: 1
+          max_amount: 2
+          chance: 100
+      exp:
+        exp_1:
+          min_amount: 0
+          max_amount: 3
+          chance: 100
+    dark_amethyst_ore:
+      type: iasurvival:dark_amethyst_ore
+      items:
+        dark_amethyst:
+          item: iasurvival:dark_amethyst
+          min_amount: 1
+          max_amount: 2
+          chance: 100
+      exp:
+        exp_1:
+          min_amount: 0
+          max_amount: 3
+          chance: 100
+    cassiterite_ore:
+      type: iasurvival:cassiterite_ore
+      items:
+        cassiterite_fragment:
+          item: iasurvival:cassiterite_fragment
+          min_amount: 1
+          max_amount: 2
+          chance: 80
+        cobblestone:
+          item: COBBLESTONE
+          min_amount: 1
+          max_amount: 1
+          chance: 30
+      exp:
+        exp_1:
+          min_amount: 1
+          max_amount: 2
+          chance: 50
+    end_ore:
+      type: iasurvival:end_ore
+      items:
+        end_shard:
+          item: iasurvival:end_shard
+          min_amount: 1
+          max_amount: 2
+          chance: 100
+      exp:
+        exp_1:
+          min_amount: 0
+          max_amount: 3
+          chance: 100
+    coal_ore:
+      type: COAL_ORE
+      items:
+        coal_nugget:
+          item: iasurvival:coal_nugget
+          min_amount: 1
+          max_amount: 1
+          chance: 10
+    stone:
+      type: STONE
+      items:
+        fossil:
+          item: iasurvival:fossil
+          min_amount: 1
+          max_amount: 2
+          chance: 0.3
+  mobs:
+    witch:
+      type: WITCH
+      items:
+        item_1:
+          item: iasurvival:dark_amethyst_prism
+          min_amount: 1
+          max_amount: 1
+          chance: 20

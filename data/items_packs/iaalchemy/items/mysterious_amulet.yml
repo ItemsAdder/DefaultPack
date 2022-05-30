@@ -1,0 +1,26 @@
+info:
+  namespace: iaalchemy
+items:
+  mysterious_amulet:
+    enabled: true
+    display_name: display-name-mysterious_amulet
+    permission: iaalchemy.items.mysterious_amulet
+    resource:
+      material: ENDER_PEARL
+      generate: true
+      textures:
+        - item/mysterious_amulet
+    durability:
+      usages: 20
+    events:
+      item_throw:
+        decrement_usages:
+          amount: 1
+        increment_amount:
+          amount: 1
+        play_particle:
+          name: ENCHANTMENT_TABLE
+        play_sound:
+          name: iaalchemy:item.mysterious_sword.attack
+          volume: 1
+          pitch: 1

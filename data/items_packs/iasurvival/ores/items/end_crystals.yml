@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  end_crystals:
+    enabled: true
+    display_name: display-name-end_crystals
+    permission: iasurvival.items.end_crystals
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+        - item/ores/end_crystals

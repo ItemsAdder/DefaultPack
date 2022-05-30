@@ -1,0 +1,18 @@
+info:
+  namespace: iafestivities
+  dictionary-lang: it
+dictionary:
+  display-name-christmas_candle: Candele di natale
+  display-name-christmas_tree: Albero di natale
+  display-name-christmas_wreath: Ghirlanda Di Natale
+  display-name-decorative_candy_cane: Caramella decorativa
+  display-name-santa_hat: '&cCappello di babbo natale'
+  display-name-axe_hat: Cappello con ascia
+  display-name-bat_wings: Ali da pipistrello
+  display-name-bones_backpack: Zaino di ossa
+  display-name-cave_spider_backpack: Zaino ragno delle caverne
+  display-name-dark_jack_o_lantern_backpack: '&&fZaino 4Dark &6Jack o''Lantern'
+  display-name-decorative_pumpkin: Zucca decorativa
+  display-name-jack_o_lantern_backpack: '&fZaino &6Jack o''Lantern'
+  display-name-spider_backpack: Zaino ragno
+  display-name-witch_hat: Cappello da strega

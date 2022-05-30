@@ -1,0 +1,16 @@
+info:
+  namespace: iafestivities
+items:
+  christmas_wreath:
+    enabled: true
+    display_name: display-name-christmas_wreath
+    permission: iafestivities.christmas.christmas_wreath
+    resource:
+      material: PAPER
+      generate: false
+      model_path: christmas/christmas_wreath
+    behaviours:
+      furniture:
+        gravity: false
+        fixed_rotation: true
+        small: true

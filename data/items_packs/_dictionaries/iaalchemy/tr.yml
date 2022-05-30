@@ -1,0 +1,75 @@
+info:
+  namespace: iaalchemy
+  dictionary-lang: tr
+dictionary:
+  display-name-alchemy_candles: Simya Mumları
+  display-name-arcane_ring: Arcane Yüzük
+  lore-1-arcane_ring: '&6[ &eÖzel Efektler &6]'
+  lore-2-arcane_ring: '&7Hayata dönüş'
+  display-name-astral_bow: Astral Yay
+  display-name-astral_pickaxe: '&3Astral Kazma'
+  display-name-demoniac_hammer: '&4&lŞeytani Çekiç'
+  lore-1-demoniac_hammer: '&7Bir bloğu kazdığında'
+  lore-2-demoniac_hammer: '&7exp kürelerini düşürür'
+  lore-3-demoniac_hammer: ''
+  lore-4-demoniac_hammer: '&bMadenler 3x3x3'
+  display-name-demoniac_pickaxe: '&4&lŞeytani Kazma'
+  lore-1-demoniac_pickaxe: '&7Bir bloğu kazdığında'
+  lore-2-demoniac_pickaxe: '&7exp kürelerini düşürür'
+  lore-3-demoniac_pickaxe: '&7%50''si.'
+  display-name-energy_orb: '&5Enerji Küresi'
+  lore-1-energy_orb: '&7Enerji Çıkarıcıdan Elde Edildi'
+  display-name-small_energy_capsule: '&dKüçük Enerji Kapsülü'
+  lore-1-small_energy_capsule: '&5Enerji Küresi &fx8 içerir'
+  display-name-energy_capsule: '&6Enerji Kapsülü'
+  lore-1-energy_capsule: '&7DSmall Enerji Kapsülü ve &fx8 içerir'
+  lore-2-energy_capsule: '&7(&5Enerji Küreleri &fx64&7)'
+  display-name-healing_crystals: Şifalı Kristaller
+  display-name-energy_converter: Enerji Dönüştürücü
+  lore-1-energy_converter: '&7Enerjiyi dönüştürmek için kullanın'
+  lore-2-energy_converter: '&7öğelere'
+  display-name-energy_extractor: Enerji Çıkarıcı
+  lore-1-energy_extractor: '&7Öğeleri dönüştürmek için kullanın'
+  lore-2-energy_extractor: '&7enerjiye'
+  display-name-mysterious_amulet: Gizemli Muska
+  display-name-mysterious_hood: Gizemli Başlık
+  lore-1-mysterious_hood: '&6[ &eÖzel Efektler &6]'
+  lore-2-mysterious_hood: '&9Gece görüşü (**:**)'
+  lore-3-mysterious_hood: '&9Şanssız (**:**)'
+  display-name-mysterious_robe: Gizemli Zırh
+  display-name-mysterious_leggings: Gizemli Pantolon
+  display-name-mysterious_boots: Gizemli Bot
+  lore-1-mysterious_boots: '&6[ &eÖzel efektler &6]'
+  lore-2-mysterious_boots: '&9Hız II (**:**)'
+  display-name-mysterious_artifact: Gizemli Eser
+  display-name-mysterious_book: Gizemli Kitap
+  display-name-mysterious_book_decrypted: Şifresi Çözülmüş Gizemli Kitap
+  display-name-mysterious_material: Gizemli Malzeme
+  display-name-mysterious_ore: Gizemli Cevheri
+  display-name-mysterious_stone: Gizemli Taş
+  display-name-mysterious_sword: Gizemli Kılıç
+  display-name-nether_alchemy_ore: Nether Simyası Cevheri
+  display-name-philosopher_stone: Felsefe Taşı
+  lore-1-philosopher_stone: '&6[ &eÖzel efektler &6]'
+  lore-2-philosopher_stone: '&7Sağ tık + SHIFT: '
+  lore-3-philosopher_stone: '   - &4Lava &7to &8Obsidian'
+  lore-4-philosopher_stone: '   - &cPoppy &7to &eDandelion'
+  lore-5-philosopher_stone: ' '
+  lore-6-philosopher_stone: '&7Sağ tık: '
+  lore-7-philosopher_stone: '   - &eSand &7to &8Cobblestone'
+  lore-8-philosopher_stone: '   - &9Water &7to &bIce'
+  lore-9-philosopher_stone: '   - &eDandelion &7to &cPoppy'
+  lore-10-philosopher_stone: '   - &2Melon &7to &6Pumpkin'
+  lore-11-philosopher_stone: '   - &fGlass &7to &eSand'
+  lore-12-philosopher_stone: ' '
+  lore-13-philosopher_stone: '&7To recharge put it in &fCrafting table'
+  lore-14-philosopher_stone: '&7orta yuva ve bir &5 Enerji Küresi yerleştirin'
+  lore-15-philosopher_stone: '&7(veya diğer enerji kapları) sağda'
+  display-name-diamonds_finder_potion: Elmas bulucu iksir
+  lore-1-diamonds_finder_potion: '&7Cevheris''in diğer blokların arkasında parlamasını sağlar'
+  display-name-emeralds_finder_potion: Zümrüt bulucu iksir
+  lore-1-emeralds_finder_potion: '&7Cevheris''in diğer blokların arkasında parlamasını sağlar'
+  display-name-strange_potion: Garip iksir
+  lore-1-strange_potion: '&7Gizemli bir iksir'
+  display-name-antidote: Panzehir
+  lore-1-antidote: '&7Bir iksir etkisini kaldırır'

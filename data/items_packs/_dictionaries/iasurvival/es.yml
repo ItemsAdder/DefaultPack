@@ -1,0 +1,217 @@
+info:
+  namespace: iasurvival
+  dictionary-lang: es
+dictionary:
+  display-name-dark_amethyst_helmet: Casco de Amatista
+  display-name-dark_amethyst_chestplate: Pechera de Amatista
+  display-name-dark_amethyst_leggings: Pantalones de Amatista
+  display-name-dark_amethyst_boots: Botas de Amatista
+  display-name-bronze_helmet: Casco de Bronce
+  display-name-bronze_chestplate: Pechera de Bronce
+  display-name-bronze_leggings: Pantalones de Bronce
+  display-name-bronze_boots: Botas de Bronce
+  display-name-emerald_helmet: Casco de Esmeralda
+  display-name-emerald_chestplate: Pechera de Esmeralda
+  display-name-emerald_leggings: Pantalones de Esmeralda
+  display-name-emerald_boots: Botas de Esmeralda
+  display-name-obsidian_helmet: Casco de Obsidiana
+  display-name-obsidian_chestplate: Pechera de Obsidiana
+  display-name-obsidian_leggings: Pantalones de Obsidiana
+  display-name-obsidian_boots: Botas de Obsidiana
+  display-name-ruby_helmet: Casco de Rubí
+  display-name-ruby_chestplate: Pechera de Rubí
+  display-name-ruby_leggings: Pantalones de Rubí
+  display-name-ruby_boots: Botas de Rubí
+  display-name-modern_quartz: Cuarzo Moderno
+  display-name-modern_sandstone: Arenisca Moderna
+  display-name-modern_stone: Piedra Moderna
+  display-name-nice_stone: Piedra Bonita
+  display-name-nice_wood: Madera Bonita
+  display-name-dark_amethyst_block: Block of Dark Amethyst
+  display-name-dark_amethyst_prism_block: Bloque de Prisma de Amatista
+  display-name-aqua_aura_block: Bloque de Aqua Aura
+  display-name-crystal_block: Bloque de Cristal
+  display-name-ruby_block: Bloque de Rubí
+  display-name-spinel_block: Bloque de Espinela
+  display-name-turquoise_block: Bloque de Turquesa
+  display-name-black_bow: Arco tintado de Negro
+  display-name-red_bow: Arco tintado de Rojo
+  display-name-green_bow: Arco tintado de Verde
+  display-name-blue_bow: Arco tintado de Azul
+  display-name-purple_bow: Arco tintado de Púrpura
+  display-name-cyan_bow: Arco tintado de Cian
+  display-name-tomato_seeds: Semillas de Tomate
+  display-name-garlic_seeds: Semillas de Ajo
+  display-name-lettuce_seeds: Semillas de Lechuga
+  display-name-chili_pepper_seeds: Semillas de Chile Picante
+  display-name-rice_seeds: Semillas de Arroz
+  display-name-tobacco_seeds: Semillas de Tabaco
+  display-name-black_moor_goldfish: Moro Negro
+  display-name-blue_parrotfish: Scaridae Azul
+  display-name-cod_nigiri: Nigiri de Bacalao
+  display-name-cooked_black_moor_goldfish: Moro Negro Cocinado
+  display-name-cooked_blue_parrotfish: Scaridae Azul Cocinado
+  display-name-cooked_goldfish: Pez Dorado Cocinado
+  display-name-cooked_green_sunfish: Pez luna Verde Cocinado
+  display-name-cooked_tuna: Atún Cocinado
+  display-name-goldfish: Pez Dorado
+  display-name-green_sunfish: Pez luna Verde
+  display-name-pufferfish_nigiri: Nigiri de Pez Globo
+  display-name-salmon_nigiri: Nigiri de Salmón
+  display-name-tropical_fish_nigiri: Nigiri de Pez Tropical
+  display-name-tuna: Atún
+  display-name-baguette: Pan Francés
+  display-name-broken_egg: Huevo Roto
+  display-name-cheese: Queso
+  display-name-chili_powder: Chile en Polvo
+  lore-1-chili_powder: '&7Obtenido de un'
+  lore-2-chili_powder: '&7chile picante'
+  display-name-chips: Papas Fritas
+  display-name-cooked_donut_base: Base de Dona Horneada
+  display-name-cooked_sausage: Salchicha Cocinada
+  display-name-donut_base: Base de Dona
+  display-name-dough: Masa
+  display-name-flour: Harina
+  display-name-french_fries: Papas a la Francesa
+  display-name-fried_egg: Huevo Frito
+  display-name-fried_potato_sticks: Papa cortada frita
+  display-name-hamburger: Hamburguesa
+  display-name-hotdog: Hotdog
+  display-name-jar: Frasco
+  display-name-sweet_berries_jam_jar: Frasco con Mermelada de Bayas Dulces
+  display-name-pear_jam_jar: Frasco con Mermelada de Pera
+  display-name-apple_jam_jar: Frasco con Mermelada de Manzana
+  display-name-ketchup: Ketchup
+  lore-1-ketchup: '&7Obtenido de una'
+  lore-2-ketchup: '&7botella ketchup'
+  display-name-ketchup_bottle: Botella de Ketchup
+  lore-1-ketchup_bottle: '&7Colocar en el centro'
+  lore-2-ketchup_bottle: '&7de la mesa de crafteo'
+  lore-3-ketchup_bottle: '&7para obtener algo de Ketchup'
+  display-name-nether_donut: Dona del Inframundo
+  display-name-peeled_potato: Papa Pelada
+  display-name-pink_donut: Dona Rosa
+  display-name-pizza: Pizza
+  display-name-potato_sticks: Papa Cortada
+  display-name-sausage: Salchicha
+  display-name-sliced_baguette: Porción de Baguette
+  display-name-sliced_bread: Porción de Pan
+  display-name-sliced_bread_with_apple_jam: Porción de Pan con mermelada de Manzana
+  display-name-sliced_bread_with_pear_jam: Porción de Pan con mermelada de Pera
+  display-name-sliced_bread_with_sweet_berries_jam: Porción de Pan con mermelada de Bayas dulces
+  display-name-sliced_cheese: Porción de Queso
+  display-name-sliced_raw_beef: Corte de Bife Crudo
+  display-name-sliced_roast_beef: Corte de Bife Asado
+  display-name-sweet: Dulce
+  display-name-sweet_stick: Vara de Caramelo
+  display-name-taco: Taco
+  display-name-banana: Banana
+  display-name-chili_pepper: Chile Picante
+  display-name-garlic: Ajo
+  display-name-lettuce: Lechuga
+  display-name-pear: Pera
+  display-name-rice: Arroz
+  display-name-tomato: Tomate
+  display-name-customization_table: Mesa para Customizar
+  display-name-restoration_table: Mesa de Restauración
+  display-name-dark_amethyst: Amatista
+  display-name-dark_amethyst_ore: Mena de Amatista
+  display-name-dark_amethyst_prism: Prisma de Amatista
+  display-name-aqua_aura: Aqua Aura
+  display-name-aqua_aura_ore: Mena de Aqua Aura
+  display-name-blaze_powder_ore: Mena de polvo de Blaze
+  display-name-bronze_ingot: Lingote de Bronce
+  display-name-raw_tin: Raw Tin
+  display-name-raw_tin_and_copper_ingot_dust: Raw Tin and Copper Ingot Dust
+  display-name-cassiterite: Cassiterite
+  display-name-cassiterite_block: Block of Cassiterite
+  display-name-cassiterite_fragment: Cassiterite Fragment
+  display-name-cassiterite_ore: Cassiterite Ore
+  display-name-coal_dirt_ore: Tierra con Carbón
+  display-name-coal_nugget: Pepita de Carbón
+  display-name-crystal: Cristal
+  display-name-end_crystals: Cristales del End
+  display-name-end_ingot: Lingote del End
+  display-name-end_ore: Mena del End
+  display-name-end_shard: Fragmento del End
+  display-name-forgotten_crying_obsidian: '&9Forgotten Crying Obsidian'
+  display-name-fossil: Fósil
+  display-name-gold_dirt_ore: Tierra con Oro
+  display-name-iron_dirt_ore: Tierra con Hierro
+  display-name-knowledge_fragment: Fragmento de Conocimiento
+  display-name-ruby: Rubí
+  display-name-ruby_ore: Mena de Rubí
+  display-name-spinel: Espinela
+  display-name-spinel_ore: Mena de Espinela
+  display-name-turquoise: Turquesa
+  display-name-turquoise_ore: Mena de Turquesa
+  display-name-dark_amethyst_shield: Escudo de Amatista
+  display-name-bronze_shield: Escudo de Bronce
+  display-name-ender_shield: Escudo de Ender
+  display-name-obsidian_shield: Escudo de Obsidiana
+  display-name-ruby_shield: Escudo de Rubí
+  display-name-dark_amethyst_sword: Espada de Amatista
+  display-name-aqua_sword: Espada de Aqua Aura
+  display-name-bronze_sword: Espada de Bronce
+  display-name-crystal_sword: Espada de Cristal
+  display-name-end_sword: Espada del End
+  display-name-knife: Cuchillo
+  display-name-ruby_dagger: Daga de Rubí
+  display-name-ruby_sword: Espada de Rubí
+  display-name-aqualight_sword: Aqualight
+  display-name-bloodnite_sword: Bloodnite
+  display-name-emerald_sword: Espada de Esmeralda
+  display-name-firesword_sword: Espada de Fuego
+  display-name-rusteroth_sword: Rusteroth
+  display-name-vyderlight_sword: Vyderlight
+  display-name-sweets_sword: Espada de Caramelo
+  display-name-turquoise_sword: Espada de Turquesa
+  display-name-bloody_mary: Bloody Mary
+  display-name-coffee: Café
+  display-name-cola: Cola
+  display-name-cup_of_hot_water: Taza con Agua Caliente
+  display-name-cup_of_water: Taza con Agua
+  display-name-drink_glass: Vaso
+  display-name-empty_cup: Taza Vacia
+  display-name-hot_chocolate: Chocolate Caliente
+  display-name-boiled_water_bucket: Cubeta con Agua Hervida
+  display-name-waterskin: Cantinflora
+  display-name-dark_amethyst_axe: Hacha de Amatista
+  display-name-dark_amethyst_hoe: Azada de Amatista
+  display-name-dark_amethyst_pickaxe: Pico de Amatista
+  display-name-dark_amethyst_shovel: Pala de Amatista
+  display-name-bronze_axe: Hacha de Bronce
+  display-name-bronze_hoe: Azada de Bronce
+  display-name-bronze_pickaxe: Pico de Bronce
+  display-name-bronze_shovel: Pala de Bronce
+  display-name-chisel: Cincel
+  display-name-black_shears: Tijeras Negras
+  display-name-red_shears: Tijeras Rojas
+  display-name-green_shears: Tijeras Verdes
+  display-name-blue_shears: Tijeras Azules
+  display-name-purple_shears: Tijeras Púrpura
+  display-name-cyan_shears: Tijeras Cian
+  display-name-diamond_hammer: '&3&lMazo de Diamante'
+  display-name-black_fishing_rod: Caña de Pescar Negra
+  display-name-red_fishing_rod: Caña de Pescar Roja
+  display-name-green_fishing_rod: Caña de Pescar Verde
+  display-name-blue_fishing_rod: Caña de Pescar Azul
+  display-name-purple_fishing_rod: Caña de Pescar Púrpura
+  display-name-cyan_fishing_rod: Caña de Pescar Cian
+  display-name-ruby_axe: Hacha de Rubí
+  display-name-ruby_hoe: Azada de Rubí
+  display-name-ruby_pickaxe: Pico de Rubí
+  display-name-ruby_shovel: Pala de Rubí
+  display-name-letter: Carta
+  display-name-nest: Nido
+  display-name-eggs_nest: Nido con Huevos
+  display-name-plastic: Plastico
+  display-name-plastic_plate: Plato de Plastico
+  display-name-iron_plate: Placa de Hierro
+  display-name-tobacco: Tabaco
+  lore-1-end_sword: '&6[ &eSpecial effects &6]'
+  lore-2-end_sword: '&7Damage near hostile mobs'
+  display-name-sword_skin_rusteroth: "Sword Skin Rusteroth"
+  display-name-sword_skin_bloodnite: "Sword Skin Bloodnite"
+  display-name-sword_skin_vyderlight: "Sword Skin Vyderlight"
+  display-name-sword_skin_aqualight: "Sword Skin Aqualight"

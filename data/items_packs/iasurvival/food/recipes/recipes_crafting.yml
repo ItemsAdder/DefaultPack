@@ -1,0 +1,610 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    pizza:
+      permission: iasurvival.pizza
+      enabled: true
+      pattern:
+        - SSS
+        - CTC
+        - DDD
+      ingredients:
+        S: iasurvival:cooked_sausage
+        C: iasurvival:sliced_cheese
+        T: iasurvival:tomato
+        D: iasurvival:dough
+      result:
+        item: iasurvival:pizza
+        amount: 4
+    taco:
+      permission: iasurvival.taco
+      enabled: true
+      pattern:
+        - XXX
+        - XSC
+        - XPB
+      ingredients:
+        B: iasurvival:baguette
+        C: iasurvival:sliced_roast_beef
+        P: iasurvival:potato_sticks
+        S: iasurvival:lettuce
+      result:
+        item: iasurvival:taco
+        amount: 1
+    hamburger:
+      permission: iasurvival.hamburger
+      enabled: true
+      pattern:
+        - XIX
+        - TBL
+        - XIK
+      ingredients:
+        I: iasurvival:sliced_bread
+        B: COOKED_BEEF
+        T: iasurvival:tomato
+        L: iasurvival:lettuce
+        K: iasurvival:ketchup
+      result:
+        item: iasurvival:hamburger
+        amount: 1
+    chips:
+      permission: iasurvival.chips
+      enabled: true
+      pattern:
+        - ipi
+        - ipi
+        - ipi
+      ingredients:
+        i: iasurvival:plastic_plate
+        p: POTATO
+      result:
+        item: iasurvival:chips
+        amount: 1
+    hotdog:
+      permission: iasurvival.hotdog
+      enabled: true
+      pattern:
+        - XXX
+        - KPB
+        - XXX
+      ingredients:
+        B: BREAD
+        P: iasurvival:cooked_sausage
+        K: iasurvival:ketchup
+      result:
+        item: iasurvival:hotdog
+        amount: 1
+    tropical_fish_nigiri:
+      permission: iasurvival.tropical_fish_nigiri
+      enabled: true
+      pattern:
+        - XXX
+        - XKX
+        - XFR
+      ingredients:
+        F: TROPICAL_FISH
+        K: DRIED_KELP
+        R: iasurvival:rice
+      result:
+        item: iasurvival:tropical_fish_nigiri
+        amount: 4
+    cod_nigiri:
+      permission: iasurvival.cod_nigiri
+      enabled: true
+      pattern:
+        - XXX
+        - XKX
+        - XFR
+      ingredients:
+        F: COD
+        K: DRIED_KELP
+        R: iasurvival:rice
+      result:
+        item: iasurvival:cod_nigiri
+        amount: 4
+    salmon_nigiri:
+      permission: iasurvival.salmon_nigiri
+      enabled: true
+      pattern:
+        - XXX
+        - XKX
+        - XFR
+      ingredients:
+        F: SALMON
+        K: DRIED_KELP
+        R: iasurvival:rice
+      result:
+        item: iasurvival:salmon_nigiri
+        amount: 4
+    sausage:
+      permission: iasurvival.sausage
+      enabled: true
+      pattern:
+        - XXX
+        - XBX
+        - XXX
+      ingredients:
+        B: BEEF
+      result:
+        item: iasurvival:sausage
+        amount: 4
+    broken_egg:
+      permission: iasurvival.broken_egg
+      enabled: true
+      pattern:
+        - XXX
+        - XEX
+        - XXX
+      ingredients:
+        E: EGG
+      result:
+        item: iasurvival:broken_egg
+        amount: 1
+    peeled_potato:
+      permission: iasurvival.peeled_potato
+      enabled: true
+      pattern:
+        - XXX
+        - XKP
+        - XXX
+      ingredients:
+        K: iasurvival:knife
+        P: POTATO
+      result:
+        item: iasurvival:peeled_potato
+        amount: 1
+      return_items:
+        decrement_durability:
+          knife:
+            item: knife
+            amount: 1
+        play_sound:
+          name: iasurvival:item.knife.use
+          volume: 1
+          pitch: 1
+    potato_sticks:
+      permission: iasurvival.potato_sticks
+      enabled: true
+      pattern:
+        - XXX
+        - XPX
+        - XXX
+      ingredients:
+        P: iasurvival:peeled_potato
+      result:
+        item: iasurvival:potato_sticks
+        amount: 2
+    french_fries:
+      permission: iasurvival.french_fries
+      enabled: true
+      pattern:
+        - XXX
+        - XOX
+        - XPX
+      ingredients:
+        O: iasurvival:fried_potato_sticks
+        P: PAPER
+      result:
+        item: iasurvival:french_fries
+        amount: 1
+    donut_base:
+      permission: iasurvival.donut_base
+      enabled: true
+      pattern:
+        - XXX
+        - XXX
+        - XDX
+      ingredients:
+        D: iasurvival:dough
+      result:
+        item: iasurvival:donut_base
+        amount: 1
+    sweet:
+      permission: iasurvival.sweet
+      enabled: true
+      pattern:
+        - SSS
+        - SWS
+        - SSS
+      ingredients:
+        S: SUGAR
+        W: WATER_BUCKET
+      result:
+        item: iasurvival:sweet
+        amount: 1
+      return_items:
+        replace:
+          WATER_BUCKET: BUCKET
+    sweet_stick:
+      permission: iasurvival.sweet_stick
+      enabled: true
+      pattern:
+        - XXX
+        - XSX
+        - XXX
+      ingredients:
+        S: iasurvival:sweet
+      result:
+        item: iasurvival:sweet_stick
+        amount: 16
+    pink_donut:
+      permission: iasurvival.pink_donut
+      enabled: true
+      pattern:
+        - SSS
+        - SSS
+        - XDX
+      ingredients:
+        S: iasurvival:sweet_stick
+        D: iasurvival:cooked_donut_base
+      result:
+        item: iasurvival:pink_donut
+        amount: 1
+    nether_donut:
+      permission: iasurvival.nether_donut
+      enabled: true
+      pattern:
+        - XXX
+        - XNX
+        - XDX
+      ingredients:
+        'N': SOUL_SAND
+        D: iasurvival:cooked_donut_base
+      result:
+        item: iasurvival:nether_donut
+        amount: 1
+    cheese:
+      permission: iasurvival.cheese
+      enabled: true
+      pattern:
+        - XXX
+        - XMX
+        - XXX
+      ingredients:
+        M: MILK_BUCKET
+      result:
+        item: iasurvival:cheese
+        amount: 1
+      return_items:
+        replace:
+          MILK_BUCKET: BUCKET
+    pufferfish_nigiri:
+      permission: iasurvival.pufferfish_nigiri
+      enabled: true
+      pattern:
+        - XXX
+        - XKX
+        - XFR
+      ingredients:
+        F: PUFFERFISH
+        K: DRIED_KELP
+        R: iasurvival:rice
+      result:
+        item: iasurvival:pufferfish_nigiri
+        amount: 4
+    sliced_bread:
+      permission: iasurvival.sliced_bread
+      enabled: true
+      pattern:
+        - XXX
+        - XKB
+        - XXX
+      ingredients:
+        K: iasurvival:knife
+        B: BREAD
+      result:
+        item: iasurvival:sliced_bread
+        amount: 5
+      return_items:
+        decrement_durability:
+          knife:
+            item: knife
+            amount: 1
+        play_sound:
+          name: iasurvival:item.knife.use
+          volume: 1
+          pitch: 1
+    sliced_baguette:
+      permission: iasurvival.sliced_baguette
+      enabled: true
+      pattern:
+        - XXX
+        - XKB
+        - XXX
+      ingredients:
+        K: iasurvival:knife
+        B: iasurvival:baguette
+      result:
+        item: iasurvival:sliced_baguette
+        amount: 4
+      return_items:
+        decrement_durability:
+          knife:
+            item: knife
+            amount: 1
+        play_sound:
+          name: iasurvival:item.knife.use
+          volume: 1
+          pitch: 1
+    sliced_cheese:
+      permission: iasurvival.sliced_cheese
+      enabled: true
+      pattern:
+        - XXX
+        - XKC
+        - XXX
+      ingredients:
+        K: iasurvival:knife
+        C: iasurvival:cheese
+      result:
+        item: iasurvival:sliced_cheese
+        amount: 4
+      return_items:
+        decrement_durability:
+          knife:
+            item: knife
+            amount: 1
+        play_sound:
+          name: iasurvival:item.knife.use
+          volume: 1
+          pitch: 1
+    sliced_raw_beef:
+      permission: iasurvival.sliced_raw_beef
+      enabled: true
+      pattern:
+        - XXX
+        - XKB
+        - XXX
+      ingredients:
+        K: iasurvival:knife
+        B: BEEF
+      result:
+        item: iasurvival:sliced_raw_beef
+        amount: 4
+      return_items:
+        decrement_durability:
+          knife:
+            item: knife
+            amount: 1
+        play_sound:
+          name: iasurvival:item.knife.use
+          volume: 1
+          pitch: 1
+    sliced_bread_with_sweet_berries_jam:
+      permission: iasurvival.sliced_bread_with_sweet_berries_jam
+      enabled: true
+      pattern:
+        - XXJ
+        - XKB
+        - XXX
+      ingredients:
+        K: iasurvival:knife
+        B: iasurvival:sliced_bread
+        J: iasurvival:sweet_berries_jam_jar
+      result:
+        item: iasurvival:sliced_bread_with_sweet_berries_jam
+        amount: 1
+      return_items:
+        decrement_durability:
+          knife:
+            item: knife
+            amount: 0
+          sweet_berries_jam_jar:
+            item: sweet_berries_jam_jar
+            amount: 1
+    sliced_bread_with_pear_jam:
+      permission: iasurvival.sliced_bread_with_pear_jam
+      enabled: true
+      pattern:
+        - XXJ
+        - XKB
+        - XXX
+      ingredients:
+        K: iasurvival:knife
+        B: iasurvival:sliced_bread
+        J: iasurvival:pear_jam_jar
+      result:
+        item: iasurvival:sliced_bread_with_pear_jam
+        amount: 1
+      return_items:
+        decrement_durability:
+          knife:
+            item: knife
+            amount: 0
+          pear_jam_jar:
+            item: pear_jam_jar
+            amount: 1
+    sliced_bread_with_apple_jam:
+      permission: iasurvival.sliced_bread_with_apple_jam
+      enabled: true
+      pattern:
+        - XXJ
+        - XKB
+        - XXX
+      ingredients:
+        K: iasurvival:knife
+        B: iasurvival:sliced_bread
+        J: iasurvival:apple_jam_jar
+      result:
+        item: iasurvival:sliced_bread_with_apple_jam
+        amount: 1
+      return_items:
+        decrement_durability:
+          knife:
+            item: knife
+            amount: 0
+          apple_jam_jar:
+            item: apple_jam_jar
+            amount: 1
+    ketchup_bottle:
+      permission: iasurvival.ketchup_bottle
+      enabled: true
+      pattern:
+        - PTP
+        - PTP
+        - PTP
+      ingredients:
+        P: iasurvival:plastic_plate
+        T: iasurvival:tomato
+      result:
+        item: iasurvival:ketchup_bottle
+        amount: 1
+    ketchup:
+      permission: iasurvival.ketchup
+      enabled: true
+      pattern:
+        - XXX
+        - XBX
+        - XXX
+      ingredients:
+        B: iasurvival:ketchup_bottle
+      result:
+        item: iasurvival:ketchup
+        amount: 16
+    chili_powder:
+      permission: iasurvival.chili_powder
+      enabled: true
+      pattern:
+        - XXX
+        - XXX
+        - XBX
+      ingredients:
+        B: iasurvival:chili_pepper
+      result:
+        item: iasurvival:chili_powder
+        amount: 4
+    jar:
+      permission: iasurvival.jar
+      enabled: true
+      pattern:
+        - PPP
+        - XGX
+        - XXX
+      ingredients:
+        G: GLASS
+        P: iasurvival:plastic_plate
+      result:
+        item: iasurvival:jar
+        amount: 1
+    sweet_berries_jam_jar:
+      permission: iasurvival.sweet_berries_jam_jar
+      enabled: true
+      pattern:
+        - PPP
+        - PPP
+        - PJP
+      ingredients:
+        P: SWEET_BERRIES
+        J: iasurvival:jar
+      result:
+        item: iasurvival:sweet_berries_jam_jar
+        amount: 1
+    sweet_berries_jam_jar_1:
+      enabled: true
+      permission: iasurvival.sweet_berries_jam_jar_1
+      pattern:
+        - SSS
+        - XJX
+        - XXX
+      ingredients:
+        J: iasurvival:sweet_berries_jam_jar
+        S: SWEET_BERRIES
+      result:
+        item: SWEET_BERRIES
+        amount: 1
+      return_items:
+        increment_durability:
+          sweet_berries_jam_jar:
+            item: sweet_berries_jam_jar
+            amount: 2
+    pear_jam_jar:
+      permission: iasurvival.pear_jam_jar
+      enabled: true
+      pattern:
+        - PPP
+        - PPP
+        - PJP
+      ingredients:
+        P: iasurvival:pear
+        J: iasurvival:jar
+      result:
+        item: iasurvival:pear_jam_jar
+        amount: 1
+    pear_jam_jar_1:
+      enabled: true
+      permission: iasurvival.pear_jam_jar_1
+      pattern:
+        - SSS
+        - XJX
+        - XXX
+      ingredients:
+        J: iasurvival:pear_jam_jar
+        S: iasurvival:pear
+      result:
+        item: iasurvival:pear
+        amount: 1
+      return_items:
+        increment_durability:
+          pear_jam_jar:
+            item: pear_jam_jar
+            amount: 2
+    apple_jam_jar:
+      permission: iasurvival.apple_jam_jar
+      enabled: true
+      pattern:
+        - PPP
+        - PPP
+        - PJP
+      ingredients:
+        P: APPLE
+        J: iasurvival:jar
+      result:
+        item: iasurvival:apple_jam_jar
+        amount: 1
+    apple_jam_jar_1:
+      enabled: true
+      permission: iasurvival.apple_jam_jar_1
+      pattern:
+        - SSS
+        - XJX
+        - XXX
+      ingredients:
+        J: iasurvival:apple_jam_jar
+        S: APPLE
+      result:
+        item: APPLE
+        amount: 1
+      return_items:
+        increment_durability:
+          apple_jam_jar:
+            item: apple_jam_jar
+            amount: 2
+    flour:
+      permission: iasurvival.flour
+      enabled: true
+      pattern:
+        - XXX
+        - XWX
+        - XXX
+      ingredients:
+        W: WHEAT
+      result:
+        item: iasurvival:flour
+        amount: 4
+    dough:
+      permission: iasurvival.dough
+      enabled: true
+      pattern:
+        - XFX
+        - XFX
+        - XWX
+      ingredients:
+        F: iasurvival:flour
+        W: WATER_BUCKET
+      result:
+        item: iasurvival:dough
+        amount: 8
+      return_items:
+        replace:
+          WATER_BUCKET: BUCKET

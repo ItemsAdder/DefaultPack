@@ -1,0 +1,20 @@
+info:
+  namespace: iasurvival
+items:
+  bronze_sword:
+    enabled: true
+    display_name: display-name-bronze_sword
+    permission: iasurvival.items.bronze_sword
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+        - item/swords/bronze_sword
+    durability:
+      max_custom_durability: 1862
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 6.5
+        movementSpeed:
+          value: -0.03
+          operation: multiply_base

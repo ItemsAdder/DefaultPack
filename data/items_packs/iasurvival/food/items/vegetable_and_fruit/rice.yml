@@ -1,0 +1,16 @@
+info:
+  namespace: iasurvival
+items:
+  rice:
+    enabled: true
+    display_name: display-name-rice
+    permission: iasurvival.vegetable_and_fruit.rice
+    resource:
+      material: APPLE
+      generate: true
+      textures:
+        - item/food/vegetable_and_fruit/rice
+    events:
+      eat:
+        feed:
+          amount: 1

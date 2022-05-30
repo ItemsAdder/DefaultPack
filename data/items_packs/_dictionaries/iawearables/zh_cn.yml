@@ -1,0 +1,31 @@
+info:
+  namespace: iawearables
+  dictionary-lang: zh_cn
+dictionary:
+  display-name-deadmau5_hat: '&9电子鼠帽子'
+  display-name-top_hat: 大礼帽
+  display-name-welding_mask: 焊接面罩
+  display-name-mining_helmet: 采矿头盔
+  display-name-dog_mask: 狗狗面具
+  display-name-ruby_pickaxe_hat: 红宝石镐帽子
+  display-name-straw_hat: 草帽
+  display-name-cool_sunglasses: 酷墨镜
+  display-name-cigar: 雪茄
+  display-name-glasses: 眼镜
+  display-name-biker_helmet: 摩托车头盔
+  display-name-cat_ears: 猫耳
+  display-name-demoniac_red_wings: 红色恶魔翅膀
+  display-name-demoniac_turquoise_wings: 蓝绿色恶魔翅膀
+  display-name-demoniac_purple_wings: 紫色恶魔翅膀
+  display-name-demoniac_blue_wings: 蓝色恶魔翅膀
+  display-name-demoniac_black_wings: 黑色恶魔翅膀
+  display-name-all_black_cat_tail: 纯黑猫尾
+  display-name-black_cat_tail: 黑色猫尾
+  display-name-white_cat_tail: 白色猫尾
+  display-name-ender_dragon_wings: 末影龙之翅
+  display-name-red_backpack: 红色双肩包
+  display-name-turquoise_backpack: 蓝绿色双肩包
+  display-name-purple_backpack: 紫色双肩包
+  display-name-blue_backpack: 蓝色双肩包
+  display-name-black_backpack: 黑色双肩包
+  display-name-brown_backpack: 棕色双肩包

@@ -1,0 +1,44 @@
+info:
+  namespace: iawearables
+categories:
+  hats:
+    enabled: true
+    skip_if_already: false
+    icon: iawearables:deadmau5_hat
+    name: display-category-hats
+    permission: ia.menu.seecategory.hats
+    items:
+      - iawearables:deadmau5_hat
+      - iawearables:top_hat
+      - iawearables:welding_mask
+      - iawearables:mining_helmet
+      - iawearables:dog_mask
+      - iawearables:ruby_pickaxe_hat
+      - iawearables:straw_hat
+      - iawearables:cool_sunglasses
+      - iawearables:glasses
+      - iawearables:cigar
+      - iawearables:biker_helmet
+      - iawearables:cat_ears
+  wearables:
+    enabled: true
+    skip_if_already: false
+    icon: iawearables:demoniac_red_wings
+    name: display-category-wearables
+    permission: ia.menu.seecategory.wearables
+    items:
+      - iawearables:demoniac_red_wings
+      - iawearables:demoniac_turquoise_wings
+      - iawearables:demoniac_purple_wings
+      - iawearables:demoniac_blue_wings
+      - iawearables:demoniac_black_wings
+      - iawearables:ender_dragon_wings
+      - iawearables:all_black_cat_tail
+      - iawearables:black_cat_tail
+      - iawearables:white_cat_tail
+      - iawearables:red_backpack
+      - iawearables:turquoise_backpack
+      - iawearables:purple_backpack
+      - iawearables:blue_backpack
+      - iawearables:black_backpack
+      - iawearables:brown_backpack

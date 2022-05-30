@@ -1,0 +1,22 @@
+info:
+  namespace: iasurvival
+items:
+  bronze_shield:
+    enabled: true
+    display_name: display-name-bronze_shield
+    permission: iasurvival.items.bronze_shield
+    resource:
+      material: SHIELD
+      generate: false
+      model_path: item/shields/bronze_shield
+    durability:
+      max_custom_durability: 512
+    attribute_modifiers:
+      mainhand:
+        movementSpeed:
+          value: -0.07
+          operation: multiply_base
+      offhand:
+        movementSpeed:
+          value: -0.07
+          operation: multiply_base

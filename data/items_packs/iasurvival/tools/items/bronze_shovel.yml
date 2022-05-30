@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  bronze_shovel:
+    enabled: true
+    display_name: display-name-bronze_shovel
+    permission: iasurvival.items.bronze_shovel
+    resource:
+      material: DIAMOND_SHOVEL
+      generate: true
+      textures:
+        - item/tools/bronze_shovel

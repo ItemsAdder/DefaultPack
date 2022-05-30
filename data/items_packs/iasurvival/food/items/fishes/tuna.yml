@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  tuna:
+    enabled: true
+    display_name: display-name-tuna
+    permission: iasurvival.fishes.tuna
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/fishes/tuna
+    events:
+      eat:
+        feed:
+          amount: 4
+          saturation: 0.4

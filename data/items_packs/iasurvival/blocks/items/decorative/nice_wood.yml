@@ -1,0 +1,21 @@
+info:
+  namespace: iasurvival
+items:
+  nice_wood:
+    enabled: true
+    display_name: display-name-nice_wood
+    permission: iasurvival.decorative.nice_wood
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - block/decorative/nice_wood
+    specific_properties:
+      block:
+        placed_model:
+          type: REAL_NOTE
+          break_particles_material: STRIPPED_ACACIA_WOOD
+        break_tools_whitelist:
+          - HAND
+          - AXE
+          - axe

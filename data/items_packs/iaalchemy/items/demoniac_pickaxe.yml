@@ -1,0 +1,28 @@
+info:
+  namespace: iaalchemy
+items:
+  demoniac_pickaxe:
+    enabled: true
+    display_name: display-name-demoniac_pickaxe
+    permission: iaalchemy.items.demoniac_pickaxe
+    lore:
+      - lore-1-demoniac_pickaxe
+      - lore-2-demoniac_pickaxe
+      - lore-3-demoniac_pickaxe
+      - lore-blocked-enchants
+      - lore-enchantment-mending
+      - lore-enchantment-efficiency
+    resource:
+      material: DIAMOND_PICKAXE
+      generate: true
+      textures:
+        - item/demoniac_pickaxe
+    blocked_enchants:
+      - MENDING
+      - EFFICIENCY
+    events:
+      block_break:
+        drop_exp:
+          chance: 50
+          min_amount: 1
+          max_amount: 3

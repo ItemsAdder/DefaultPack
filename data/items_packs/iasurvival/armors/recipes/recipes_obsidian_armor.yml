@@ -1,0 +1,52 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    obsidian_helmet:
+      permission: iasurvival.obsidian_armor.obsidian_helmet
+      enabled: true
+      pattern:
+        - rrr
+        - rXr
+        - XXX
+      ingredients:
+        r: OBSIDIAN
+      result:
+        item: iasurvival:obsidian_helmet
+        amount: 1
+    obsidian_chestplate:
+      permission: iasurvival.obsidian_armor.obsidian_chestplate
+      enabled: true
+      pattern:
+        - rXr
+        - rrr
+        - rrr
+      ingredients:
+        r: OBSIDIAN
+      result:
+        item: iasurvival:obsidian_chestplate
+        amount: 1
+    obsidian_leggings:
+      permission: iasurvival.obsidian_armor.obsidian_leggings
+      enabled: true
+      pattern:
+        - rrr
+        - rXr
+        - rXr
+      ingredients:
+        r: OBSIDIAN
+      result:
+        item: iasurvival:obsidian_leggings
+        amount: 1
+    obsidian_boots:
+      permission: iasurvival.obsidian_armor.obsidian_boots
+      enabled: true
+      pattern:
+        - XXX
+        - rXr
+        - rXr
+      ingredients:
+        r: OBSIDIAN
+      result:
+        item: iasurvival:obsidian_boots
+        amount: 1

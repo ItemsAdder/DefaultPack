@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  cooked_blue_parrotfish:
+    enabled: true
+    display_name: display-name-cooked_blue_parrotfish
+    permission: iasurvival.fishes.cooked_blue_parrotfish
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/fishes/cooked_blue_parrotfish
+    events:
+      eat:
+        feed:
+          amount: 8
+          saturation: 6

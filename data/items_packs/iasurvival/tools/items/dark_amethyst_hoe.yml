@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  dark_amethyst_hoe:
+    enabled: true
+    display_name: display-name-dark_amethyst_hoe
+    permission: iasurvival.items.dark_amethyst_hoe
+    resource:
+      material: DIAMOND_HOE
+      generate: true
+      textures:
+        - item/tools/dark_amethyst_hoe

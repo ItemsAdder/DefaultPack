@@ -1,0 +1,76 @@
+info:
+  namespace: iaalchemy
+items:
+  energy_converter:
+    enabled: true
+    display_name: display-name-energy_converter
+    permission: iaalchemy.machinery.energy_converter
+    lore:
+      - lore-1-energy_converter
+      - lore-2-energy_converter
+    resource:
+      material: PAPER
+      generate: false
+      model_path: item/energy_converter
+    behaviours:
+      furniture:
+        small: true
+        light_level: 7
+        solid: true
+      furniture_trade_machine:
+        title: Energy Converter
+        gui_texture:
+          left: energy_converter_left
+          right: energy_converter_right
+        trades_list:
+          dirt:
+            ingredients:
+              slot1:
+                item: energy_orb
+                amount: 6
+            result:
+              item: DIRT
+              amount: 64
+          cobblestone:
+            ingredients:
+              slot1:
+                item: energy_orb
+                amount: 6
+            result:
+              item: COBBLESTONE
+              amount: 64
+          cobblestone_stairs:
+            ingredients:
+              slot1:
+                item: energy_orb
+                amount: 6
+            result:
+              item: COBBLESTONE_STAIRS
+              amount: 64
+          iron_ingot:
+            ingredients:
+              slot1:
+                item: energy_orb
+                amount: 32
+            result:
+              item: IRON_INGOT
+              amount: 2
+          diamond_energy:
+            ingredients:
+              slot1:
+                item: energy_capsule
+                amount: 32
+            result:
+              item: DIAMOND
+              amount: 1
+          diamond_small_energy:
+            ingredients:
+              slot1:
+                item: small_energy_capsule
+                amount: 64
+              slot2:
+                item: small_energy_capsule
+                amount: 64
+            result:
+              item: DIAMOND
+              amount: 1

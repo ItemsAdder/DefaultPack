@@ -1,0 +1,213 @@
+info:
+  namespace: iasurvival
+  dictionary-lang: tr
+dictionary:
+  display-name-dark_amethyst_helmet: Ametist Kask
+  display-name-dark_amethyst_chestplate: Ametist Zırh
+  display-name-dark_amethyst_leggings: Ametist Pantolon
+  display-name-dark_amethyst_boots: Ametist Bot
+  display-name-bronze_helmet: Bronz Kask
+  display-name-bronze_chestplate: Bronz Zırh
+  display-name-bronze_leggings: Bronz Pantolon
+  display-name-bronze_boots: Bronz Bot
+  display-name-emerald_helmet: Zümrüt Kask
+  display-name-emerald_chestplate: Zümrüt Zırh
+  display-name-emerald_leggings: Zümrüt Pantolon
+  display-name-emerald_boots: Zümrüt Bot
+  display-name-obsidian_helmet: Obsidiyen Kask
+  display-name-obsidian_chestplate: Obsidiyen Zırh
+  display-name-obsidian_leggings: Obsidiyen Pantolon
+  display-name-obsidian_boots: Obsidiyen Bot
+  display-name-ruby_helmet: Yakut Kask
+  display-name-ruby_chestplate: Yakut Zırh
+  display-name-ruby_leggings: Yakut Pantolon
+  display-name-ruby_boots: Yakut Bot
+  display-name-modern_quartz: Modern Kuvars
+  display-name-modern_sandstone: Modern Kumtaşı
+  display-name-modern_stone: Modern Taş
+  display-name-nice_stone: Güzel taş
+  display-name-nice_wood: Güzel ahşap
+  display-name-dark_amethyst_block: Block of Dark Amethyst
+  display-name-dark_amethyst_prism_block: Ametis Prizma Bloğu
+  display-name-aqua_aura_block: Aqua Aura Bloğu
+  display-name-crystal_block: Kristal Bloğu
+  display-name-ruby_block: Yakut Bloğu
+  display-name-spinel_block: Spinel Bloğu
+  display-name-turquoise_block: Turkuaz Bloğu
+  display-name-black_bow: Siyah Boyalı Yay
+  display-name-red_bow: Kırmızı Boyalı Yay
+  display-name-green_bow: Yeşil Boyalı Yay
+  display-name-blue_bow: Mavi Boyalı Yay
+  display-name-purple_bow: Mor Boyalı Yay
+  display-name-cyan_bow: Açık Mavi Boyalı Yay
+  display-name-tomato_seeds: Domates Tohumları
+  display-name-garlic_seeds: Sarımsak tohumları
+  display-name-lettuce_seeds: Marul Tohumları
+  display-name-chili_pepper_seeds: Acı Biber Tohumları
+  display-name-rice_seeds: Pirinç Tohumları
+  display-name-tobacco_seeds: Tütün Tohumları
+  display-name-black_moor_goldfish: Siyah Moor Japon Balığı
+  display-name-blue_parrotfish: Mavi Papağan Balığı
+  display-name-cod_nigiri: Cod Nigiri
+  display-name-cooked_black_moor_goldfish: Pişmiş Siyah Moor Japon Balığı
+  display-name-cooked_blue_parrotfish: Mavi Papağan Balığı Pişmiş
+  display-name-cooked_goldfish: Japon Balığı
+  display-name-cooked_green_sunfish: Pişmiş Yeşil Sunfish
+  display-name-cooked_tuna: Pişmiş Ton Balığı
+  display-name-goldfish: Akvaryum balığı
+  display-name-green_sunfish: Yeşil Aybalığı
+  display-name-pufferfish_nigiri: Kirpi balığı Nigiri
+  display-name-salmon_nigiri: Somon Nigiri
+  display-name-tropical_fish_nigiri: Tropikal Balık Nigiri
+  display-name-tuna: Ton Balığı
+  display-name-baguette: Baget
+  display-name-broken_egg: Kırık yumurta
+  display-name-cheese: Peynir
+  display-name-chili_powder: Biber tozu
+  lore-1-chili_powder: '&7şuradan alınmıştır'
+  lore-2-chili_powder: '&7acı biber'
+  display-name-chips: Cips
+  display-name-cooked_donut_base: Pişmiş Donut tabanı
+  display-name-cooked_sausage: Pişmiş Sosis
+  display-name-donut_base: Halka tabanı
+  display-name-dough: Hamur
+  display-name-flour: Un
+  display-name-french_fries: Patates kızartması
+  display-name-fried_egg: Kızarmış yumurta
+  display-name-fried_potato_sticks: Kızarmış Patates Çubukları
+  display-name-hamburger: Hamburger
+  display-name-hotdog: Sosisli
+  display-name-jar: Jar
+  display-name-sweet_berries_jam_jar: Reçel Kavanozu
+  display-name-pear_jam_jar: Armut Reçeli Kavanozu
+  display-name-apple_jam_jar: Elma Reçeli Kavanozu
+  display-name-ketchup: Ketçap
+  lore-1-ketchup: '&7şuradan alınmıştır'
+  lore-2-ketchup: '&7ketçap şişesi'
+  display-name-nether_donut: Nether Çörek
+  display-name-peeled_potato: Soyulmuş patates
+  display-name-pink_donut: Pembe Çörek
+  display-name-pizza: Pizza
+  display-name-potato_sticks: Patates Çubukları
+  display-name-sausage: Sosis
+  display-name-sliced_baguette: Dilimlenmiş Baget
+  display-name-sliced_bread: Dilimlenmiş ekmek
+  display-name-sliced_bread_with_apple_jam: Elma Reçeli ile Dilimlenmiş Ekmek
+  display-name-sliced_bread_with_pear_jam: Armut Reçelli Dilimlenmiş Ekmek
+  display-name-sliced_bread_with_sweet_berries_jam: Tatlı Barries ile Dilimlenmiş Ekmek Reçeli
+  display-name-sliced_cheese: Dilimlenmiş Peynir
+  display-name-sliced_raw_beef: Dilimlenmiş Çiğ Sığır Eti
+  display-name-sliced_roast_beef: Dilimlenmiş Rozbif
+  display-name-sweet: Tatlı
+  display-name-sweet_stick: Tatlı çubuk
+  display-name-taco: Taco
+  display-name-banana: Muz
+  display-name-chili_pepper: acı biber
+  display-name-garlic: Sarımsak
+  display-name-lettuce: Marul
+  display-name-pear: Armut
+  display-name-rice: Pirinç
+  display-name-tomato: Domates
+  display-name-customization_table: Özelleştirme Tablosu
+  display-name-restoration_table: Restorasyon Masası
+  display-name-dark_amethyst: Ametist
+  display-name-dark_amethyst_ore: Ametist Cevheri
+  display-name-dark_amethyst_prism: Ametist Prizma
+  display-name-aqua_aura: Aqua Aura
+  display-name-aqua_aura_ore: Aqua Aura Cevheri
+  display-name-blaze_powder_ore: Blaze Tozu Cevheri
+  display-name-bronze_ingot: Bronz Külçe
+  display-name-raw_tin: Raw Tin
+  display-name-raw_tin_and_copper_ingot_dust: Raw Tin and Copper Ingot Dust
+  display-name-cassiterite: Cassiterite
+  display-name-cassiterite_block: Block of Cassiterite
+  display-name-cassiterite_fragment: Cassiterite Fragment
+  display-name-cassiterite_ore: Cassiterite Ore
+  display-name-coal_dirt_ore: Kömür Kirliliği Cevheri
+  display-name-coal_nugget: Kömür Nugget
+  display-name-crystal: Kristal
+  display-name-end_crystals: End Kristal
+  display-name-end_ingot: End Külçe
+  display-name-end_ore: End Cevheri
+  display-name-end_shard: Shard Sonu
+  display-name-forgotten_crying_obsidian: '&9Forgotten Crying Obsidian'
+  display-name-fossil: Fosil
+  display-name-gold_dirt_ore: Altın Kir Cevheri
+  display-name-iron_dirt_ore: Demir Kir Cevheri
+  display-name-knowledge_fragment: Bilgi Parçası
+  display-name-ruby: Yakut
+  display-name-ruby_ore: Yakut Cevheri
+  display-name-spinel: Spinel
+  display-name-spinel_ore: Spinel Cevheri
+  display-name-turquoise: Turkuaz
+  display-name-turquoise_ore: Turkuaz Cevheri
+  display-name-dark_amethyst_shield: Ametist Kalkanı
+  display-name-bronze_shield: Bronz Kalkan
+  display-name-ender_shield: Ender Kalkanı
+  display-name-obsidian_shield: Obsidiyen Kalkanı
+  display-name-ruby_shield: Yakut Kalkanı
+  display-name-dark_amethyst_sword: Ametist Kılıcı
+  display-name-aqua_sword: Aqua Aura Kılıcı
+  display-name-bronze_sword: Bronz Kılıç
+  display-name-crystal_sword: Kristal Kılıç
+  display-name-end_sword: End Kılıç
+  display-name-knife: Bıçak
+  display-name-ruby_dagger: Yakut hançer
+  display-name-ruby_sword: Yakut Kılıcı
+  display-name-aqualight_sword: Aqualight
+  display-name-bloodnite_sword: Savurganlar
+  display-name-emerald_sword: Zümrüt Kılıcı
+  display-name-firesword_sword: Ateş Kılıcı
+  display-name-rusteroth_sword: Rusteroth
+  display-name-vyderlight_sword: Vyderlight
+  display-name-sweets_sword: Tatlılar Kılıç
+  display-name-turquoise_sword: Turkuaz Kılıç
+  display-name-bloody_mary: Kanlı Mary
+  display-name-coffee: Kahve
+  display-name-cola: Kola
+  display-name-cup_of_hot_water: Bir bardak sıcak su
+  display-name-cup_of_water: Bardak su
+  display-name-drink_glass: İçecek Bardağı
+  display-name-empty_cup: Boş fincan
+  display-name-hot_chocolate: Sıcak çikolata
+  display-name-boiled_water_bucket: Kaynamış Su Kovası
+  display-name-waterskin: Su derisi
+  display-name-dark_amethyst_axe: Ametist Balta
+  display-name-dark_amethyst_hoe: Ametist çapa
+  display-name-dark_amethyst_pickaxe: Ametist Kazma
+  display-name-dark_amethyst_shovel: Ametist Kürek
+  display-name-bronze_axe: Bronz Balta
+  display-name-bronze_hoe: Bronz çapa
+  display-name-bronze_pickaxe: Bronz Kazma
+  display-name-bronze_shovel: Bronz Kürek
+  display-name-chisel: Keski
+  display-name-black_shears: Siyah Boyalı Makas
+  display-name-red_shears: Kırmızı Boyalı Makaslar
+  display-name-green_shears: Yeşil Boyalı Makaslar
+  display-name-blue_shears: Mavi Boyalı Makaslar
+  display-name-purple_shears: Mor Boyalı Makaslar
+  display-name-cyan_shears: Camgöbeği Boyalı Makaslar
+  display-name-diamond_hammer: '&3&lElmas çekiç'
+  display-name-black_fishing_rod: Siyah Boyalı Olta
+  display-name-red_fishing_rod: Kırmızı Boyalı Olta
+  display-name-green_fishing_rod: Yeşil Boyalı Olta
+  display-name-blue_fishing_rod: Mavi Boyalı Olta
+  display-name-purple_fishing_rod: Mor Boyalı Olta
+  display-name-cyan_fishing_rod: Camgöbeği Boyalı Olta
+  display-name-ruby_axe: Yakut Balta
+  display-name-ruby_hoe: Yakut çapa
+  display-name-ruby_pickaxe: Yakut Kazma
+  display-name-ruby_shovel: Ruby Kürek
+  display-name-letter: Mektup
+  display-name-nest: Yuva
+  display-name-eggs_nest: Yumurta Yuvası
+  display-name-plastic: Plastik
+  display-name-plastic_plate: Plastik tabak
+  display-name-iron_plate: Demir plaka
+  display-name-tobacco: Tütün
+  lore-1-end_sword: '&6[ &eSpecial effects &6]'
+  lore-2-end_sword: '&7Damage near hostile mobs'
+  display-name-sword_skin_rusteroth: "Sword Skin Rusteroth"
+  display-name-sword_skin_bloodnite: "Sword Skin Bloodnite"
+  display-name-sword_skin_vyderlight: "Sword Skin Vyderlight"
+  display-name-sword_skin_aqualight: "Sword Skin Aqualight"

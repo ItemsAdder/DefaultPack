@@ -1,0 +1,31 @@
+info:
+  namespace: iavehicles
+  dictionary-lang: en
+dictionary:
+  display-name-broomstick: Broomstick
+  display-name-ufo: Ufo
+  display-name-oak_wood_plane: Oak Wood Plane
+  display-name-spruce_wood_plane: Spruce Wood Plane
+  display-name-birch_wood_plane: Birch Wood Plane
+  display-name-jungle_wood_plane: Jungle Wood Plane
+  display-name-acacia_wood_plane: Acacia Wood Plane
+  display-name-dark_oak_wood_plane: Dark Oak Wood Plane
+  display-name-white_go_cart: White Go-cart
+  display-name-orange_go_cart: Orange Go-cart
+  display-name-magenta_go_cart: Magenta Go-cart
+  display-name-light_blue_go_cart: Light Blue Go-cart
+  display-name-yellow_go_cart: Yellow Go-cart
+  display-name-lime_go_cart: Lime Go-cart
+  display-name-pink_go_cart: Pink Go-cart
+  display-name-gray_go_cart: Gray Go-cart
+  display-name-light_gray_go_cart: Light Gray Go-cart
+  display-name-cyan_go_cart: Cyan Go-cart
+  display-name-purple_go_cart: Purple Go-cart
+  display-name-blue_go_cart: Blue Go-cart
+  display-name-brown_go_cart: Brown Go-cart
+  display-name-green_go_cart: Green Go-cart
+  display-name-red_go_cart: Red Go-cart
+  display-name-black_go_cart: Black Go-cart
+  display-name-shopping_cart: Shopping Cart
+  display-name-ufo_toy: Ufo Toy
+  lore-1-ufo_toy: '&7Rightclick to make it fly'

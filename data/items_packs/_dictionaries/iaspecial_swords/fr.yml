@@ -1,0 +1,14 @@
+info:
+  namespace: iaspecial_swords
+  dictionary-lang: fr
+dictionary:
+  display-name-baseball_bat: Batte de baseball
+  display-name-elucidator_sword: Elucidator
+  display-name-floating_sword: '&9&lÉpée celeste'
+  display-name-gandalf_stick: Bâton de Gandalf
+  display-name-guitar_sword: Épée guitare
+  display-name-green_lightsaber: '&2&lSabre laser vert'
+  display-name-red_lightsaber: '&4&lSabre laser rouge'
+  display-name-blue_lightsaber: '&3&lSabre laser bleu'
+  display-name-masters_sword: '&6&lMaster''s Sword'
+  display-name-repulser_sword: Repulser

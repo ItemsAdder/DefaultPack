@@ -1,0 +1,31 @@
+info:
+  namespace: iaalchemy
+items:
+  healing_crystals:
+    enabled: true
+    display_name: display-name-healing_crystals
+    permission: iaalchemy.items.healing_crystals
+    resource:
+      material: IRON_SWORD
+      generate: true
+      parent: minecraft:item/generated
+      textures:
+        - item/healing_crystals
+    durability:
+      max_custom_durability: 6
+      custom_durability: 6
+      disappear_when_broken: true
+    item_flags:
+      - HIDE_ATTRIBUTES
+    events_cooldown: 1200
+    events:
+      interact:
+        right:
+          play_particle:
+            name: HEART
+          decrement_durability:
+            amount: 1
+          potion_effect:
+            type: REGENERATION
+            duration: 70
+            amplifier: 4

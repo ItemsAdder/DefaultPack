@@ -1,0 +1,17 @@
+info:
+  namespace: iafestivities
+items:
+  christmas_candle:
+    enabled: true
+    display_name: display-name-christmas_candle
+    permission: iafestivities.christmas.christmas_candle
+    resource:
+      material: PAPER
+      generate: false
+      model_path: christmas/christmas_candle
+    behaviours:
+      furniture:
+        gravity: false
+        fixed_rotation: false
+        small: true
+        light_level: 8

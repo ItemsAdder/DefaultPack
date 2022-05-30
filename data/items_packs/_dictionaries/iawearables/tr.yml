@@ -1,0 +1,29 @@
+info:
+  namespace: iawearables
+  dictionary-lang: tr
+dictionary:
+  display-name-deadmau5_hat: '&9deadmau5_hat'
+  display-name-top_hat: Top Hat
+  display-name-welding_mask: Kaynak maskesi
+  display-name-dog_mask: Köpek Maskesi
+  display-name-ruby_pickaxe_hat: Yakut Kazma Şapka
+  display-name-straw_hat: Hasır Şapka
+  display-name-cool_sunglasses: Serin Güneş Gözlüğü
+  display-name-cigar: Sigara
+  display-name-glasses: Gözlük
+  display-name-cat_ears: Kedi kulakları
+  display-name-demoniac_red_wings: Şeytani Kırmızı Kanatlar
+  display-name-demoniac_turquoise_wings: Şeytani Kırmızı Kanatlar
+  display-name-demoniac_purple_wings: Şeytani Mor Kanatlar
+  display-name-demoniac_blue_wings: Şeytani Mavi Kanatlar
+  display-name-demoniac_black_wings: Şeytani Siyah Kanatlar
+  display-name-all_black_cat_tail: Tüm Kara Kedi Kuyruğu
+  display-name-black_cat_tail: Kara Kedi Kuyruğu
+  display-name-white_cat_tail: Beyaz Kedi Kuyruğu
+  display-name-ender_dragon_wings: Ender Ejderha Kanatları
+  display-name-red_backpack: Kırmızı Sırt Çantası
+  display-name-turquoise_backpack: Turkuaz Sırt Çantası
+  display-name-purple_backpack: Mor Sırt Çantası
+  display-name-blue_backpack: Mavi Sırt Çantası
+  display-name-black_backpack: Siyah Sırt Çantası
+  display-name-brown_backpack: Kahverengi Sırt Çantası

@@ -1,0 +1,25 @@
+info:
+  namespace: iasurvival
+items:
+  diamond_hammer:
+    enabled: true
+    display_name: display-name-diamond_hammer
+    permission: iasurvival.items.diamond_hammer
+    resource:
+      material: DIAMOND_PICKAXE
+      generate: true
+      textures:
+        - item/tools/diamond_hammer
+    lore:
+      - lore-blocked-enchants
+      - lore-enchantment-mending
+    blocked_enchants:
+      - MENDING
+    events:
+      block_break:
+        multiple_break:
+          keep_ores: true
+          drop_all_blocks:
+            enabled: true
+            need_silk_touch: true
+          size: 3

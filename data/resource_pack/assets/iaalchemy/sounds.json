@@ -1,0 +1,35 @@
+{
+	"item.astral_bow.shot":{
+		"sounds":[
+			"iaalchemy:item/astral_bow/shot1",
+			"iaalchemy:item/astral_bow/shot2",
+			"iaalchemy:item/astral_bow/shot3"
+		]
+	},
+	"item.mysterious_sword.attack":{
+		"sounds":[
+			"iaalchemy:item/mysterious_sword/attack1",
+			"iaalchemy:item/mysterious_sword/attack2",
+			"iaalchemy:item/mysterious_sword/attack3"
+		]
+	},
+	"item.philosopher_stone.use":{
+		"sounds":[
+			"iaalchemy:item/philosopher_stone/use1",
+			"iaalchemy:item/philosopher_stone/use2",
+			"iaalchemy:item/philosopher_stone/use3"
+		]
+	},
+	"ambient.angelic":{
+		"sounds":[
+			"iaalchemy:ambient/angelic"
+		]
+	},
+	"ambient.creepy":{
+		"sounds":[
+			"iaalchemy:ambient/creepy1",
+			"iaalchemy:ambient/creepy2",
+			"iaalchemy:ambient/creepy3"
+		]
+	}
+}

@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  sliced_cheese:
+    enabled: true
+    display_name: display-name-sliced_cheese
+    permission: iasurvival.various.sliced_cheese
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/various/sliced_cheese
+    events:
+      eat:
+        feed:
+          amount: 2
+          saturation: 0.2

@@ -1,0 +1,18 @@
+info:
+  namespace: iasurvival
+items:
+  emerald_sword:
+    enabled: true
+    display_name: display-name-emerald_sword
+    permission: iasurvival.special.emerald_sword
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+        - item/swords/emerald_sword
+    durability:
+      max_custom_durability: 32
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 4.5
+        attackSpeed: 1.7

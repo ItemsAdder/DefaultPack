@@ -1,0 +1,136 @@
+info:
+  namespace: iasurvival
+recipes:
+  cooking:
+    cooked_sausage:
+      permission: iasurvival.cooked_sausage
+      ingredient:
+        item: iasurvival:sausage
+      machines:
+        - FURNACE
+        - BLAST_FURNACE
+      exp: 1
+      cook_time: 200
+      result:
+        item: iasurvival:cooked_sausage
+        amount: 1
+    baguette:
+      permission: iasurvival.baguette
+      ingredient:
+        item: iasurvival:dough
+      machines:
+        - FURNACE
+        - BLAST_FURNACE
+      exp: 1
+      cook_time: 200
+      result:
+        item: iasurvival:baguette
+        amount: 1
+    fried_egg:
+      permission: iasurvival.fried_egg
+      ingredient:
+        item: iasurvival:broken_egg
+      machines:
+        - FURNACE
+        - BLAST_FURNACE
+      exp: 1
+      cook_time: 200
+      result:
+        item: iasurvival:fried_egg
+        amount: 1
+    fried_potato_sticks:
+      permission: iasurvival.fried_potato_sticks
+      ingredient:
+        item: iasurvival:potato_sticks
+      machines:
+        - FURNACE
+        - BLAST_FURNACE
+      exp: 1
+      cook_time: 200
+      result:
+        item: iasurvival:fried_potato_sticks
+        amount: 1
+    cooked_donut_base:
+      permission: iasurvival.cooked_donut_base
+      ingredient:
+        item: iasurvival:donut_base
+      machines:
+        - FURNACE
+        - BLAST_FURNACE
+      exp: 1
+      cook_time: 200
+      result:
+        item: iasurvival:cooked_donut_base
+        amount: 1
+    cooked_blue_parrotfish:
+      permission: iasurvival.cooked_blue_parrotfish
+      ingredient:
+        item: iasurvival:blue_parrotfish
+      machines:
+        - FURNACE
+        - BLAST_FURNACE
+      exp: 1
+      cook_time: 200
+      result:
+        item: iasurvival:cooked_blue_parrotfish
+        amount: 1
+    cooked_green_sunfish:
+      permission: iasurvival.cooked_green_sunfish
+      ingredient:
+        item: iasurvival:green_sunfish
+      machines:
+        - FURNACE
+        - BLAST_FURNACE
+      exp: 1
+      cook_time: 200
+      result:
+        item: iasurvival:cooked_green_sunfish
+        amount: 1
+    cooked_goldfish:
+      permission: iasurvival.cooked_goldfish
+      ingredient:
+        item: iasurvival:goldfish
+      machines:
+        - FURNACE
+        - BLAST_FURNACE
+      exp: 1
+      cook_time: 200
+      result:
+        item: iasurvival:cooked_goldfish
+        amount: 1
+    cooked_black_moor_goldfish:
+      permission: iasurvival.cooked_black_moor_goldfish
+      ingredient:
+        item: iasurvival:black_moor_goldfish
+      machines:
+        - FURNACE
+        - BLAST_FURNACE
+      exp: 1
+      cook_time: 200
+      result:
+        item: iasurvival:cooked_black_moor_goldfish
+        amount: 1
+    cooked_tuna:
+      permission: iasurvival.cooked_tuna
+      ingredient:
+        item: iasurvival:tuna
+      machines:
+        - FURNACE
+        - BLAST_FURNACE
+      exp: 1
+      cook_time: 200
+      result:
+        item: iasurvival:cooked_tuna
+        amount: 1
+    sliced_roast_beef:
+      permission: iasurvival.sliced_roast_beef
+      ingredient:
+        item: iasurvival:sliced_raw_beef
+      machines:
+        - FURNACE
+        - BLAST_FURNACE
+      exp: 1
+      cook_time: 200
+      result:
+        item: iasurvival:sliced_roast_beef
+        amount: 1

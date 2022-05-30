@@ -1,0 +1,10 @@
+info:
+  namespace: iamusic
+  dictionary-lang: es
+dictionary:
+  display-name-blank_disc: Disco Virgen
+  lore-1-blank_disc: '&7Puede ser usado para crear'
+  lore-2-blank_disc: '&7discos de música'
+  display-name-music_disc_electric_keys: '&bDisco de Música'
+  display-name-music_disc_cdk_sunday: '&bDisco de Música'
+  display-name-music_disc_vidian_aether_theories: '&bDisco de Música'

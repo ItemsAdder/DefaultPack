@@ -1,0 +1,25 @@
+info:
+  namespace: iaalchemy
+items:
+  astral_bow:
+    enabled: true
+    display_name: display-name-astral_bow
+    permission: iaalchemy.items.astral_bow
+    resource:
+      material: BOW
+      generate: true
+      textures:
+        - item/astral_bow
+    enchants:
+      - ARROW_FIRE:1
+    durability:
+      max_custom_durability: 512
+    specific_properties:
+      bow:
+        arrow_damage: 4
+    events:
+      bow_shot:
+        play_sound:
+          name: iaalchemy:item.astral_bow.shot
+          volume: 1
+          pitch: 1

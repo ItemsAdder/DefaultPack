@@ -1,0 +1,29 @@
+info:
+  namespace: iaalchemy
+items:
+  mysterious_ore:
+    enabled: true
+    display_name: display-name-mysterious_ore
+    permission: iaalchemy.items.mysterious_ore
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - block/mysterious_ore
+    specific_properties:
+      block:
+        hardness: 8
+        placed_model:
+          type: REAL_NOTE
+          break_particles_material: OBSIDIAN
+        cancel_drop: false
+        light_level: 9
+        break_tools_blacklist:
+          - WOODEN_PICKAXE
+          - STONE_PICKAXE
+          - IRON_PICKAXE
+        break_tools_whitelist:
+          - DIAMOND_PICKAXE
+          - PICKAXE
+          - pickaxe
+          - _hammer

@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    ruby_shovel:
+      permission: iasurvival.ruby_shovel
+      enabled: true
+      pattern:
+        - XRX
+        - XSX
+        - XSX
+      ingredients:
+        R: iasurvival:ruby
+        S: STICK
+      result:
+        item: iasurvival:ruby_shovel
+        amount: 1

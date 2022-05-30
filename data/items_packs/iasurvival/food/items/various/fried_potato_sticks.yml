@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  fried_potato_sticks:
+    enabled: true
+    display_name: display-name-fried_potato_sticks
+    permission: iasurvival.various.fried_potato_sticks
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/various/fried_potato_sticks
+    events:
+      eat:
+        feed:
+          amount: 2
+          saturation: 1

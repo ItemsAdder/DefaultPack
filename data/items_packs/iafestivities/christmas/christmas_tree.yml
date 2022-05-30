@@ -1,0 +1,16 @@
+info:
+  namespace: iafestivities
+items:
+  christmas_tree:
+    enabled: true
+    display_name: display-name-christmas_tree
+    permission: iafestivities.christmas.christmas_tree
+    resource:
+      material: PAPER
+      generate: false
+      model_path: christmas/christmas_tree
+    behaviours:
+      furniture:
+        gravity: false
+        fixed_rotation: false
+        light_level: 15

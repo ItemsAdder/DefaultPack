@@ -1,0 +1,12 @@
+info:
+  namespace: iaalchemy
+items:
+  astral_pickaxe:
+    enabled: true
+    display_name: display-name-astral_pickaxe
+    permission: iaalchemy.items.astral_pickaxe
+    resource:
+      material: DIAMOND_PICKAXE
+      generate: true
+      textures:
+        - item/astral_pickaxe

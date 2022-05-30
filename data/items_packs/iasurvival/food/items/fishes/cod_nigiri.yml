@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  cod_nigiri:
+    enabled: true
+    display_name: display-name-cod_nigiri
+    permission: iasurvival.fishes.cod_nigiri
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/fishes/cod_nigiri
+    events:
+      eat:
+        feed:
+          amount: 3
+          saturation: 2

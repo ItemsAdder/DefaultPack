@@ -1,0 +1,13 @@
+info:
+  namespace: iaalchemy
+font_images:
+  energy_extractor_left:
+    suggest_in_command: false
+    show_in_gui: false
+    path: gui/energy_extractor_left
+    y_position: 12
+  energy_extractor_right:
+    suggest_in_command: false
+    show_in_gui: false
+    path: gui/energy_extractor_right
+    y_position: 12

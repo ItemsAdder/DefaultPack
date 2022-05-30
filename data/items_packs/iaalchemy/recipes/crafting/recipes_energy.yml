@@ -1,0 +1,52 @@
+info:
+  namespace: iaalchemy
+recipes:
+  crafting_table:
+    energy_orb:
+      permission: iaalchemy.energy.energy_orb
+      enabled: true
+      pattern:
+        - XXX
+        - XGX
+        - XXX
+      ingredients:
+        G: iaalchemy:energy_capsule
+      result:
+        item: iaalchemy:energy_orb
+        amount: 64
+    energy_orb_1:
+      enabled: true
+      permission: iaalchemy.energy.energy_orb_1
+      pattern:
+        - XXX
+        - XSX
+        - XXX
+      ingredients:
+        S: iaalchemy:small_energy_capsule
+      result:
+        item: iaalchemy:energy_orb
+        amount: 8
+    small_energy_capsule:
+      permission: iaalchemy.energy.small_energy_capsule
+      enabled: true
+      pattern:
+        - GGG
+        - GXG
+        - GGG
+      ingredients:
+        G: iaalchemy:energy_orb
+      result:
+        item: iaalchemy:small_energy_capsule
+        amount: 1
+    energy_capsule:
+      permission: iaalchemy.energy.energy_capsule
+      enabled: true
+      pattern:
+        - GGG
+        - GXG
+        - GGG
+      ingredients:
+        G: iaalchemy:small_energy_capsule
+      result:
+        item: iaalchemy:energy_capsule
+        amount: 1

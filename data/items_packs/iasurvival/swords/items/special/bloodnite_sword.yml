@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  bloodnite_sword:
+    enabled: true
+    display_name: display-name-bloodnite_sword
+    permission: iasurvival.special.bloodnite_sword
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+        - item/swords/bloodnite_sword

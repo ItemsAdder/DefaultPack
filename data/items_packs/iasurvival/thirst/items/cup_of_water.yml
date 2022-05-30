@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  cup_of_water:
+    enabled: true
+    display_name: display-name-cup_of_water
+    permission: iasurvival.items.cup_of_water
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/thirst/cup_of_water

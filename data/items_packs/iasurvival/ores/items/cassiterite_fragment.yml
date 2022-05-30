@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  cassiterite_fragment:
+    enabled: true
+    display_name: display-name-cassiterite_fragment
+    permission: iasurvival.items.cassiterite_fragment
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+        - item/ores/cassiterite_fragment

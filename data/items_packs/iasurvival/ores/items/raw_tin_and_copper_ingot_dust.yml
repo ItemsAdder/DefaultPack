@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  raw_tin_and_copper_ingot_dust:
+    enabled: true
+    display_name: display-name-raw_tin_and_copper_ingot_dust
+    permission: iasurvival.items.raw_tin_and_copper_ingot_dust
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+        - item/ores/raw_tin_and_copper_ingot_dust

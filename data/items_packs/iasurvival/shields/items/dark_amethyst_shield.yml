@@ -1,0 +1,13 @@
+info:
+  namespace: iasurvival
+items:
+  dark_amethyst_shield:
+    enabled: true
+    display_name: display-name-dark_amethyst_shield
+    permission: iasurvival.items.dark_amethyst_shield
+    resource:
+      material: SHIELD
+      generate: false
+      model_path: item/shields/dark_amethyst_shield
+    durability:
+      max_custom_durability: 336

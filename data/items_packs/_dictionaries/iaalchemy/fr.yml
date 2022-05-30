@@ -1,0 +1,75 @@
+info:
+  namespace: iaalchemy
+  dictionary-lang: fr
+dictionary:
+  display-name-alchemy_candles: Bougie d''alchimie
+  display-name-arcane_ring: Anneau mystic
+  lore-1-arcane_ring: '&6[ &eEffet spécial &6]'
+  lore-2-arcane_ring: '&7Ramène à la vie'
+  display-name-astral_bow: Arc astral
+  display-name-astral_pickaxe: '&3Pioche astrale'
+  display-name-demoniac_hammer: '&4&lMarteau démoniaque'
+  lore-1-demoniac_hammer: '&7Reçois de l''exp en'
+  lore-2-demoniac_hammer: '&7cassant des blocs'
+  lore-3-demoniac_hammer: ''
+  lore-4-demoniac_hammer: '&bMines 3x3x3'
+  display-name-demoniac_pickaxe: '&4&lPioche démoniaque'
+  lore-1-demoniac_pickaxe: '&7Reçois de l''exp en'
+  lore-2-demoniac_pickaxe: '&7minant des blocs'
+  lore-3-demoniac_pickaxe: '&750% de chance.'
+  display-name-energy_orb: '&5Orbe d''énergie'
+  lore-1-energy_orb: '&7Obtenu auprès de l''extracteur d''énergie'
+  display-name-small_energy_capsule: '&dPetite capsule d''énergie'
+  lore-1-small_energy_capsule: '&7Contient &5Orbe d''énergie &fx8'
+  display-name-energy_capsule: '&6Capsule d''énergie'
+  lore-1-energy_capsule: '&7Contient &dPetite orbe d''énergie &fx8'
+  lore-2-energy_capsule: '&7(&5Orbe d''énergie &fx64&7)'
+  display-name-healing_crystals: Cristal de Soin
+  display-name-energy_converter: Convertisseur d'énergie
+  lore-1-energy_converter: '&7Utilisez-le pour convertir l''énergie'
+  lore-2-energy_converter: '&7en objets'
+  display-name-energy_extractor: Extracteur d'énergie
+  lore-1-energy_extractor: '&7Utilisez-le pour convertir des objets'
+  lore-2-energy_extractor: '&7en énergie'
+  display-name-mysterious_amulet: Amulette mystérieuse
+  display-name-mysterious_hood: Capuche mystérieuse
+  lore-1-mysterious_hood: '&6[ &eEffet spécial &6]'
+  lore-2-mysterious_hood: '&9Vision Nocturne (**:**)'
+  lore-3-mysterious_hood: '&9Malchance (**:**)'
+  display-name-mysterious_robe: Plastron mystérieux
+  display-name-mysterious_leggings: Jambières mystérieuses
+  display-name-mysterious_boots: Bottes mystérieuses
+  lore-1-mysterious_boots: '&6[ &eEffet spécial &6]'
+  lore-2-mysterious_boots: '&9Vitesse II (**:**)'
+  display-name-mysterious_artifact: Artéfact mystérieux
+  display-name-mysterious_book: Livre mystérieux
+  display-name-mysterious_book_decrypted: Livre mystérieux déchiffré
+  display-name-mysterious_material: Matériel mystérieux
+  display-name-mysterious_ore: Minerai mystérieux
+  display-name-mysterious_stone: Pierre mystérieuse
+  display-name-mysterious_sword: Épée mystérieuse
+  display-name-nether_alchemy_ore: Minerai de nether alchimique
+  display-name-philosopher_stone: Pierre philosophale
+  lore-1-philosopher_stone: '&6[ &eEffets spéciaux &6]'
+  lore-2-philosopher_stone: '&7Clic droit + SHIFT: '
+  lore-3-philosopher_stone: '   - &4Lave &7en &8Obsidienne'
+  lore-4-philosopher_stone: '   - &cCoquelicot &7en &ePissenlit'
+  lore-5-philosopher_stone: ' '
+  lore-6-philosopher_stone: '&7Clic droit: '
+  lore-7-philosopher_stone: '   - &eSable &7en &8Pierre'
+  lore-8-philosopher_stone: '   - &9Eau &7en &bGlace'
+  lore-9-philosopher_stone: '   - &ePissenlit &7en &cCoquelicot'
+  lore-10-philosopher_stone: '   - &2Pastèque &7en &6Citrouille'
+  lore-11-philosopher_stone: '   - &fVerre &7en &eSable'
+  lore-12-philosopher_stone: ' '
+  lore-13-philosopher_stone: '&7Recharge la dans la &fTable de craft'
+  lore-14-philosopher_stone: '&7dans le slot du milieu avec une &5Orbe d''énergie'
+  lore-15-philosopher_stone: '&7(ou autre contenant d''énergie) à droite'
+  display-name-diamonds_finder_potion: Potion de recherche de diamant
+  lore-1-diamonds_finder_potion: '&7Fait briller les minerais de diamant derrière d''autres blocs'
+  display-name-emeralds_finder_potion: Potion de recherche d'émeraude
+  lore-1-emeralds_finder_potion: '&7Fait briller les minerais d''émeraude derrière d''autres blocs'
+  display-name-strange_potion: Potion étrange
+  lore-1-strange_potion: '&7Une potion mystérieuse'
+  display-name-antidote: Antidote
+  lore-1-antidote: '&7Retire les effets de potion'

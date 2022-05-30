@@ -1,0 +1,52 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    ruby_helmet:
+      permission: iasurvival.ruby_armor.ruby_helmet
+      enabled: true
+      pattern:
+        - rrr
+        - rXr
+        - XXX
+      ingredients:
+        r: iasurvival:ruby
+      result:
+        item: iasurvival:ruby_helmet
+        amount: 1
+    ruby_chestplate:
+      permission: iasurvival.ruby_armor.ruby_chestplate
+      enabled: true
+      pattern:
+        - rXr
+        - rrr
+        - rrr
+      ingredients:
+        r: iasurvival:ruby
+      result:
+        item: iasurvival:ruby_chestplate
+        amount: 1
+    ruby_leggings:
+      permission: iasurvival.ruby_armor.ruby_leggings
+      enabled: true
+      pattern:
+        - rrr
+        - rXr
+        - rXr
+      ingredients:
+        r: iasurvival:ruby
+      result:
+        item: iasurvival:ruby_leggings
+        amount: 1
+    ruby_boots:
+      permission: iasurvival.ruby_armor.ruby_boots
+      enabled: true
+      pattern:
+        - XXX
+        - rXr
+        - rXr
+      ingredients:
+        r: iasurvival:ruby
+      result:
+        item: iasurvival:ruby_boots
+        amount: 1

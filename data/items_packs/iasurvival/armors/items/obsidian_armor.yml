@@ -1,0 +1,107 @@
+info:
+  namespace: iasurvival
+items:
+  obsidian_helmet:
+    enabled: true
+    display_name: display-name-obsidian_helmet
+    permission: iasurvival.items.obsidian_armor.obsidian_helmet
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 563
+    lore:
+      - lore-blocked-enchants
+      - lore-enchantment-mending
+      - lore-enchantment-protection
+    specific_properties:
+      armor:
+        slot: head
+        color: '4e3f7c'
+    blocked_enchants:
+      - MENDING
+      - PROTECTION_ENVIRONMENTAL
+    attribute_modifiers:
+      head:
+        armor: 5
+        armorToughness: 2
+        movementSpeed:
+          value: -0.1
+          operation: multiply_base
+  obsidian_chestplate:
+    enabled: true
+    display_name: display-name-obsidian_chestplate
+    permission: iasurvival.items.obsidian_armor.obsidian_chestplate
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 728
+    lore:
+      - lore-blocked-enchants
+      - lore-enchantment-mending
+      - lore-enchantment-protection
+    specific_properties:
+      armor:
+        slot: chest
+        color: '4e3f7c'
+    blocked_enchants:
+      - MENDING
+      - PROTECTION_ENVIRONMENTAL
+    attribute_modifiers:
+      chest:
+        armor: 9
+        armorToughness: 2
+        movementSpeed:
+          value: -0.1
+          operation: multiply_base
+  obsidian_leggings:
+    enabled: true
+    display_name: display-name-obsidian_leggings
+    permission: iasurvival.items.obsidian_armor.obsidian_leggings
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 695
+    lore:
+      - lore-blocked-enchants
+      - lore-enchantment-mending
+      - lore-enchantment-protection
+    specific_properties:
+      armor:
+        slot: legs
+        color: '4e3f7c'
+    blocked_enchants:
+      - MENDING
+      - PROTECTION_ENVIRONMENTAL
+    attribute_modifiers:
+      legs:
+        armor: 7
+        armorToughness: 2
+        movementSpeed:
+          value: -0.1
+          operation: multiply_base
+  obsidian_boots:
+    enabled: true
+    display_name: display-name-obsidian_boots
+    permission: iasurvival.items.obsidian_armor.obsidian_boots
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 629
+    lore:
+      - lore-blocked-enchants
+      - lore-enchantment-mending
+      - lore-enchantment-protection
+    specific_properties:
+      armor:
+        slot: FEET
+        color: '4e3f7c'
+    blocked_enchants:
+      - MENDING
+      - PROTECTION_ENVIRONMENTAL
+    attribute_modifiers:
+      feet:
+        armor: 4
+        armorToughness: 2
+        movementSpeed:
+          value: -0.1
+          operation: multiply_base

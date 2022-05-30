@@ -1,0 +1,19 @@
+info:
+  namespace: iaalchemy
+recipes:
+  anvil_repair:
+    demoniac_hammer:
+      enabled: true
+      permission: iaalchemy.demoniac_hammer
+      ingredient: iaalchemy:ruby
+      item: iaalchemy:demoniac_hammer
+    demoniac_pickaxe:
+      enabled: true
+      permission: iaalchemy.demoniac_pickaxe
+      ingredient: iaalchemy:ruby
+      item: iaalchemy:demoniac_pickaxe
+    astral_pickaxe:
+      enabled: true
+      permission: iaalchemy.astral_pickaxe
+      ingredient: EMERALD
+      item: iaalchemy:astral_pickaxe

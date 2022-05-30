@@ -1,0 +1,476 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    customization_table:
+      permission: iasurvival.machinery.customization_table
+      enabled: true
+      pattern:
+        - RGB
+        - XCX
+        - XXX
+      ingredients:
+        C: CRAFTING_TABLE
+        R: RED_DYE
+        G: GREEN_DYE
+        B: BLUE_DYE
+      result:
+        item: iasurvival:customization_table
+        amount: 1
+items:
+  customization_table:
+    enabled: true
+    display_name: display-name-customization_table
+    permission: iasurvival.machinery.customization_table
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - block/machinery/customization_table/bottom
+        - block/machinery/customization_table/side
+        - block/machinery/customization_table/front
+        - block/machinery/customization_table/front
+        - block/machinery/customization_table/top
+        - block/machinery/customization_table/side
+    specific_properties:
+      block:
+        placed_model:
+          type: REAL_NOTE
+          break_particles_material: SMITHING_TABLE
+    behaviours:
+      block_trade_machine:
+        title: Customization Table
+        gui_texture:
+          left: customization_table_left
+          right: customization_table_right
+          title_offset: -130
+        trades_list:
+          rusteroth_sword:
+            ingredients:
+              slot1:
+                item: DIAMOND_SWORD
+                amount: 1
+              slot2:
+                item: iasurvival:sword_skin_rusteroth
+                amount: 1
+            result:
+              item: iasurvival:rusteroth_sword
+              amount: 1
+          bloodnite_sword:
+            ingredients:
+              slot1:
+                item: DIAMOND_SWORD
+                amount: 1
+              slot2:
+                item: iasurvival:sword_skin_bloodnite
+                amount: 1
+            result:
+              item: iasurvival:bloodnite_sword
+              amount: 1
+          vyderlight_sword:
+            ingredients:
+              slot1:
+                item: DIAMOND_SWORD
+                amount: 1
+              slot2:
+                item: iasurvival:sword_skin_vyderlight
+                amount: 1
+            result:
+              item: iasurvival:vyderlight_sword
+              amount: 1
+          aqualight_sword:
+            ingredients:
+              slot1:
+                item: DIAMOND_SWORD
+                amount: 1
+              slot2:
+                item: iasurvival:sword_skin_aqualight
+                amount: 1
+            result:
+              item: iasurvival:aqualight_sword
+              amount: 1
+          black_fishing_rod:
+            ingredients:
+              slot1:
+                item: FISHING_ROD
+                amount: 1
+              slot2:
+                item: BLACK_DYE
+                amount: 1
+            result:
+              item: black_fishing_rod
+              amount: 1
+          red_fishing_rod:
+            ingredients:
+              slot1:
+                item: FISHING_ROD
+                amount: 1
+              slot2:
+                item: RED_DYE
+                amount: 1
+            result:
+              item: red_fishing_rod
+              amount: 1
+          green_fishing_rod:
+            ingredients:
+              slot1:
+                item: FISHING_ROD
+                amount: 1
+              slot2:
+                item: GREEN_DYE
+                amount: 1
+            result:
+              item: green_fishing_rod
+              amount: 1
+          blue_fishing_rod:
+            ingredients:
+              slot1:
+                item: FISHING_ROD
+                amount: 1
+              slot2:
+                item: BLUE_DYE
+                amount: 1
+            result:
+              item: blue_fishing_rod
+              amount: 1
+          purple_fishing_rod:
+            ingredients:
+              slot1:
+                item: FISHING_ROD
+                amount: 1
+              slot2:
+                item: PURPLE_DYE
+                amount: 1
+            result:
+              item: purple_fishing_rod
+              amount: 1
+          cyan_fishing_rod:
+            ingredients:
+              slot1:
+                item: FISHING_ROD
+                amount: 1
+              slot2:
+                item: CYAN_DYE
+                amount: 1
+            result:
+              item: cyan_fishing_rod
+              amount: 1
+          black_shears:
+            ingredients:
+              slot1:
+                item: SHEARS
+                amount: 1
+              slot2:
+                item: BLACK_DYE
+                amount: 1
+            result:
+              item: black_shears
+              amount: 1
+          red_shears:
+            ingredients:
+              slot1:
+                item: SHEARS
+                amount: 1
+              slot2:
+                item: RED_DYE
+                amount: 1
+            result:
+              item: red_shears
+              amount: 1
+          green_shears:
+            ingredients:
+              slot1:
+                item: SHEARS
+                amount: 1
+              slot2:
+                item: GREEN_DYE
+                amount: 1
+            result:
+              item: green_shears
+              amount: 1
+          blue_shears:
+            ingredients:
+              slot1:
+                item: SHEARS
+                amount: 1
+              slot2:
+                item: BLUE_DYE
+                amount: 1
+            result:
+              item: blue_shears
+              amount: 1
+          purple_shears:
+            ingredients:
+              slot1:
+                item: SHEARS
+                amount: 1
+              slot2:
+                item: PURPLE_DYE
+                amount: 1
+            result:
+              item: purple_shears
+              amount: 1
+          cyan_shears:
+            ingredients:
+              slot1:
+                item: SHEARS
+                amount: 1
+              slot2:
+                item: CYAN_DYE
+                amount: 1
+            result:
+              item: cyan_shears
+              amount: 1
+          black_bow:
+            ingredients:
+              slot1:
+                item: BOW
+                amount: 1
+              slot2:
+                item: BLACK_DYE
+                amount: 1
+            result:
+              item: black_bow
+              amount: 1
+          red_bow:
+            ingredients:
+              slot1:
+                item: BOW
+                amount: 1
+              slot2:
+                item: RED_DYE
+                amount: 1
+            result:
+              item: red_bow
+              amount: 1
+          green_bow:
+            ingredients:
+              slot1:
+                item: BOW
+                amount: 1
+              slot2:
+                item: GREEN_DYE
+                amount: 1
+            result:
+              item: green_bow
+              amount: 1
+          blue_bow:
+            ingredients:
+              slot1:
+                item: BOW
+                amount: 1
+              slot2:
+                item: BLUE_DYE
+                amount: 1
+            result:
+              item: blue_bow
+              amount: 1
+          purple_bow:
+            ingredients:
+              slot1:
+                item: BOW
+                amount: 1
+              slot2:
+                item: PURPLE_DYE
+                amount: 1
+            result:
+              item: purple_bow
+              amount: 1
+          cyan_bow:
+            ingredients:
+              slot1:
+                item: BOW
+                amount: 1
+              slot2:
+                item: CYAN_DYE
+                amount: 1
+            result:
+              item: cyan_bow
+              amount: 1
+          black_chandeliers:
+            ingredients:
+              slot1:
+                item: white_chandeliers
+                amount: 1
+              slot2:
+                item: BLACK_DYE
+                amount: 16
+            result:
+              item: black_chandeliers
+              amount: 1
+          black_and_red_chandeliers:
+            ingredients:
+              slot1:
+                item: black_chandeliers
+                amount: 1
+              slot2:
+                item: RED_DYE
+                amount: 16
+            result:
+              item: black_and_red_chandeliers
+              amount: 1
+          orage_go_cart:
+            ingredients:
+              slot1:
+                item: white_go_cart
+                amount: 1
+              slot2:
+                item: ORANGE_DYE
+                amount: 16
+            result:
+              item: orange_go_cart
+              amount: 1
+          magenta_go_cart:
+            ingredients:
+              slot1:
+                item: white_go_cart
+                amount: 1
+              slot2:
+                item: MAGENTA_DYE
+                amount: 16
+            result:
+              item: magenta_go_cart
+              amount: 1
+          light_blue_go_cart:
+            ingredients:
+              slot1:
+                item: white_go_cart
+                amount: 1
+              slot2:
+                item: LIGHT_BLUE_DYE
+                amount: 16
+            result:
+              item: light_blue_go_cart
+              amount: 1
+          yellow_go_cart:
+            ingredients:
+              slot1:
+                item: white_go_cart
+                amount: 1
+              slot2:
+                item: YELLOW_DYE
+                amount: 16
+            result:
+              item: yellow_go_cart
+              amount: 1
+          lime_go_cart:
+            ingredients:
+              slot1:
+                item: white_go_cart
+                amount: 1
+              slot2:
+                item: LIME_DYE
+                amount: 16
+            result:
+              item: lime_go_cart
+              amount: 1
+          pink_go_cart:
+            ingredients:
+              slot1:
+                item: white_go_cart
+                amount: 1
+              slot2:
+                item: PINK_DYE
+                amount: 16
+            result:
+              item: pink_go_cart
+              amount: 1
+          gray_go_cart:
+            ingredients:
+              slot1:
+                item: white_go_cart
+                amount: 1
+              slot2:
+                item: GRAY_DYE
+                amount: 16
+            result:
+              item: gray_go_cart
+              amount: 1
+          light_gray_go_cart:
+            ingredients:
+              slot1:
+                item: white_go_cart
+                amount: 1
+              slot2:
+                item: LIGHT_GRAY_DYE
+                amount: 16
+            result:
+              item: light_gray_go_cart
+              amount: 1
+          cyan_go_cart:
+            ingredients:
+              slot1:
+                item: white_go_cart
+                amount: 1
+              slot2:
+                item: CYAN_DYE
+                amount: 16
+            result:
+              item: cyan_go_cart
+              amount: 1
+          purple_go_cart:
+            ingredients:
+              slot1:
+                item: white_go_cart
+                amount: 1
+              slot2:
+                item: PURPLE_DYE
+                amount: 16
+            result:
+              item: purple_go_cart
+              amount: 1
+          blue_go_cart:
+            ingredients:
+              slot1:
+                item: white_go_cart
+                amount: 1
+              slot2:
+                item: BLUE_DYE
+                amount: 16
+            result:
+              item: blue_go_cart
+              amount: 1
+          brown_go_cart:
+            ingredients:
+              slot1:
+                item: white_go_cart
+                amount: 1
+              slot2:
+                item: BROWN_DYE
+                amount: 16
+            result:
+              item: brown_go_cart
+              amount: 1
+          green_go_cart:
+            ingredients:
+              slot1:
+                item: white_go_cart
+                amount: 1
+              slot2:
+                item: GREEN_DYE
+                amount: 16
+            result:
+              item: green_go_cart
+              amount: 1
+          red_go_cart:
+            ingredients:
+              slot1:
+                item: white_go_cart
+                amount: 1
+              slot2:
+                item: RED_DYE
+                amount: 16
+            result:
+              item: red_go_cart
+              amount: 1
+          black_go_cart:
+            ingredients:
+              slot1:
+                item: white_go_cart
+                amount: 1
+              slot2:
+                item: BLACK_DYE
+                amount: 16
+            result:
+              item: black_go_cart
+              amount: 1

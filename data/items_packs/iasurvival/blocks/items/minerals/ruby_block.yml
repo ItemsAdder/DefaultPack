@@ -1,0 +1,20 @@
+info:
+  namespace: iasurvival
+items:
+  ruby_block:
+    enabled: true
+    display_name: display-name-ruby_block
+    permission: iasurvival.minerals.ruby_block
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - block/minerals/ruby_block
+    specific_properties:
+      block:
+        placed_model:
+          type: REAL_NOTE
+          break_particles_material: REDSTONE_BLOCK
+        break_tools_whitelist:
+          - PICKAXE
+          - pickaxe

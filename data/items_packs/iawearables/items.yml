@@ -1,0 +1,297 @@
+info:
+  namespace: iawearables
+items:
+  deadmau5_hat:
+    enabled: true
+    display_name: display-name-deadmau5_hat
+    permission: iawearables.deadmau5_hat
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: hat/deadmau5_hat
+    behaviours:
+      hat: true
+    events:
+      block_break:
+        drop_exp:
+          chance: 50
+          min_amount: 1
+          max_amount: 3
+  top_hat:
+    enabled: true
+    display_name: display-name-top_hat
+    permission: iawearables.top_hat
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: hat/top_hat
+    behaviours:
+      hat: true
+  welding_mask:
+    enabled: true
+    display_name: display-name-welding_mask
+    permission: iawearables.welding_mask
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: hat/welding_mask
+    behaviours:
+      hat: true
+  mining_helmet:
+    enabled: true
+    display_name: display-name-mining_helmet
+    permission: iawearables.mining_helmet
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: hat/mining_helmet
+    behaviours:
+      hat: true
+  dog_mask:
+    enabled: true
+    display_name: display-name-dog_mask
+    permission: iawearables.dog_mask
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: hat/dog_mask
+    behaviours:
+      hat: true
+  ruby_pickaxe_hat:
+    enabled: true
+    display_name: display-name-ruby_pickaxe_hat
+    permission: iawearables.ruby_pickaxe_hat
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: hat/ruby_pickaxe_hat
+    behaviours:
+      hat: true
+  straw_hat:
+    enabled: true
+    display_name: display-name-straw_hat
+    permission: iawearables.straw_hat
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: hat/straw_hat
+    behaviours:
+      hat: true
+  cool_sunglasses:
+    enabled: true
+    display_name: display-name-cool_sunglasses
+    permission: iawearables.cool_sunglasses
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: hat/cool_sunglasses
+    behaviours:
+      hat: true
+  cigar:
+    enabled: true
+    display_name: display-name-cigar
+    permission: iawearables.cigar
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: hat/cigar
+    durability:
+      usages: 5
+    behaviours:
+      hat: true
+    events:
+      interact:
+        right:
+          play_effect:
+            name: SMOKE
+          play_sound:
+            name: iawearables:entity.creeper.primed
+            volume: 1
+            pitch: 1
+          decrement_usages:
+            amount: 1
+  glasses:
+    enabled: true
+    display_name: display-name-glasses
+    permission: iawearables.glasses
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: hat/glasses
+    behaviours:
+      hat: true
+  biker_helmet:
+    enabled: true
+    display_name: display-name-biker_helmet
+    permission: iawearables.biker_helmet
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: hat/biker_helmet
+    behaviours:
+      hat: true
+  cat_ears:
+    enabled: true
+    display_name: display-name-cat_ears
+    permission: iawearables.cat_ears
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: hat/cat_ears
+    behaviours:
+      hat: true
+  demoniac_red_wings:
+    enabled: true
+    display_name: display-name-demoniac_red_wings
+    permission: iawearables.demoniac_red_wings
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: back/demoniac_red_wings
+    behaviours:
+      hat: true
+  demoniac_turquoise_wings:
+    enabled: true
+    display_name: display-name-demoniac_turquoise_wings
+    permission: iawearables.demoniac_turquoise_wings
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: back/demoniac_turquoise_wings
+    behaviours:
+      hat: true
+  demoniac_purple_wings:
+    enabled: true
+    display_name: display-name-demoniac_purple_wings
+    permission: iawearables.demoniac_purple_wings
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: back/demoniac_purple_wings
+    behaviours:
+      hat: true
+  demoniac_blue_wings:
+    enabled: true
+    display_name: display-name-demoniac_blue_wings
+    permission: iawearables.demoniac_blue_wings
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: back/demoniac_blue_wings
+    behaviours:
+      hat: true
+  demoniac_black_wings:
+    enabled: true
+    display_name: display-name-demoniac_black_wings
+    permission: iawearables.demoniac_black_wings
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: back/demoniac_black_wings
+    behaviours:
+      hat: true
+  all_black_cat_tail:
+    enabled: true
+    display_name: display-name-all_black_cat_tail
+    permission: iawearables.all_black_cat_tail
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: back/all_black_cat_tail
+    behaviours:
+      hat: true
+  black_cat_tail:
+    enabled: true
+    display_name: display-name-black_cat_tail
+    permission: iawearables.black_cat_tail
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: back/black_cat_tail
+    behaviours:
+      hat: true
+  white_cat_tail:
+    enabled: true
+    display_name: display-name-white_cat_tail
+    permission: iawearables.white_cat_tail
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: back/white_cat_tail
+    behaviours:
+      hat: true
+  ender_dragon_wings:
+    enabled: true
+    display_name: display-name-ender_dragon_wings
+    permission: iawearables.ender_dragon_wings
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: back/ender_dragon_wings
+    behaviours:
+      hat: true
+    events:
+      interact:
+        right:
+          play_effect:
+            name: DRAGON_BREATH
+  red_backpack:
+    enabled: true
+    display_name: display-name-red_backpack
+    permission: iawearables.red_backpack
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: back/red_backpack
+    behaviours:
+      hat: true
+  turquoise_backpack:
+    enabled: true
+    display_name: display-name-turquoise_backpack
+    permission: iawearables.turquoise_backpack
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: back/turquoise_backpack
+    behaviours:
+      hat: true
+  purple_backpack:
+    enabled: true
+    display_name: display-name-purple_backpack
+    permission: iawearables.purple_backpack
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: back/purple_backpack
+    behaviours:
+      hat: true
+  blue_backpack:
+    enabled: true
+    display_name: display-name-blue_backpack
+    permission: iawearables.blue_backpack
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: back/blue_backpack
+    behaviours:
+      hat: true
+  black_backpack:
+    enabled: true
+    display_name: display-name-black_backpack
+    permission: iawearables.black_backpack
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: back/black_backpack
+    behaviours:
+      hat: true
+  brown_backpack:
+    enabled: true
+    display_name: display-name-brown_backpack
+    permission: iawearables.brown_backpack
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: back/brown_backpack
+    behaviours:
+      hat: true

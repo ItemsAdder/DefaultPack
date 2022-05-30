@@ -1,0 +1,75 @@
+info:
+  namespace: iaalchemy
+  dictionary-lang: es
+dictionary:
+  display-name-alchemy_candles: Velas de Alquimia
+  display-name-arcane_ring: Anillo Arcano
+  lore-1-arcane_ring: '&6[ &eEfectos Especiales &6]'
+  lore-2-arcane_ring: '&7Volver a la Vida'
+  display-name-astral_bow: Arco Astral
+  display-name-astral_pickaxe: '&3Pico Astral'
+  display-name-demoniac_hammer: '&4&lMazo Demoniaco'
+  lore-1-demoniac_hammer: '&7Dropea orbes de experiencia'
+  lore-2-demoniac_hammer: '&7cuando minas un bloque'
+  lore-3-demoniac_hammer: ''
+  lore-4-demoniac_hammer: '&bMina 3x3x3'
+  display-name-demoniac_pickaxe: '&4&lPico Demoniaco'
+  lore-1-demoniac_pickaxe: '&7El 750% de las veces'
+  lore-2-demoniac_pickaxe: '&7que minas'
+  lore-3-demoniac_pickaxe: '&dropea orbes de experiencia.'
+  display-name-energy_orb: '&5Orbe de Energía'
+  lore-1-energy_orb: '&7Obtenida de un Extractor de Energía'
+  display-name-small_energy_capsule: '&dCápsula de Energía Pequeña'
+  lore-1-small_energy_capsule: '&7Contiene &fx8 &5Orbes de Energía&f'
+  display-name-energy_capsule: '&6Cápsula de Energía'
+  lore-1-energy_capsule: '&7Contiene &fx8 &dCapsulas de Energía pequeñas&f'
+  lore-2-energy_capsule: '&7(&fx64 &5Orbes de Energía&7)'
+  display-name-healing_crystals: Cristales de Curación
+  display-name-energy_converter: Conversor de Enería
+  lore-1-energy_converter: '&7Usalo para convertir Energía'
+  lore-2-energy_converter: '&7en Items'
+  display-name-energy_extractor: Extractor de Energía
+  lore-1-energy_extractor: '&7Usalo para convertir Items'
+  lore-2-energy_extractor: '&7en Energía'
+  display-name-mysterious_amulet: Amuleto Misterioso
+  display-name-mysterious_hood: Caperuza Misteriosa
+  lore-1-mysterious_hood: '&6[ &eEfectos Especiales &6]'
+  lore-2-mysterious_hood: '&9Visión Nocturna (**:**)'
+  lore-3-mysterious_hood: '&9Mala Suerte (**:**)'
+  display-name-mysterious_robe: Pechera Misteriosa
+  display-name-mysterious_leggings: Pantalones Misteriosos
+  display-name-mysterious_boots: Botas Misteriosas
+  lore-1-mysterious_boots: '&6[ &eEfectos Especiales &6]'
+  lore-2-mysterious_boots: '&9Velocidad II (**:**)'
+  display-name-mysterious_artifact: Artefacto Misterioso
+  display-name-mysterious_book: Libro Misterioso
+  display-name-mysterious_book_decrypted: Libro Misterioso Descifrado
+  display-name-mysterious_material: Material Misterioso
+  display-name-mysterious_ore: Mena Misteriosa
+  display-name-mysterious_stone: Piedra Misteriosa
+  display-name-mysterious_sword: Espada Misteriosa
+  display-name-nether_alchemy_ore: Mena de Nether Alchemy
+  display-name-philosopher_stone: Piedra Filosofal
+  lore-1-philosopher_stone: '&6[ &eEfectos Especiales &6]'
+  lore-2-philosopher_stone: '&7Click Derecho + Shift: '
+  lore-3-philosopher_stone: '   - &4Lava &7a &8Obsidiana'
+  lore-4-philosopher_stone: '   - &cAmapola &7a &eDiente de León'
+  lore-5-philosopher_stone: ' '
+  lore-6-philosopher_stone: '&7Click Derecho: '
+  lore-7-philosopher_stone: '   - &eArena &7a &8Roca'
+  lore-8-philosopher_stone: '   - &9Agua &7a &bHielo'
+  lore-9-philosopher_stone: '   - &eDiente de León &7a &cAmapola'
+  lore-10-philosopher_stone: '   - &2Sandía &7a &6Calabaza'
+  lore-11-philosopher_stone: '   - &fVidrio &7a &eArena'
+  lore-12-philosopher_stone: ' '
+  lore-13-philosopher_stone: '&7Colocar en &fMesa de Crafteo &7para recargar&f'
+  lore-14-philosopher_stone: '&7centrar junto a un &5Orbe de Energía'
+  lore-15-philosopher_stone: '&7(u otras capsulas de energía) a su derecha'
+  display-name-diamonds_finder_potion: Poción Encuentra-Diamantes
+  lore-1-diamonds_finder_potion: '&7Resalta las Menas de Diamante a través de otros bloques'
+  display-name-emeralds_finder_potion: Poción Encuentra-Esmeraldas
+  lore-1-emeralds_finder_potion: '&7Resalta las Menas de Esmeralda a través de otros bloques'
+  display-name-strange_potion: Poción Extraña
+  lore-1-strange_potion: '&7Una Poción Misteriosa'
+  display-name-antidote: Antidoto
+  lore-1-antidote: '&7Quita el Efecto de la Poción'

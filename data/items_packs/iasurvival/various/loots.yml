@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+loots:
+  blocks:
+    oak_leaves:
+      type: OAK_LEAVES
+      items:
+        nest:
+          item: iasurvival:nest
+          min_amount: 1
+          max_amount: 2
+          chance: 3
+        eggs_nest:
+          item: iasurvival:eggs_nest
+          min_amount: 1
+          max_amount: 2
+          chance: 1

@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  aqua_aura:
+    enabled: true
+    display_name: display-name-aqua_aura
+    permission: iasurvival.items.aqua_aura
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+        - item/ores/aqua_aura

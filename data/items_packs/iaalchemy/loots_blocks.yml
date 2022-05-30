@@ -1,0 +1,19 @@
+info:
+  namespace: iaalchemy
+loots:
+  blocks:
+    mysterious_ore:
+      type: iaalchemy:mysterious_ore
+      exp:
+        exp_1:
+          min_amount: 4
+          max_amount: 8
+          chance: 100
+    nether_alchemy_ore:
+      type: iaalchemy:nether_alchemy_ore
+      items:
+        healing_crystals:
+          item: iaalchemy:healing_crystals
+          min_amount: 1
+          max_amount: 1
+          chance: 10

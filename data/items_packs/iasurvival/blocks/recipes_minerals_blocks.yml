@@ -1,0 +1,136 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    dark_amethyst:
+      permission: iasurvival.blocks.minerals_blocks.dark_amethyst
+      enabled: true
+      pattern:
+        - XXX
+        - XBX
+        - XXX
+      ingredients:
+        B: iasurvival:dark_amethyst_block
+      result:
+        item: iasurvival:dark_amethyst
+        amount: 9
+    aqua_aura:
+      permission: iasurvival.blocks.minerals_blocks.aqua_aura
+      enabled: true
+      pattern:
+        - XXX
+        - XBX
+        - XXX
+      ingredients:
+        B: iasurvival:aqua_aura_block
+      result:
+        item: iasurvival:aqua_aura
+        amount: 9
+    dark_amethyst_prism_block:
+      permission: iasurvival.blocks.minerals_blocks.dark_amethyst_prism_block
+      enabled: true
+      pattern:
+        - MMM
+        - MMM
+        - MMM
+      ingredients:
+        M: iasurvival:dark_amethyst_prism
+      result:
+        item: iasurvival:dark_amethyst_prism_block
+        amount: 1
+    dark_amethyst_block:
+      permission: iasurvival.blocks.minerals_blocks.dark_amethyst_block
+      enabled: true
+      pattern:
+        - MMM
+        - MMM
+        - MMM
+      ingredients:
+        M: iasurvival:dark_amethyst
+      result:
+        item: iasurvival:dark_amethyst_block
+        amount: 1
+    aqua_aura_block:
+      permission: iasurvival.blocks.minerals_blocks.aqua_aura_block
+      enabled: true
+      pattern:
+        - MMM
+        - MMM
+        - MMM
+      ingredients:
+        M: iasurvival:aqua_aura
+      result:
+        item: iasurvival:aqua_aura_block
+        amount: 1
+    turquoise_block:
+      permission: iasurvival.blocks.minerals_blocks.turquoise_block
+      enabled: true
+      pattern:
+        - MMM
+        - MMM
+        - MMM
+      ingredients:
+        M: iasurvival:turquoise
+      result:
+        item: iasurvival:turquoise_block
+        amount: 1
+    spinel_block:
+      permission: iasurvival.blocks.minerals_blocks.spinel_block
+      enabled: true
+      pattern:
+        - MMM
+        - MMM
+        - MMM
+      ingredients:
+        M: iasurvival:spinel
+      result:
+        item: iasurvival:spinel_block
+        amount: 1
+    crystal_block:
+      permission: iasurvival.blocks.minerals_blocks.crystal_block
+      enabled: true
+      pattern:
+        - MMM
+        - MMM
+        - MMM
+      ingredients:
+        M: iasurvival:crystal
+      result:
+        item: iasurvival:crystal_block
+        amount: 1
+    ruby_block:
+      permission: iasurvival.blocks.minerals_blocks.ruby_block
+      enabled: true
+      pattern:
+        - MMM
+        - MMM
+        - MMM
+      ingredients:
+        M: iasurvival:ruby
+      result:
+        item: iasurvival:ruby_block
+        amount: 1
+    cassiterite_block:
+      permission: iasurvival.blocks.minerals_blocks.cassiterite_block
+      enabled: true
+      pattern:
+        - MMM
+        - MMM
+        - MMM
+      ingredients:
+        M: iasurvival:ruby
+      result:
+        item: iasurvival:cassiterite_block
+        amount: 1
+    cassiterite:
+      permission: iasurvival.blocks.minerals_blocks.cassiterite
+      enabled: true
+      pattern:
+        - XXX
+        - XBX
+        - XXX
+      ingredients:
+        B: iasurvival:cassiterite_block
+      result:
+        item: iasurvival:cassiterite
+        amount: 9

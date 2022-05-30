@@ -1,0 +1,103 @@
+attribute-armor: '&9+{value} Zbroj'
+attribute-toughness: '&9+{value} Tvrdost zbroje'
+attribute-attack-damage: ' &2{value} Síla útoku'
+attribute-attack-speed: ' &2{value} Rychlost útoku'
+attribute-when-in-main-hand: '&7V hlavní ruce:'
+attribute-when-in-off-hand: "&7When in Off Hand:"
+attribute-when-on-body: '&7Na hrudi:'
+attribute-when-on-feet: '&7Na nohou:'
+attribute-when-on-head: '&7Na hlavě:'
+attribute-when-on-legs: '&7Na kalhotech:'
+cannot-break-with-this-tool: '&cS tímto nástrojem nemůžeš tohle ničit.'
+cannot-repair: '&cTento předmět nemůže být opraven'
+repaired-successfully: '&aPředmět byl úspěšně opraven!'
+cannot-set-durability: '&cVýdrž předmětu nelze nastavit!'
+set-durability-successfully: '&aVýdrž předmětu úspěšně nastavena!'
+crafting-no-recipe: '&ePro tento předmět neexistuje žádný recept.'
+given-item: '&aHráč &e{player} &aobdržel &e{item}'
+removed-item: "&aRemoved item &e{item} &afrom &e{player}"
+lost-item: "&aYou lost item &e{item}"
+item-not-found: '&cPředmět &3{item} &cneexistuje!'
+items-count: '&bPočet předmětů: &a{count}'
+lore-usages: '&7Počet použití: {value}'
+lore-durability: '&7Výdrž předmětu: {value} / {max}'
+model-id: '&bID Modelu: {value}'
+name-config: '&bJméno v (config.yml): '
+no-craft-permission: '&eNemáš dostatečná práva pro výrobu toho předmětu!'
+no-permission: '&cNemáš dostatečná práva pro použití tohoto příkazu!'
+no-permission-detail: '&cNemáš práva &e{permission}'
+no-permission-short: '&cNedostatečná práva'
+now-playing: '&fNyní se přehrává: {value}'
+obtained-item: '&aObdržen předmět &e{item}'
+dropped-item-coords: "&aDropped &e{item} &aat coords {coords}"
+dropped-item-player: "&aDropped &e{item} &aat player {player}"
+player-full-inventory: '&cInventář hráče je plný!'
+player-offline: '&eTento hráč není online'
+prefix: '[ItemsAdder] '
+resourcepack-error: '&4Serverové textury se nepodařilo načíst. Kontaktuj členy teamu!'
+resourcepack-kick-declined: '&4Musíš příjmout textury serveru! Ujisti se že je máš ve výběru serveru povoleny!'
+resourcepack-popup-message: "&6Welcome &b{player}, &6please accept the resourcepack to enjoy all the amazing features of our server.\n
+&aYou need to download it only once."
+wrong-command-usage: '&cŠpatné použití příkazu'
+emoji-gui-title: '&3&lEmoji seznam'
+map-death-location: Lokace smrti
+fuel-indicator: '&b&lPalivo: {value}/{max}'
+get-from-trade-machine: '&fZískatelné z obchodovacích strojů'
+ia-button-worlds-populators: '&fInformace o spawnu rudy'
+worlds: '&bSvěty:'
+info: '&bInfo:'
+chance: '&f   Šance: &7{value}%'
+amount: '&f   Počet: &7{value}'
+min-height: '&f   Min. výška: &7{value}'
+max-height: '&f   Max. výška: &7{value}'
+biome: "&f   Biome:"
+drops-itself: '&e   '
+fuel-item: '    &b{type} &7+{amount}'
+iarecipe-wrong-usage: '&cŠpatné použití příkazu. Správné použití: &e/iarecipe <item name>&c,
+  &anebo drž předmět v ruce'
+iarecipe-no-custom-item: '&cTento předmět není z ItemAdderu! Podrž předmět z ItemAdderu &anebo použíj příkaz: &e/iarecipe <item name>'
+anvil-repair-info: '&fPředmět pro opravu v kovadlině'
+ia-title-menu-categories: '&3&lKategorie'
+ia-title-recipe-view: '&3&lUkázat recept'
+ia-button-search: '&fHledat...'
+ia-button-back: '&fZpět'
+ia-button-next-page: '&fDalší strana->'
+ia-button-previous-page: '&f<-Předchozí strana'
+ia-button-next-recipe: '&fDalší recept'
+ia-button-previous-recipe: '&fPředchozí recept'
+ia-search-results: 'Zobrazit výsledky'
+ia-smeling: '&fVypékání'
+ia-smelting: '&fUpravit předmět'
+ia-button-get-item: '&fVzít předmět'
+ia-vanilla-type: '&fVanilla type'
+ia-model-id: '&fID Modelu'
+ia-title-crafting-view: '&fHlavní menu'
+player-stat-value-read: '&eHodnota: &b{value}'
+player-stat-value-write: '&eHodnota změněna!'
+ia-button-loot-blocks: '&fLze získat z bloků'
+ia-button-loot-mobs: '&fLze získat z monster'
+ia-button-loot-fishing: '&fLze získat rybařením'
+ia-button-vehicle-fuel-items: '&ePaliva'
+ia-button-seed-result: '&fZe semen'
+nbt-rule: '&f   {rule}: &7{value}'
+resourcepack-not-ready: '&6Textury serveru nejsou připraveny, aktivují se za pár vteřin...'
+tripwires-disabled: "&cTripwires are disabled on this server."
+font-image-chat-hover: "&fEmoji: {font_image}
+\nUsage: &7{placeholder}
+\n\n&eHINT:
+\n&7You can use the &e/e &7command to send public
+\nmessages/commands with emojis easier.
+\nWrite the emoji name and press &eTAB.
+\n
+\nExamples:
+\n&e/e Hello smile
+\n&7prints &fHello :smile:
+\n
+\n&e/e /tell Notch Hello smile
+\n&7sends the command &f/tell Notch Hello :smile:"
+ia-button-surface-decorators: "&fSpawn info"
+ia-button-trees-populators: "&fSpawn info"
+please-wait-command-cooldown: '&cPlease wait &6{interval} &cto use this command.'
+renamed-successfully: '&aItem renamed successfully!'
+cannot-rename: '&cThis item cannot be renamed'
+entity-not-found: '&cCan''t find custom entity &6{entity}'

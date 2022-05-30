@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  dark_amethyst_shovel:
+    enabled: true
+    display_name: display-name-dark_amethyst_shovel
+    permission: iasurvival.items.dark_amethyst_shovel
+    resource:
+      material: DIAMOND_SHOVEL
+      generate: true
+      textures:
+        - item/tools/dark_amethyst_shovel

@@ -1,0 +1,31 @@
+info:
+  namespace: iawearables
+  dictionary-lang: it
+dictionary:
+  display-name-deadmau5_hat: '&9deadmau5_hat'
+  display-name-top_hat: Cappello a cilindro
+  display-name-welding_mask: Maschera per saldatura
+  display-name-mining_helmet: Casco da miniera
+  display-name-dog_mask: Maschera da cane
+  display-name-ruby_pickaxe_hat: Cappello a forma di Piccone di rubino
+  display-name-straw_hat: Cappello di paglia
+  display-name-cool_sunglasses: Occhiali da sole cool
+  display-name-cigar: Sigaro
+  display-name-glasses: Occhiali
+  display-name-biker_helmet: Casco da motociclista
+  display-name-cat_ears: Orecchie da gatto
+  display-name-demoniac_red_wings: Ali demoniache rosse
+  display-name-demoniac_turquoise_wings: Ali demoniache turchese
+  display-name-demoniac_purple_wings: Ali demoniache viola
+  display-name-demoniac_blue_wings: Ali demoniache blu
+  display-name-demoniac_black_wings: Ali demoniache nere
+  display-name-all_black_cat_tail: Coda da gatto tutta nera
+  display-name-black_cat_tail: Coda da gatto nera
+  display-name-white_cat_tail: Coda da gatto bianca
+  display-name-ender_dragon_wings: Ali di Ender Dragon
+  display-name-red_backpack: Zaino rosso
+  display-name-turquoise_backpack: Zaino turchese
+  display-name-purple_backpack: Zaino viola
+  display-name-blue_backpack: Zaino blu
+  display-name-black_backpack: Zaino nero
+  display-name-brown_backpack: Zaino marrone

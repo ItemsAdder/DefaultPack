@@ -1,0 +1,13 @@
+info:
+  namespace: iafestivities
+items:
+  dark_jack_o_lantern_backpack:
+    enabled: true
+    display_name: display-name-dark_jack_o_lantern_backpack
+    permission: iafestivities.halloween.dark_jack_o_lantern_backpack
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: halloween/dark_jack_o_lantern_backpack
+    behaviours:
+      hat: true

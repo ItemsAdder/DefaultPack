@@ -1,0 +1,73 @@
+info:
+  namespace: iadeco
+  dictionary-lang: fr
+dictionary:
+  display-name-white_bar_chair: Chaise de bar blanche
+  display-name-orange_bar_chair: Chaise de bar orange
+  display-name-magenta_bar_chair: Chaise de bar magenta
+  display-name-light_blue_bar_chair: Chaise de bar bleu clair
+  display-name-yellow_bar_chair: Chaise de bar jaune
+  display-name-lime_bar_chair: Chaise de bar vert citron
+  display-name-pink_bar_chair: Chaise de bar rose
+  display-name-gray_bar_chair: Chaise de bar grise
+  display-name-light_gray_bar_chair: Chaise de bar gris clair
+  display-name-cyan_bar_chair: Chaise de bar cyan
+  display-name-purple_bar_chair: Chaise de bar violette
+  display-name-blue_bar_chair: Chaise de bar bleue
+  display-name-brown_bar_chair: Chaise de bar marron
+  display-name-green_bar_chair: Chaise de bar verte
+  display-name-red_bar_chair: Chaise de bar rouge
+  display-name-black_bar_chair: Chaise de bar noire
+  display-name-computer_chair: Chaise d'ordinateur
+  lore-chair: '&7Clic droit pour s''asseoir'
+  display-name-school_chair: Chaise d'écolier
+  display-name-school_chair_lazy: Chaise d'écolier faignant
+  display-name-simple_chair: Chaise simple
+  display-name-white_chair: Chaise blanche
+  display-name-white_wood_chair: Chaise en bois blanche
+  display-name-orange_wood_chair: Chaise en bois orange
+  display-name-magenta_wood_chair: Chaise en bois magenta
+  display-name-light_blue_wood_chair: Chaise en bois bleu clair
+  display-name-yellow_wood_chair: Chaise en bois jaune
+  display-name-lime_wood_chair: Chaise en bois vert citron
+  display-name-pink_wood_chair: Chaise en bois rose
+  display-name-gray_wood_chair: Chaise en bois grise
+  display-name-light_gray_wood_chair: Chaise en bois gris clair
+  display-name-cyan_wood_chair: Chaise en bois cyan
+  display-name-purple_wood_chair: Chaise en bois violette
+  display-name-blue_wood_chair: Chaise en bois bleu
+  display-name-brown_wood_chair: Chaise en bois marron
+  display-name-green_wood_chair: Chaise en bois verte
+  display-name-red_wood_chair: Chaise en bois rouge
+  display-name-black_wood_chair: Chaise en bois noire
+  display-name-white_chandeliers: Chandelier blanc
+  display-name-black_chandeliers: Chandelier noir
+  display-name-black_and_red_chandeliers: Chandelier noir et rouge
+  display-name-coffee_machine: Machine à café
+  lore-1-coffee_machine: '&7Fait un très bon café'
+  display-name-computer_desk: Bureau avec ordinateur
+  lore-decorative-item: '&7Objet décoratif'
+  display-name-dark_throne: Trône sombre
+  display-name-glass_table: Table en verre
+  display-name-lamp: Lampe
+  display-name-lava_lamp: Lampe à lave
+  display-name-lit_campfire: Feu de camp allumé
+  display-name-mini_fridge: Mini frigo
+  display-name-monitor: Ordinateur
+  display-name-old_clock: Vieille horloge
+  display-name-opened_chest: Coffre ouvert
+  display-name-painting_burst: Peinture explosion
+  display-name-painting_courbet: Peinture courbet
+  display-name-painting_graham: Peinture graham
+  display-name-painting_match: Peinture match
+  display-name-painting_pool: Peinture piscine
+  display-name-painting_skull_and_roses: Peinture tête et roses
+  display-name-painting_stage: Peinture étage
+  display-name-painting_void: Peinture néant
+  display-name-painting_wanderer: Peinture randonneur
+  display-name-small_fountain: Petite fontaine
+  display-name-table: Table
+  display-name-tv: TV
+  display-name-vending_machine: Distributeur
+  lore-1-vending_machine: '&7Utilisez-le pour obtenir des articles sympas'
+  display-name-cut_spruce_log: Bois de sapin découpé

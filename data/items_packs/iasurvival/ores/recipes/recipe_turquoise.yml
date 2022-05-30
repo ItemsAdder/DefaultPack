@@ -1,0 +1,16 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    turquoise:
+      permission: iasurvival.turquoise
+      enabled: true
+      pattern:
+        - XXX
+        - XBX
+        - XXX
+      ingredients:
+        B: iasurvival:turquoise_block
+      result:
+        item: iasurvival:turquoise
+        amount: 9

@@ -1,0 +1,26 @@
+info:
+  namespace: iasurvival
+items:
+  letter:
+    enabled: true
+    display_name: display-name-letter
+    permission: iasurvival.items.books.letter
+    resource:
+      material: WRITABLE_BOOK
+      generate: true
+      textures:
+        - item/other/letter
+    events:
+      book_write:
+        replace_properties:
+          custom_model_data:
+            copy_from_item: iasurvival:letter_written_letter
+  letter_written_letter:
+    enabled: true
+    display_name: display-name-letter_written_letter
+    resource:
+      material: WRITTEN_BOOK
+      generate: true
+      textures:
+        - item/other/written_letter
+    permission: iasurvival.items.books.letter_written_letter

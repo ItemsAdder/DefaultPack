@@ -1,0 +1,25 @@
+info:
+  namespace: iaalchemy
+recipes:
+  crafting_table:
+    arcane_ring:
+      permission: iaalchemy.arcane_ring
+      enabled: true
+      pattern:
+        - XXX
+        - XPD
+        - XTX
+      ingredients:
+        P: iaalchemy:philosopher_stone
+        D: DIAMOND
+        T: TOTEM_OF_UNDYING
+      result:
+        item: iaalchemy:arcane_ring
+        amount: 1
+      return_items:
+        decrement_durability:
+          philosopher_stone:
+            item: philosopher_stone
+            amount: 8
+        replace:
+          DIAMOND: crystal

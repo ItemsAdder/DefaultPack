@@ -1,0 +1,18 @@
+info:
+  namespace: iafestivities
+  dictionary-lang: en
+dictionary:
+  display-name-christmas_candle: Christmas Candle
+  display-name-christmas_tree: Christmas Tree
+  display-name-christmas_wreath: Christmas Wreath
+  display-name-decorative_candy_cane: Decorative Candy Cane
+  display-name-santa_hat: '&cSanta Hat'
+  display-name-axe_hat: Axe Hat
+  display-name-bat_wings: Bat Wings
+  display-name-bones_backpack: Bones &fBackpack
+  display-name-cave_spider_backpack: Cave Spider &fBackpack
+  display-name-dark_jack_o_lantern_backpack: '&4Dark &6Jack o''Lantern &fBackpack'
+  display-name-decorative_pumpkin: Decorative Pumpkin
+  display-name-jack_o_lantern_backpack: '&6Jack o''Lantern &fBackpack'
+  display-name-spider_backpack: Spider &fBackpack
+  display-name-witch_hat: Witch Hat

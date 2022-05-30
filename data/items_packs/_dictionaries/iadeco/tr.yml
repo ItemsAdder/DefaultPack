@@ -1,0 +1,73 @@
+info:
+  namespace: iadeco
+  dictionary-lang: tr
+dictionary:
+  display-name-white_bar_chair: Beyaz Bar Sandalyesi
+  display-name-orange_bar_chair: Orange Bar Sandalyesi
+  display-name-magenta_bar_chair: Magenta Bar Sandalyesi
+  display-name-light_blue_bar_chair: Açık Mavi Bar Sandalyesi
+  display-name-yellow_bar_chair: Sarı Bar Sandalyesi
+  display-name-lime_bar_chair: Lime Bar Sandalyesi
+  display-name-pink_bar_chair: Pembe Bar Sandalyesi
+  display-name-gray_bar_chair: Gri Bar Sandalyesi
+  display-name-light_gray_bar_chair: Açık Gri Bar Sandalyesi
+  display-name-cyan_bar_chair: Camgöbeği Bar Sandalyesi
+  display-name-purple_bar_chair: Purple Bar Sandalyesi
+  display-name-blue_bar_chair: Mavi Bar Sandalyesi
+  display-name-brown_bar_chair: Kahverengi Bar Sandalyesi
+  display-name-green_bar_chair: Yeşil Bar Sandalyesi
+  display-name-red_bar_chair: Kırmızı Bar Sandalyesi
+  display-name-black_bar_chair: Siyah Bar Sandalyesi
+  display-name-computer_chair: Bilgisayar sandalyesi
+  lore-chair: '&7Oturmak için sağ tıklayın'
+  display-name-school_chair: Okul sandalyesi
+  display-name-school_chair_lazy: Okul Koltuğu Tembel
+  display-name-simple_chair: Basit Sandalye
+  display-name-white_chair: Beyaz sandalye
+  display-name-white_wood_chair: Beyaz Ahşap Sandalye
+  display-name-orange_wood_chair: Orange Ahşap Sandalye
+  display-name-magenta_wood_chair: Eflatun Ahşap Sandalye
+  display-name-light_blue_wood_chair: Açık Mavi Ahşap Sandalye
+  display-name-yellow_wood_chair: Sarı Ahşap Sandalye
+  display-name-lime_wood_chair: Kireç Ahşap Sandalye
+  display-name-pink_wood_chair: Pembe Ahşap Sandalye
+  display-name-gray_wood_chair: Gri Ahşap Sandalye
+  display-name-light_gray_wood_chair: Açık Gri Ahşap Sandalye
+  display-name-cyan_wood_chair: Cyan Ahşap Sandalye
+  display-name-purple_wood_chair: Mor Ahşap Sandalye
+  display-name-blue_wood_chair: Mavi Ahşap Sandalye
+  display-name-brown_wood_chair: Kahverengi Ahşap Sandalye
+  display-name-green_wood_chair: Yeşil Ahşap Sandalye
+  display-name-red_wood_chair: Kırmızı Ahşap Sandalye
+  display-name-black_wood_chair: Siyah Ahşap Sandalye
+  display-name-white_chandeliers: Beyaz Avizeler
+  display-name-black_chandeliers: Siyah Avizeler
+  display-name-black_and_red_chandeliers: Siyah ve Kırmızı Avizeler
+  display-name-coffee_machine: Kahve makinesi
+  lore-1-coffee_machine: '&7Gerçekten iyi bir kahve yapar'
+  display-name-computer_desk: Bilgisayarlı çalışma masası
+  lore-decorative-item: '&7Dekoratif eşya'
+  display-name-dark_throne: Kara taht
+  display-name-glass_table: Cam masa
+  display-name-lamp: Lamba
+  display-name-lava_lamp: Lav lambası
+  display-name-lit_campfire: Kamp ateşi yaktı
+  display-name-mini_fridge: Mini buzdolabı
+  display-name-monitor: Monitör
+  display-name-old_clock: Eski saat
+  display-name-opened_chest: Açılmış göğüs
+  display-name-painting_burst: Boyama
+  display-name-painting_courbet: Boyama
+  display-name-painting_graham: Boyama
+  display-name-painting_match: Boyama
+  display-name-painting_pool: Boyama
+  display-name-painting_skull_and_roses: Boyama
+  display-name-painting_stage: Boyama
+  display-name-painting_void: Boyama
+  display-name-painting_wanderer: Boyama
+  display-name-small_fountain: Küçük Çeşme
+  display-name-table: Tablo
+  display-name-tv: Televizyon
+  display-name-vending_machine: Otomat
+  lore-1-vending_machine: '&7Havalı eşyalar elde etmek için kullanın'
+  display-name-cut_spruce_log: Ladin Günlüğü Kes

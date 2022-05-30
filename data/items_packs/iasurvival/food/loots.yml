@@ -1,0 +1,76 @@
+info:
+  namespace: iasurvival
+loots:
+  blocks:
+    jungle_leaves:
+      type: JUNGLE_LEAVES
+      items:
+        banana:
+          item: iasurvival:banana
+          min_amount: 1
+          max_amount: 2
+          chance: 10
+    birch_leaves:
+      type: BIRCH_LEAVES
+      items:
+        pear:
+          item: iasurvival:pear
+          min_amount: 1
+          max_amount: 5
+          chance: 5
+  fishing:
+    loot_blue_parrotfish:
+      items:
+        item_1:
+          item: iasurvival:blue_parrotfish
+          min_amount: 1
+          max_amount: 1
+          chance: 5
+      biomes:
+        - WARM_OCEAN
+        - DEEP_WARM_OCEAN
+        - LUKEWARM_OCEAN
+    loot_green_sunfish:
+      items:
+        item_1:
+          item: iasurvival:green_sunfish
+          min_amount: 1
+          max_amount: 1
+          chance: 5
+      biomes:
+        - WARM_OCEAN
+        - DEEP_WARM_OCEAN
+        - LUKEWARM_OCEAN
+    loot_goldfish:
+      items:
+        item_1:
+          item: iasurvival:goldfish
+          min_amount: 1
+          max_amount: 1
+          chance: 5
+      biomes:
+        - WARM_OCEAN
+        - DEEP_WARM_OCEAN
+        - LUKEWARM_OCEAN
+    loot_black_moor_goldfish:
+      items:
+        item_1:
+          item: iasurvival:black_moor_goldfish
+          min_amount: 1
+          max_amount: 1
+          chance: 7
+      biomes:
+        - WARM_OCEAN
+        - DEEP_WARM_OCEAN
+        - LUKEWARM_OCEAN
+    loot_tuna:
+      items:
+        item_1:
+          item: iasurvival:tuna
+          min_amount: 1
+          max_amount: 1
+          chance: 5
+      biomes:
+        - OCEAN
+        - COLD_OCEAN
+        - DEEP_COLD_OCEAN

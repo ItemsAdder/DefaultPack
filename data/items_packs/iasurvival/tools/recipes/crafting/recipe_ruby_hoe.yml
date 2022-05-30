@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    ruby_hoe:
+      permission: iasurvival.ruby_hoe
+      enabled: true
+      pattern:
+        - RRX
+        - XSX
+        - XSX
+      ingredients:
+        R: iasurvival:ruby
+        S: STICK
+      result:
+        item: iasurvival:ruby_hoe
+        amount: 1

@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  dark_amethyst_sword:
+    enabled: true
+    display_name: display-name-dark_amethyst_sword
+    permission: iasurvival.items.dark_amethyst_sword
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+        - item/swords/dark_amethyst_sword
+    durability:
+      max_custom_durability: 1024
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 6.5

@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  crystal:
+    enabled: true
+    display_name: display-name-crystal
+    permission: iasurvival.items.crystal
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+        - item/ores/crystal

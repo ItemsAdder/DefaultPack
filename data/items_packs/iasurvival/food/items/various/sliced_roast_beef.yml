@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  sliced_roast_beef:
+    enabled: true
+    display_name: display-name-sliced_roast_beef
+    permission: iasurvival.various.sliced_roast_beef
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/various/sliced_roast_beef
+    events:
+      eat:
+        feed:
+          amount: 2
+          saturation: 1

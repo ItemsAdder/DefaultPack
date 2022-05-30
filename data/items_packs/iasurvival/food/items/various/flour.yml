@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  flour:
+    enabled: true
+    display_name: display-name-flour
+    permission: iasurvival.various.flour
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/food/various/flour

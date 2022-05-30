@@ -1,0 +1,57 @@
+info:
+  namespace: iasurvival
+items:
+  black_fishing_rod:
+    enabled: true
+    display_name: display-name-black_fishing_rod
+    permission: iasurvival.items.fishing_rods.black_fishing_rod
+    resource:
+      material: FISHING_ROD
+      generate: true
+      textures:
+        - item/fishing_rods/black_fishing_rod
+  red_fishing_rod:
+    enabled: true
+    display_name: display-name-red_fishing_rod
+    permission: iasurvival.items.fishing_rods.red_fishing_rod
+    resource:
+      material: FISHING_ROD
+      generate: true
+      textures:
+        - item/fishing_rods/red_fishing_rod
+  green_fishing_rod:
+    enabled: true
+    display_name: display-name-green_fishing_rod
+    permission: iasurvival.items.fishing_rods.green_fishing_rod
+    resource:
+      material: FISHING_ROD
+      generate: true
+      textures:
+        - item/fishing_rods/green_fishing_rod
+  blue_fishing_rod:
+    enabled: true
+    display_name: display-name-blue_fishing_rod
+    permission: iasurvival.items.fishing_rods.blue_fishing_rod
+    resource:
+      material: FISHING_ROD
+      generate: true
+      textures:
+        - item/fishing_rods/blue_fishing_rod
+  purple_fishing_rod:
+    enabled: true
+    display_name: display-name-purple_fishing_rod
+    permission: iasurvival.items.fishing_rods.purple_fishing_rod
+    resource:
+      material: FISHING_ROD
+      generate: true
+      textures:
+        - item/fishing_rods/purple_fishing_rod
+  cyan_fishing_rod:
+    enabled: true
+    display_name: display-name-cyan_fishing_rod
+    permission: iasurvival.items.fishing_rods.cyan_fishing_rod
+    resource:
+      material: FISHING_ROD
+      generate: true
+      textures:
+        - item/fishing_rods/cyan_fishing_rod

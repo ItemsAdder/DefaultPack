@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  cheese:
+    enabled: true
+    display_name: display-name-cheese
+    permission: iasurvival.various.cheese
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/various/cheese
+    events:
+      eat:
+        feed:
+          amount: 8
+          saturation: 3

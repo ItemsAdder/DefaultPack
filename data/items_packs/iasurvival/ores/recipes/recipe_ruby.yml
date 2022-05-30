@@ -1,0 +1,16 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    ruby:
+      permission: iasurvival.ruby
+      enabled: true
+      pattern:
+        - XXX
+        - XBX
+        - XXX
+      ingredients:
+        B: iasurvival:ruby_block
+      result:
+        item: iasurvival:ruby
+        amount: 9

@@ -1,0 +1,23 @@
+info:
+  namespace: iasurvival
+items:
+  ruby_sword:
+    enabled: true
+    display_name: display-name-ruby_sword
+    permission: iasurvival.items.ruby_sword
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+        - item/swords/ruby_sword
+    durability:
+      max_custom_durability: 180
+    lore:
+      - lore-blocked-enchants
+      - lore-enchantment-mending
+    blocked_enchants:
+      - MENDING
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 6
+        attackSpeed: 1.9

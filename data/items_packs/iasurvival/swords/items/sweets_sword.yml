@@ -1,0 +1,18 @@
+info:
+  namespace: iasurvival
+items:
+  sweets_sword:
+    enabled: true
+    display_name: display-name-sweets_sword
+    permission: iasurvival.items.sweets_sword
+    resource:
+      material: WOODEN_SWORD
+      generate: true
+      textures:
+        - item/swords/sweets_sword
+    durability:
+      max_custom_durability: 100
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 0.1
+        attackSpeed: 5

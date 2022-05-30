@@ -1,0 +1,21 @@
+info:
+  namespace: iasurvival
+items:
+  forgotten_crying_obsidian:
+    enabled: true
+    display_name: display-name-forgotten_crying_obsidian
+    permission: iasurvival.items.forgotten_crying_obsidian
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - block/ores/forgotten_crying_obsidian
+    specific_properties:
+      block:
+        hardness: 8
+        placed_model:
+          type: REAL_NOTE
+          break_particles_material: OBSIDIAN
+        break_tools_whitelist:
+          - PICKAXE
+          - pickaxe

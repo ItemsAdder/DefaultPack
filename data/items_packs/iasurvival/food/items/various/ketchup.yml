@@ -1,0 +1,15 @@
+info:
+  namespace: iasurvival
+items:
+  ketchup:
+    enabled: true
+    display_name: display-name-ketchup
+    permission: iasurvival.various.ketchup
+    lore:
+      - lore-1-ketchup
+      - lore-2-ketchup
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/food/various/ketchup

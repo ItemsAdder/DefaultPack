@@ -1,0 +1,248 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    restoration_table:
+      permission: iasurvival.machinery.restoration_table
+      enabled: true
+      pattern:
+        - RRR
+        - XCX
+        - XXX
+      ingredients:
+        C: CRAFTING_TABLE
+        R: iasurvival:knowledge_fragment
+      result:
+        item: iasurvival:restoration_table
+        amount: 1
+      return_items:
+        replace:
+          CRAFTING_TABLE: alchemy_candles
+items:
+  restoration_table:
+    enabled: true
+    display_name: display-name-restoration_table
+    permission: iasurvival.machinery.restoration_table
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - block/machinery/restoration_table/bottom
+        - block/machinery/restoration_table/side
+        - block/machinery/restoration_table/front
+        - block/machinery/restoration_table/front
+        - block/machinery/restoration_table/top
+        - block/machinery/restoration_table/side
+    specific_properties:
+      block:
+        placed_model:
+          type: REAL_NOTE
+          break_particles_material: SMITHING_TABLE
+        light_level: 6
+    behaviours:
+      block_trade_machine:
+        title: Restoration Table
+        trades_list:
+          fossil:
+            ingredients:
+              slot1:
+                item: STONE
+                amount: 32
+            result:
+              item: fossil
+              amount: 4
+          fossil_2:
+            ingredients:
+              slot1:
+                item: COBBLESTONE
+                amount: 64
+            result:
+              item: fossil
+              amount: 4
+          knowledge_fragment_1:
+            ingredients:
+              slot1:
+                item: aqua_aura
+                amount: 32
+            result:
+              item: knowledge_fragment
+              amount: 1
+          knowledge_fragment_2:
+            ingredients:
+              slot1:
+                item: spinel
+                amount: 32
+            result:
+              item: knowledge_fragment
+              amount: 2
+          knowledge_fragment_3:
+            ingredients:
+              slot1:
+                item: turquoise
+                amount: 32
+            result:
+              item: knowledge_fragment
+              amount: 1
+          knowledge_fragment_4:
+            ingredients:
+              slot1:
+                item: crystal
+                amount: 48
+            result:
+              item: knowledge_fragment
+              amount: 1
+          mysterious_amulet:
+            ingredients:
+              slot1:
+                item: mysterious_material
+                amount: 1
+              slot2:
+                item: knowledge_fragment
+                amount: 15
+            result:
+              item: mysterious_amulet
+              amount: 1
+          arcane_ring:
+            ingredients:
+              slot1:
+                item: mysterious_material
+                amount: 1
+              slot2:
+                item: knowledge_fragment
+                amount: 20
+            result:
+              item: arcane_ring
+              amount: 1
+          mysterious_sword:
+            ingredients:
+              slot1:
+                item: mysterious_artifact
+                amount: 32
+              slot2:
+                item: knowledge_fragment
+                amount: 64
+            result:
+              item: mysterious_sword
+              amount: 1
+          mysterious_book:
+            ingredients:
+              slot1:
+                item: mysterious_material
+                amount: 1
+              slot2:
+                item: knowledge_fragment
+                amount: 32
+            result:
+              item: mysterious_book
+              amount: 1
+          mysterious_book_decrypted:
+            ingredients:
+              slot1:
+                item: mysterious_book
+                amount: 1
+              slot2:
+                item: knowledge_fragment
+                amount: 64
+            result:
+              item: mysterious_book_decrypted
+              amount: 1
+          mysterious_stone:
+            ingredients:
+              slot1:
+                item: mysterious_book_decrypted
+                amount: 1
+              slot2:
+                item: STONE
+                amount: 1
+            result:
+              item: mysterious_stone
+              amount: 1
+          mysterious_hood:
+            ingredients:
+              slot1:
+                item: mysterious_book_decrypted
+                amount: 1
+              slot2:
+                item: knowledge_fragment
+                amount: 64
+            result:
+              item: mysterious_hood
+              amount: 1
+          mysterious_robe:
+            ingredients:
+              slot1:
+                item: mysterious_book_decrypted
+                amount: 1
+              slot2:
+                item: knowledge_fragment
+                amount: 30
+            result:
+              item: mysterious_robe
+              amount: 1
+          mysterious_leggings:
+            ingredients:
+              slot1:
+                item: mysterious_book_decrypted
+                amount: 1
+              slot2:
+                item: knowledge_fragment
+                amount: 25
+            result:
+              item: mysterious_leggings
+              amount: 1
+          mysterious_boots:
+            ingredients:
+              slot1:
+                item: mysterious_book_decrypted
+                amount: 1
+              slot2:
+                item: knowledge_fragment
+                amount: 21
+            result:
+              item: mysterious_boots
+              amount: 1
+          sword_skin_rusteroth:
+            ingredients:
+              slot1:
+                item: EMERALD
+                amount: 16
+              slot2:
+                item: knowledge_fragment
+                amount: 1
+            result:
+              item: sword_skin_rusteroth
+              amount: 1
+          sword_skin_bloodnite:
+            ingredients:
+              slot1:
+                item: EMERALD
+                amount: 16
+              slot2:
+                item: knowledge_fragment
+                amount: 1
+            result:
+              item: sword_skin_bloodnite
+              amount: 1
+          sword_skin_vyderlight:
+            ingredients:
+              slot1:
+                item: EMERALD
+                amount: 16
+              slot2:
+                item: knowledge_fragment
+                amount: 1
+            result:
+              item: sword_skin_vyderlight
+              amount: 1
+          sword_skin_aqualight:
+            ingredients:
+              slot1:
+                item: EMERALD
+                amount: 16
+              slot2:
+                item: knowledge_fragment
+                amount: 1
+            result:
+              item: sword_skin_aqualight
+              amount: 1
+

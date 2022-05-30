@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  pizza:
+    enabled: true
+    display_name: display-name-pizza
+    permission: iasurvival.various.pizza
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/various/pizza
+    events:
+      eat:
+        feed:
+          amount: 7
+          saturation: 4

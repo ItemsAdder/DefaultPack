@@ -1,0 +1,31 @@
+info:
+  namespace: iavehicles
+  dictionary-lang: it
+dictionary:
+  display-name-broomstick: Scopa volante
+  display-name-ufo: UFO
+  display-name-oak_wood_plane: Aereo di quercia
+  display-name-spruce_wood_plane: Aereo di abete
+  display-name-birch_wood_plane: Aereo di betulla
+  display-name-jungle_wood_plane: Aereo di legno della giungla
+  display-name-acacia_wood_plane: Aereo di legno di acacia
+  display-name-dark_oak_wood_plane: Aereo di legno di quercia scura
+  display-name-white_go_cart: Go-cart bianco
+  display-name-orange_go_cart: Go-cart arancione
+  display-name-magenta_go_cart: Go-cart magenta
+  display-name-light_blue_go_cart: Go-cart azzurro
+  display-name-yellow_go_cart: Go-cart giallo
+  display-name-lime_go_cart: Go-cart lime
+  display-name-pink_go_cart: Go-cart rosa
+  display-name-gray_go_cart: Go-cart grigio
+  display-name-light_gray_go_cart: Gray Go-cart grigio chiaro
+  display-name-cyan_go_cart: Go-cart ciano
+  display-name-purple_go_cart: Go-cart viola
+  display-name-blue_go_cart: Go-cart blu
+  display-name-brown_go_cart: Go-cart marrone
+  display-name-green_go_cart: Go-cart verde
+  display-name-red_go_cart: Go-cart rosso
+  display-name-black_go_cart: Go-cart nero
+  display-name-shopping_cart: Carrello della spesa
+  display-name-ufo_toy: UFO giocattolo
+  lore-1-ufo_toy: '&7Tasto destro del mouse per farlo volare'

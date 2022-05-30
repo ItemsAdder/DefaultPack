@@ -1,0 +1,52 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    bronze_helmet:
+      permission: iasurvival.bronze_armor.bronze_helmet
+      enabled: true
+      pattern:
+        - rrr
+        - rXr
+        - XXX
+      ingredients:
+        r: iasurvival:bronze_ingot
+      result:
+        item: iasurvival:bronze_helmet
+        amount: 1
+    bronze_chestplate:
+      permission: iasurvival.bronze_armor.bronze_chestplate
+      enabled: true
+      pattern:
+        - rXr
+        - rrr
+        - rrr
+      ingredients:
+        r: iasurvival:bronze_ingot
+      result:
+        item: iasurvival:bronze_chestplate
+        amount: 1
+    bronze_leggings:
+      permission: iasurvival.bronze_armor.bronze_leggings
+      enabled: true
+      pattern:
+        - rrr
+        - rXr
+        - rXr
+      ingredients:
+        r: iasurvival:bronze_ingot
+      result:
+        item: iasurvival:bronze_leggings
+        amount: 1
+    bronze_boots:
+      permission: iasurvival.bronze_armor.bronze_boots
+      enabled: true
+      pattern:
+        - XXX
+        - rXr
+        - rXr
+      ingredients:
+        r: iasurvival:bronze_ingot
+      result:
+        item: iasurvival:bronze_boots
+        amount: 1

@@ -1,0 +1,19 @@
+info:
+  namespace: iaalchemy
+recipes:
+  crafting_table:
+    demoniac_pickaxe:
+      permission: iaalchemy.demoniac_pickaxe
+      enabled: true
+      pattern:
+        - rbr
+        - csc
+        - csc
+      ingredients:
+        s: BLAZE_ROD
+        c: iasurvival:cassiterite_block
+        r: iasurvival:ruby
+        b: iasurvival:ruby_block
+      result:
+        item: iaalchemy:demoniac_pickaxe
+        amount: 1

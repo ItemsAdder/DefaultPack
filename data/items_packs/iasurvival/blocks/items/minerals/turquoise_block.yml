@@ -1,0 +1,20 @@
+info:
+  namespace: iasurvival
+items:
+  turquoise_block:
+    enabled: true
+    display_name: display-name-turquoise_block
+    permission: iasurvival.minerals.turquoise_block
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - block/minerals/turquoise_block
+    specific_properties:
+      block:
+        placed_model:
+          type: REAL_NOTE
+          break_particles_material: PRISMARINE_BRICKS
+        break_tools_whitelist:
+          - PICKAXE
+          - pickaxe

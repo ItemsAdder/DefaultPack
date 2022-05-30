@@ -1,0 +1,18 @@
+info:
+  namespace: iafestivities
+  dictionary-lang: tr
+dictionary:
+  display-name-christmas_candle: Noel ağacı
+  display-name-christmas_tree: Noel ağacı
+  display-name-christmas_wreath: Yılbaşı çelengi
+  display-name-decorative_candy_cane: Dekoratif Şeker Kamışı
+  display-name-santa_hat: '&cNoel Baba şapkası'
+  display-name-axe_hat: Balta Şapkası
+  display-name-bat_wings: Yarasa kanatları
+  display-name-bones_backpack: Kemikler &fSırt Çantası
+  display-name-cave_spider_backpack: Mağara Örümceği &fSırt Çantası
+  display-name-dark_jack_o_lantern_backpack: '&4Dark &6Jack o''Lantern &fBackpack'
+  display-name-decorative_pumpkin: Dekoratif Balkabağı
+  display-name-jack_o_lantern_backpack: '&6Jack o''Lantern &fBackpack'
+  display-name-spider_backpack: Örümcek &FSırt Çantası
+  display-name-witch_hat: Cadı şapkası

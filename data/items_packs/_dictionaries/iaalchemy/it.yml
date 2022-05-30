@@ -1,0 +1,75 @@
+info:
+  namespace: iaalchemy
+  dictionary-lang: it
+dictionary:
+  display-name-alchemy_candles: Candele per alchimia
+  display-name-arcane_ring: Anello arcano
+  lore-1-arcane_ring: '&6[ &eEffetti speciali &6]'
+  lore-2-arcane_ring: '&7Ritorna in vita'
+  display-name-astral_bow: Arco astrale
+  display-name-astral_pickaxe: '&3Piccone astrale'
+  display-name-demoniac_hammer: '&4&lMartello demoniaco'
+  lore-1-demoniac_hammer: '&7Quando rompi un blocco'
+  lore-2-demoniac_hammer: '&7genera esperienza.'
+  lore-3-demoniac_hammer: ''
+  lore-4-demoniac_hammer: '&bScava area 3x3x3'
+  display-name-demoniac_pickaxe: '&4&lPiccone demoniaco'
+  lore-1-demoniac_pickaxe: '&7Quando rompi un blocco'
+  lore-2-demoniac_pickaxe: '&7genera esperienza con'
+  lore-3-demoniac_pickaxe: '&7il 50% di probabilità.'
+  display-name-energy_orb: '&5Sfera di energia'
+  lore-1-energy_orb: '&7Ottenuto da un &fEstrattore di energia'
+  display-name-small_energy_capsule: '&dCapsula di energia piccola'
+  lore-1-small_energy_capsule: '&7Contiene &5Sfera di energia &fx8'
+  display-name-energy_capsule: '&6Capsula di energia'
+  lore-1-energy_capsule: '&7Contiene &dCapsula di energia piccola &fx8'
+  lore-2-energy_capsule: '&7(&5Sfera di energia &fx64&7)'
+  display-name-healing_crystals: Cristalli curativi
+  display-name-energy_converter: Convertitore di energia
+  lore-1-energy_converter: '&7Usalo per convertire'
+  lore-2-energy_converter: '&7energia in oggetti'
+  display-name-energy_extractor: Estrattore di energia
+  lore-1-energy_extractor: '&7Usalo per convertire'
+  lore-2-energy_extractor: '&7oggetti in energia'
+  display-name-mysterious_amulet: Amuleto misterioso
+  display-name-mysterious_hood: Cappuccio misterioso
+  lore-1-mysterious_hood: '&6[ &eEffetti speciali&6]'
+  lore-2-mysterious_hood: '&9Visione notturna (**:**)'
+  lore-3-mysterious_hood: '&9Sfortuna (**:**)'
+  display-name-mysterious_robe: Corazza misteriosa
+  display-name-mysterious_leggings: Gambiere misteriose
+  display-name-mysterious_boots: Stivali misteriosi
+  lore-1-mysterious_boots: '&6[ &eEffetti speciali &6]'
+  lore-2-mysterious_boots: '&9Velocità II (**:**)'
+  display-name-mysterious_artifact: Manufatto misterioso
+  display-name-mysterious_book: Libro misterioso
+  display-name-mysterious_book_decrypted: Libro misterioso decifrato
+  display-name-mysterious_material: Materiale misterioso
+  display-name-mysterious_ore: Minerale misterioso
+  display-name-mysterious_stone: Pietra misteriosa
+  display-name-mysterious_sword: Spada misteriosa
+  display-name-nether_alchemy_ore: Minerale dell'alchimia grezzo
+  display-name-philosopher_stone: Pietra filosofale
+  lore-1-philosopher_stone: '&6[ &eEffetti speciali &6]'
+  lore-2-philosopher_stone: '&7Tasto destro mouse + SHIFT: '
+  lore-3-philosopher_stone: '   - &4Lava &7a &8ossidiana'
+  lore-4-philosopher_stone: '   - &cPapavero &7a &eDente di leone'
+  lore-5-philosopher_stone: ' '
+  lore-6-philosopher_stone: '&7Tasto destro mouse: '
+  lore-7-philosopher_stone: '   - &eSabbia &7a &8Pietrisco'
+  lore-8-philosopher_stone: '   - &9Acqua &7a &bGhiaccio'
+  lore-9-philosopher_stone: '   - &eDente di leone &7a &cPapavero'
+  lore-10-philosopher_stone: '   - &2Melone &7a &6Zucca'
+  lore-11-philosopher_stone: '   - &fVetro &7a &eSabbia'
+  lore-12-philosopher_stone: ' '
+  lore-13-philosopher_stone: '&7Per ricaricarla mettila al centro del'
+  lore-14-philosopher_stone: '&fBanco da lavoro &7e metti una &5Sfera di energia'
+  lore-15-philosopher_stone: '&7(o un altro contenitore di energia) a destra'
+  display-name-diamonds_finder_potion: Pozione cerca diamanti
+  lore-1-diamonds_finder_potion: '&7Evidenzia i blocchi di diamante sotto terra'
+  display-name-emeralds_finder_potion: Pozione cerca smeraldi
+  lore-1-emeralds_finder_potion: '&7Evidenzia i blocchi di smeraldo sotto terra'
+  display-name-strange_potion: Pozione strana
+  lore-1-strange_potion: '&7Una pozione misteriosa'
+  display-name-antidote: Antidoto
+  lore-1-antidote: '&7Rimuove l''effetto di una pozione'

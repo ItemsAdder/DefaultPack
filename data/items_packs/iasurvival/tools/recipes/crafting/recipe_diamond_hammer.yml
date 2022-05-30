@@ -1,0 +1,18 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    diamond_hammer:
+      permission: iasurvival.diamond_hammer
+      enabled: true
+      pattern:
+        - BdB
+        - dsd
+        - XsX
+      ingredients:
+        s: STICK
+        d: DIAMOND
+        B: DIAMOND_BLOCK
+      result:
+        item: iasurvival:diamond_hammer
+        amount: 1

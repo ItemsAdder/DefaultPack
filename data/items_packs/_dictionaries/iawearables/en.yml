@@ -1,0 +1,31 @@
+info:
+  namespace: iawearables
+  dictionary-lang: en
+dictionary:
+  display-name-deadmau5_hat: '&9deadmau5_hat'
+  display-name-top_hat: Top Hat
+  display-name-welding_mask: Welding Mask
+  display-name-mining_helmet: Mining Helmet
+  display-name-dog_mask: Dog Mask
+  display-name-ruby_pickaxe_hat: Ruby Pickaxe Hat
+  display-name-straw_hat: Straw Hat
+  display-name-cool_sunglasses: Cool Sunglasses
+  display-name-cigar: Cigar
+  display-name-glasses: Glasses
+  display-name-biker_helmet: Biker Helmet
+  display-name-cat_ears: Cat Ears
+  display-name-demoniac_red_wings: Demoniac Red Wings
+  display-name-demoniac_turquoise_wings: Demoniac Turquoise Wings
+  display-name-demoniac_purple_wings: Demoniac Purple Wings
+  display-name-demoniac_blue_wings: Demoniac Blue Wings
+  display-name-demoniac_black_wings: Demoniac Black Wings
+  display-name-all_black_cat_tail: All Black Cat Tail
+  display-name-black_cat_tail: Black Cat Tail
+  display-name-white_cat_tail: White Cat Tail
+  display-name-ender_dragon_wings: Ender Dragon Wings
+  display-name-red_backpack: Red Backpack
+  display-name-turquoise_backpack: Turquoise Backpack
+  display-name-purple_backpack: Purple Backpack
+  display-name-blue_backpack: Blue Backpack
+  display-name-black_backpack: Black Backpack
+  display-name-brown_backpack: Brown Backpack

@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    ruby_axe:
+      permission: iasurvival.ruby_axe
+      enabled: true
+      pattern:
+        - MMX
+        - MSX
+        - XSX
+      ingredients:
+        M: iasurvival:ruby
+        S: STICK
+      result:
+        item: iasurvival:ruby_axe
+        amount: 1

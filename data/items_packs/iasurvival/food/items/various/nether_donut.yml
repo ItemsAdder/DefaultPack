@@ -1,0 +1,17 @@
+info:
+  namespace: iasurvival
+items:
+  nether_donut:
+    enabled: true
+    display_name: display-name-nether_donut
+    permission: iasurvival.various.nether_donut
+    resource:
+      material: COOKED_PORKCHOP
+      generate: true
+      textures:
+        - item/food/various/nether_donut
+    events:
+      eat:
+        feed:
+          amount: 8
+          saturation: 4

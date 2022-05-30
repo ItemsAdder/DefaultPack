@@ -1,0 +1,38 @@
+info:
+  namespace: iasurvival
+items:
+  firesword_sword:
+    enabled: true
+    display_name: display-name-firesword_sword
+    permission: iasurvival.special.firesword_sword
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: item/swords/firesword_sword
+    enchants:
+      - FIRE_ASPECT:1
+    durability:
+      max_custom_durability: 131
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 4.5
+    events:
+      interact:
+        right:
+          replace_near_blocks:
+            from: FIRE
+            to: AIR
+            radius:
+              x: 1
+              y: 3
+              z: 1
+            decrement_durability: 5
+        left:
+          replace_near_blocks:
+            from: AIR
+            to: FIRE
+            radius:
+              x: 1
+              y: 3
+              z: 1
+            decrement_durability: 10

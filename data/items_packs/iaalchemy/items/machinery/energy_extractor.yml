@@ -47,14 +47,6 @@ items:
             result:
               item: energy_orb
               amount: 6
-          oak_planks:
-            ingredients:
-              slot1:
-                item: OAK_PLANKS
-                amount: 64
-            result:
-              item: energy_orb
-              amount: 2
           OAK_PLANKS:
             ingredients:
               slot1:
@@ -83,10 +75,10 @@ items:
             ingredients:
               slot1:
                 item: IRON_INGOT
-                amount: 2
+                amount: 4
             result:
               item: energy_orb
-              amount: 4
+              amount: 1
           diamond:
             ingredients:
               slot1:
@@ -94,7 +86,7 @@ items:
                 amount: 1
             result:
               item: energy_capsule
-              amount: 3
+              amount: 2
           bronze_ingot:
             ingredients:
               slot1:

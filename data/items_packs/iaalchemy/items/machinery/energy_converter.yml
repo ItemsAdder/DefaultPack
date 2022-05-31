@@ -59,18 +59,7 @@ items:
             ingredients:
               slot1:
                 item: energy_capsule
-                amount: 32
-            result:
-              item: DIAMOND
-              amount: 1
-          diamond_small_energy:
-            ingredients:
-              slot1:
-                item: small_energy_capsule
-                amount: 64
-              slot2:
-                item: small_energy_capsule
-                amount: 64
+                amount: 48
             result:
               item: DIAMOND
               amount: 1

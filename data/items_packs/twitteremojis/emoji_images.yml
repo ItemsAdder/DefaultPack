@@ -181,12 +181,6 @@ font_images:
     path: "font/emoji/blood"
     scale_ratio: 9
     y_position: 8
-  blush:
-    permission: blush
-    show_in_gui: true
-    path: "font/emoji/blush"
-    scale_ratio: 9
-    y_position: 8
   bye:
     permission: bye
     show_in_gui: true
@@ -515,6 +509,12 @@ font_images:
     permission: flamingo
     show_in_gui: true
     path: "font/emoji/flamingo"
+    scale_ratio: 9
+    y_position: 8
+  flushed:
+    permission: flushed
+    show_in_gui: true
+    path: "font/emoji/flushed"
     scale_ratio: 9
     y_position: 8
   fmage:

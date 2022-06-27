@@ -16,6 +16,7 @@ items:
         placed_model:
           type: REAL_NOTE
           break_particles_material: COAL_ORE
+        cancel_drop: true
         break_tools_blacklist:
           - WOODEN_PICKAXE
           - STONE_PICKAXE

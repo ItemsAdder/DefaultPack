@@ -1,0 +1,30 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    cassiterite:
+      permission: iasurvival.cassiterite
+      enabled: true
+      pattern:
+        - XXX
+        - XCC
+        - XCC
+      ingredients:
+        C: iasurvival:cassiterite_fragment
+      result:
+        item: iasurvival:cassiterite
+        amount: 1
+  cooking:
+    cassiterite:
+      enabled: true
+      permission: iasurvival.cassiterite
+      ingredient:
+        item: iasurvival:cassiterite_ore
+      machines:
+        - FURNACE
+        - BLAST_FURNACE
+      exp: 1
+      cook_time: 400
+      result:
+        item: iasurvival:cassiterite
+        amount: 1

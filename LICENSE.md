@@ -9,7 +9,7 @@ Permissions:
 
 Limitations:
 - You cannot distribute these assets or edited versions in commercial projects (example: reselling textures)
-- You cannot distribute these assets in projects not containing ItemsAdder with a valid license that earn using advertisements or that take donations
+- You cannot distribute these assets in projects not containing ItemsAdder with a valid license and that earn using advertisements or that take donations
 - You cannot use theses assets without a valid ItemsAdder license
 - You cannot sell or resell these assets or links to those assets
 - You cannot state that these are your assets

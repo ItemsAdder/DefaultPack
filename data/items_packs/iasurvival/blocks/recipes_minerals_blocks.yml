@@ -118,7 +118,7 @@ recipes:
         - MMM
         - MMM
       ingredients:
-        M: iasurvival:ruby
+        M: iasurvival:cassiterite
       result:
         item: iasurvival:cassiterite_block
         amount: 1

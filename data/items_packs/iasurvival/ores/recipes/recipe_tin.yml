@@ -1,0 +1,31 @@
+info:
+  namespace: iasurvival
+recipes:
+  crafting_table:
+    raw_tin_and_copper_ingot_dust:
+      permission: iasurvival.raw_tin_and_copper_ingot_dust
+      enabled: true
+      pattern:
+        - CCC
+        - CRC
+        - CCC
+      ingredients:
+        C: COPPER_INGOT
+        R: iasurvival:raw_tin
+      result:
+        item: iasurvival:raw_tin_and_copper_ingot_dust
+        amount: 1
+  cooking:
+    raw_tin:
+      enabled: true
+      permission: iasurvival.raw_tin
+      ingredient:
+        item: iasurvival:cassiterite
+      machines:
+        - FURNACE
+        - BLAST_FURNACE
+      exp: 1
+      cook_time: 500
+      result:
+        item: iasurvival:raw_tin
+        amount: 1

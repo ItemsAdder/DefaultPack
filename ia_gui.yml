@@ -66,6 +66,7 @@ categories:
     icon: iasurvival:ruby_block
     name: display-category-all
     show_all_items: true
+    permission: "ia.menu.seecategory.all"
     hide_items:
     - z_iainternal:icon_left_grey
     - z_iainternal:icon_left_blue

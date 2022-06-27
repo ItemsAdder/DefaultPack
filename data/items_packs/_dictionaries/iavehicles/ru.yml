@@ -1,0 +1,31 @@
+info:
+  namespace: iavehicles
+  dictionary-lang: ru
+dictionary:
+  display-name-broomstick: Метла
+  display-name-ufo: НЛО
+  display-name-oak_wood_plane: Самолёт из дуба
+  display-name-spruce_wood_plane: Самолёт из ели
+  display-name-birch_wood_plane: Самолёт из березы
+  display-name-jungle_wood_plane: Самолёт из тропического дерева
+  display-name-acacia_wood_plane: Самолёт из акации
+  display-name-dark_oak_wood_plane: Самолёт их чёрного дуба
+  display-name-white_go_cart: Белый автомобиль
+  display-name-orange_go_cart: Оранжевый автомобиль
+  display-name-magenta_go_cart: Пурпурный автомобиль
+  display-name-light_blue_go_cart: Светлосиний автомобиль
+  display-name-yellow_go_cart: Жёлтый автомобиль
+  display-name-lime_go_cart: Лаймовый автомобиль
+  display-name-pink_go_cart: Розовый автомобиль
+  display-name-gray_go_cart: Серый автомобиль
+  display-name-light_gray_go_cart: Светлосерый автомобиль
+  display-name-cyan_go_cart: Голубой автомобиль
+  display-name-purple_go_cart: Фиолетовый автомобиль
+  display-name-blue_go_cart: Синий автомобиль
+  display-name-brown_go_cart: Коричневый автомобиль
+  display-name-green_go_cart: Зелёный автомобиль
+  display-name-red_go_cart: Красный автомобиль
+  display-name-black_go_cart: Чёрный автомобиль
+  display-name-shopping_cart: Тележка из магазина
+  display-name-ufo_toy: Игрушечный НЛО
+  lore-1-ufo_toy: '&7ПКМ для полёта'

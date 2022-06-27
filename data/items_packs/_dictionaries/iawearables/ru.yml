@@ -1,0 +1,31 @@
+info:
+  namespace: iawearables
+  dictionary-lang: ru
+dictionary:
+  display-name-deadmau5_hat: '&9deadmau5 шляпа'
+  display-name-top_hat: Шляпа-цилиндр
+  display-name-welding_mask: Маска сварщика
+  display-name-mining_helmet: Шахтёрский шлем
+  display-name-dog_mask: Маска собаки
+  display-name-ruby_pickaxe_hat: Рубиновая кирка-маска
+  display-name-straw_hat: Соломенная шляпа
+  display-name-cool_sunglasses: Крутые солнцезащитные очки
+  display-name-cigar: Сигарета
+  display-name-glasses: Очки
+  display-name-biker_helmet: Шлем велосипедиста
+  display-name-cat_ears: Кошачьи ушки
+  display-name-demoniac_red_wings: Красные демонические крылья
+  display-name-demoniac_turquoise_wings: Бирюзовые демонические крылья
+  display-name-demoniac_purple_wings: Фиолетовые демонические крылья
+  display-name-demoniac_blue_wings: Синие демонические крылья
+  display-name-demoniac_black_wings: Чёрные демонические крылья
+  display-name-all_black_cat_tail: Полностью чёрный кошачий хвостик
+  display-name-black_cat_tail: Чёрный кошачий хвостик
+  display-name-white_cat_tail: Белый кошачий хвостик
+  display-name-ender_dragon_wings: Крылья эндердракона
+  display-name-red_backpack: Красный рюкзак
+  display-name-turquoise_backpack: Бирюзовый рюкзак
+  display-name-purple_backpack: Фиолетовый рюкзак
+  display-name-blue_backpack: Синий рюкзак
+  display-name-black_backpack: Чёрный рюкзак
+  display-name-brown_backpack: Коричневый рюкзак

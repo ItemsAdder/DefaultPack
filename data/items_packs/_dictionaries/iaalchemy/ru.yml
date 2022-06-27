@@ -1,0 +1,75 @@
+info:
+  namespace: iaalchemy
+  dictionary-lang: ru
+dictionary:
+  display-name-alchemy_candles: Алхимические свечи
+  display-name-arcane_ring: Кольцо тайн
+  lore-1-arcane_ring: '&6[ &eСпециальные эффекты &6]'
+  lore-2-arcane_ring: '&7Вернуться к жизни'
+  display-name-astral_bow: Астральный лук
+  display-name-astral_pickaxe: '&3Астральная кирка'
+  display-name-demoniac_hammer: '&4&lДемонический молот'
+  lore-1-demoniac_hammer: '&7При добыче блока'
+  lore-2-demoniac_hammer: '&7выпадет опыт'
+  lore-3-demoniac_hammer: ''
+  lore-4-demoniac_hammer: '&bКопает 3x3x3'
+  display-name-demoniac_pickaxe: '&4&lДемоническая кирка'
+  lore-1-demoniac_pickaxe: '&7При добыче блока'
+  lore-2-demoniac_pickaxe: '&7выпадет опыт'
+  lore-3-demoniac_pickaxe: '&7с шансом 50%.'
+  display-name-energy_orb: '&5Энергитический шар'
+  lore-1-energy_orb: '&7Производится экстрактором энергии'
+  display-name-small_energy_capsule: '&dМаленькая капсула с энергией'
+  lore-1-small_energy_capsule: '&7Содержит &5Энергитические шары &fx8'
+  display-name-energy_capsule: '&6Капсула с энергий'
+  lore-1-energy_capsule: '&7Содержит &dМаленькие капсулы с энергией &fx8'
+  lore-2-energy_capsule: '&7(&5Энергитические шары &fx64&7)'
+  display-name-healing_crystals: Кристал лечения
+  display-name-energy_converter: Конвертер энергии
+  lore-1-energy_converter: '&7Используется для преобразования'
+  lore-2-energy_converter: '&7энергии в предметы'
+  display-name-energy_extractor: "Экстрактор энергии"
+  lore-1-energy_extractor: '&7Используется для преобразования'
+  lore-2-energy_extractor: '&7предметов в энергию'
+  display-name-mysterious_amulet: Мистический амулет
+  display-name-mysterious_hood: Мистический капюшон
+  lore-1-mysterious_hood: '&6[ &eСпециальные эффекты &6]'
+  lore-2-mysterious_hood: '&9Ночное зрение (**:**)'
+  lore-3-mysterious_hood: '&9Невезение (**:**)'
+  display-name-mysterious_robe: Мистическая роба
+  display-name-mysterious_leggings: Мистические поножи
+  display-name-mysterious_boots: Мистические сапоги
+  lore-1-mysterious_boots: '&6[ &eСпециальные эффекты &6]'
+  lore-2-mysterious_boots: '&9Скорость II (**:**)'
+  display-name-mysterious_artifact: Мистический артифакт
+  display-name-mysterious_book: Мистическая книга
+  display-name-mysterious_book_decrypted: Расшифрованная мистическая книга
+  display-name-mysterious_material: Мистическая материя
+  display-name-mysterious_ore: Мистическая руда
+  display-name-mysterious_stone: Мистический камень
+  display-name-mysterious_sword: Мистический меч
+  display-name-nether_alchemy_ore: Незеритовая алхимическая руда
+  display-name-philosopher_stone: Философский камень
+  lore-1-philosopher_stone: '&6[ &eСпециальные эффекты &6]'
+  lore-2-philosopher_stone: '&7ПКМ + Shift: '
+  lore-3-philosopher_stone: '   - &4Лава &7в &8Обсидиан'
+  lore-4-philosopher_stone: '   - &cМак &7в &eОдуванчик'
+  lore-5-philosopher_stone: ' '
+  lore-6-philosopher_stone: '&7ПКМ: '
+  lore-7-philosopher_stone: '   - &eПесок &7в &8Булыжник'
+  lore-8-philosopher_stone: '   - &9Вода &7в &bЛёд'
+  lore-9-philosopher_stone: '   - &eОдуванчик &7в &cМак'
+  lore-10-philosopher_stone: '   - &2Дыня &7в &6Тыква'
+  lore-11-philosopher_stone: '   - &fСтекло &7в &eПесок'
+  lore-12-philosopher_stone: ' '
+  lore-13-philosopher_stone: '&7Для перезарядки требуется поместить на &fВерстак'
+  lore-14-philosopher_stone: '&7в центральный слот и справа положить &5Энергитический шар'
+  lore-15-philosopher_stone: '&7(или какой-либо контейнер энергитических шаров)'
+  display-name-diamonds_finder_potion: Зелье для поиска алмазов
+  lore-1-diamonds_finder_potion: '&7Подсвечивает алмазную руду поверх остальных блоков'
+  display-name-emeralds_finder_potion: Зелье для поиска изумрудов
+  lore-1-emeralds_finder_potion: '&7Подсвечивает изумрудную руду поверх остальных блоков'
+  display-name-strange_potion: Странное зелье
+  lore-1-strange_potion: '&7Мистическое зелье'
+  display-name-antidote: Антидот
+  lore-1-antidote: '&7Снимает эффекты зелий'

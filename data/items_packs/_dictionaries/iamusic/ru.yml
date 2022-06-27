@@ -1,0 +1,10 @@
+info:
+  namespace: iamusic
+  dictionary-lang: ru
+dictionary:
+  display-name-blank_disc: Пустой диск
+  lore-1-blank_disc: '&7Используется для создания'
+  lore-2-blank_disc: '&7музыкальных дисков'
+  display-name-music_disc_electric_keys: '&bМузыкальный диск'
+  display-name-music_disc_cdk_sunday: '&bМузыкальный диск'
+  display-name-music_disc_vidian_aether_theories: '&bМузыкальный диск'

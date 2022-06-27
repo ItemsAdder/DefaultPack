@@ -1,0 +1,18 @@
+info:
+  namespace: iafestivities
+  dictionary-lang: ru
+dictionary:
+  display-name-christmas_candle: Рождественская свеча
+  display-name-christmas_tree: Рождественская ёлка
+  display-name-christmas_wreath: Рождественский винок
+  display-name-decorative_candy_cane: Трость из карамели
+  display-name-santa_hat: '&cШапка санты'
+  display-name-axe_hat: Шляпа-топор
+  display-name-bat_wings: Крылья летучей мыши
+  display-name-bones_backpack: Рюкзак из костей
+  display-name-cave_spider_backpack: Рюкзак-пещерный паук
+  display-name-dark_jack_o_lantern_backpack: '&4Тёмный &fрюкзак &6Джека'
+  display-name-decorative_pumpkin: Декоративная тыква
+  display-name-jack_o_lantern_backpack: '&fРюкзак &6Джека'
+  display-name-spider_backpack: Рюкзак-паук
+  display-name-witch_hat: Шляпа ведьмы

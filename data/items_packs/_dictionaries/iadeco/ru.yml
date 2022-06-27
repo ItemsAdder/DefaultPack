@@ -1,0 +1,73 @@
+info:
+  namespace: iadeco
+  dictionary-lang: ru
+dictionary:
+  display-name-white_bar_chair: Белый барный стул
+  display-name-orange_bar_chair: Оранжевый барный стул
+  display-name-magenta_bar_chair: Пурпурный барный стул
+  display-name-light_blue_bar_chair: Светлосиний барный стул
+  display-name-yellow_bar_chair: Желтый барный стул
+  display-name-lime_bar_chair: Лаймовый барный стул
+  display-name-pink_bar_chair: Розовый барный стул
+  display-name-gray_bar_chair: Серый барный стул
+  display-name-light_gray_bar_chair: Светлосерый барный стул
+  display-name-cyan_bar_chair: Голубой
+  display-name-purple_bar_chair: Фиолетовый барный стул
+  display-name-blue_bar_chair: Синий барный стул
+  display-name-brown_bar_chair: Коричневый барный стул
+  display-name-green_bar_chair: Зелёный барный стул
+  display-name-red_bar_chair: Красный барный стул
+  display-name-black_bar_chair: Чёрный барный стул
+  display-name-computer_chair: Комьютерный стул
+  lore-chair: '&7ПКМ, чтобы сесть'
+  display-name-school_chair: Школьный стул
+  display-name-school_chair_lazy: Узкий школьный стул
+  display-name-simple_chair: Стул
+  display-name-white_chair: Белый стул
+  display-name-white_wood_chair: Белый стул из дерева
+  display-name-orange_wood_chair: Оранжевый стул из дерева
+  display-name-magenta_wood_chair: Пурпурный стул из дерева
+  display-name-light_blue_wood_chair: Голубой стул из дерева
+  display-name-yellow_wood_chair: Жёлтый стул из дерева
+  display-name-lime_wood_chair: Лаймовый стул из дерева
+  display-name-pink_wood_chair: Розовый стул из дерева
+  display-name-gray_wood_chair: Серый стул из дерева
+  display-name-light_gray_wood_chair: Светлосерый стул из дерева
+  display-name-cyan_wood_chair: Голубой
+  display-name-purple_wood_chair: Фиолетовый стул из дерева
+  display-name-blue_wood_chair: Синий стул из дерева
+  display-name-brown_wood_chair: Коричневый стул из дерева
+  display-name-green_wood_chair: Зелёный стул из дерева
+  display-name-red_wood_chair: Красный стул из дерева
+  display-name-black_wood_chair: Чёрный стул из дерева
+  display-name-white_chandeliers: Белая люстра
+  display-name-black_chandeliers: Чёрная люстра
+  display-name-black_and_red_chandeliers: Чёрнокрасная люстра
+  display-name-coffee_machine: Кофемашина
+  lore-1-coffee_machine: '&7Делает реально хороший кофе'
+  display-name-computer_desk: Парта с компьютером
+  lore-decorative-item: '&7Декоративный предмет'
+  display-name-dark_throne: Трон тьмы
+  display-name-glass_table: Стеклянный стол
+  display-name-lamp: Лампа
+  display-name-lava_lamp: Лавовая лампа
+  display-name-lit_campfire: Горящий костёр
+  display-name-mini_fridge: Мини-холодильник
+  display-name-monitor: Монитор
+  display-name-old_clock: Старые часы
+  display-name-opened_chest: Открытый сундук
+  display-name-painting_burst: Картина
+  display-name-painting_courbet: Картина
+  display-name-painting_graham: Картина
+  display-name-painting_match: Картина
+  display-name-painting_pool: Картина
+  display-name-painting_skull_and_roses: Картина
+  display-name-painting_stage: Картина
+  display-name-painting_void: Картина
+  display-name-painting_wanderer: Картина
+  display-name-small_fountain: Маленький фонтан
+  display-name-table: Стол
+  display-name-tv: Телевизор
+  display-name-vending_machine: Торговый автомат
+  lore-1-vending_machine: '&7Продает крутые предметы'
+  display-name-cut_spruce_log: Срубленое еловое бревно

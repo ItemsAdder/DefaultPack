@@ -1,0 +1,25 @@
+info:
+  namespace: iaweapons
+  dictionary-lang: ru
+dictionary:
+  display-name-ak47: АК-47
+  display-name-clip: Патрон для автомата
+  lore-1-clip: '&7Держите это в левой'
+  lore-2-clip: '&7руке, когда стреляете'
+  lore-3-clip: '&7из АК-47'
+  display-name-firework_launcher: Палка для запуска фейрверка
+  lore-1-firework_launcher: '&7Держите фейрверк в левой'
+  lore-2-firework_launcher: '&7руке и зажмите ПКМ, чтобы'
+  lore-3-firework_launcher: '&7зарядить эту палку.'
+  display-name-grenade: Граната  
+  display-name-hand_gun: Пистолет
+  display-name-projectile: Патрон для пистолета
+  lore-1-projectile: '&7Держите это в левой руке,'
+  lore-2-projectile: '&7когда стреляете из'
+  lore-3-projectile: '&7пистолета.'
+  display-name-revolver: Револьвер
+  display-name-shotgun: Дробовик
+  display-name-shotgun_cartridge: Патрон для дробовика
+  lore-1-shotgun_cartridge: '&7Держите это в левой'
+  lore-2-shotgun_cartridge: '&7руке, когда стреляете'
+  lore-3-shotgun_cartridge: '&7из дробовика.'

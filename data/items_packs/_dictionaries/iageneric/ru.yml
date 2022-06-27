@@ -1,0 +1,46 @@
+info:
+  namespace: iageneric
+  dictionary-lang: en
+dictionary:
+  display-name-bug_medal: '&6Медаль искателя багов'
+  lore-1-bug_medal: '&7Медаль получена за'
+  lore-2-bug_medal: '&7старательный поиск'
+  lore-3-bug_medal: '&7багов.'
+  display-name-cute_medal: '&6Милая медаль'
+  lore-1-cute_medal: '&7Этой медалью награждаются'
+  lore-2-cute_medal: '&7только милые персоны.'
+  display-name-donator_medal: '&6Донатерская медаль'
+  lore-1-donator_medal: '&7Медаль получена за'
+  lore-2-donator_medal: '&7большие заслуги.'
+  display-name-coin: Монета
+  display-name-banknote: Банкнота
+  display-name-sack_of_money: Мешок денег
+  display-name-plastic_bag: Полиэтиленовый пакеь
+  display-name-light_blue_coupon: Светлосиний купон
+  display-name-turquoise_coupon: Бирюзовый купон
+  display-name-purple_coupon: Фиолетовый купон
+  display-name-green_coupon: Зелёный купон
+  display-name-red_coupon: Красный купон
+  display-name-black_coupon: Чёрный купон
+  display-name-white_coupon: Белый купон
+  display-name-golden_coupon: Золотой купон
+  display-name-blue_ring: Синее кольцо
+  display-name-light_blue_ring: Светлосинее кольцо
+  display-name-turquoise_ring: Бирюзовое кольцо
+  display-name-purple_ring: Фиолетовое кольцо
+  display-name-green_ring: Зелёное кольцо
+  display-name-red_ring: Красное кольцо
+  display-name-black_ring: Чёрное кольцо
+  display-name-white_ring: Белое кольцо
+  display-name-golden_ring: Золотое колько
+  display-name-marriage_ring: Свадебное кольцо
+  display-name-blue_key: Синий ключ
+  display-name-light_blue_key: Светлосиний ключ
+  display-name-turquoise_key: Бирюзовый ключ
+  display-name-purple_key: Пурпурный ключ
+  display-name-green_key: Зелёный ключ
+  display-name-red_key: Красный ключ
+  display-name-black_key: Чёрный ключ
+  display-name-white_key: Белый ключ
+  display-name-golden_key: Золотой ключ
+  display-name-carton_box: Картонная коробка

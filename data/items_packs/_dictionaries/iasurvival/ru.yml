@@ -1,0 +1,217 @@
+info:
+  namespace: iasurvival
+  dictionary-lang: ru
+dictionary:
+  display-name-dark_amethyst_helmet: Тёмный аметистовый шлем
+  display-name-dark_amethyst_chestplate: Тёмный аметистовый нагрудник
+  display-name-dark_amethyst_leggings: Тёмные аметистовые поножи
+  display-name-dark_amethyst_boots: Тёмные аметистовые ботинки
+  display-name-bronze_helmet: Брозновый шлем
+  display-name-bronze_chestplate: Бронзовый нагрудник
+  display-name-bronze_leggings: Бронзовые поножи
+  display-name-bronze_boots: Бронзовые ботинки
+  display-name-emerald_helmet: Изумрудный шлем
+  display-name-emerald_chestplate: Изумрудный нагрудник
+  display-name-emerald_leggings: Изумрудные поножи
+  display-name-emerald_boots: Изумрудные ботинки
+  display-name-obsidian_helmet: Обсидиановый шлем
+  display-name-obsidian_chestplate: Обсидиановый нагрудник
+  display-name-obsidian_leggings: Обсидиановые поножи
+  display-name-obsidian_boots: Обсидиановые ботинки
+  display-name-ruby_helmet: Рубиновый шлем
+  display-name-ruby_chestplate: Рубиновый нагрудник
+  display-name-ruby_leggings: Рубиновые поножи
+  display-name-ruby_boots: Рубиновые ботинки
+  display-name-modern_quartz: Современный кварц
+  display-name-modern_sandstone: Современный песчаник
+  display-name-modern_stone: Современный камень
+  display-name-nice_stone: Красивый камень
+  display-name-nice_wood: Красивое дерево
+  display-name-dark_amethyst_block: Тёмный аметистовый блок
+  display-name-dark_amethyst_prism_block: Блок тёмной аметистовой призмы
+  display-name-aqua_aura_block: Блок аква-ауры
+  display-name-crystal_block: Кристальный блок
+  display-name-ruby_block: Рубиновый блок
+  display-name-spinel_block: Шпинельный блок
+  display-name-turquoise_block: Лазурный блок
+  display-name-black_bow: Чёрный покрашеный лук
+  display-name-red_bow: Красный покрашеный лук
+  display-name-green_bow: Зёленый покрашеный лук
+  display-name-blue_bow: Синий покрашеный лук
+  display-name-purple_bow: Фиолетовый покрашеный лук
+  display-name-cyan_bow: Голубой покрашеный лук
+  display-name-tomato_seeds: Семена помидора
+  display-name-garlic_seeds: Семена чеснока
+  display-name-lettuce_seeds: Семена салата
+  display-name-chili_pepper_seeds: Семена перца чили
+  display-name-rice_seeds: Семена риса
+  display-name-tobacco_seeds: Семена тобака
+  display-name-black_moor_goldfish: Золотая болотная рыба
+  display-name-blue_parrotfish: Синяя рыба-попугай
+  display-name-cod_nigiri: Ролл из трески
+  display-name-cooked_black_moor_goldfish: Жареная болотная золотая рыба
+  display-name-cooked_blue_parrotfish: Жареная синяя рыба-попугай
+  display-name-cooked_goldfish: Жареная золотая рыба
+  display-name-cooked_green_sunfish: Жареная зеленая рыба-солнце
+  display-name-cooked_tuna: Жареный тунец
+  display-name-goldfish: Золотая рыба
+  display-name-green_sunfish: Зеленая рыба-солнце
+  display-name-pufferfish_nigiri: Ролл из рыбы фугу
+  display-name-salmon_nigiri: Ролл из лосося
+  display-name-tropical_fish_nigiri: Ролл из тропической рыбы
+  display-name-tuna: Тюна
+  display-name-baguette: Багет
+  display-name-broken_egg: Разбитое яйцо
+  display-name-cheese: Сыр
+  display-name-chili_powder: Порошок чили
+  lore-1-chili_powder: '&7Производится из'
+  lore-2-chili_powder: '&7перца чили'
+  display-name-chips: Чипсы
+  display-name-cooked_donut_base: Приготовленная основа для пончика
+  display-name-cooked_sausage: Приготовленная сосиска
+  display-name-donut_base: Основа для пончика
+  display-name-dough: Тесто
+  display-name-flour: Мука
+  display-name-french_fries: Картофель фри
+  display-name-fried_egg: Яичница
+  display-name-fried_potato_sticks: Жареные ломтики картофеля
+  display-name-hamburger: Гамбургер
+  display-name-hotdog: Хотдог
+  display-name-jar: Банка
+  display-name-sweet_berries_jam_jar: Банка с ягодным вареньем
+  display-name-pear_jam_jar: Банка с грушевым вареньем
+  display-name-apple_jam_jar: Банка с яблочным вареньем
+  display-name-ketchup: Кетчуп
+  lore-1-ketchup: '&7Получается из'
+  lore-2-ketchup: '&7бутылки с кетчупом'
+  display-name-ketchup_bottle: Бутылка с кетчупом
+  lore-1-ketchup_bottle: '&7Положите в средний слот'
+  lore-2-ketchup_bottle: '&7верстака для получения'
+  lore-3-ketchup_bottle: '&7кетчупа.'
+  display-name-nether_donut: Незеритовый пончик
+  display-name-peeled_potato: Очищеный картофель
+  display-name-pink_donut: Розовый пончик
+  display-name-pizza: Пицца
+  display-name-potato_sticks: Ломтики картофеля
+  display-name-sausage: Сосиска
+  display-name-sliced_baguette: Нарезанный багет
+  display-name-sliced_bread: Нарезанный хлеб
+  display-name-sliced_bread_with_apple_jam: Кусок хлеба с яблочным вареньем
+  display-name-sliced_bread_with_pear_jam: Кусок хлеба с грушевым вареньем
+  display-name-sliced_bread_with_sweet_berries_jam: Кусок хлеба с ягодным вареньем
+  display-name-sliced_cheese: Нарезанный сыр
+  display-name-sliced_raw_beef: Нарезанная говядина
+  display-name-sliced_roast_beef: Нарезанный ростбиф
+  display-name-sweet: Сладость
+  display-name-sweet_stick: Сладкая палочка
+  display-name-taco: Тако
+  display-name-banana: Банан
+  display-name-chili_pepper: Перец чили
+  display-name-garlic: Чеснок
+  display-name-lettuce: Салат
+  display-name-pear: Груша
+  display-name-rice: Рис
+  display-name-tomato: Помидор
+  display-name-customization_table: Стол персонализации
+  display-name-restoration_table: Стол восстановления
+  display-name-dark_amethyst: Темный аметист
+  display-name-dark_amethyst_ore: Темная аметистовая руда
+  display-name-dark_amethyst_prism: Темная аметистовая призма
+  display-name-aqua_aura: Аква-аура
+  display-name-aqua_aura_ore: Аква-аурная руда
+  display-name-blaze_powder_ore: Руда огненного порошка
+  display-name-bronze_ingot: Бронзовый слиток
+  display-name-raw_tin: Необработанное олово
+  display-name-raw_tin_and_copper_ingot_dust: Пыль от необработанного олова и медных слитков
+  display-name-cassiterite: Касситерит
+  display-name-cassiterite_block: Касситеритовый блок
+  display-name-cassiterite_fragment: Касситеритовый фрагмент
+  display-name-cassiterite_ore: Касситеритовая руда
+  display-name-coal_dirt_ore: Угольная грязевая руда
+  display-name-coal_nugget: Угольный самородок
+  display-name-crystal: Кристал
+  display-name-end_crystals: Кристал энда
+  display-name-end_ingot: Слиток энда
+  display-name-end_ore: Руда энда
+  display-name-end_shard: Осколок края
+  display-name-forgotten_crying_obsidian: '&9Забытый плачущий обсидиан'
+  display-name-fossil: Останки
+  display-name-gold_dirt_ore: Золотая грязевая руда
+  display-name-iron_dirt_ore: Железная грязевая руда
+  display-name-knowledge_fragment: Фрагмент знаний
+  display-name-ruby: Рубин
+  display-name-ruby_ore: Рубиновая руда
+  display-name-spinel: Шпинель
+  display-name-spinel_ore: Шпинельная руда
+  display-name-turquoise: Лазурный шлем
+  display-name-turquoise_ore: Лазурная руда
+  display-name-dark_amethyst_shield: Щит из тёмного аметиста
+  display-name-bronze_shield: Бронзовый щит
+  display-name-ender_shield: Щит энда
+  display-name-obsidian_shield: Обсидиановый щит
+  display-name-ruby_shield: Рубиновый щит
+  display-name-dark_amethyst_sword: Меч из тёмного аметиста
+  display-name-aqua_sword: Аква-аурный меч
+  display-name-bronze_sword: Бронзовый меч
+  display-name-crystal_sword: Кристальный меч
+  display-name-end_sword: Меч энда
+  display-name-knife: Нож
+  display-name-ruby_dagger: Рубиновый кинжал
+  display-name-ruby_sword: Рубиновый меч
+  display-name-aqualight_sword: Аквалайт
+  display-name-bloodnite_sword: Кровавая ночь
+  display-name-emerald_sword: Изумрудный меч
+  display-name-firesword_sword: Огненный меч
+  display-name-rusteroth_sword: Растероз
+  display-name-vyderlight_sword: Видерлайт
+  display-name-sweets_sword: Сладкий меч
+  display-name-turquoise_sword: Лазурный меч
+  display-name-bloody_mary: Кровавая Мери
+  display-name-coffee: Кофе
+  display-name-cola: Кола
+  display-name-cup_of_hot_water: Чашка кипятка
+  display-name-cup_of_water: Чашка воды
+  display-name-drink_glass: Стакан
+  display-name-empty_cup: Пустая чашка
+  display-name-hot_chocolate: Горячий шоколад
+  display-name-boiled_water_bucket: Ведро с кипятком
+  display-name-waterskin: Бурдюк с водой
+  display-name-dark_amethyst_axe: Топор из тёмного аметиста
+  display-name-dark_amethyst_hoe: Мотыга из тёмного аметиста
+  display-name-dark_amethyst_pickaxe: Кирка из тёмного аметиста
+  display-name-dark_amethyst_shovel: Лопата из тёмного аметиста
+  display-name-bronze_axe: Бронзовый топор
+  display-name-bronze_hoe: Бронзовая мотыга
+  display-name-bronze_pickaxe: Бронзовая кирка
+  display-name-bronze_shovel: Бронзовая лопата
+  display-name-chisel: Зубило
+  display-name-black_shears: Чёрные покрашеные ножницы
+  display-name-red_shears: Красные покрашеные ножницы
+  display-name-green_shears: Зелёные покрашеные ножницы
+  display-name-blue_shears: Синие покрашеные ножницы
+  display-name-purple_shears: Фиолетовые покрашеные ножницы
+  display-name-cyan_shears: Голубые покрашеные ножницы
+  display-name-diamond_hammer: '&3&lАлмазный молот'
+  display-name-black_fishing_rod: Чёрная покрашеная удочка
+  display-name-red_fishing_rod: Красная покрашеная удочка
+  display-name-green_fishing_rod: Зелёная покрашеная удочка
+  display-name-blue_fishing_rod: Синяя покрашеная удочка
+  display-name-purple_fishing_rod: Фиолетовая покрашеная удочка
+  display-name-cyan_fishing_rod: Голубая покрашеная удочка
+  display-name-ruby_axe: Рубиновый топор
+  display-name-ruby_hoe: Рубиновая мотыга
+  display-name-ruby_pickaxe: Рубиновая кирка
+  display-name-ruby_shovel: Рубиновая лопата
+  display-name-letter: Письмо
+  display-name-nest: Гнездо
+  display-name-eggs_nest: Яйца в гнезде
+  display-name-plastic: Пластик
+  display-name-plastic_plate: Плита из пластика
+  display-name-iron_plate: Железная плита
+  display-name-tobacco: Тобак
+  lore-1-end_sword: '&6[ &eСпециальные эффекты &6]'
+  lore-2-end_sword: '&7Наносит урон мобам рядом'
+  display-name-sword_skin_rusteroth: "Ножны Рустерота"
+  display-name-sword_skin_bloodnite: "Ножны Кровавой ночи"
+  display-name-sword_skin_vyderlight: "Ножны Видерлайта"
+  display-name-sword_skin_aqualight: "Ножны Аквалайта"

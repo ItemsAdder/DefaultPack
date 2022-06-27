@@ -1,0 +1,14 @@
+info:
+  namespace: iaspecial_swords
+  dictionary-lang: ru
+dictionary:
+  display-name-baseball_bat: Бейсбольная бита
+  display-name-elucidator_sword: Разъяснитель
+  display-name-floating_sword: '&9&lПлавающий меч'
+  display-name-gandalf_stick: Палка Гендальфа
+  display-name-guitar_sword: Гитара
+  display-name-green_lightsaber: '&2&lЗелёная световая сабля'
+  display-name-red_lightsaber: '&4&lКрасная световая сабля'
+  display-name-blue_lightsaber: '&3&lСиняя световая сабля'
+  display-name-masters_sword: '&6&lМеч мастера'
+  display-name-repulser_sword: Репульсер

@@ -1,0 +1,115 @@
+info:
+  namespace: _common
+  dictionary-lang: "he"
+dictionary:
+  lore-blocked-enchants: "&4כישופים חסומים:"
+  lore-enchantment-all: "&7כולם"
+  lore-enchantment-sharpness: "&7Sharpness"
+  lore-enchantment-smite: "&7Smite"
+  lore-enchantment-bane_of_arthropods: "&7Bane of Arthropods"
+  lore-enchantment-knockback: "&7Knockback"
+  lore-enchantment-fire_aspect: "&7Fire Aspect"
+  lore-enchantment-sweeping: "&7Sweeping Edge"
+  lore-enchantment-protection: "&7Protection"
+  lore-enchantment-fire_protection: "&7Fire Protection"
+  lore-enchantment-feather_falling: "&7Feather Falling"
+  lore-enchantment-blast_protection: "&7Blast Protection"
+  lore-enchantment-projectile_protection: "&7Projectile Protection"
+  lore-enchantment-respiration: "&7Respiration"
+  lore-enchantment-aqua_affinity: "&7Aqua Affinity"
+  lore-enchantment-depth_strider: "&7Depth Strider"
+  lore-enchantment-frost_walker: "&7Frost Walker"
+  lore-enchantment-soul_speed: "&7Soul Speed"
+  lore-enchantment-efficiency: "&7Efficiency"
+  lore-enchantment-silk_touch: "&7Silk Touch"
+  lore-enchantment-unbreaking: "&7Unbreaking"
+  lore-enchantment-looting: "&7Looting"
+  lore-enchantment-fortune: "&7Fortune"
+  lore-enchantment-luck_of_the_sea: "&7Luck of the Sea"
+  lore-enchantment-lure: "&7Lure"
+  lore-enchantment-power: "&7Power"
+  lore-enchantment-flame: "&7Flame"
+  lore-enchantment-punch: "&7Punch"
+  lore-enchantment-infinity: "&7Infinity"
+  lore-enchantment-thorns: "&7Thorns"
+  lore-enchantment-mending: "&7Mending"
+  lore-enchantment-binding_curse: "&7Curse of Binding"
+  lore-enchantment-vanishing_curse: "&7Curse of Vanishing"
+  lore-enchantment-loyalty: "&7Loyalty"
+  lore-enchantment-impaling: "&7Impaling"
+  lore-enchantment-riptide: "&7Riptide"
+  lore-enchantment-channeling: "&7Channeling"
+  lore-enchantment-multishot: "&7Multishot"
+  lore-enchantment-quick_charge: "&7Quick Charge"
+  lore-enchantment-piercing: "&7Piercing"
+  display-category-all: All
+  display-category-armors: ארמור
+  display-category-swords: חרבות
+  display-category-pickaxes: מכושים
+  display-category-axes: גרזנים
+  display-category-hoes: מעדרים
+  display-category-shovels: אתים
+  display-category-fishing_rods: חכות
+  display-category-shears: מספריים
+  display-category-weapons: נשקים
+  display-category-shields: מגנים
+  display-category-bows: קשתות
+  display-category-eatables: מזון
+  display-category-thirst: צמא
+  display-category-vegetables: ירקות ופירות
+  display-category-seeds: זרעים
+  display-category-fishes: דגים
+  display-category-potions: שיקויים
+  display-category-furnitures: רהיטים
+  display-category-paintings: ציורים
+  display-category-chairs: כיסאות
+  display-category-hats: כובעים
+  display-category-wearables: פריטי לבוש
+  display-category-machines: מכונות
+  display-category-blocks: בלוקים
+  display-category-ores: משאבים
+  display-category-minerals: מינרלים
+  display-category-instruments: כלים
+  display-category-various: פריטים ומרכיבים
+  display-category-alchemy: פריטי אלכימיה
+  display-category-musicdiscs: דיסקי מוזיקה
+  display-category-throwables: נזרקים
+  display-category-books: ספרים
+  display-category-vehicles: כלי רכב
+  display-category-icons: אייקונים
+  display-category-generic_items: פריטים רגילים
+  display-category-halloween: פריטי ליל כל הקדושים
+  display-category-christmas: פריטי חג המולד
+  display-category-special: מיוחד
+  display-name-icon_left_gray: < אחורה
+  display-name-icon_left_blue: < אחורה
+  display-name-icon_right_gray: קדימה >
+  display-name-icon_right_blue: קדימה >
+  display-name-icon_up_gray: למעלה
+  display-name-icon_up_blue: למעלה
+  display-name-icon_down_gray: למטה
+  display-name-icon_down_blue: למטה
+  display-name-icon_next_white: קדימה >
+  display-name-icon_next_orange: קדימה >
+  display-name-icon_back_white: < אחורה
+  display-name-icon_back_orange: < אחורה
+  display-name-icon_cancel: ביטול
+  display-name-icon_confirm: אישור
+  display-name-icon_lock: נעל
+  display-name-icon_unlock: פתח
+  display-name-icon_web: אינטרנט
+  display-name-icon_ender_chest: תיבת אנדר
+  display-name-icon_refresh: רענון
+  display-name-icon_time_day: Time Day
+  display-name-icon_time_midnight: Time Midnight
+  display-name-icon_time_night: Time Night
+  display-name-icon_time_noon: Time Noon
+  display-name-icon_time_sunrise: Time Sunrise
+  display-name-icon_time_sunset: Time Sunset
+  display-name-icon_toggle_off: Toggle Off
+  display-name-icon_toggle_on: Toggle On
+  display-name-icon_arrow_chest: Arrow Chest
+  display-name-icon_plus: פלוס
+  display-name-icon_color_picker: בוחר צבעים
+  display-name-icon_comment: Comment
+  display-name-icon_search: חיפוש

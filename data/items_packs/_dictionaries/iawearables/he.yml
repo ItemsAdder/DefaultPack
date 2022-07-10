@@ -1,0 +1,31 @@
+info:
+  namespace: iawearables
+  dictionary-lang: he
+dictionary:
+  display-name-deadmau5_hat: '&9deadmau5_hat' #No Translation
+  display-name-top_hat: כובע צילינדר
+  display-name-welding_mask: מסכת ריתוך
+  display-name-mining_helmet: קסדת כרייה
+  display-name-dog_mask: מסכת כלבים
+  display-name-ruby_pickaxe_hat: כובע מכוש רובי
+  display-name-straw_hat: כובע קש
+  display-name-cool_sunglasses: משקפי שמש מגניבים
+  display-name-cigar: סיגר
+  display-name-glasses: משקפיים
+  display-name-biker_helmet: קסדת אופנוענים
+  display-name-cat_ears: אוזני חתול
+  display-name-demoniac_red_wings: כנפיים אדומות דמוניות
+  display-name-demoniac_turquoise_wings: כנפי טורקיז דמוניות
+  display-name-demoniac_purple_wings: כנפיים סגולות דמוניות
+  display-name-demoniac_blue_wings: כנפיים כחולות דמוניות
+  display-name-demoniac_black_wings: כנפיים שחורות דמוניות
+  display-name-all_black_cat_tail: זנב מלא חתול שחור
+  display-name-black_cat_tail: זנב חתול שחור
+  display-name-white_cat_tail: זנב חתול לבן
+  display-name-ender_dragon_wings: כנפי אנדר דרקון
+  display-name-red_backpack: תיק גב אדום
+  display-name-turquoise_backpack: תיק גב בצבע טורקיז
+  display-name-purple_backpack: תיק גב סגול
+  display-name-blue_backpack: תיק גב כחול
+  display-name-black_backpack: תיק גב שחור
+  display-name-brown_backpack: תיק גב חום

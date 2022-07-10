@@ -1,0 +1,217 @@
+info:
+  namespace: iasurvival
+  dictionary-lang: he
+dictionary:
+  display-name-dark_amethyst_helmet: קסדת אמטיסט כהה
+  display-name-dark_amethyst_chestplate: שריון אמטיסט כהה
+  display-name-dark_amethyst_leggings: מכנסי אמטיסט כהות
+  display-name-dark_amethyst_boots: מגפי אמטיסט כהים
+  display-name-bronze_helmet: קסדת ברונזה
+  display-name-bronze_chestplate: שריון ברונזה
+  display-name-bronze_leggings: מכנסי ברונזה
+  display-name-bronze_boots: מגפי ברונזה
+  display-name-emerald_helmet: קסדת אמרלד
+  display-name-emerald_chestplate: שריון אמרלד
+  display-name-emerald_leggings: מכנסי אמרלד
+  display-name-emerald_boots: מגפי אמרלד
+  display-name-obsidian_helmet: קסדת אובסידיאן
+  display-name-obsidian_chestplate: שריון אובסידיאן
+  display-name-obsidian_leggings: מכנסי אובסידיאן
+  display-name-obsidian_boots: מגפי אובסידיאן
+  display-name-ruby_helmet: קסדת רובי
+  display-name-ruby_chestplate: שריון רובי
+  display-name-ruby_leggings: מכנסי רובי
+  display-name-ruby_boots: נעלי רובי
+  display-name-modern_quartz: קוורץ מודרני
+  display-name-modern_sandstone: אבן חול מודרנית
+  display-name-modern_stone: אבן מודרנית
+  display-name-nice_stone: אבן נחמדה
+  display-name-nice_wood: עץ נחמד
+  display-name-dark_amethyst_block: גוש אמטיסט כהה
+  display-name-dark_amethyst_prism_block: בלוק של פריזמת אמטיסט כהה
+  display-name-aqua_aura_block: בלוק של אקווה הילה
+  display-name-crystal_block: גוש קריסטל
+  display-name-ruby_block: בלוק של רובי
+  display-name-spinel_block: גוש ספינל
+  display-name-turquoise_block: בלוק טורקיז
+  display-name-black_bow: קשת צבועה שחורה
+  display-name-red_bow: קשת צבועה באדום
+  display-name-green_bow: קשת צבועה ירוקה
+  display-name-blue_bow: קשת צבועה כחולה
+  display-name-purple_bow: קשת צבועה כחולה
+  display-name-cyan_bow: קשת צבועה ציאן
+  display-name-tomato_seeds: זרעי עגבניות
+  display-name-garlic_seeds: זרעי שום
+  display-name-lettuce_seeds: זרעי חסה
+  display-name-chili_pepper_seeds: זרעי פלפל צ'ילי
+  display-name-rice_seeds: זרעי אורז
+  display-name-tobacco_seeds: זרעי טבק
+  display-name-black_moor_goldfish: דג זהב מור שחור
+  display-name-blue_parrotfish: דג תוכי כחול
+  display-name-cod_nigiri: בקלה ניגירית
+  display-name-cooked_black_moor_goldfish: דג זהב מור שחור מבושל
+  display-name-cooked_blue_parrotfish: דג כחול מבושל
+  display-name-cooked_goldfish: דג זהב מבושל
+  display-name-cooked_green_sunfish: דג שמש ירוק מבושל
+  display-name-cooked_tuna: טונה מבושלת
+  display-name-goldfish: דג זהב
+  display-name-green_sunfish: דג שמש ירוק
+  display-name-pufferfish_nigiri: דג נשף ניגירי
+  display-name-salmon_nigiri: סלמון ניגירי
+  display-name-tropical_fish_nigiri: דג טרופי ניגירי
+  display-name-tuna: טונה
+  display-name-baguette: בגט
+  display-name-broken_egg: ביצה שבורה
+  display-name-cheese: גבינה
+  display-name-chili_powder: אבקת צ'ילי
+  lore-1-chili_powder: '&7הושג מ'
+  lore-2-chili_powder: '&7פלפל צ''ילי'
+  display-name-chips: צ'יפס
+  display-name-cooked_donut_base: בסיס סופגניה מבושלת
+  display-name-cooked_sausage: נקניק מבושל
+  display-name-donut_base: בסיס סופגניה
+  display-name-dough: בצק
+  display-name-flour: קמח
+  display-name-french_fries: צ'יפס
+  display-name-fried_egg: ביצה מטוגנת
+  display-name-fried_potato_sticks: מקלות תפוחי אדמה מטוגנים
+  display-name-hamburger: המבורגר
+  display-name-hotdog: נקניקיה
+  display-name-jar: צנצנת
+  display-name-sweet_berries_jam_jar: צנצנת ריבה אם פירות יער מתוקים
+  display-name-pear_jam_jar: צנצנת ריבה אגס
+  display-name-apple_jam_jar: צנצנת ריבה תפוחים
+  display-name-ketchup: קטשופ
+  lore-1-ketchup: '&7הושג מ'
+  lore-2-ketchup: '&7בקבוק קטשופ'
+  display-name-ketchup_bottle: בקבוק קטשופ
+  lore-1-ketchup_bottle: '&7שימו את זה בשולחן המלאכה'
+  lore-2-ketchup_bottle: '&7בעמצא'
+  lore-3-ketchup_bottle: '&7קצת קטשופ'
+  display-name-nether_donut: סופגניית נדר
+  display-name-peeled_potato: תפוח אדמה קלוף
+  display-name-pink_donut: סופגניה ורודה
+  display-name-pizza: פיצה
+  display-name-potato_sticks: מקלות תפוחי אדמה
+  display-name-sausage: נקניק
+  display-name-sliced_baguette: באגט פרוס
+  display-name-sliced_bread: לחם פרוס
+  display-name-sliced_bread_with_apple_jam: לחם פרוס עם ריבת תפוחים
+  display-name-sliced_bread_with_pear_jam: לחם פרוס עם ריבת אגסים
+  display-name-sliced_bread_with_sweet_berries_jam: לחם פרוס עם ריבת פירות יער מתוקים
+  display-name-sliced_cheese: גבינה פרוסה
+  display-name-sliced_raw_beef: בקר נא פרוס
+  display-name-sliced_roast_beef: רוסטביף פרוס
+  display-name-sweet: מתוק
+  display-name-sweet_stick: מקל מתוק
+  display-name-taco: טאקו
+  display-name-banana: בננה
+  display-name-chili_pepper: פלפל צ'ילי
+  display-name-garlic: שום
+  display-name-lettuce: חסה
+  display-name-pear: אגס
+  display-name-rice: אורז
+  display-name-tomato: עגבנייה
+  display-name-customization_table: שולחן התאמה אישית
+  display-name-restoration_table: שולחן שיקום
+  display-name-dark_amethyst: אמטיסט כהה
+  display-name-dark_amethyst_ore: בצר אמטיסט כהה
+  display-name-dark_amethyst_prism: פריזמת אמטיסט כהה
+  display-name-aqua_aura: אקווה הילה
+  display-name-aqua_aura_ore: אקווה הילה בצר
+  display-name-blaze_powder_ore: מטיל אבקת בלייז
+  display-name-bronze_ingot: מטיל ברונזה
+  display-name-raw_tin: פח גולמי
+  display-name-raw_tin_and_copper_ingot_dust: אבק מטיל פח גולמי ונחושת
+  display-name-cassiterite: קאסיטריט
+  display-name-cassiterite_block: בלוק של קאסיטריט
+  display-name-cassiterite_fragment: שבר קסיטריט
+  display-name-cassiterite_ore: בצר קסיטריט
+  display-name-coal_dirt_ore: עפרת עפר פחם
+  display-name-coal_nugget: נאגט פחם
+  display-name-crystal: קריסטל
+  display-name-end_crystals: קריסטלי אנד
+  display-name-end_ingot: עפרת אנד
+  display-name-end_ore: משאב אנד
+  display-name-end_shard: אנדר שהארד
+  display-name-forgotten_crying_obsidian: '&9אובסידיאן בוכה נשכח'
+  display-name-fossil: מאובן
+  display-name-gold_dirt_ore: עפרת עפר זהב
+  display-name-iron_dirt_ore: עפרת עפר ברזל
+  display-name-knowledge_fragment: שברי ידע
+  display-name-ruby: רובי
+  display-name-ruby_ore: עפרת רובי
+  display-name-spinel: ספינל
+  display-name-spinel_ore: עפרת ספינל
+  display-name-turquoise: טורקיז
+  display-name-turquoise_ore: בצר טורקיז
+  display-name-dark_amethyst_shield: מגן אמטיסט כהה
+  display-name-bronze_shield: מגן ברונזה
+  display-name-ender_shield: אנדר שילד
+  display-name-obsidian_shield: מגן אובסידיאן
+  display-name-ruby_shield: מגן רובי
+  display-name-dark_amethyst_sword: חרב אמטיסט כהה
+  display-name-aqua_sword: חרב אקווה הילה
+  display-name-bronze_sword: חרב ברונזה
+  display-name-crystal_sword: חרב קריסטל
+  display-name-end_sword: חרב אנד
+  display-name-knife: סכין
+  display-name-ruby_dagger: פגיון רובי
+  display-name-ruby_sword: חרב רובי
+  display-name-aqualight_sword: אקווהלייט
+  display-name-bloodnite_sword: ניצת דם
+  display-name-emerald_sword: חרב אמרלד
+  display-name-firesword_sword: חרב אש
+  display-name-rusteroth_sword: רוסטרוט
+  display-name-vyderlight_sword: וידרלייט
+  display-name-sweets_sword: חרב מתוקים
+  display-name-turquoise_sword: חרב טורקיז
+  display-name-bloody_mary: בלאדי מרי
+  display-name-coffee: קפה
+  display-name-cola: קולה
+  display-name-cup_of_hot_water: כוס מים חמים
+  display-name-cup_of_water: כוס מים
+  display-name-drink_glass: כוס לשתייה
+  display-name-empty_cup: כוס ריקה
+  display-name-hot_chocolate: שוקו חם
+  display-name-boiled_water_bucket: דלי מים מבושלים
+  display-name-waterskin: עור מים
+  display-name-dark_amethyst_axe: גרזן אמטיסט כהה
+  display-name-dark_amethyst_hoe: מעדר אמטיסט כהה
+  display-name-dark_amethyst_pickaxe: מכוש אמטיסט כהה
+  display-name-dark_amethyst_shovel: את חפירה אמטיסט כהה
+  display-name-bronze_axe: גרזן ברונזה
+  display-name-bronze_hoe: מעדר ברונזה
+  display-name-bronze_pickaxe: מכוש ברונזה
+  display-name-bronze_shovel: את חפירה ברונזה
+  display-name-chisel: אזמל
+  display-name-black_shears: מספריים בצבע שחור
+  display-name-red_shears: מספריים בצע באדום
+  display-name-green_shears: מספריים צבוע ירוק
+  display-name-blue_shears: מספריים בצבע כחול
+  display-name-purple_shears: מספריים בצבע סגול
+  display-name-cyan_shears: מספריים בצבע ציאן
+  display-name-diamond_hammer: '&3&lפטיש יהלום'
+  display-name-black_fishing_rod: חכה בצבע שחור
+  display-name-red_fishing_rod: חכה בצבע אדום
+  display-name-green_fishing_rod: חכה בצבע ירוק
+  display-name-blue_fishing_rod: חכה בצבע כחול
+  display-name-purple_fishing_rod: חכה בצבע סגול
+  display-name-cyan_fishing_rod: חכה בצבע ציאן
+  display-name-ruby_axe: גרזן רובי
+  display-name-ruby_hoe: מעדר רובי
+  display-name-ruby_pickaxe: מכוש רובי
+  display-name-ruby_shovel: את חפירה רובי
+  display-name-letter: מכתב
+  display-name-nest: קן
+  display-name-eggs_nest: קן ביצים
+  display-name-plastic: פלסטיק
+  display-name-plastic_plate: צלחת פלסטיק
+  display-name-iron_plate: לוח ברזל
+  display-name-tobacco: טבק
+  lore-1-end_sword: '&6[ &eאפקטים מיוחדים &r&6]'
+  lore-2-end_sword: '&7מוריד חיים למובים קרובים'
+  display-name-sword_skin_rusteroth: "חרב עור רוסטרות"
+  display-name-sword_skin_bloodnite: "חרב עוד בונילנייט"
+  display-name-sword_skin_vyderlight: "חרב עור וידרלייט"
+  display-name-sword_skin_aqualight: "חרב עור אקווהלייט"

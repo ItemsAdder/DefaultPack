@@ -1,0 +1,75 @@
+info:
+  namespace: iaalchemy
+  dictionary-lang: he
+dictionary:
+  display-name-alchemy_candles: נרות אלכימיה
+  display-name-arcane_ring: טבעת סתמית
+  lore-1-arcane_ring: '&6[ &eאפקטים מיוחדים &r&6]'
+  lore-2-arcane_ring: '&7חזרה לחיים'
+  display-name-astral_bow: קשת אסטרלית
+  display-name-astral_pickaxe: '&3מכוש אסטרל'
+  display-name-demoniac_hammer: '&4&lהאמר דמוני'
+  lore-1-demoniac_hammer: '&7כשאתם חוצבים בלוק'
+  lore-2-demoniac_hammer: '&7זה מביא אקספי'
+  lore-3-demoniac_hammer: ''
+  lore-4-demoniac_hammer: '&bוחוצב איזור &r&b3x3x3'
+  display-name-demoniac_pickaxe: '&4&lמכוש דמוני'
+  lore-1-demoniac_pickaxe: '&7כשאתם חוצבים בלוק'
+  lore-2-demoniac_pickaxe: '&7זה מביא את האקספי שלו'
+  lore-3-demoniac_pickaxe: '&750% מהזמן.'
+  display-name-energy_orb: '&5כדור אנרגיה'
+  lore-1-energy_orb: '&7הושג ממחלץ אנרגיה'
+  display-name-small_energy_capsule: '&dקפסולת אנרגיה קטנה'
+  lore-1-small_energy_capsule: '&7מכיל &r&5כדורי אנרגיה &fx8'
+  display-name-energy_capsule: '&6קפסולת אנרגיה'
+  lore-1-energy_capsule: '&7מכיל &dקפסולת אנרגיה קטנה &fx8'
+  lore-2-energy_capsule: '&7(&5כדורי אנרגיה &fx64&7)'
+  display-name-healing_crystals: קריסטלים מרפאים
+  display-name-energy_converter: ממיר אנרגיה
+  lore-1-energy_converter: '&7השתמשו בו כדי להמיר אנרגיה'
+  lore-2-energy_converter: '&7לתוך פריטים'
+  display-name-energy_extractor: מחלץ אנרגיה
+  lore-1-energy_extractor: '&7השתמש בו כדי להמיר פריטים'
+  lore-2-energy_extractor: '&7לתוך אנרגיה'
+  display-name-mysterious_amulet: קמע מסתורי
+  display-name-mysterious_hood: Mysterious Hood
+  lore-1-mysterious_hood: '&6[ &eאפקטים מיוחדים &r&6]'
+  lore-2-mysterious_hood: '&9ראיית לילה (**:**)'
+  lore-3-mysterious_hood: '&9חוסר מזל (**:**)'
+  display-name-mysterious_robe: חלוק מסתורי
+  display-name-mysterious_leggings: חותלות מסתוריות
+  display-name-mysterious_boots: מגפיים מסתוריים
+  lore-1-mysterious_boots: '&6[ &eאפקטים מיוחדים &r&6]'
+  lore-2-mysterious_boots: '&9מהירות II (**:**)'
+  display-name-mysterious_artifact: חפץ מסתורי
+  display-name-mysterious_book: ספר מסתורי
+  display-name-mysterious_book_decrypted: ספר מסתורי מפוענח
+  display-name-mysterious_material: חומר מסתורי
+  display-name-mysterious_ore: עפרה מסתורית
+  display-name-mysterious_stone: אבן מסתורית
+  display-name-mysterious_sword: חרב מסתורית
+  display-name-nether_alchemy_ore: Nether Alchemy Ore #Unknown
+  display-name-philosopher_stone: אבן החכמים
+  lore-1-philosopher_stone: '&6[ &eאפקטים מיוחדים &r&6]'
+  lore-2-philosopher_stone: '&7קליק ימני + SHIFT: '
+  lore-3-philosopher_stone: '   - &4לבה &r&7ל &r&8אובסידיאן'
+  lore-4-philosopher_stone: '   - &cפרג &r&7ל &r&eשן הארי'
+  lore-5-philosopher_stone: ' '
+  lore-6-philosopher_stone: '&7Rightclick: '
+  lore-7-philosopher_stone: '   - &eחול &r&7ל &r&8אבן מרוסקת'
+  lore-8-philosopher_stone: '   - &9מים &r&7ל &r&bקרח'
+  lore-9-philosopher_stone: '   - &eשן הארי &r&7ל &cפרג'
+  lore-10-philosopher_stone: '   - &2אבטיח &r&7ל &r&6דלעת'
+  lore-11-philosopher_stone: '   - &fדשא &r&7ל &r&eחול'
+  lore-12-philosopher_stone: ' '
+  lore-13-philosopher_stone: '&7כדי להטעין הכניסו אותו ל &fשולחן מלאכה'
+  lore-14-philosopher_stone: '&7במרכז &r&5כדור אנרגיה'
+  lore-15-philosopher_stone: '&7(או מיכלי אנרגיה אחרים) מימן'
+  display-name-diamonds_finder_potion: שיקוי מאתר יהלומים
+  lore-1-diamonds_finder_potion: '&7גורם לעפרות יהלומים להאיר מאחורי בלוקים אחרים'
+  display-name-emeralds_finder_potion: שיקוי מוצא אמרלד
+  lore-1-emeralds_finder_potion: '&7גורם לעפרות אמרלד להאיר מאחורי בלוקים אחרים'
+  display-name-strange_potion: שיקוי מוזר
+  lore-1-strange_potion: '&7שיקוי מסתורי'
+  display-name-antidote: תרופה נגד
+  lore-1-antidote: '&7מסיר אפקט של שיקוי'

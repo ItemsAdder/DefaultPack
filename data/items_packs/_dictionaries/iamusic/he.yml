@@ -1,0 +1,10 @@
+info:
+  namespace: iamusic
+  dictionary-lang: he
+dictionary:
+  display-name-blank_disc: דיסק ריק
+  lore-1-blank_disc: '&7יכול לשמש ליצירה'
+  lore-2-blank_disc: '&7דיסקי מוזיקה'
+  display-name-music_disc_electric_keys: '&bדיסק מוזיקה'
+  display-name-music_disc_cdk_sunday: '&bדיסק מוזיקה'
+  display-name-music_disc_vidian_aether_theories: '&bדיסק מוזיקה'

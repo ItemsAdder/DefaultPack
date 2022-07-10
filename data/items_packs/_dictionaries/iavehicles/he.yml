@@ -1,0 +1,31 @@
+info:
+  namespace: iavehicles
+  dictionary-lang: he
+dictionary:
+  display-name-broomstick: מקל מטאטא
+  display-name-ufo: Ufo #No Translation
+  display-name-oak_wood_plane: מטוס עץ אלון
+  display-name-spruce_wood_plane: מטוס עץ אשוח
+  display-name-birch_wood_plane: מטוס עץ ליבנה
+  display-name-jungle_wood_plane: מטוס עץ ג'ונגל
+  display-name-acacia_wood_plane: מטוס עץ שיטה
+  display-name-dark_oak_wood_plane: מטוס עץ אלון כהה
+  display-name-white_go_cart: קרטינג לבן
+  display-name-orange_go_cart: קרטינג כתום
+  display-name-magenta_go_cart: קארטינג מג'נטה
+  display-name-light_blue_go_cart: קרטינג תכלת
+  display-name-yellow_go_cart: קרטינג צהוב
+  display-name-lime_go_cart: קארטינג ליים
+  display-name-pink_go_cart: קארטינג ורוד
+  display-name-gray_go_cart: קארטינג אפור
+  display-name-light_gray_go_cart: קארטינג אפור בהיר
+  display-name-cyan_go_cart: קארטינג צ'אן
+  display-name-purple_go_cart: קארטינג סגול
+  display-name-blue_go_cart: קארטינג כחול
+  display-name-brown_go_cart: קארטינג חום
+  display-name-green_go_cart: קארטינג ירוק
+  display-name-red_go_cart: קארטינג אדום
+  display-name-black_go_cart: קארטינג שחור
+  display-name-shopping_cart: עגלת קניות
+  display-name-ufo_toy: Ufo צעצוע
+  lore-1-ufo_toy: '&7לחיצה ימנית בשביל להטיס'

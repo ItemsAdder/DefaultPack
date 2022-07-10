@@ -1,0 +1,73 @@
+info:
+  namespace: iadeco
+  dictionary-lang: he
+dictionary:
+  display-name-white_bar_chair: כיסא בר לבן
+  display-name-orange_bar_chair: כסא בר כתום
+  display-name-magenta_bar_chair: כיסא בר מג'נטה
+  display-name-light_blue_bar_chair: כיסא בר כחול בהיר
+  display-name-yellow_bar_chair: כיסא בר צהוב
+  display-name-lime_bar_chair: כיסא בר ליים
+  display-name-pink_bar_chair: כיסא בר ורוד
+  display-name-gray_bar_chair: כיסא בר אפור
+  display-name-light_gray_bar_chair: כיסא בר אפור בהיר
+  display-name-cyan_bar_chair: כיסא בר ציאן
+  display-name-purple_bar_chair: כיסא בר סגול
+  display-name-blue_bar_chair: כיסא בר כחול
+  display-name-brown_bar_chair: כסא בר חום
+  display-name-green_bar_chair: כיסא בר ירוק
+  display-name-red_bar_chair: כיסא בר אדום
+  display-name-black_bar_chair: כיסא בר שחור
+  display-name-computer_chair: כסא מחשב
+  lore-chair: '&7לחיצה ימנית כדי לשבת'
+  display-name-school_chair: כיסא בית ספר
+  display-name-school_chair_lazy: כיסא בית ספר עצלן
+  display-name-simple_chair: כיסא פשוט
+  display-name-white_chair: כסא לבן
+  display-name-white_wood_chair: כיסא עץ לבן
+  display-name-orange_wood_chair: כסא עץ כתום
+  display-name-magenta_wood_chair: כיסא מעץ מג'נטה
+  display-name-light_blue_wood_chair: כיסא עץ כחול בהיר
+  display-name-yellow_wood_chair: כיסא עץ צהוב
+  display-name-lime_wood_chair: כיסא עץ ליים
+  display-name-pink_wood_chair: כיסא עץ ורוד
+  display-name-gray_wood_chair: כיסא עץ אפור
+  display-name-light_gray_wood_chair: כיסא עץ אפור בהיר
+  display-name-cyan_wood_chair: כיסא מעץ ציאן
+  display-name-purple_wood_chair: כיסא עץ סגול
+  display-name-blue_wood_chair: כיסא עץ כחול
+  display-name-brown_wood_chair: כיסא מעץ חום
+  display-name-green_wood_chair: כיסא עץ ירוק
+  display-name-red_wood_chair: כיסא עץ אדום
+  display-name-black_wood_chair: כיסא עץ שחור
+  display-name-white_chandeliers: נברשות לבנות
+  display-name-black_chandeliers: נברשות שחורות
+  display-name-black_and_red_chandeliers: נברשות שחורות ואדומות
+  display-name-coffee_machine: מכונת קפה
+  lore-1-coffee_machine: '&7מכין קפה ממש טוב'
+  display-name-computer_desk: שולחן עבודה עם מחשב
+  lore-decorative-item: '&7פריט דקורטיבי'
+  display-name-dark_throne: כס אפל
+  display-name-glass_table: שולחן זכוכית
+  display-name-lamp: מנורה
+  display-name-lava_lamp: מנורת לבה
+  display-name-lit_campfire: מדורה דלוקה
+  display-name-mini_fridge: מיני מקרר
+  display-name-monitor: מסך
+  display-name-old_clock: שעון ישן
+  display-name-opened_chest: תיבה פתוחה
+  display-name-painting_burst: תמונה
+  display-name-painting_courbet: תמונה
+  display-name-painting_graham: תמונה
+  display-name-painting_match: תמונה
+  display-name-painting_pool: תמונה
+  display-name-painting_skull_and_roses: תמונה
+  display-name-painting_stage: תמונה
+  display-name-painting_void: תמונה
+  display-name-painting_wanderer: תמונה
+  display-name-small_fountain: מזרקה קטנה
+  display-name-table: שולחן
+  display-name-tv: טלוויזיה
+  display-name-vending_machine: מכונה אוטומטיות
+  lore-1-vending_machine: '&7השתמשו בה כדי לקבל פריטים מגניבים'
+  display-name-cut_spruce_log: בול עץ אשוח חתוך

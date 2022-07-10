@@ -1,0 +1,25 @@
+info:
+  namespace: iaweapons
+  dictionary-lang: he
+dictionary:
+  display-name-ak47: Ak-47
+  display-name-clip: קליפ
+  lore-1-clip: '&7החזיקו אותו ביד שמאל'
+  lore-2-clip: '&7בזמן הירי'
+  lore-3-clip: '&7with an ak-47'
+  display-name-firework_launcher: משגר זיקוקים
+  lore-1-firework_launcher: '&7החזיקו זיקוק ביד שמאל בשביל'
+  lore-2-firework_launcher: '&7ואז החזיקו את הלחצן הימני לחוץ בשביל לטעון'
+  lore-3-firework_launcher: '&7את המשגר'
+  display-name-grenade: רימון
+  display-name-hand_gun: אקדח
+  display-name-projectile: קליע
+  lore-1-projectile: '&7החזיקו אותו ביד שמאל'
+  lore-2-projectile: '&7בזמן הירי'
+  lore-3-projectile: '&7אם האקדח'
+  display-name-revolver: אקדח תופי
+  display-name-shotgun: רובה ציד
+  display-name-shotgun_cartridge: מחסנית רובה ציד
+  lore-1-shotgun_cartridge: '&7החזיקו אותו ביד שמאל'
+  lore-2-shotgun_cartridge: '&7בזמן הירי'
+  lore-3-shotgun_cartridge: '&7עם רובה הציד'

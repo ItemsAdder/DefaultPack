@@ -1,0 +1,46 @@
+info:
+  namespace: iageneric
+  dictionary-lang: he
+dictionary:
+  display-name-bug_medal: '&6מדליית באגפינדר'
+  lore-1-bug_medal: '&7מדליה זכתה על ידי'
+  lore-2-bug_medal: '&7טוב מאוד'
+  lore-3-bug_medal: '&7מאתר באגים.'
+  display-name-cute_medal: '&6מדליית חמוד'
+  lore-1-cute_medal: '&7מדליה זכתה על ידי'
+  lore-2-cute_medal: '&7האדם הכי חמוד.'
+  display-name-donator_medal: '&6מדליית תורם'
+  lore-1-donator_medal: '&7מדליה זכתה על ידי'
+  lore-2-donator_medal: '&7הנדיב ביותר.'
+  display-name-coin: מטבע
+  display-name-banknote: שטר כסף
+  display-name-sack_of_money: שק של כסף
+  display-name-plastic_bag: שקית פלסטיק
+  display-name-light_blue_coupon: קופון גנרי
+  display-name-turquoise_coupon: קופון גנרי
+  display-name-purple_coupon: קופון גנרי
+  display-name-green_coupon: קופון גנרי
+  display-name-red_coupon: קופון גנרי
+  display-name-black_coupon: קופון גנרי
+  display-name-white_coupon: קופון גנרי
+  display-name-golden_coupon: קופון גנרי
+  display-name-blue_ring: טבעת גנרית
+  display-name-light_blue_ring: טבעת גנרית
+  display-name-turquoise_ring: טבעת גנרית
+  display-name-purple_ring: טבעת גנרית
+  display-name-green_ring: טבעת גנרית
+  display-name-red_ring: טבעת גנרית
+  display-name-black_ring: טבעת גנרית
+  display-name-white_ring: טבעת גנרית
+  display-name-golden_ring: טבעת גנרית
+  display-name-marriage_ring: טבעת נישואין
+  display-name-blue_key: מפתח גנרי
+  display-name-light_blue_key: מפתח גנרי
+  display-name-turquoise_key: מפתח גנרי
+  display-name-purple_key: מפתח גנרי
+  display-name-green_key: מפתח גנרי
+  display-name-red_key: מפתח גנרי
+  display-name-black_key: מפתח גנרי
+  display-name-white_key: מפתח גנרי
+  display-name-golden_key: מפתח גנרי
+  display-name-carton_box: קופסת קרטון

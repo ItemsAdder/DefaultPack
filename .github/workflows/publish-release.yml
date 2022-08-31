@@ -1,10 +1,12 @@
-name: Release
-on: 
-  push:
-    tags:
-    - '*'
+name: Publish Release
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        type: string
+        description: Version
 jobs:
-  build:
+  publish_release:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
@@ -12,10 +14,11 @@ jobs:
       uses: thedoctor0/zip-release@main
       with:
         type: 'zip'
-        filename: 'default_pack.zip'
+        filename: 'default_pack${{ github.event.inputs.version }}.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig *.md'
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
-        artifacts: "default_pack.zip"
+        artifacts: "default_pack_${{ github.event.inputs.version }}.zip"
+        tag: ${{ github.event.inputs.version }}
         token: ${{ secrets.GITHUB_TOKEN }}

@@ -135,7 +135,6 @@ categories:
     name: display-category-bows
     permission: ia.menu.seecategory.bows
     items:
-      - iasurvival:astral_bow
       - iasurvival:black_bow
       - iasurvival:red_bow
       - iasurvival:green_bow

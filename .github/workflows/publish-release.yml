@@ -17,7 +17,7 @@ jobs:
       uses: thedoctor0/zip-release@main
       with:
         type: 'zip'
-        filename: 'default_pack${{ github.event.inputs.version }}.zip'
+        filename: 'default_pack_${{ github.event.inputs.version }}.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig *.md'
     - name: Upload Release
       uses: ncipollo/release-action@v1

@@ -1,0 +1,14 @@
+info:
+  namespace: iaspecial_swords
+  dictionary-lang: he
+dictionary:
+  display-name-baseball_bat: מחבט
+  display-name-elucidator_sword: מבאר
+  display-name-floating_sword: '&9&lחרב צפה'
+  display-name-gandalf_stick: מקל גנדלף
+  display-name-guitar_sword: חרב גיטרה
+  display-name-green_lightsaber: '&2&lחרב אור ירוק'
+  display-name-red_lightsaber: '&4&lחרב אור אדום'
+  display-name-blue_lightsaber: '&3&lחרב אור כחול'
+  display-name-masters_sword: '&6&lהחרב של המאסטר'
+  display-name-repulser_sword: דוחה

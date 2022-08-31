@@ -1,0 +1,18 @@
+info:
+  namespace: iafestivities
+  dictionary-lang: en
+dictionary:
+  display-name-christmas_candle: נר חג המולד
+  display-name-christmas_tree: עץ חג המולד
+  display-name-christmas_wreath: זר חג המולד
+  display-name-decorative_candy_cane: קנה סוכריות דקורטיבי
+  display-name-santa_hat: '&cהכובע של סנטה'
+  display-name-axe_hat: כובע גרזן
+  display-name-bat_wings: כנפי עטלף
+  display-name-bones_backpack: תרמיל גב עצמות
+  display-name-cave_spider_backpack: תרמיל עכביש המערה
+  display-name-dark_jack_o_lantern_backpack: '&4Dark &6Jack o''Lantern &fBackpack'
+  display-name-decorative_pumpkin: דלעת דקורטיבית
+  display-name-jack_o_lantern_backpack: '&6Jack o''Lantern &fBackpack'
+  display-name-spider_backpack: Spider &fBackpack
+  display-name-witch_hat: כובע מכשפה

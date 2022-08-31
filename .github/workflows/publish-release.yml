@@ -5,6 +5,9 @@ on:
       version:
         type: string
         description: Version
+      body:
+        type: text
+        description: Body text
 jobs:
   publish_release:
     runs-on: ubuntu-latest
@@ -21,4 +24,5 @@ jobs:
       with:
         artifacts: "default_pack_${{ github.event.inputs.version }}.zip"
         tag: ${{ github.event.inputs.version }}
+        body: ${{ github.event.inputs.body }}
         token: ${{ secrets.GITHUB_TOKEN }}

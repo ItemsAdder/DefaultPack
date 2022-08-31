@@ -56,10 +56,7 @@ categories:
     name: display-category-pickaxes
     permission: ia.menu.seecategory.pickaxes
     items:
-      - iasurvival:astral_pickaxe
       - iasurvival:diamond_hammer
-      - iasurvival:demoniac_hammer
-      - iasurvival:demoniac_pickaxe
       - iasurvival:ruby_pickaxe
       - iasurvival:dark_amethyst_pickaxe
       - iasurvival:bronze_pickaxe

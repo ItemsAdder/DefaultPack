@@ -3,7 +3,7 @@ LoneDev ItemsAdder Resource License
 Copyright (c) 2022 LoneDev
 
 Permissions:
-- You can use and edit this resource for your Minecraft servers if you own a license for ItemsAdder.
+- You can use and edit this resource for your Minecraft servers if you own a legitimate personal license for ItemsAdder.
 - You can use these assets in your server project if you own a legitimate personal license of ItemsAdder. You can let your players download the resourcepack in order to play the game but not for ANY other reasons.
 
 Limitations:

@@ -98,3 +98,21 @@ categories:
       - iaalchemy:energy_extractor
       - iaalchemy:energy_converter
       - iasurvival:restoration_table
+  pickaxes:
+    enabled: true
+    skip_if_already: false
+    icon: iaalchemy:astral_pickaxe
+    name: display-category-pickaxes
+    permission: ia.menu.seecategory.pickaxes
+    items:
+      - iaalchemy:astral_pickaxe
+      - iaalchemy:demoniac_hammer
+      - iaalchemy:demoniac_pickaxe
+  bows:
+    enabled: true
+    skip_if_already: false
+    icon: iaalchemy:astral_bow
+    name: display-category-bows
+    permission: ia.menu.seecategory.bows
+    items:
+      - iaalchemy:astral_bow

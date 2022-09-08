@@ -11,3 +11,13 @@ font_images:
     show_in_gui: false
     path: gui/energy_extractor_right
     y_position: 12
+  energy_converter_left:
+    suggest_in_command: false
+    show_in_gui: false
+    path: gui/energy_converter_left
+    y_position: 12
+  energy_converter_right:
+    suggest_in_command: false
+    show_in_gui: false
+    path: gui/energy_converter_right
+    y_position: 12

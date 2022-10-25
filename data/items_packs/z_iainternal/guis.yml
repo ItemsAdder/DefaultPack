@@ -21,3 +21,7 @@ font_images:
     path: gui/anvil_repair
     suggest_in_command: false
     y_position: 47
+  smithing:
+    path: gui/smithing
+    suggest_in_command: false
+    y_position: 47

@@ -35,6 +35,9 @@ settings:
     anvil_repair_font_image:
       name: z_iainternal:anvil_repair
       x_position_pixels: -16
+    smithing_font_image:
+      name: z_iainternal:smithing
+      x_position_pixels: -16
     title_position_pixels: 17
     title_color: '&0'
     icons:

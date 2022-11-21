@@ -2,51 +2,51 @@ settings:
   cut_titles_with_length_grether_than: 25
   categories_view:
     font_image:
-      name: z_iainternal:blank_menu
+      name: _iainternal:blank_menu
       x_position_pixels: -16
     title_position_pixels: 0
     title_color: '&0'
     icons:
       search:
-        item: z_iainternal:icon_search
+        item: _iainternal:icon_search
   category_view:
     font_image:
-      name: z_iainternal:blank_menu
+      name: _iainternal:blank_menu
       x_position_pixels: -16
     title_position_pixels: 0
     title_color: '&0'
     icons:
       back:
-        item: z_iainternal:icon_cancel
+        item: _iainternal:icon_cancel
       previous_page:
-        item: z_iainternal:icon_back_orange
+        item: _iainternal:icon_back_orange
       next_page:
-        item: z_iainternal:icon_next_orange
+        item: _iainternal:icon_next_orange
   crafting_preview:
     no_recipe_font_image:
-      name: z_iainternal:no_recipe
+      name: _iainternal:no_recipe
       x_position_pixels: -16
     craft_font_image:
-      name: z_iainternal:crafting
+      name: _iainternal:crafting
       x_position_pixels: -16
     cook_font_image:
-      name: z_iainternal:cooking
+      name: _iainternal:cooking
       x_position_pixels: -16
     anvil_repair_font_image:
-      name: z_iainternal:anvil_repair
+      name: _iainternal:anvil_repair
       x_position_pixels: -16
     smithing_font_image:
-      name: z_iainternal:smithing
+      name: _iainternal:smithing
       x_position_pixels: -16
     title_position_pixels: 17
     title_color: '&0'
     icons:
       previous_recipe:
-        item: z_iainternal:icon_left_blue
+        item: _iainternal:icon_left_blue
       next_recipe:
-        item: z_iainternal:icon_right_blue
+        item: _iainternal:icon_right_blue
       get_item:
-        item: z_iainternal:icon_arrow_chest
+        item: _iainternal:icon_arrow_chest
       loot_blocks:
         item: DIAMOND_PICKAXE
       worlds_populators:
@@ -69,23 +69,23 @@ categories:
     icon: iasurvival:ruby_block
     name: display-category-all
     show_all_items: true
-    permission: "ia.menu.seecategory.all"
+    permission: ia.menu.seecategory.all
     hide_items:
-    - z_iainternal:icon_left_grey
-    - z_iainternal:icon_left_blue
-    - z_iainternal:icon_right_grey
-    - z_iainternal:icon_right_blue
-    - z_iainternal:icon_up_grey
-    - z_iainternal:icon_up_blue
-    - z_iainternal:icon_next_white
-    - z_iainternal:icon_next_orange
-    - z_iainternal:icon_back_white
-    - z_iainternal:icon_back_orange
-    - z_iainternal:icon_cancel
-    - z_iainternal:icon_confirm
-    - z_iainternal:icon_lock
-    - z_iainternal:icon_unlock
-    - z_iainternal:icon_web
+    - _iainternal:icon_left_grey
+    - _iainternal:icon_left_blue
+    - _iainternal:icon_right_grey
+    - _iainternal:icon_right_blue
+    - _iainternal:icon_up_grey
+    - _iainternal:icon_up_blue
+    - _iainternal:icon_next_white
+    - _iainternal:icon_next_orange
+    - _iainternal:icon_back_white
+    - _iainternal:icon_back_orange
+    - _iainternal:icon_cancel
+    - _iainternal:icon_confirm
+    - _iainternal:icon_lock
+    - _iainternal:icon_unlock
+    - _iainternal:icon_web
     - mcicons:icon_left_grey
     - mcicons:icon_left_blue
     - mcicons:icon_right_grey

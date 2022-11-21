@@ -1,8 +1,0 @@
-info:
-  namespace: z_iainternal
-minecraft_lang_overwrite:
-  disable_merchant_trade:
-    entries:
-      "merchant.trades": ""
-    languages:
-      - ALL

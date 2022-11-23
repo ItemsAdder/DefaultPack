@@ -1,6 +1,6 @@
 info:
   namespace: iageneric
-  dictionary-lang: en
+  dictionary-lang: ru
 dictionary:
   display-name-bug_medal: '&6Медаль искателя багов'
   lore-1-bug_medal: '&7Медаль получена за'

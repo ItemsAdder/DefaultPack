@@ -1,0 +1,46 @@
+info:
+  namespace: iageneric
+  dictionary-lang: th
+dictionary:
+  display-name-bug_medal: '&6เหรียญสำหรับหา bug'
+  lore-1-bug_medal: '&7เหรียญที่ได้มาจาก'
+  lore-2-bug_medal: '&7นักหา bug'
+  lore-3-bug_medal: '&7ที่เก่งกาจ'
+  display-name-cute_medal: '&6เหรียญแห่งความน่ารัก'
+  lore-1-cute_medal: '&7เหรียญที่ได้มาจาก'
+  lore-2-cute_medal: '&7คนที่น่ารักที่สุด'
+  display-name-donator_medal: '&6เหรียญนักบริจาค'
+  lore-1-donator_medal: '&7เหรียญที่ได้มาจาก'
+  lore-2-donator_medal: '&7ผู้ที่มีใจกุศลมาก'
+  display-name-coin: เหรียญ
+  display-name-banknote: ธนบัตร
+  display-name-sack_of_money: กระสอบที่เต็มไปด้วยเงิน
+  display-name-plastic_bag: ถุงพลาสติก
+  display-name-light_blue_coupon: คูปองธรรมดา
+  display-name-turquoise_coupon: คูปองธรรมดา
+  display-name-purple_coupon: คูปองธรรมดา
+  display-name-green_coupon: คูปองธรรมดา
+  display-name-red_coupon: คูปองธรรมดา
+  display-name-black_coupon: คูปองธรรมดา
+  display-name-white_coupon: คูปองธรรมดา
+  display-name-golden_coupon: คูปองธรรมดา
+  display-name-blue_ring: แหวนธรรมดา
+  display-name-light_blue_ring: แหวนธรรมดา
+  display-name-turquoise_ring: แหวนธรรมดา
+  display-name-purple_ring: แหวนธรรมดา
+  display-name-green_ring: แหวนธรรมดา
+  display-name-red_ring: แหวนธรรมดา
+  display-name-black_ring: แหวนธรรมดา
+  display-name-white_ring: แหวนธรรมดา
+  display-name-golden_ring: แหวนธรรมดา
+  display-name-marriage_ring: แหวนแต่งงาน
+  display-name-blue_key: กุญแจธรรมดา
+  display-name-light_blue_key: กุญแจธรรมดา
+  display-name-turquoise_key: กุญแจธรรมดา
+  display-name-purple_key: กุญแจธรรมดา
+  display-name-green_key: กุญแจธรรมดา
+  display-name-red_key: กุญแจธรรมดา
+  display-name-black_key: กุญแจธรรมดา
+  display-name-white_key: กุญแจธรรมดา
+  display-name-golden_key: กุญแจธรรมดา
+  display-name-carton_box: กล่องกระดาษ

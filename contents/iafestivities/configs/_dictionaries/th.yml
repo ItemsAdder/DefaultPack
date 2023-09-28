@@ -1,0 +1,18 @@
+info:
+  namespace: iafestivities
+  dictionary-lang: th
+dictionary:
+  display-name-christmas_candle: เทียนไขคริสต์มาส
+  display-name-christmas_tree: ต้นคริสต์มาส
+  display-name-christmas_wreath: พวงมาลัยคริสต์มาส
+  display-name-decorative_candy_cane: แท่งขนมหวานสำหรับการตกแต่ง
+  display-name-santa_hat: '&cหมวกซานต้า'
+  display-name-axe_hat: หมวกขวาน
+  display-name-bat_wings: ปีกค้างคาว
+  display-name-bones_backpack: เป้ &fกระดูก
+  display-name-cave_spider_backpack: เป้ &fแมงมุมถ้ำ
+  display-name-dark_jack_o_lantern_backpack: '&4เป้ &6Jack o''Lantern &fสีเข้ม'
+  display-name-decorative_pumpkin: ฟักทองสำหรับตกแต่ง
+  display-name-jack_o_lantern_backpack: '&6เป้ &fJack o''Lantern'
+  display-name-spider_backpack: เป้ &fแมงมุม
+  display-name-witch_hat: หมวกแม่มด

@@ -1,0 +1,31 @@
+info:
+  namespace: iawearables
+  dictionary-lang: th
+dictionary:
+  display-name-deadmau5_hat: '&9หมวก deadmau5'
+  display-name-top_hat: หมวกทรงสูง
+  display-name-welding_mask: หน้ากากเชื่อมเหล็ก
+  display-name-mining_helmet: หมวกคนเหมือง
+  display-name-dog_mask: หน้ากากสุนัข
+  display-name-ruby_pickaxe_hat: หมวกอีเตอร์ทับทิม
+  display-name-straw_hat: หมวกฟาง
+  display-name-cool_sunglasses: แว่นกันแดดเท่
+  display-name-cigar: ซิการ์
+  display-name-glasses: แว่นตา
+  display-name-biker_helmet: หมวกไบเกอร์
+  display-name-cat_ears: หูแมว
+  display-name-demoniac_red_wings: ปีกปีศาจแดง
+  display-name-demoniac_turquoise_wings: ปีกปีศาจเทอร์คอยซ์
+  display-name-demoniac_purple_wings: ปีกปีศาจม่วง
+  display-name-demoniac_blue_wings: ปีกปีศาจสีน้ำเงิน
+  display-name-demoniac_black_wings: ปีกปีศาจดำ
+  display-name-all_black_cat_tail: หางแมวสีดำล้วน
+  display-name-black_cat_tail: หางแมวสีดำ
+  display-name-white_cat_tail: หางแมวสีขาว
+  display-name-ender_dragon_wings: ปีกมังกรเอนเดอร์
+  display-name-red_backpack: เป้สีแดง
+  display-name-turquoise_backpack: เป้เทอร์คอยซ์
+  display-name-purple_backpack: เป้สีม่วง
+  display-name-blue_backpack: เป้สีน้ำเงิน
+  display-name-black_backpack: เป้สีดำ
+  display-name-brown_backpack: เป้สีน้ำตาล

@@ -1,0 +1,75 @@
+info:
+  namespace: iaalchemy
+  dictionary-lang: th
+dictionary:
+  display-name-alchemy_candles: เทียนไขการแปรธาตุ
+  display-name-arcane_ring: แหวนแห่งความขลัง
+  lore-1-arcane_ring: '&6[ &eเอฟเฟกต์พิเศษ &6]'
+  lore-2-arcane_ring: '&7การคืนชีพ'
+  display-name-astral_bow: ธนูแห่งดวงดาว
+  display-name-astral_pickaxe: '&3อีเตอร์แห่งดวงดาว'
+  display-name-demoniac_hammer: '&4&lค้อนปีศาจ'
+  lore-1-demoniac_hammer: '&7เมื่อคุณทำการขุดบล็อก'
+  lore-2-demoniac_hammer: '&7จะดรอปลูกกลม exp'
+  lore-3-demoniac_hammer: ''
+  lore-4-demoniac_hammer: '&bเหมือง 3x3x3'
+  display-name-demoniac_pickaxe: '&4&lอีเตอร์ปีศาจ'
+  lore-1-demoniac_pickaxe: '&7เมื่อคุณทำการขุดบล็อก'
+  lore-2-demoniac_pickaxe: '&7จะดรอปลูกกลม exp'
+  lore-3-demoniac_pickaxe: '&750% เท่าตัว.'
+  display-name-energy_orb: '&5ลูกกลมพลังงาน'
+  lore-1-energy_orb: '&7ได้มาจากเครื่องสกัดพลังงาน'
+  display-name-small_energy_capsule: '&dแคปซูลพลังงานขนาดเล็ก'
+  lore-1-small_energy_capsule: '&7จะมี &5ลูกกลมพลังงาน &fx8'
+  display-name-energy_capsule: '&6แคปซูลพลังงาน'
+  lore-1-energy_capsule: '&7จะมี &dSแคปซูลพลังงานขนาดเล็ก &fx8'
+  lore-2-energy_capsule: '&7(&5ลูกกลมพลังงาน &fx64&7)'
+  display-name-healing_crystals: คริสตัลแห่งการรักษา
+  display-name-energy_converter: เครื่องแปลงพลังงาน
+  lore-1-energy_converter: '&7ใช้ในการแปลงพลังงาน'
+  lore-2-energy_converter: '&7ให้เป็นไอเท็มต่าง ๆ'
+  display-name-energy_extractor: เครื่องสกัดพลังงาน
+  lore-1-energy_extractor: '&7ใช้ในการเปลื่ยนไอเท็ม'
+  lore-2-energy_extractor: '&7ให้เป็นพลังงาน'
+  display-name-mysterious_amulet: เครื่องรางลึกลับ
+  display-name-mysterious_hood: หมวกคลุมลึกลับ
+  lore-1-mysterious_hood: '&6[ &eเอฟเฟกต์พิเศษ &6]'
+  lore-2-mysterious_hood: '&9การมองเห็นกลางคืน (**:**)'
+  lore-3-mysterious_hood: '&9โชคร้าย (**:**)'
+  display-name-mysterious_robe: เสื้อคลุมลึกลับ
+  display-name-mysterious_leggings: เลกกิ้งลึกลับ
+  display-name-mysterious_boots: รองเท้าบูทลึกลับ
+  lore-1-mysterious_boots: '&6[ &eเอฟเฟกต์พิเศษ &6]'
+  lore-2-mysterious_boots: '&9ความเร็ว II (**:**)'
+  display-name-mysterious_artifact: สิ่งประดิษฐ์ลึกลับ
+  display-name-mysterious_book: หนังสือลึกลับ
+  display-name-mysterious_book_decrypted: หนังสือลึกลับที่ถูกถอดรหัสแล้ว
+  display-name-mysterious_material: วัสดุลึกลับ
+  display-name-mysterious_ore: แร่ลึกลับ
+  display-name-mysterious_stone: หินลึกลับ
+  display-name-mysterious_sword: ดาบลึกลับ
+  display-name-nether_alchemy_ore: แร่จากโลกวิญญาณ
+  display-name-philosopher_stone: ศิลาอาถรรพ์
+  lore-1-philosopher_stone: '&6[ &eเอฟเฟกต์พิเศษ &6]'
+  lore-2-philosopher_stone: '&7คลิกขวา + SHIFT: '
+  lore-3-philosopher_stone: '   - &4ลาวา &7เป็น &8ออบซิเดียน'
+  lore-4-philosopher_stone: '   - &cดอกป๊อปปนี้ &7เป็น &eดอกแดนดิไลอัน'
+  lore-5-philosopher_stone: ' '
+  lore-6-philosopher_stone: '&7คลิกขวา: '
+  lore-7-philosopher_stone: '   - &eทราย &7เป็น &8หินปูถนน'
+  lore-8-philosopher_stone: '   - &9น้ำ &7เป็น &bน้ำแข็ง'
+  lore-9-philosopher_stone: '   - &eดอกแดนดิไลอัน &7เป็น &cดอกป๊อปปนี้'
+  lore-10-philosopher_stone: '   - &2แตง &7เป็น &6ฟักทอง'
+  lore-11-philosopher_stone: '   - &fแก้ว &7เป็น &eทราย'
+  lore-12-philosopher_stone: ' '
+  lore-13-philosopher_stone: '&7เพื่อการชาร์จและไว้บน &fโต๊ะประดิษฐ์งาน'
+  lore-14-philosopher_stone: '&7ในช่องกลางและใส่ &5ลูกกลมพลังงาน'
+  lore-15-philosopher_stone: '&7(หรือที่เก็บพลังงานอื่น ๆ) ทางด้านขวา'
+  display-name-diamonds_finder_potion: น้ำยาสำหรับหาเพชร
+  lore-1-diamonds_finder_potion: '&7ทำให้แร่เพชรเรืองแสงด้านหลังบล็อกอื่น ๆ'
+  display-name-emeralds_finder_potion: น้ำยาสำหรับหามรกต
+  lore-1-emeralds_finder_potion: '&7ทำให้แร่มรกตเรืองแสงด้านหลังบล็อกอื่น ๆ'
+  display-name-strange_potion: น้ำยาประหลาด
+  lore-1-strange_potion: '&7A น้ำยาลึกลับ'
+  display-name-antidote: ยกแก้พิษ
+  lore-1-antidote: '&7แก้ไขฤทธิเดชจากน้ำยา'

@@ -19,7 +19,7 @@ items:
         - item/demoniac_pickaxe
     blocked_enchants:
       - MENDING
-      - EFFICIENCY
+      - DIG_SPEED
     events:
       block_break:
         drop_exp:

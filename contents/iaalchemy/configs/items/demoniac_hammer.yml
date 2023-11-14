@@ -20,7 +20,7 @@ items:
         - item/demoniac_hammer
     blocked_enchants:
       - MENDING
-      - EFFICIENCY
+      - DIG_SPEED
     events:
       block_break:
         multiple_break:

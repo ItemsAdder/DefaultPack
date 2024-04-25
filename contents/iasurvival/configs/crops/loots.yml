@@ -3,7 +3,7 @@ info:
 loots:
   blocks:
     grass:
-      type: GRASS
+      type: SHORT_GRASS
       items:
         tomato_seeds:
           item: iasurvival:tomato_seeds

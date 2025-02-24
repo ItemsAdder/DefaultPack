@@ -6,12 +6,13 @@ recipes:
       permission: iasurvival.machinery.restoration_table
       enabled: true
       pattern:
-        - RRR
+        - DBD
         - XCX
         - XXX
       ingredients:
         C: CRAFTING_TABLE
-        R: iasurvival:knowledge_fragment
+        D: DIAMOND
+        B: DIAMOND_BLOCK
       result:
         item: iasurvival:restoration_table
         amount: 1

@@ -1,0 +1,1605 @@
+info:
+  namespace: twitteremojis
+font_images:
+  0:
+    permission: twitteremojis.0
+    show_in_gui: true
+    path: font/emoji/0
+    scale_ratio: 9
+    y_position: 8
+  1:
+    permission: twitteremojis.1
+    show_in_gui: true
+    path: font/emoji/1
+    scale_ratio: 9
+    y_position: 8
+  2:
+    permission: twitteremojis.2
+    show_in_gui: true
+    path: font/emoji/2
+    scale_ratio: 9
+    y_position: 8
+  3:
+    permission: twitteremojis.3
+    show_in_gui: true
+    path: font/emoji/3
+    scale_ratio: 9
+    y_position: 8
+  4:
+    permission: twitteremojis.4
+    show_in_gui: true
+    path: font/emoji/4
+    scale_ratio: 9
+    y_position: 8
+  5:
+    permission: twitteremojis.5
+    show_in_gui: true
+    path: font/emoji/5
+    scale_ratio: 9
+    y_position: 8
+  6:
+    permission: twitteremojis.6
+    show_in_gui: true
+    path: font/emoji/6
+    scale_ratio: 9
+    y_position: 8
+  7:
+    permission: twitteremojis.7
+    show_in_gui: true
+    path: font/emoji/7
+    scale_ratio: 9
+    y_position: 8
+  8:
+    permission: twitteremojis.8
+    show_in_gui: true
+    path: font/emoji/8
+    scale_ratio: 9
+    y_position: 8
+  9:
+    permission: twitteremojis.9
+    show_in_gui: true
+    path: font/emoji/9
+    scale_ratio: 9
+    y_position: 8
+  alarmclock:
+    permission: twitteremojis.alarmclock
+    show_in_gui: true
+    path: font/emoji/alarmclock
+    scale_ratio: 9
+    y_position: 8
+  alien:
+    permission: twitteremojis.alien
+    show_in_gui: true
+    path: font/emoji/alien
+    scale_ratio: 9
+    y_position: 8
+  angry:
+    permission: twitteremojis.angry
+    show_in_gui: true
+    path: font/emoji/angry
+    scale_ratio: 9
+    y_position: 8
+  angry1:
+    permission: twitteremojis.angry1
+    show_in_gui: true
+    path: font/emoji/angry1
+    scale_ratio: 9
+    y_position: 8
+  angry2:
+    permission: twitteremojis.angry2
+    show_in_gui: true
+    path: font/emoji/angry2
+    scale_ratio: 9
+    y_position: 8
+  angry3:
+    permission: twitteremojis.angry3
+    show_in_gui: true
+    path: font/emoji/angry3
+    scale_ratio: 9
+    y_position: 8
+  anxious:
+    permission: twitteremojis.anxious
+    show_in_gui: true
+    path: font/emoji/anxious
+    scale_ratio: 9
+    y_position: 8
+  aquarius:
+    permission: twitteremojis.aquarius
+    show_in_gui: true
+    path: font/emoji/aquarius
+    scale_ratio: 9
+    y_position: 8
+  aries:
+    permission: twitteremojis.aries
+    show_in_gui: true
+    path: font/emoji/aries
+    scale_ratio: 9
+    y_position: 8
+  asterisk:
+    permission: twitteremojis.asterisk
+    show_in_gui: true
+    path: font/emoji/asterisk
+    scale_ratio: 9
+    y_position: 8
+  atm:
+    permission: twitteremojis.atm
+    show_in_gui: true
+    path: font/emoji/atm
+    scale_ratio: 9
+    y_position: 8
+  avocado:
+    permission: twitteremojis.avocado
+    show_in_gui: true
+    path: font/emoji/avocado
+    scale_ratio: 9
+    y_position: 8
+  bacon:
+    permission: twitteremojis.bacon
+    show_in_gui: true
+    path: font/emoji/bacon
+    scale_ratio: 9
+    y_position: 8
+  baguette:
+    permission: twitteremojis.baguette
+    show_in_gui: true
+    path: font/emoji/baguette
+    scale_ratio: 9
+    y_position: 8
+  bandage:
+    permission: twitteremojis.bandage
+    show_in_gui: true
+    path: font/emoji/bandage
+    scale_ratio: 9
+    y_position: 8
+  bat:
+    permission: twitteremojis.bat
+    show_in_gui: true
+    path: font/emoji/bat
+    scale_ratio: 9
+    y_position: 8
+  biceps:
+    permission: twitteremojis.biceps
+    show_in_gui: true
+    path: font/emoji/biceps
+    scale_ratio: 9
+    y_position: 8
+  biohazard:
+    permission: twitteremojis.biohazard
+    show_in_gui: true
+    path: font/emoji/biohazard
+    scale_ratio: 9
+    y_position: 8
+  blocked:
+    permission: twitteremojis.blocked
+    show_in_gui: true
+    path: font/emoji/blocked
+    scale_ratio: 9
+    y_position: 8
+  blood:
+    permission: twitteremojis.blood
+    show_in_gui: true
+    path: font/emoji/blood
+    scale_ratio: 9
+    y_position: 8
+  blush:
+    permission: twitteremojis.blush
+    show_in_gui: true
+    path: font/emoji/blush
+    scale_ratio: 9
+    y_position: 8
+  bye:
+    permission: twitteremojis.bye
+    show_in_gui: true
+    path: font/emoji/bye
+    scale_ratio: 9
+    y_position: 8
+  callme:
+    permission: twitteremojis.callme
+    show_in_gui: true
+    path: font/emoji/callme
+    scale_ratio: 9
+    y_position: 8
+  cancel:
+    permission: twitteremojis.cancel
+    show_in_gui: true
+    path: font/emoji/cancel
+    scale_ratio: 9
+    y_position: 8
+  cancer:
+    permission: twitteremojis.cancer
+    show_in_gui: true
+    path: font/emoji/cancer
+    scale_ratio: 9
+    y_position: 8
+  capricorn:
+    permission: twitteremojis.capricorn
+    show_in_gui: true
+    path: font/emoji/capricorn
+    scale_ratio: 9
+    y_position: 8
+  carrot:
+    permission: twitteremojis.carrot
+    show_in_gui: true
+    path: font/emoji/carrot
+    scale_ratio: 9
+    y_position: 8
+  chair:
+    permission: twitteremojis.chair
+    show_in_gui: true
+    path: font/emoji/chair
+    scale_ratio: 9
+    y_position: 8
+  chick:
+    permission: twitteremojis.chick
+    show_in_gui: true
+    path: font/emoji/chick
+    scale_ratio: 9
+    y_position: 8
+  chick1:
+    permission: twitteremojis.chick1
+    show_in_gui: true
+    path: font/emoji/chick1
+    scale_ratio: 9
+    y_position: 8
+  chick2:
+    permission: twitteremojis.chick2
+    show_in_gui: true
+    path: font/emoji/chick2
+    scale_ratio: 9
+    y_position: 8
+  clap:
+    permission: twitteremojis.clap
+    show_in_gui: true
+    path: font/emoji/clap
+    scale_ratio: 9
+    y_position: 8
+  coffin:
+    permission: twitteremojis.coffin
+    show_in_gui: true
+    path: font/emoji/coffin
+    scale_ratio: 9
+    y_position: 8
+  cold:
+    permission: twitteremojis.cold
+    show_in_gui: true
+    path: font/emoji/cold
+    scale_ratio: 9
+    y_position: 8
+  confirm:
+    permission: twitteremojis.confirm
+    show_in_gui: true
+    path: font/emoji/confirm
+    scale_ratio: 9
+    y_position: 8
+  confused:
+    permission: twitteremojis.confused
+    show_in_gui: true
+    path: font/emoji/confused
+    scale_ratio: 9
+    y_position: 8
+  confused1:
+    permission: twitteremojis.confused1
+    show_in_gui: true
+    path: font/emoji/confused1
+    scale_ratio: 9
+    y_position: 8
+  couple:
+    permission: twitteremojis.couple
+    show_in_gui: true
+    path: font/emoji/couple
+    scale_ratio: 9
+    y_position: 8
+  cowboy:
+    permission: twitteremojis.cowboy
+    show_in_gui: true
+    path: font/emoji/cowboy
+    scale_ratio: 9
+    y_position: 8
+  crab:
+    permission: twitteremojis.crab
+    show_in_gui: true
+    path: font/emoji/crab
+    scale_ratio: 9
+    y_position: 8
+  croissant:
+    permission: twitteremojis.croissant
+    show_in_gui: true
+    path: font/emoji/croissant
+    scale_ratio: 9
+    y_position: 8
+  crossedfingers:
+    permission: twitteremojis.crossedfingers
+    show_in_gui: true
+    path: font/emoji/crossedfingers
+    scale_ratio: 9
+    y_position: 8
+  cry:
+    permission: twitteremojis.cry
+    show_in_gui: true
+    path: font/emoji/cry
+    scale_ratio: 9
+    y_position: 8
+  cry1:
+    permission: twitteremojis.cry1
+    show_in_gui: true
+    path: font/emoji/cry1
+    scale_ratio: 9
+    y_position: 8
+  crycat:
+    permission: twitteremojis.crycat
+    show_in_gui: true
+    path: font/emoji/crycat
+    scale_ratio: 9
+    y_position: 8
+  cucumber:
+    permission: twitteremojis.cucumber
+    show_in_gui: true
+    path: font/emoji/cucumber
+    scale_ratio: 9
+    y_position: 8
+  dead:
+    permission: twitteremojis.dead
+    show_in_gui: true
+    path: font/emoji/dead
+    scale_ratio: 9
+    y_position: 8
+  dead1:
+    permission: twitteremojis.dead1
+    show_in_gui: true
+    path: font/emoji/dead1
+    scale_ratio: 9
+    y_position: 8
+  dollar:
+    permission: twitteremojis.dollar
+    show_in_gui: true
+    path: font/emoji/dollar
+    scale_ratio: 9
+    y_position: 8
+  doubleexclamation:
+    permission: twitteremojis.doubleexclamation
+    show_in_gui: true
+    path: font/emoji/doubleexclamation
+    scale_ratio: 9
+    y_position: 8
+  down:
+    permission: twitteremojis.down
+    show_in_gui: true
+    path: font/emoji/down
+    scale_ratio: 9
+    y_position: 8
+  drops:
+    permission: twitteremojis.drops
+    show_in_gui: true
+    path: font/emoji/drops
+    scale_ratio: 9
+    y_position: 8
+  drumstick:
+    permission: twitteremojis.drumstick
+    show_in_gui: true
+    path: font/emoji/drumstick
+    scale_ratio: 9
+    y_position: 8
+  duck:
+    permission: twitteremojis.duck
+    show_in_gui: true
+    path: font/emoji/duck
+    scale_ratio: 9
+    y_position: 8
+  eagle:
+    permission: twitteremojis.eagle
+    show_in_gui: true
+    path: font/emoji/eagle
+    scale_ratio: 9
+    y_position: 8
+  eggplant:
+    permission: twitteremojis.eggplant
+    show_in_gui: true
+    path: font/emoji/eggplant
+    scale_ratio: 9
+    y_position: 8
+  eject:
+    permission: twitteremojis.eject
+    show_in_gui: true
+    path: font/emoji/eject
+    scale_ratio: 9
+    y_position: 8
+  evil:
+    permission: twitteremojis.evil
+    show_in_gui: true
+    path: font/emoji/evil
+    scale_ratio: 9
+    y_position: 8
+  explodehead:
+    permission: twitteremojis.explodehead
+    show_in_gui: true
+    path: font/emoji/explodehead
+    scale_ratio: 9
+    y_position: 8
+  eyes:
+    permission: twitteremojis.eyes
+    show_in_gui: true
+    path: font/emoji/eyes
+    scale_ratio: 9
+    y_position: 8
+  facemask:
+    permission: twitteremojis.facemask
+    show_in_gui: true
+    path: font/emoji/facemask
+    scale_ratio: 9
+    y_position: 8
+  fastdown:
+    permission: twitteremojis.fastdown
+    show_in_gui: true
+    path: font/emoji/fastdown
+    scale_ratio: 9
+    y_position: 8
+  fastforward:
+    permission: twitteremojis.fastforward
+    show_in_gui: true
+    path: font/emoji/fastforward
+    scale_ratio: 9
+    y_position: 8
+  fastreverse:
+    permission: twitteremojis.fastreverse
+    show_in_gui: true
+    path: font/emoji/fastreverse
+    scale_ratio: 9
+    y_position: 8
+  fastup:
+    permission: twitteremojis.fastup
+    show_in_gui: true
+    path: font/emoji/fastup
+    scale_ratio: 9
+    y_position: 8
+  fbowing:
+    permission: twitteremojis.fbowing
+    show_in_gui: true
+    path: font/emoji/fbowing
+    scale_ratio: 9
+    y_position: 8
+  fear:
+    permission: twitteremojis.fear
+    show_in_gui: true
+    path: font/emoji/fear
+    scale_ratio: 9
+    y_position: 8
+  fear1:
+    permission: twitteremojis.fear1
+    show_in_gui: true
+    path: font/emoji/fear1
+    scale_ratio: 9
+    y_position: 8
+  fear3:
+    permission: twitteremojis.fear3
+    show_in_gui: true
+    path: font/emoji/fear3
+    scale_ratio: 9
+    y_position: 8
+  featcat:
+    permission: twitteremojis.featcat
+    show_in_gui: true
+    path: font/emoji/featcat
+    scale_ratio: 9
+    y_position: 8
+  ffacepalm:
+    permission: twitteremojis.ffacepalm
+    show_in_gui: true
+    path: font/emoji/ffacepalm
+    scale_ratio: 9
+    y_position: 8
+  fidk:
+    permission: twitteremojis.fidk
+    show_in_gui: true
+    path: font/emoji/fidk
+    scale_ratio: 9
+    y_position: 8
+  finger:
+    permission: twitteremojis.finger
+    show_in_gui: true
+    path: font/emoji/finger
+    scale_ratio: 9
+    y_position: 8
+  fire:
+    permission: twitteremojis.fire
+    show_in_gui: true
+    path: font/emoji/fire
+    scale_ratio: 9
+    y_position: 8
+  fish:
+    permission: twitteremojis.fish
+    show_in_gui: true
+    path: font/emoji/fish
+    scale_ratio: 9
+    y_position: 8
+  flamingo:
+    permission: twitteremojis.flamingo
+    show_in_gui: true
+    path: font/emoji/flamingo
+    scale_ratio: 9
+    y_position: 8
+  fmage:
+    permission: twitteremojis.fmage
+    show_in_gui: true
+    path: font/emoji/fmage
+    scale_ratio: 9
+    y_position: 8
+  fno:
+    permission: twitteremojis.fno
+    show_in_gui: true
+    path: font/emoji/fno
+    scale_ratio: 9
+    y_position: 8
+  fok:
+    permission: twitteremojis.fok
+    show_in_gui: true
+    path: font/emoji/fok
+    scale_ratio: 9
+    y_position: 8
+  frown:
+    permission: twitteremojis.frown
+    show_in_gui: true
+    path: font/emoji/frown
+    scale_ratio: 9
+    y_position: 8
+  frown2:
+    permission: twitteremojis.frown2
+    show_in_gui: true
+    path: font/emoji/frown2
+    scale_ratio: 9
+    y_position: 8
+  frown3:
+    permission: twitteremojis.frown3
+    show_in_gui: true
+    path: font/emoji/frown3
+    scale_ratio: 9
+    y_position: 8
+  frown4:
+    permission: twitteremojis.frown4
+    show_in_gui: true
+    path: font/emoji/frown4
+    scale_ratio: 9
+    y_position: 8
+  frown5:
+    permission: twitteremojis.frown5
+    show_in_gui: true
+    path: font/emoji/frown5
+    scale_ratio: 9
+    y_position: 8
+  frown6:
+    permission: twitteremojis.frown6
+    show_in_gui: true
+    path: font/emoji/frown6
+    scale_ratio: 9
+    y_position: 8
+  gemini:
+    permission: twitteremojis.gemini
+    show_in_gui: true
+    path: font/emoji/gemini
+    scale_ratio: 9
+    y_position: 8
+  giraffe:
+    permission: twitteremojis.giraffe
+    show_in_gui: true
+    path: font/emoji/giraffe
+    scale_ratio: 9
+    y_position: 8
+  halo:
+    permission: twitteremojis.halo
+    show_in_gui: true
+    path: font/emoji/halo
+    scale_ratio: 9
+    y_position: 8
+  hamburger:
+    permission: twitteremojis.hamburger
+    show_in_gui: true
+    path: font/emoji/hamburger
+    scale_ratio: 9
+    y_position: 8
+  handshake:
+    permission: twitteremojis.handshake
+    show_in_gui: true
+    path: font/emoji/handshake
+    scale_ratio: 9
+    y_position: 8
+  hashtag:
+    permission: twitteremojis.hashtag
+    show_in_gui: true
+    path: font/emoji/hashtag
+    scale_ratio: 9
+    y_position: 8
+  heart:
+    permission: twitteremojis.heart
+    show_in_gui: true
+    path: font/emoji/heart
+    scale_ratio: 9
+    y_position: 8
+  heart1:
+    permission: twitteremojis.heart1
+    show_in_gui: true
+    path: font/emoji/heart1
+    scale_ratio: 9
+    y_position: 8
+  heart2:
+    permission: twitteremojis.heart2
+    show_in_gui: true
+    path: font/emoji/heart2
+    scale_ratio: 9
+    y_position: 8
+  heart3:
+    permission: twitteremojis.heart3
+    show_in_gui: true
+    path: font/emoji/heart3
+    scale_ratio: 9
+    y_position: 8
+  heart4:
+    permission: twitteremojis.heart4
+    show_in_gui: true
+    path: font/emoji/heart4
+    scale_ratio: 9
+    y_position: 8
+  heart5:
+    permission: twitteremojis.heart5
+    show_in_gui: true
+    path: font/emoji/heart5
+    scale_ratio: 9
+    y_position: 8
+  heart6:
+    permission: twitteremojis.heart6
+    show_in_gui: true
+    path: font/emoji/heart6
+    scale_ratio: 9
+    y_position: 8
+  hehe:
+    permission: twitteremojis.hehe
+    show_in_gui: true
+    path: font/emoji/hehe
+    scale_ratio: 9
+    y_position: 8
+  hot:
+    permission: twitteremojis.hot
+    show_in_gui: true
+    path: font/emoji/hot
+    scale_ratio: 9
+    y_position: 8
+  hourglass:
+    permission: twitteremojis.hourglass
+    show_in_gui: true
+    path: font/emoji/hourglass
+    scale_ratio: 9
+    y_position: 8
+  hourglass1:
+    permission: twitteremojis.hourglass1
+    show_in_gui: true
+    path: font/emoji/hourglass1
+    scale_ratio: 9
+    y_position: 8
+  hug:
+    permission: twitteremojis.hug
+    show_in_gui: true
+    path: font/emoji/hug
+    scale_ratio: 9
+    y_position: 8
+  ice:
+    permission: twitteremojis.ice
+    show_in_gui: true
+    path: font/emoji/ice
+    scale_ratio: 9
+    y_position: 8
+  ill:
+    permission: twitteremojis.ill
+    show_in_gui: true
+    path: font/emoji/ill
+    scale_ratio: 9
+    y_position: 8
+  inlove:
+    permission: twitteremojis.inlove
+    show_in_gui: true
+    path: font/emoji/inlove
+    scale_ratio: 9
+    y_position: 8
+  inlove1:
+    permission: twitteremojis.inlove1
+    show_in_gui: true
+    path: font/emoji/inlove1
+    scale_ratio: 9
+    y_position: 8
+  inlovecat:
+    permission: twitteremojis.inlovecat
+    show_in_gui: true
+    path: font/emoji/inlovecat
+    scale_ratio: 9
+    y_position: 8
+  jackolantern:
+    permission: twitteremojis.jackolantern
+    show_in_gui: true
+    path: font/emoji/jackolantern
+    scale_ratio: 9
+    y_position: 8
+  kebab:
+    permission: twitteremojis.kebab
+    show_in_gui: true
+    path: font/emoji/kebab
+    scale_ratio: 9
+    y_position: 8
+  kiss:
+    permission: twitteremojis.kiss
+    show_in_gui: true
+    path: font/emoji/kiss
+    scale_ratio: 9
+    y_position: 8
+  kiss1:
+    permission: twitteremojis.kiss1
+    show_in_gui: true
+    path: font/emoji/kiss1
+    scale_ratio: 9
+    y_position: 8
+  kiss2:
+    permission: twitteremojis.kiss2
+    show_in_gui: true
+    path: font/emoji/kiss2
+    scale_ratio: 9
+    y_position: 8
+  kiss3:
+    permission: twitteremojis.kiss3
+    show_in_gui: true
+    path: font/emoji/kiss3
+    scale_ratio: 9
+    y_position: 8
+  lasttrack:
+    permission: twitteremojis.lasttrack
+    show_in_gui: true
+    path: font/emoji/lasttrack
+    scale_ratio: 9
+    y_position: 8
+  laugh:
+    permission: twitteremojis.laugh
+    show_in_gui: true
+    path: font/emoji/laugh
+    scale_ratio: 9
+    y_position: 8
+  laugh2:
+    permission: twitteremojis.laugh2
+    show_in_gui: true
+    path: font/emoji/laugh2
+    scale_ratio: 9
+    y_position: 8
+  laugh3:
+    permission: twitteremojis.laugh3
+    show_in_gui: true
+    path: font/emoji/laugh3
+    scale_ratio: 9
+    y_position: 8
+  laugh4:
+    permission: twitteremojis.laugh4
+    show_in_gui: true
+    path: font/emoji/laugh4
+    scale_ratio: 9
+    y_position: 8
+  laughcat:
+    permission: twitteremojis.laughcat
+    show_in_gui: true
+    path: font/emoji/laughcat
+    scale_ratio: 9
+    y_position: 8
+  left:
+    permission: twitteremojis.left
+    show_in_gui: true
+    path: font/emoji/left
+    scale_ratio: 9
+    y_position: 8
+  leftcurve:
+    permission: twitteremojis.leftcurve
+    show_in_gui: true
+    path: font/emoji/leftcurve
+    scale_ratio: 9
+    y_position: 8
+  leo:
+    permission: twitteremojis.leo
+    show_in_gui: true
+    path: font/emoji/leo
+    scale_ratio: 9
+    y_position: 8
+  lion:
+    permission: twitteremojis.lion
+    show_in_gui: true
+    path: font/emoji/lion
+    scale_ratio: 9
+    y_position: 8
+  lock:
+    permission: twitteremojis.lock
+    show_in_gui: true
+    path: font/emoji/lock
+    scale_ratio: 9
+    y_position: 8
+  luck:
+    permission: twitteremojis.luck
+    show_in_gui: true
+    path: font/emoji/luck
+    scale_ratio: 9
+    y_position: 8
+  lying:
+    permission: twitteremojis.lying
+    show_in_gui: true
+    path: font/emoji/lying
+    scale_ratio: 9
+    y_position: 8
+  m:
+    permission: twitteremojis.m
+    show_in_gui: true
+    path: font/emoji/m
+    scale_ratio: 9
+    y_position: 8
+  mad:
+    permission: twitteremojis.mad
+    show_in_gui: true
+    path: font/emoji/mad
+    scale_ratio: 9
+    y_position: 8
+  mbowing:
+    permission: twitteremojis.mbowing
+    show_in_gui: true
+    path: font/emoji/mbowing
+    scale_ratio: 9
+    y_position: 8
+  medal:
+    permission: twitteremojis.medal
+    show_in_gui: true
+    path: font/emoji/medal
+    scale_ratio: 9
+    y_position: 8
+  mfacepalm:
+    permission: twitteremojis.mfacepalm
+    show_in_gui: true
+    path: font/emoji/mfacepalm
+    scale_ratio: 9
+    y_position: 8
+  midk:
+    permission: twitteremojis.midk
+    show_in_gui: true
+    path: font/emoji/midk
+    scale_ratio: 9
+    y_position: 8
+  mmage:
+    permission: twitteremojis.mmage
+    show_in_gui: true
+    path: font/emoji/mmage
+    scale_ratio: 9
+    y_position: 8
+  mmh:
+    permission: twitteremojis.mmh
+    show_in_gui: true
+    path: font/emoji/mmh
+    scale_ratio: 9
+    y_position: 8
+  mno:
+    permission: twitteremojis.mno
+    show_in_gui: true
+    path: font/emoji/mno
+    scale_ratio: 9
+    y_position: 8
+  mok:
+    permission: twitteremojis.mok
+    show_in_gui: true
+    path: font/emoji/mok
+    scale_ratio: 9
+    y_position: 8
+  money:
+    permission: twitteremojis.money
+    show_in_gui: true
+    path: font/emoji/money
+    scale_ratio: 9
+    y_position: 8
+  moneyface:
+    permission: twitteremojis.moneyface
+    show_in_gui: true
+    path: font/emoji/moneyface
+    scale_ratio: 9
+    y_position: 8
+  monkey1:
+    permission: twitteremojis.monkey1
+    show_in_gui: true
+    path: font/emoji/monkey1
+    scale_ratio: 9
+    y_position: 8
+  monkey2:
+    permission: twitteremojis.monkey2
+    show_in_gui: true
+    path: font/emoji/monkey2
+    scale_ratio: 9
+    y_position: 8
+  monkey3:
+    permission: twitteremojis.monkey3
+    show_in_gui: true
+    path: font/emoji/monkey3
+    scale_ratio: 9
+    y_position: 8
+  monocle:
+    permission: twitteremojis.monocle
+    show_in_gui: true
+    path: font/emoji/monocle
+    scale_ratio: 9
+    y_position: 8
+  moon:
+    permission: twitteremojis.moon
+    show_in_gui: true
+    path: font/emoji/moon
+    scale_ratio: 9
+    y_position: 8
+  moon1:
+    permission: twitteremojis.moon1
+    show_in_gui: true
+    path: font/emoji/moon1
+    scale_ratio: 9
+    y_position: 8
+  moon2:
+    permission: twitteremojis.moon2
+    show_in_gui: true
+    path: font/emoji/moon2
+    scale_ratio: 9
+    y_position: 8
+  moon3:
+    permission: twitteremojis.moon3
+    show_in_gui: true
+    path: font/emoji/moon3
+    scale_ratio: 9
+    y_position: 8
+  moon4:
+    permission: twitteremojis.moon4
+    show_in_gui: true
+    path: font/emoji/moon4
+    scale_ratio: 9
+    y_position: 8
+  moon5:
+    permission: twitteremojis.moon5
+    show_in_gui: true
+    path: font/emoji/moon5
+    scale_ratio: 9
+    y_position: 8
+  nausea:
+    permission: twitteremojis.nausea
+    show_in_gui: true
+    path: font/emoji/nausea
+    scale_ratio: 9
+    y_position: 8
+  nerd:
+    permission: twitteremojis.nerd
+    show_in_gui: true
+    path: font/emoji/nerd
+    scale_ratio: 9
+    y_position: 8
+  neutral:
+    permission: twitteremojis.neutral
+    show_in_gui: true
+    path: font/emoji/neutral
+    scale_ratio: 9
+    y_position: 8
+  nexttrack:
+    permission: twitteremojis.nexttrack
+    show_in_gui: true
+    path: font/emoji/nexttrack
+    scale_ratio: 9
+    y_position: 8
+  no1:
+    permission: twitteremojis.no1
+    show_in_gui: true
+    path: font/emoji/no1
+    scale_ratio: 9
+    y_position: 8
+  noexpression:
+    permission: twitteremojis.noexpression
+    show_in_gui: true
+    path: font/emoji/noexpression
+    scale_ratio: 9
+    y_position: 8
+  nomouth:
+    permission: twitteremojis.nomouth
+    show_in_gui: true
+    path: font/emoji/nomouth
+    scale_ratio: 9
+    y_position: 8
+  ok:
+    permission: twitteremojis.ok
+    show_in_gui: true
+    path: font/emoji/ok
+    scale_ratio: 9
+    y_position: 8
+  ok1:
+    permission: twitteremojis.ok1
+    show_in_gui: true
+    path: font/emoji/ok1
+    scale_ratio: 9
+    y_position: 8
+  owl:
+    permission: twitteremojis.owl
+    show_in_gui: true
+    path: font/emoji/owl
+    scale_ratio: 9
+    y_position: 8
+  pan:
+    permission: twitteremojis.pan
+    show_in_gui: true
+    path: font/emoji/pan
+    scale_ratio: 9
+    y_position: 8
+  party:
+    permission: twitteremojis.party
+    show_in_gui: true
+    path: font/emoji/party
+    scale_ratio: 9
+    y_position: 8
+  party1:
+    permission: twitteremojis.party1
+    show_in_gui: true
+    path: font/emoji/party1
+    scale_ratio: 9
+    y_position: 8
+  pause:
+    permission: twitteremojis.pause
+    show_in_gui: true
+    path: font/emoji/pause
+    scale_ratio: 9
+    y_position: 8
+  peace:
+    permission: twitteremojis.peace
+    show_in_gui: true
+    path: font/emoji/peace
+    scale_ratio: 9
+    y_position: 8
+  peach:
+    permission: twitteremojis.peach
+    show_in_gui: true
+    path: font/emoji/peach
+    scale_ratio: 9
+    y_position: 8
+  pencil:
+    permission: twitteremojis.pencil
+    show_in_gui: true
+    path: font/emoji/pencil
+    scale_ratio: 9
+    y_position: 8
+  person:
+    permission: twitteremojis.person
+    show_in_gui: true
+    path: font/emoji/person
+    scale_ratio: 9
+    y_position: 8
+  pick:
+    permission: twitteremojis.pick
+    show_in_gui: true
+    path: font/emoji/pick
+    scale_ratio: 9
+    y_position: 8
+  pig:
+    permission: twitteremojis.pig
+    show_in_gui: true
+    path: font/emoji/pig
+    scale_ratio: 9
+    y_position: 8
+  pisces:
+    permission: twitteremojis.pisces
+    show_in_gui: true
+    path: font/emoji/pisces
+    scale_ratio: 9
+    y_position: 8
+  pizza:
+    permission: twitteremojis.pizza
+    show_in_gui: true
+    path: font/emoji/pizza
+    scale_ratio: 9
+    y_position: 8
+  play:
+    permission: twitteremojis.play
+    show_in_gui: true
+    path: font/emoji/play
+    scale_ratio: 9
+    y_position: 8
+  playpause:
+    permission: twitteremojis.playpause
+    show_in_gui: true
+    path: font/emoji/playpause
+    scale_ratio: 9
+    y_position: 8
+  please:
+    permission: twitteremojis.please
+    show_in_gui: true
+    path: font/emoji/please
+    scale_ratio: 9
+    y_position: 8
+  poo:
+    permission: twitteremojis.poo
+    show_in_gui: true
+    path: font/emoji/poo
+    scale_ratio: 9
+    y_position: 8
+  potato:
+    permission: twitteremojis.potato
+    show_in_gui: true
+    path: font/emoji/potato
+    scale_ratio: 9
+    y_position: 8
+  puke:
+    permission: twitteremojis.puke
+    show_in_gui: true
+    path: font/emoji/puke
+    scale_ratio: 9
+    y_position: 8
+  punch:
+    permission: twitteremojis.punch
+    show_in_gui: true
+    path: font/emoji/punch
+    scale_ratio: 9
+    y_position: 8
+  question:
+    permission: twitteremojis.question
+    show_in_gui: true
+    path: font/emoji/question
+    scale_ratio: 9
+    y_position: 8
+  radioactive:
+    permission: twitteremojis.radioactive
+    show_in_gui: true
+    path: font/emoji/radioactive
+    scale_ratio: 9
+    y_position: 8
+  raisedfist:
+    permission: twitteremojis.raisedfist
+    show_in_gui: true
+    path: font/emoji/raisedfist
+    scale_ratio: 9
+    y_position: 8
+  raisedhand:
+    permission: twitteremojis.raisedhand
+    show_in_gui: true
+    path: font/emoji/raisedhand
+    scale_ratio: 9
+    y_position: 8
+  record:
+    permission: twitteremojis.record
+    show_in_gui: true
+    path: font/emoji/record
+    scale_ratio: 9
+    y_position: 8
+  redcircle:
+    permission: twitteremojis.redcircle
+    show_in_gui: true
+    path: font/emoji/redcircle
+    scale_ratio: 9
+    y_position: 8
+  reverse:
+    permission: twitteremojis.reverse
+    show_in_gui: true
+    path: font/emoji/reverse
+    scale_ratio: 9
+    y_position: 8
+  riceball:
+    permission: twitteremojis.riceball
+    show_in_gui: true
+    path: font/emoji/riceball
+    scale_ratio: 9
+    y_position: 8
+  rightarrow:
+    permission: twitteremojis.rightarrow
+    show_in_gui: true
+    path: font/emoji/rightarrow
+    scale_ratio: 9
+    y_position: 8
+  rightcurve:
+    permission: twitteremojis.rightcurve
+    show_in_gui: true
+    path: font/emoji/rightcurve
+    scale_ratio: 9
+    y_position: 8
+  robot:
+    permission: twitteremojis.robot
+    show_in_gui: true
+    path: font/emoji/robot
+    scale_ratio: 9
+    y_position: 8
+  rock:
+    permission: twitteremojis.rock
+    show_in_gui: true
+    path: font/emoji/rock
+    scale_ratio: 9
+    y_position: 8
+  rolling:
+    permission: twitteremojis.rolling
+    show_in_gui: true
+    path: font/emoji/rolling
+    scale_ratio: 9
+    y_position: 8
+  rooster:
+    permission: twitteremojis.rooster
+    show_in_gui: true
+    path: font/emoji/rooster
+    scale_ratio: 9
+    y_position: 8
+  sad:
+    permission: twitteremojis.sad
+    show_in_gui: true
+    path: font/emoji/sad
+    scale_ratio: 9
+    y_position: 8
+  sagittarius:
+    permission: twitteremojis.sagittarius
+    show_in_gui: true
+    path: font/emoji/sagittarius
+    scale_ratio: 9
+    y_position: 8
+  salad:
+    permission: twitteremojis.salad
+    show_in_gui: true
+    path: font/emoji/salad
+    scale_ratio: 9
+    y_position: 8
+  salt:
+    permission: twitteremojis.salt
+    show_in_gui: true
+    path: font/emoji/salt
+    scale_ratio: 9
+    y_position: 8
+  scorpio:
+    permission: twitteremojis.scorpio
+    show_in_gui: true
+    path: font/emoji/scorpio
+    scale_ratio: 9
+    y_position: 8
+  scorpion:
+    permission: twitteremojis.scorpion
+    show_in_gui: true
+    path: font/emoji/scorpion
+    scale_ratio: 9
+    y_position: 8
+  shark:
+    permission: twitteremojis.shark
+    show_in_gui: true
+    path: font/emoji/shark
+    scale_ratio: 9
+    y_position: 8
+  shh:
+    permission: twitteremojis.shh
+    show_in_gui: true
+    path: font/emoji/shh
+    scale_ratio: 9
+    y_position: 8
+  shrimp:
+    permission: twitteremojis.shrimp
+    show_in_gui: true
+    path: font/emoji/shrimp
+    scale_ratio: 9
+    y_position: 8
+  sleeping:
+    permission: twitteremojis.sleeping
+    show_in_gui: true
+    path: font/emoji/sleeping
+    scale_ratio: 9
+    y_position: 8
+  sleepy:
+    permission: twitteremojis.sleepy
+    show_in_gui: true
+    path: font/emoji/sleepy
+    scale_ratio: 9
+    y_position: 8
+  small:
+    permission: twitteremojis.small
+    show_in_gui: true
+    path: font/emoji/small
+    scale_ratio: 9
+    y_position: 8
+  smile:
+    permission: twitteremojis.smile
+    show_in_gui: true
+    path: font/emoji/smile
+    scale_ratio: 9
+    y_position: 8
+  smile2:
+    permission: twitteremojis.smile2
+    show_in_gui: true
+    path: font/emoji/smile2
+    scale_ratio: 9
+    y_position: 8
+  smile3:
+    permission: twitteremojis.smile3
+    show_in_gui: true
+    path: font/emoji/smile3
+    scale_ratio: 9
+    y_position: 8
+  smile4:
+    permission: twitteremojis.smile4
+    show_in_gui: true
+    path: font/emoji/smile4
+    scale_ratio: 9
+    y_position: 8
+  smile5:
+    permission: twitteremojis.smile5
+    show_in_gui: true
+    path: font/emoji/smile5
+    scale_ratio: 9
+    y_position: 8
+  smile6:
+    permission: twitteremojis.smile6
+    show_in_gui: true
+    path: font/emoji/smile6
+    scale_ratio: 9
+    y_position: 8
+  smilecat:
+    permission: twitteremojis.smilecat
+    show_in_gui: true
+    path: font/emoji/smilecat
+    scale_ratio: 9
+    y_position: 8
+  sneeze:
+    permission: twitteremojis.sneeze
+    show_in_gui: true
+    path: font/emoji/sneeze
+    scale_ratio: 9
+    y_position: 8
+  soccerball:
+    permission: twitteremojis.soccerball
+    show_in_gui: true
+    path: font/emoji/soccerball
+    scale_ratio: 9
+    y_position: 8
+  sparkles:
+    permission: twitteremojis.sparkles
+    show_in_gui: true
+    path: font/emoji/sparkles
+    scale_ratio: 9
+    y_position: 8
+  squid:
+    permission: twitteremojis.squid
+    show_in_gui: true
+    path: font/emoji/squid
+    scale_ratio: 9
+    y_position: 8
+  star:
+    permission: twitteremojis.star
+    show_in_gui: true
+    path: font/emoji/star
+    scale_ratio: 9
+    y_position: 8
+  starcrescent:
+    permission: twitteremojis.starcrescent
+    show_in_gui: true
+    path: font/emoji/starcrescent
+    scale_ratio: 9
+    y_position: 8
+  stareyes:
+    permission: twitteremojis.stareyes
+    show_in_gui: true
+    path: font/emoji/stareyes
+    scale_ratio: 9
+    y_position: 8
+  stop:
+    permission: twitteremojis.stop
+    show_in_gui: true
+    path: font/emoji/stop
+    scale_ratio: 9
+    y_position: 8
+  stopsign:
+    permission: twitteremojis.stopsign
+    show_in_gui: true
+    path: font/emoji/stopsign
+    scale_ratio: 9
+    y_position: 8
+  sun:
+    permission: twitteremojis.sun
+    show_in_gui: true
+    path: font/emoji/sun
+    scale_ratio: 9
+    y_position: 8
+  sunglasses:
+    permission: twitteremojis.sunglasses
+    show_in_gui: true
+    path: font/emoji/sunglasses
+    scale_ratio: 9
+    y_position: 8
+  surprised:
+    permission: twitteremojis.surprised
+    show_in_gui: true
+    path: font/emoji/surprised
+    scale_ratio: 9
+    y_position: 8
+  sushi:
+    permission: twitteremojis.sushi
+    show_in_gui: true
+    path: font/emoji/sushi
+    scale_ratio: 9
+    y_position: 8
+  sweat:
+    permission: twitteremojis.sweat
+    show_in_gui: true
+    path: font/emoji/sweat
+    scale_ratio: 9
+    y_position: 8
+  taurus:
+    permission: twitteremojis.taurus
+    show_in_gui: true
+    path: font/emoji/taurus
+    scale_ratio: 9
+    y_position: 8
+  think:
+    permission: twitteremojis.think
+    show_in_gui: true
+    path: font/emoji/think
+    scale_ratio: 9
+    y_position: 8
+  think1:
+    permission: twitteremojis.think1
+    show_in_gui: true
+    path: font/emoji/think1
+    scale_ratio: 9
+    y_position: 8
+  think2:
+    permission: twitteremojis.think2
+    show_in_gui: true
+    path: font/emoji/think2
+    scale_ratio: 9
+    y_position: 8
+  think3:
+    permission: twitteremojis.think3
+    show_in_gui: true
+    path: font/emoji/think3
+    scale_ratio: 9
+    y_position: 8
+  think4:
+    permission: twitteremojis.think4
+    show_in_gui: true
+    path: font/emoji/think4
+    scale_ratio: 9
+    y_position: 8
+  think5:
+    permission: twitteremojis.think5
+    show_in_gui: true
+    path: font/emoji/think5
+    scale_ratio: 9
+    y_position: 8
+  think6:
+    permission: twitteremojis.think6
+    show_in_gui: true
+    path: font/emoji/think6
+    scale_ratio: 9
+    y_position: 8
+  tongue:
+    permission: twitteremojis.tongue
+    show_in_gui: true
+    path: font/emoji/tongue
+    scale_ratio: 9
+    y_position: 8
+  tree:
+    permission: twitteremojis.tree
+    show_in_gui: true
+    path: font/emoji/tree
+    scale_ratio: 9
+    y_position: 8
+  trex:
+    permission: twitteremojis.trex
+    show_in_gui: true
+    path: font/emoji/trex
+    scale_ratio: 9
+    y_position: 8
+  turkey:
+    permission: twitteremojis.turkey
+    show_in_gui: true
+    path: font/emoji/turkey
+    scale_ratio: 9
+    y_position: 8
+  twofingers:
+    permission: twitteremojis.twofingers
+    show_in_gui: true
+    path: font/emoji/twofingers
+    scale_ratio: 9
+    y_position: 8
+  unamused:
+    permission: twitteremojis.unamused
+    show_in_gui: true
+    path: font/emoji/unamused
+    scale_ratio: 9
+    y_position: 8
+  unicorn:
+    permission: twitteremojis.unicorn
+    show_in_gui: true
+    path: font/emoji/unicorn
+    scale_ratio: 9
+    y_position: 8
+  unlock:
+    permission: twitteremojis.unlock
+    show_in_gui: true
+    path: font/emoji/unlock
+    scale_ratio: 9
+    y_position: 8
+  up:
+    permission: twitteremojis.up
+    show_in_gui: true
+    path: font/emoji/up
+    scale_ratio: 9
+    y_position: 8
+  upsidedown:
+    permission: twitteremojis.upsidedown
+    show_in_gui: true
+    path: font/emoji/upsidedown
+    scale_ratio: 9
+    y_position: 8
+  virgo:
+    permission: twitteremojis.virgo
+    show_in_gui: true
+    path: font/emoji/virgo
+    scale_ratio: 9
+    y_position: 8
+  voltage:
+    permission: twitteremojis.voltage
+    show_in_gui: true
+    path: font/emoji/voltage
+    scale_ratio: 9
+    y_position: 8
+  warning:
+    permission: twitteremojis.warning
+    show_in_gui: true
+    path: font/emoji/warning
+    scale_ratio: 9
+    y_position: 8
+  wc:
+    permission: twitteremojis.wc
+    show_in_gui: true
+    path: font/emoji/wc
+    scale_ratio: 9
+    y_position: 8
+  what:
+    permission: twitteremojis.what
+    show_in_gui: true
+    path: font/emoji/what
+    scale_ratio: 9
+    y_position: 8
+  wink:
+    permission: twitteremojis.wink
+    show_in_gui: true
+    path: font/emoji/wink
+    scale_ratio: 9
+    y_position: 8
+  woozy:
+    permission: twitteremojis.woozy
+    show_in_gui: true
+    path: font/emoji/woozy
+    scale_ratio: 9
+    y_position: 8
+  write:
+    permission: twitteremojis.write
+    show_in_gui: true
+    path: font/emoji/write
+    scale_ratio: 9
+    y_position: 8
+  xd:
+    permission: twitteremojis.xd
+    show_in_gui: true
+    path: font/emoji/xd
+    scale_ratio: 9
+    y_position: 8
+  yawn:
+    permission: twitteremojis.yawn
+    show_in_gui: true
+    path: font/emoji/yawn
+    scale_ratio: 9
+    y_position: 8
+  yinyang:
+    permission: twitteremojis.yinyang
+    show_in_gui: true
+    path: font/emoji/yinyang
+    scale_ratio: 9
+    y_position: 8
+  yum:
+    permission: twitteremojis.yum
+    show_in_gui: true
+    path: font/emoji/yum
+    scale_ratio: 9
+    y_position: 8
+  zebra:
+    permission: twitteremojis.zebra
+    show_in_gui: true
+    path: font/emoji/zebra
+    scale_ratio: 9
+    y_position: 8
+  zip:
+    permission: twitteremojis.zip
+    show_in_gui: true
+    path: font/emoji/zip
+    scale_ratio: 9
+    y_position: 8

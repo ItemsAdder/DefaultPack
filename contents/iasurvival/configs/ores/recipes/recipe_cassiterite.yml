@@ -2,7 +2,7 @@ info:
   namespace: iasurvival
 recipes:
   crafting_table:
-    cassiterite:
+    cassiterite_from_fragments:
       permission: iasurvival.cassiterite
       enabled: true
       pattern:

@@ -52,7 +52,7 @@ settings:
       worlds_populators:
         item: CHEST
       surface_populators:
-        item: GRASS
+        item: SHORT_GRASS
       trees_populators:
         item: OAK_SAPLING
       seed_result:
